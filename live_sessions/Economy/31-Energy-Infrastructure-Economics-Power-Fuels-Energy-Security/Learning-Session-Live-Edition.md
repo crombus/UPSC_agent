@@ -2,43 +2,32 @@
 
 ## Learning Roadmap
 
-Energy is not one market. It is a linked system of resources, conversion assets, networks, utilities, contracts, prices and end-use services. This 18-lesson sequence therefore begins with units and service outcomes, builds the electricity and fuel value chains, then adds finance, security, transition and resilience.
+| Phase | Lessons | Dependency-led purpose |
+|---|---:|---|
+| Foundations | 1-3 | Energy service, network economics and Indian institutions |
+| Core power economics | 4-7 | Procurement, tariffs, DISCOMs, access and distribution |
+| Core fuels and security | 8-10 | Coal, oil, gas, import shocks and strategic resilience |
+| Core transition system | 11-18 | Renewables, flexibility, efficiency, finance, just transition, biofuels and resilient grids |
+| Optional Advanced | 19-24 | Welfare, market design, adequacy, fuel portfolios, federal resilience and evaluation |
 
-| Lesson | Stage | Learner dependency |
-|---:|---|---|
-| 1 | Foundation | Energy service, primary/final energy and unit discipline |
-| 2 | Foundation | Electricity physics, value chain, natural monopoly and externalities |
-| 3 | Core | Electricity law, institutions, federalism and regulatory perimeter |
-| 4 | Core | Procurement, PPAs, markets, merit order and adequacy |
-| 5 | Core | Tariff design, subsidy, cross-subsidy and regulatory assets |
-| 6 | Core | DISCOM diagnostics, cash flow, reform and consumer service |
-| 7 | Core | Energy access, affordability, productive use and distributional incidence |
-| 8 | Core | Coal economics, logistics, quality, water and transition |
-| 9 | Core | Oil and gas value chains, refining, pipelines, PNGRB and taxation |
-| 10 | Core | Energy security, import shocks, diversification and strategic buffers |
-| 11 | Advanced | Renewable economics, LCOE, system value and curtailment |
-| 12 | Advanced | Storage, flexibility, duck curve, missing money and resource adequacy |
-| 13 | Advanced | Efficiency, demand response, digitalisation, cyber risk and India Energy Stack |
-| 14 | Advanced | Investment, cost of capital, contracts and stranded assets |
-| 15 | Advanced | Energy transition, critical minerals, carbon pricing and just transition |
-| 16 | Advanced | Ethanol and biofuel economics: security, food, water and compatibility |
-| 17 | Advanced | Cross-border grids, energy federalism and climate resilience |
-| 18 | Advanced | Integrated energy-policy evaluation, scenarios and answer architecture |
+```text
+COMPLETE CORE
+resource -> conversion -> network -> distribution -> reliable affordable service
+             |              |              |
+          markets        regulation      inclusion
+                                                |
+                                                v
+DISTINCT OPTIONAL ADVANCED
+welfare -> tariff design -> missing money -> system value -> shock portfolios -> evaluation
+```
 
-### Topic boundary
+**Core-first rule:** Lessons 1-18 complete the canonical Basic owner before any optional enrichment. Lessons 19-24 are a distinct Advanced block.
 
-This session owns the economics and governance of energy infrastructure. Renewable and green-hydrogen engineering remains with Environment Topic 25; nuclear engineering with Science and Technology Topic 04; resource geography with Geography Topic 31; West Asian diplomacy with International Relations Topic 06; and general PPP design with Economy Topic 18. Those topics are cross-referenced rather than duplicated.
-
-### Current-status discipline
-
-- **Fact:** Mutable claims are tied to a publication or retrieval date.
-- **Inference:** Welfare, security and transition conclusions are explicitly identified as analytical judgements.
-- **Official evidence used:** Economic Survey 2025-26 local official PDF; official 2026 GS-III paper and repository PYQ ledgers; live PNGRB page retrieved 25 September 2026.
-- **Access limits:** Direct Ministry of Power and PIB pages returned HTTP 403; the CEA dashboard exposed only a generic shell; the BEE PAT URL redirected to a generic home page; ISPRL failed at transport level. No current numerical claim was inferred from those failed pages.
+**Current-status rule:** Direct facts retain their publication date, unit, denominator and official status. Targets, proposals and government-reported programme totals are not treated as realised outcomes. Analytical welfare, security and transition conclusions are marked as inference.
 
 ## Lesson 1 - From fuel or capacity to an energy service
 
-**Progress: 1 / 18 | Stage: Foundation | Subtopic: Energy service, primary/final energy and unit discipline**
+Progress: 1 / 24 | Stage: Foundation | Subtopic: From fuel or capacity to an energy service
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical Basic/Advanced owners and OCR-searchable Indian economy book
@@ -117,47 +106,29 @@ Connection is necessary but insufficient. Energy poverty can persist through out
 9. A project announcement is not commissioning; commissioning is not generation.
 10. Always state the denominator and time period of an energy statistic.
 
-### Practice: unit and service diagnosis
+### Mains application, responsive model and unique rubric
 
-**MCQ 1. Two power plants each have 100 MW installed capacity. Plant X has a 25% capacity factor and Plant Y 75%. Which conclusion follows?**
+**Question (10 marks, maximum 150 words):** Why is installed capacity an incomplete measure of energy-infrastructure success?
 
-A. Plant Y generates about three times Plant X's annual electrical energy
-B. Plant Y has three times Plant X's installed capacity
-C. Plant X necessarily has a higher lifetime cost
-D. Plant Y necessarily supplies three times as much peak capacity in every hour
+**Responsive model:** Installed capacity measures rated power, not actual generation, peak availability, network delivery or affordability. Utilisation differs by technology; transmission congestion may curtail available output; a financially weak DISCOM may fail to purchase power or maintain distribution; and connected consumers may still face outages or unaffordable bills. A complete assessment should therefore combine generation, dependable capacity, service quality, access, cost, losses and environmental impact. The correct policy unit is the delivered energy service, not the announced asset.
 
-**MCQ 2. Which indicator most directly shows that electrification has become a durable energy service?**
+**Unique scoring rubric:** Award 2 marks for unit/service distinction + 3 marks for capacity-generation mechanism + 3 marks for delivery constraints + 2 marks for outcome verdict (10 total).
 
-A. Number of sanctioned feeders
-B. Reliable, affordable supply enabling sustained household and productive use
-C. Nameplate capacity connected to the state grid
-D. Number of connection certificates issued
+### Concept check
 
-#### Answers and explanations
+**Question:** Two power plants each have 100 MW installed capacity. Plant X has a 25% capacity factor and Plant Y 75%. Which conclusion follows?
 
-**MCQ 1: A**
+**Model answer:** With equal MW, annual generation varies with utilisation; 75% is three times 25%.
 
-- **A - Correct.** With equal MW, annual generation varies with utilisation; 75% is three times 25%.
-- **B - Incorrect.** Installed capacity is equal by assumption.
-- **C - Incorrect.** Capacity factor alone does not reveal capital, fuel, network or financing cost.
-- **D - Incorrect.** Dependable peak contribution depends on availability and timing, not annual capacity factor alone.
+**Misconception to avoid:** Installed capacity, generation and delivered energy service are interchangeable.
 
-**MCQ 2: B**
+### Bridge
 
-- **A - Incorrect.** A sanctioned feeder is an input, not a service outcome.
-- **B - Correct.** Reliability, affordability and useful consumption show that access is functioning.
-- **C - Incorrect.** Upstream capacity may coexist with last-mile outages or financial exclusion.
-- **D - Incorrect.** A certificate proves administrative connection, not sustained service.
-
-### Mains drill
-
-**Question (10 marks / 150 words):** Why is installed capacity an incomplete measure of energy-infrastructure success?
-
-**Model answer:** Installed capacity measures rated power, not actual generation, peak availability, network delivery or affordability. Utilisation differs by technology; transmission congestion may curtail available output; a financially weak DISCOM may fail to purchase power or maintain distribution; and connected consumers may still face outages or unaffordable bills. A complete assessment should therefore combine generation, dependable capacity, service quality, access, cost, losses and environmental impact. The correct policy unit is the delivered energy service, not the announced asset.
+Capacity and generation now have to travel through a synchronised network; Lesson 2 turns the service chain into a real-time balance problem.
 
 ## Lesson 2 - Why electricity is a coordinated network industry
 
-**Progress: 2 / 18 | Stage: Foundation | Subtopic: Electricity physics, value chain, natural monopoly and externalities**
+Progress: 2 / 24 | Stage: Foundation | Subtopic: Why electricity is a coordinated network industry
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - electricity value chain, UDAY/DISCOM history and renewable sections
@@ -236,61 +207,29 @@ A low tariff can conceal subsidy, deferred maintenance or pollution. A high tari
 9. Market design must preserve universal service and network recovery.
 10. Judge each layer by its actual economic property.
 
-### Practice: layer identification
+### Mains application, responsive model and unique rubric
 
-**MCQ 3. Which function most clearly requires a neutral coordination monopoly rather than competing simultaneous operators?**
+**Question (15 marks, maximum 250 words):** Explain why electricity reform requires both competition and regulation.
 
-A. Manufacturing solar modules
-B. Building captive generation
-C. Real-time scheduling and balancing of an interconnected grid
-D. Retail sale of efficient appliances
+**Responsive model:** Electricity contains contestable and monopoly layers. Generation, trading and some retail functions can benefit from competitive procurement and price discovery. Transmission, distribution wires and real-time operation display scale economies, network externalities and coordination requirements. Regulation must therefore ensure non-discriminatory access, prudent investment, service standards, consumer protection and revenue adequacy. Competition without network neutrality permits exclusion; regulation without contestability can preserve inefficiency. A sound design separates ownership from operation where needed, procures generation competitively, regulates wires transparently and rewards reliability, flexibility and universal service.
 
-**MCQ 4. A low-price generator is repeatedly curtailed because the evacuation corridor is congested. What does this best demonstrate?**
+**Unique scoring rubric:** Award 4 marks for real-time balance + 3 marks for layer economics + 5 marks for natural monopoly/externalities + 3 marks for welfare conclusion (15 total).
 
-A. Installed capacity and primary energy are identical
-B. Natural monopoly exists only in generation
-C. Zero fuel cost implies zero social cost
-D. Plant-level cost can be low while system delivery value remains constrained
+### Concept check
 
-**MCQ 5. Which reform best matches the economic properties of transmission?**
+**Question:** Which function most clearly requires a neutral coordination monopoly rather than competing simultaneous operators?
 
-A. Regulated open access, coordinated planning and performance scrutiny
-B. Unregulated duplication of parallel lines by every generator
-C. Banning all private generation
-D. Recovering every fixed network cost only through per-unit energy charges
+**Model answer:** Conflicting real-time despatch authorities would endanger reliability and settlement.
 
-#### Answers and explanations
+**Misconception to avoid:** Every layer of electricity can be governed by either pure competition or pure monopoly.
 
-**MCQ 3: C**
+### Bridge
 
-- **A - Incorrect.** Manufacturing can support competition among firms.
-- **B - Incorrect.** Captive generation is an ownership/procurement arrangement, not system-wide balancing.
-- **C - Correct.** Conflicting real-time despatch authorities would endanger reliability and settlement.
-- **D - Incorrect.** Appliance retail is normally contestable.
-
-**MCQ 4: D**
-
-- **A - Incorrect.** Capacity is rated power; primary energy is a resource before conversion.
-- **B - Incorrect.** Strong natural-monopoly features are concentrated in networks.
-- **C - Incorrect.** Transmission, balancing, land and finance remain costly.
-- **D - Correct.** The plant may be cheap but cannot create full value without network capability.
-
-**MCQ 5: A**
-
-- **A - Correct.** It accepts monopoly economics while protecting access, cost and service.
-- **B - Incorrect.** Wasteful duplication ignores scale economies and siting constraints.
-- **C - Incorrect.** Transmission economics does not justify banning generation competition.
-- **D - Incorrect.** Fixed-cost recovery solely through kWh can become unstable as sales change.
-
-### Mains drill
-
-**Question (15 marks / 250 words):** Explain why electricity reform requires both competition and regulation.
-
-**Model answer:** Electricity contains contestable and monopoly layers. Generation, trading and some retail functions can benefit from competitive procurement and price discovery. Transmission, distribution wires and real-time operation display scale economies, network externalities and coordination requirements. Regulation must therefore ensure non-discriminatory access, prudent investment, service standards, consumer protection and revenue adequacy. Competition without network neutrality permits exclusion; regulation without contestability can preserve inefficiency. A sound design separates ownership from operation where needed, procures generation competitively, regulates wires transparently and rewards reliability, flexibility and universal service.
+Once simultaneous balance is visible, ask who sets rules, operates the grid, regulates wires and serves consumers—the institutional map of Lesson 3.
 
 ## Lesson 3 - Who governs what in Indian electricity
 
-**Progress: 3 / 18 | Stage: Core | Subtopic: Electricity law, institutions, federalism and regulatory perimeter**
+Progress: 3 / 24 | Stage: Core | Subtopic: Who governs what in Indian electricity
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - Electricity Act architecture and institutional map
@@ -366,47 +305,29 @@ Cooperative tools include the Forum of Regulators, common settlement/data standa
 9. Bill status must never be upgraded into law.
 10. Federal coordination is an economic reliability issue, not only a constitutional issue.
 
-### Practice: mandate and status
+### Mains application, responsive model and unique rubric
 
-**MCQ 6. Which pairing is correct?**
+**Question (10 marks, maximum 150 words):** Why does institutional separation matter in the electricity sector?
 
-A. CEA - every household retail tariff
-B. Grid-India - national and regional real-time system operation
-C. SERC - inter-state transmission tariff for all central entities
-D. APTEL - physical ownership of distribution wires
+**Responsive model:** Planning, regulation, ownership, operation, supply and adjudication create different incentives. Separating CEA's technical role, CERC/SERC regulation, Grid-India/SLDC operation, CTU/STU network functions, DISCOM service and APTEL appeals reduces conflicts of interest and improves accountability. Yet separation can produce coordination failure. Clear mandates, interoperable data, transparent orders and cooperative federal planning are therefore essential. Institutional design should combine functional independence with system-wide coordination.
 
-**MCQ 7. The Economic Survey discusses an Electricity Amendment Bill. What is the safest exam formulation?**
+**Unique scoring rubric:** Award 2 marks for institutional map + 2 marks for statutory perimeter + 4 marks for federalism + 2 marks for accountability (10 total).
 
-A. Every proposal in the Bill already overrides the Electricity Act
-B. The Bill has constitutional status equal to a Fundamental Right
-C. It is a dated reform proposal whose operative effect depends on enactment and commencement
-D. It automatically binds all regulators from the Survey's publication date
+### Concept check
 
-#### Answers and explanations
+**Question:** Which pairing is correct?
 
-**MCQ 6: B**
+**Model answer:** Grid-India performs national and regional system-operation functions.
 
-- **A - Incorrect.** Retail tariff is generally within the state regulatory perimeter.
-- **B - Correct.** Grid-India performs national and regional system-operation functions.
-- **C - Incorrect.** CERC handles inter-state/central matters within mandate.
-- **D - Incorrect.** APTEL is an appellate body, not a network owner.
+**Misconception to avoid:** CERC, SERCs, Grid-India, CEA, CTU and DISCOMs perform the same function.
 
-**MCQ 7: C**
+### Bridge
 
-- **A - Incorrect.** A proposal cannot displace enacted law merely by publication.
-- **B - Incorrect.** Legislative proposals are not Fundamental Rights.
-- **C - Correct.** The answer preserves legal vintage and avoids claiming implementation.
-- **D - Incorrect.** A Survey discussion does not commence legislation.
-
-### Mains drill
-
-**Question (10 marks / 150 words):** Why does institutional separation matter in the electricity sector?
-
-**Model answer:** Planning, regulation, ownership, operation, supply and adjudication create different incentives. Separating CEA's technical role, CERC/SERC regulation, Grid-India/SLDC operation, CTU/STU network functions, DISCOM service and APTEL appeals reduces conflicts of interest and improves accountability. Yet separation can produce coordination failure. Clear mandates, interoperable data, transparent orders and cooperative federal planning are therefore essential. Institutional design should combine functional independence with system-wide coordination.
+Institutions define authority, but electricity still needs contracts and schedules. Lesson 4 follows power from procurement to despatch and adequacy.
 
 ## Lesson 4 - How power is procured, scheduled and kept adequate
 
-**Progress: 4 / 18 | Stage: Core | Subtopic: Procurement, PPAs, markets, merit order and adequacy**
+Progress: 4 / 24 | Stage: Core | Subtopic: How power is procured, scheduled and kept adequate
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - procurement, UDAY/DISCOM and market reform sections
@@ -488,75 +409,29 @@ If low-marginal-cost generation suppresses energy-market prices, rarely used fle
 9. Payment security affects project cost of capital.
 10. Contract design should anticipate change rather than rely on ad hoc rescue.
 
-### Practice: procurement and adequacy
+### Mains application, responsive model and unique rubric
 
-**MCQ 8. A solar-rich system has low midday prices but needs flexible capacity for the evening peak. Which reform addresses the underlying problem most directly?**
+**Question (15 marks, maximum 250 words):** Long-term PPAs solve one market failure but can create another. Analyse.
 
-A. Count every installed MW as fully dependable
-B. Ban forecasting to avoid errors
-C. Recover all costs through an undifferentiated annual subsidy
-D. Procure adequacy/flexibility services in addition to energy
+**Responsive model:** Capital-intensive generation needs predictable offtake because spot-market revenue may be volatile and lenders require payment visibility. A long-term PPA therefore lowers financing risk and enables capacity creation. However, forecasting errors, technological cost decline, fuel disruption or network delay can leave buyers with excess, expensive or inflexible obligations. The solution is not abandonment of contracts but better design: competitive procurement, realistic demand and transmission planning, transparent risk allocation, payment security, performance incentives, change-in-law provisions and limited rebalancing. Contract sanctity should coexist with clearly specified adaptation.
 
-**MCQ 9. Why can a long-term PPA both enable and constrain investment?**
+**Unique scoring rubric:** Award 4 marks for procurement channels + 4 marks for PPA/merit-order mechanism + 4 marks for adequacy risk + 3 marks for balanced design (15 total).
 
-A. It improves revenue certainty but may lock in obsolete cost or capacity assumptions
-B. It removes every fuel, payment and demand risk
-C. It makes transmission unnecessary
-D. It converts variable cost into primary energy
+### Concept check
 
-**MCQ 10. Which statement about merit order is most accurate?**
+**Question:** A solar-rich system has low midday prices but needs flexible capacity for the evening peak. Which reform addresses the underlying problem most directly?
 
-A. It ranks plants only by construction cost
-B. Variable cost matters, but despatch also faces technical, network, reserve and contractual constraints
-C. It guarantees that the plant with the lowest LCOE runs in every hour
-D. It is identical to resource-adequacy planning
+**Model answer:** The system needs compensation for dependable capacity and flexibility, not only MWh.
 
-**MCQ 11. A PPA says that a new statutory levy will be passed through only after the regulator verifies its eligible impact. Which risk-allocation principle is being applied?**
+**Misconception to avoid:** A low marginal-cost merit order alone guarantees long-run resource adequacy.
 
-A. Demand risk is being converted into technical loss
-B. Every policy change is being ignored
-C. Change-in-law relief is being defined ex ante and subjected to verification
-D. The generator is guaranteed profit regardless of performance
+### Bridge
 
-#### Answers and explanations
-
-**MCQ 8: D**
-
-- **A - Incorrect.** Nameplate capacity exaggerates dependable supply.
-- **B - Incorrect.** Better forecasting reduces balancing requirements.
-- **C - Incorrect.** A general subsidy does not reveal or procure the required capability.
-- **D - Correct.** The system needs compensation for dependable capacity and flexibility, not only MWh.
-
-**MCQ 9: A**
-
-- **A - Correct.** Stable offtake lowers financing risk but can outlive the assumptions behind it.
-- **B - Incorrect.** Contracts allocate risk; they do not eliminate all risk.
-- **C - Incorrect.** Contracted power still needs evacuation and delivery.
-- **D - Incorrect.** A financial contract does not change the energy accounting category.
-
-**MCQ 10: B**
-
-- **A - Incorrect.** Construction cost is not the sole despatch variable.
-- **B - Correct.** Real systems include ramping, congestion, reserve and contract constraints.
-- **C - Incorrect.** LCOE is a lifetime plant metric, not an hourly despatch rule.
-- **D - Incorrect.** Adequacy plans dependable future capacity; merit order schedules available resources.
-
-**MCQ 11: C**
-
-- **A - Incorrect.** A statutory levy is not a network-energy loss.
-- **B - Incorrect.** The clause recognises rather than ignores qualifying legal change.
-- **C - Correct.** Predetermined eligibility and verification reduce opportunistic renegotiation.
-- **D - Incorrect.** Change-in-law treatment does not remove performance or commercial risk.
-
-### Mains drill
-
-**Question (15 marks / 250 words):** Long-term PPAs solve one market failure but can create another. Analyse.
-
-**Model answer:** Capital-intensive generation needs predictable offtake because spot-market revenue may be volatile and lenders require payment visibility. A long-term PPA therefore lowers financing risk and enables capacity creation. However, forecasting errors, technological cost decline, fuel disruption or network delay can leave buyers with excess, expensive or inflexible obligations. The solution is not abandonment of contracts but better design: competitive procurement, realistic demand and transmission planning, transparent risk allocation, payment security, performance incentives, change-in-law provisions and limited rebalancing. Contract sanctity should coexist with clearly specified adaptation.
+Adequate procurement creates costs that must be recovered. The next lesson traces tariffs, subsidies and cross-subsidies to the people who ultimately pay.
 
 ## Lesson 5 - Who actually pays the electricity bill
 
-**Progress: 5 / 18 | Stage: Core | Subtopic: Tariff design, subsidy, cross-subsidy and regulatory assets**
+Progress: 5 / 24 | Stage: Core | Subtopic: Who actually pays the electricity bill
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - tariff, subsidy and cross-subsidy chapters
@@ -639,61 +514,29 @@ This is a risk, not an automatic outcome. Network charges, access rules, demand 
 9. Abrupt withdrawal can harm vulnerable and productive users.
 10. Transparent incidence is the first reform principle.
 
-### Practice: incidence tracing
+### Mains application, responsive model and unique rubric
 
-**MCQ 12. A regulator permits a utility to recover today's approved under-recovery from future tariffs with carrying cost. What has been created?**
+**Question (15 marks, maximum 250 words):** Examine the political economy of electricity cross-subsidy in India.
 
-A. A renewable certificate
-B. A strategic reserve
-C. A technical loss
-D. A regulatory asset
+**Responsive model:** Cross-subsidy permits industrial and commercial consumers to finance below-cost farm or household tariffs. It supports access without an immediate budget outlay, but excessive differentials raise manufacturing cost, encourage captive/open-access exit and weaken DISCOM finances. The remaining consumer base then bears a larger fixed-cost burden. Reform should not abruptly remove protection. It should identify lifeline needs, meter consumption, disclose cost, ensure timely state subsidy, rationalise cross-subsidy gradually and recover common network costs fairly. The objective is transparent social protection, not tariff uniformity.
 
-**MCQ 13. Which reform most directly reconciles consumer protection with utility viability?**
+**Unique scoring rubric:** Award 3 marks for tariff components + 4 marks for subsidy incidence + 5 marks for cross-subsidy dynamics + 3 marks for reform sequence (15 total).
 
-A. Meter supply, identify lifeline use, make subsidy explicit and pay it on time
-B. Charge every consumer the same bill without regard to usage
-C. Recover the entire network cost from one industrial consumer
-D. Suppress all tariffs regardless of cost and postpone subsidy indefinitely
+### Concept check
 
-**MCQ 14. A tariff has a Rs 200 monthly fixed charge and Rs 6 per kWh energy charge. A consumer uses 100 kWh. What bill follows before taxes and other adjustments?**
+**Question:** A regulator permits a utility to recover today's approved under-recovery from future tariffs with carrying cost. What has been created?
 
-A. Rs 600
-B. Rs 800
-C. Rs 20,600
-D. Rs 206
+**Model answer:** The regulator has deferred current recovery into a future claim.
 
-#### Answers and explanations
+**Misconception to avoid:** A below-cost tariff is costless if the consumer's bill is low.
 
-**MCQ 12: D**
+### Bridge
 
-- **A - Incorrect.** An REC represents a renewable attribute under regulation.
-- **B - Incorrect.** A strategic reserve stores physical fuel.
-- **C - Incorrect.** Technical loss is physical energy loss in the network.
-- **D - Correct.** The regulator has deferred current recovery into a future claim.
-
-**MCQ 13: A**
-
-- **A - Correct.** It preserves targeted welfare while making the utility's financing visible.
-- **B - Incorrect.** Equal bills can be regressive and ignore cost/use.
-- **C - Incorrect.** Extreme concentration encourages exit and is inequitable.
-- **D - Incorrect.** It creates hidden debt and weakens supply.
-
-**MCQ 14: B**
-
-- **A - Incorrect.** This omits the fixed charge.
-- **B - Correct.** `Rs 200 + (100 x Rs 6) = Rs 800`.
-- **C - Incorrect.** It incorrectly multiplies the fixed charge by consumption.
-- **D - Incorrect.** It adds the energy rate without applying it to 100 kWh.
-
-### Mains drill
-
-**Question (15 marks / 250 words):** Examine the political economy of electricity cross-subsidy in India.
-
-**Model answer:** Cross-subsidy permits industrial and commercial consumers to finance below-cost farm or household tariffs. It supports access without an immediate budget outlay, but excessive differentials raise manufacturing cost, encourage captive/open-access exit and weaken DISCOM finances. The remaining consumer base then bears a larger fixed-cost burden. Reform should not abruptly remove protection. It should identify lifeline needs, meter consumption, disclose cost, ensure timely state subsidy, rationalise cross-subsidy gradually and recover common network costs fairly. The objective is transparent social protection, not tariff uniformity.
+Tariff incidence becomes operational through the distribution utility. Lesson 6 opens the DISCOM cash-flow box before considering another reform package.
 
 ## Lesson 6 - Diagnosing the DISCOM before prescribing reform
 
-**Progress: 6 / 18 | Stage: Core | Subtopic: DISCOM diagnostics, cash flow, reform and consumer service**
+Progress: 6 / 24 | Stage: Core | Subtopic: Diagnosing the DISCOM before prescribing reform
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - historical UDAY discussion, canonical RDSS and DISCOM diagnostics
@@ -785,75 +628,29 @@ under-recovery -> delayed generator payment/borrowing
 11. Government departments can themselves be payment defaulters.
 12. Reform must align engineering, finance and accountability.
 
-### Practice: diagnose before treating
+### Mains application, responsive model and unique rubric
 
-**MCQ 15. Billing efficiency is 90% and collection efficiency 95%. Under the simplified multiplicative definition, AT&C loss is closest to:**
+**Question (20 marks, maximum 250 words):** DISCOM stress is a symptom of several linked failures rather than a single problem. Discuss.
 
-A. 10%
-B. 5%
-C. 14.5%
-D. 85.5%
+**Responsive model:** DISCOM stress can arise from physical network loss, theft, defective metering, weak billing and collection, inadequate tariffs, delayed subsidy, expensive PPAs, government dues, debt and weak governance. AT&C loss captures energy-to-cash failure, whereas the ACS-ARR gap captures cost-revenue mismatch; improvement in one need not eliminate the other. Reform must therefore combine feeder accounting, network investment, metering and grievance redress with timely tariff orders, explicit subsidy, procurement review, payment security, professional management and service standards. UDAY-type debt restructuring can create breathing space; RDSS-type investment can improve capability; neither substitutes for recurring accountability. The objective is a financially viable utility that delivers reliable, affordable service, not merely a lower headline-loss number.
 
-**MCQ 16. A DISCOM reduces theft but remains loss-making because tariffs are below prudent cost and state subsidy is delayed. Which conclusion is correct?**
+**Unique scoring rubric:** Award 5 marks for cash-flow diagnosis + 4 marks for AT&C versus ACS-ARR + 6 marks for reform instruments + 5 marks for consumer-service verdict (20 total).
 
-A. AT&C loss necessarily rose
-B. The utility no longer needs energy accounting
-C. Technical loss and subsidy are identical
-D. Operational improvement alone cannot close a tariff-fiscal gap
+### Concept check
 
-**MCQ 17. Which intervention most directly targets physical technical loss?**
+**Question:** Billing efficiency is 90% and collection efficiency 95%. Under the simplified multiplicative definition, AT&C loss is closest to:
 
-A. Upgrading overloaded conductors and transformers after feeder-level diagnosis
-B. Deferring every tariff order
-C. Renaming the distribution company
-D. Replacing explicit subsidy with unpaid bills
+**Model answer:** `1 - 0.90 x 0.95 = 0.145`, or 14.5%.
 
-**MCQ 18. A DISCOM has billing efficiency of 80% and collection efficiency of 90%. Under the simplified multiplicative formula, its AT&C loss is:**
+**Misconception to avoid:** Reducing AT&C loss automatically closes every DISCOM revenue gap.
 
-A. 10%
-B. 28%
-C. 18%
-D. 20%
+### Bridge
 
-#### Answers and explanations
-
-**MCQ 15: C**
-
-- **A - Incorrect.** This uses only the billing shortfall.
-- **B - Incorrect.** This uses only the collection shortfall.
-- **C - Correct.** `1 - 0.90 x 0.95 = 0.145`, or 14.5%.
-- **D - Incorrect.** 85.5% is the realised fraction, not the loss.
-
-**MCQ 16: D**
-
-- **A - Incorrect.** Theft reduction can lower AT&C loss even while financial gaps persist.
-- **B - Incorrect.** Energy accounting remains necessary to locate loss and verify service.
-- **C - Incorrect.** One is physical/commercial system performance; the other is fiscal support.
-- **D - Correct.** Tariff and subsidy adequacy affect revenue independently of operational loss.
-
-**MCQ 17: A**
-
-- **A - Correct.** Network reinforcement addresses overloaded physical assets.
-- **B - Incorrect.** Delay worsens revenue uncertainty.
-- **C - Incorrect.** Branding does not reduce electrical loss.
-- **D - Incorrect.** Unpaid bills create commercial and financial stress.
-
-**MCQ 18: B**
-
-- **A - Incorrect.** This uses only the collection shortfall.
-- **B - Correct.** `1 - (0.80 x 0.90) = 0.28`, or 28%.
-- **C - Incorrect.** It subtracts the two efficiencies rather than multiplying them.
-- **D - Incorrect.** This uses only the billing shortfall.
-
-### Mains drill
-
-**Question (20 marks / 250-300 words):** DISCOM stress is a symptom of several linked failures rather than a single problem. Discuss.
-
-**Model answer:** DISCOM stress can arise from physical network loss, theft, defective metering, weak billing and collection, inadequate tariffs, delayed subsidy, expensive PPAs, government dues, debt and weak governance. AT&C loss captures energy-to-cash failure, whereas the ACS-ARR gap captures cost-revenue mismatch; improvement in one need not eliminate the other. Reform must therefore combine feeder accounting, network investment, metering and grievance redress with timely tariff orders, explicit subsidy, procurement review, payment security, professional management and service standards. UDAY-type debt restructuring can create breathing space; RDSS-type investment can improve capability; neither substitutes for recurring accountability. The objective is a financially viable utility that delivers reliable, affordable service, not merely a lower headline-loss number.
+A solvent utility is a means, not the welfare end. Move next from balance sheets to reliable, affordable and productive access for different consumers.
 
 ## Lesson 7 - Access, affordability and who gains from reform
 
-**Progress: 7 / 18 | Stage: Core | Subtopic: Energy access, productive use and distributional incidence**
+Progress: 7 / 24 | Stage: Core | Subtopic: Access, affordability and who gains from reform
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - access programmes and energy-poverty distinctions
@@ -928,47 +725,29 @@ Electrifying a village feeder can improve welfare. But a dairy chilling unit als
 9. Distributed generation can create both resilience and cost-allocation issues.
 10. Distributional incidence belongs inside efficiency analysis.
 
-### Practice: access and incidence
+### Mains application, responsive model and unique rubric
 
-**MCQ 19. Which case best represents energy poverty despite a formal connection?**
+**Question (10 marks, maximum 150 words):** Explain why energy access must be evaluated as a service ladder.
 
-A. A household chooses an efficient fan
-B. A utility publishes a tariff schedule
-C. A connected household cannot afford recurring consumption and faces frequent outages
-D. A feeder has spare transformer capacity
+**Responsive model:** A network connection is only the first step. Effective access requires an active meter, adequate hours, acceptable voltage, affordable recurring bills, appliances and productive-use opportunities. Clean cooking similarly requires refill affordability, not only an initial LPG connection. A service-ladder approach prevents governments from mistaking administrative coverage for welfare. It also directs policy toward distribution reliability, lifeline support, consumer rights, appliance finance and local enterprise.
 
-**MCQ 20. Rooftop-solar support is most likely to raise an equity concern when:**
+**Unique scoring rubric:** Award 2 marks for access ladder + 2 marks for development channels + 4 marks for distributional incidence + 2 marks for productive-use conclusion (10 total).
 
-A. The system uses a bidirectional meter
-B. Every participant is required to meet safety standards
-C. Generation is measured in kWh
-D. Benefits accrue mainly to property owners while renters continue paying shared network costs
+### Concept check
 
-#### Answers and explanations
+**Question:** Which case best represents energy poverty despite a formal connection?
 
-**MCQ 19: C**
+**Model answer:** Connection without usable, affordable supply is incomplete access.
 
-- **A - Incorrect.** Efficient use does not itself show deprivation.
-- **B - Incorrect.** Publication is an administrative act, not household service evidence.
-- **C - Correct.** Connection without usable, affordable supply is incomplete access.
-- **D - Incorrect.** Spare capacity does not establish actual affordability or reliability.
+**Misconception to avoid:** A connection certificate proves reliable, affordable and productive energy access.
 
-**MCQ 20: D**
+### Bridge
 
-- **A - Incorrect.** Meter type alone does not determine distributional incidence.
-- **B - Incorrect.** Safety standards address system risk, not the stated equity problem.
-- **C - Incorrect.** Correct energy measurement is necessary and not inherently inequitable.
-- **D - Correct.** Asset ownership and network-cost incidence can distribute benefits unequally.
-
-### Mains drill
-
-**Question (10 marks / 150 words):** Explain why energy access must be evaluated as a service ladder.
-
-**Model answer:** A network connection is only the first step. Effective access requires an active meter, adequate hours, acceptable voltage, affordable recurring bills, appliances and productive-use opportunities. Clean cooking similarly requires refill affordability, not only an initial LPG connection. A service-ladder approach prevents governments from mistaking administrative coverage for welfare. It also directs policy toward distribution reliability, lifeline support, consumer rights, appliance finance and local enterprise.
+Access depends on fuels as well as wires. The analysis now shifts upstream to coal quality, logistics, water and regional transition—not merely reserve abundance.
 
 ## Lesson 8 - Coal is a chain, not merely a domestic resource
 
-**Progress: 8 / 18 | Stage: Core | Subtopic: Coal economics, logistics, quality, water and transition**
+Progress: 8 / 24 | Stage: Core | Subtopic: Coal is a chain, not merely a domestic resource
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - coal institutions, logistics and transition limits
@@ -1049,61 +828,29 @@ Coal supports dispatchable generation, rail freight, state revenue and district 
 11. Mine closure is an economic liability.
 12. Security, affordability and sustainability must be jointly evaluated.
 
-### Practice: coal-chain reasoning
+### Mains application, responsive model and unique rubric
 
-**MCQ 21. India has abundant thermal coal but imports coking coal. What is the best explanation?**
+**Question (15 marks, maximum 250 words):** Examine the economic case for a just transition in coal-dependent regions.
 
-A. End-use quality requirements and economically recoverable domestic supply differ
-B. Every coal type is technically identical
-C. Coking coal is a secondary electricity carrier
-D. Rail transport converts thermal coal into coking coal
+**Responsive model:** Coal creates national electricity and industrial value but concentrates employment, public revenue and local supply chains in mining and thermal districts. Rapid retirement without replacement can produce unemployment, fiscal stress, stranded debt and political resistance. Indefinite continuation, however, preserves pollution, water use and carbon risk. A just transition should map workers and informal livelihoods, phase retirement with adequate replacement power, reclaim mines, diversify district economies, reskill labour, replace local revenue and allocate closure liabilities transparently. Justice is not a reason to avoid transition; it is a condition for making transition durable.
 
-**MCQ 22. Which statement about the Coal Controller's Organisation is safest?**
+**Unique scoring rubric:** Award 4 marks for coal value chain + 4 marks for quality/logistics + 4 marks for externalities + 3 marks for transition judgement (15 total).
 
-A. It is the commercial board of every coal producer
-B. It performs notified statutory, data, quality and mine-related functions rather than managing Coal India commercially
-C. It operates every railway coal corridor
-D. It sets all household electricity tariffs
+### Concept check
 
-**MCQ 23. Why might a coastal thermal plant use seawater cooling without becoming environmentally costless?**
+**Question:** India has abundant thermal coal but imports coking coal. What is the best explanation?
 
-A. Seawater removes the need for a turbine
-B. Coastal location eliminates transmission
-C. Intake, thermal discharge, corrosion and marine ecology remain relevant
-D. Salt water has no intake or discharge effect
+**Model answer:** Geological abundance in one category does not satisfy specialised steel demand.
 
-#### Answers and explanations
+**Misconception to avoid:** Domestic coal abundance eliminates quality, logistics, water and transition constraints.
 
-**MCQ 21: A**
+### Bridge
 
-- **A - Correct.** Geological abundance in one category does not satisfy specialised steel demand.
-- **B - Incorrect.** Coal grades and coking properties differ.
-- **C - Incorrect.** Coking coal is a primary fossil resource used in metallurgy.
-- **D - Incorrect.** Transport cannot alter the fundamental coal property in that manner.
-
-**MCQ 22: B**
-
-- **A - Incorrect.** Producers retain commercial management.
-- **B - Correct.** It preserves the notified regulatory/statutory perimeter.
-- **C - Incorrect.** Railway institutions manage rail infrastructure.
-- **D - Incorrect.** Retail electricity tariffs fall in the electricity-regulatory system.
-
-**MCQ 23: C**
-
-- **A - Incorrect.** Cooling source does not remove generation equipment.
-- **B - Incorrect.** Power still needs evacuation and delivery.
-- **C - Correct.** Freshwater pressure may fall while other environmental and engineering costs remain.
-- **D - Incorrect.** Marine systems can be affected by withdrawal and heated discharge.
-
-### Mains drill
-
-**Question (15 marks / 250 words):** Examine the economic case for a just transition in coal-dependent regions.
-
-**Model answer:** Coal creates national electricity and industrial value but concentrates employment, public revenue and local supply chains in mining and thermal districts. Rapid retirement without replacement can produce unemployment, fiscal stress, stranded debt and political resistance. Indefinite continuation, however, preserves pollution, water use and carbon risk. A just transition should map workers and informal livelihoods, phase retirement with adequate replacement power, reclaim mines, diversify district economies, reskill labour, replace local revenue and allocate closure liabilities transparently. Justice is not a reason to avoid transition; it is a condition for making transition durable.
+Coal reveals one domestic value chain; oil and gas add import exposure, segmented regulation and global-price transmission. Lesson 9 maps those differences.
 
 ## Lesson 9 - Oil and gas: three segments, several regulators and one price shock
 
-**Progress: 9 / 18 | Stage: Core | Subtopic: Oil and gas value chains, refining, pipelines, PNGRB and taxation**
+Progress: 9 / 24 | Stage: Core | Subtopic: Oil and gas: three segments, several regulators and one price shock
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - petroleum-sector concerns and canonical value-chain distinctions
@@ -1176,47 +923,29 @@ Retail price can include international crude/product price, exchange rate, refin
 9. City-gas viability needs anchor demand and network coordination.
 10. Petroleum taxation is product- and date-specific.
 
-### Practice: petroleum perimeter
+### Mains application, responsive model and unique rubric
 
-**MCQ 24. Which activity is excluded from PNGRB's stated statutory regulatory perimeter?**
+**Question (10 marks, maximum 150 words):** Explain the economic rationale for regulating petroleum and natural-gas pipelines.
 
-A. Specified storage and marketing activities
-B. Transportation of natural gas through notified pipelines
-C. City-gas distribution within the applicable framework
-D. Production of crude oil and natural gas
+**Responsive model:** Pipelines require large sunk investment and have low marginal transport cost, creating natural-monopoly characteristics. A single owner could discriminate among users, while wasteful duplication would raise social cost. Regulation should therefore govern authorisation, access, tariff, capacity and service while preserving investment incentives. Coordinated planning is also necessary because pipeline viability depends on anchor demand and downstream networks. The upstream production regime remains institutionally distinct.
 
-**MCQ 25. How can a country import most of its crude yet export petroleum products?**
+**Unique scoring rubric:** Award 2 marks for segment distinction + 3 marks for institutional perimeter + 3 marks for price/network economics + 2 marks for security conclusion (10 total).
 
-A. Large, complex refineries can process imported crude and sell products domestically or abroad
-B. Crude and refined products are the same trade category
-C. Product exports prove zero domestic oil demand
-D. Refining eliminates global price exposure
+### Concept check
 
-#### Answers and explanations
+**Question:** Which activity is excluded from PNGRB's stated statutory regulatory perimeter?
 
-**MCQ 24: D**
+**Model answer:** PNGRB's official page expressly excludes production of crude oil and natural gas.
 
-- **A - Incorrect.** Specified storage and marketing activities are included.
-- **B - Incorrect.** Pipeline transportation is within the stated midstream mandate.
-- **C - Incorrect.** City-gas distribution falls in the relevant downstream network domain.
-- **D - Correct.** PNGRB's official page expressly excludes production of crude oil and natural gas.
+**Misconception to avoid:** PNGRB regulates upstream crude-oil and natural-gas production.
 
-**MCQ 25: A**
+### Bridge
 
-- **A - Correct.** Refining capacity and trade can transform imported feedstock into exportable products.
-- **B - Incorrect.** Crude is an input; products are refinery outputs.
-- **C - Incorrect.** Exports can coexist with large domestic consumption.
-- **D - Incorrect.** Feedstock and product prices remain linked to global markets.
-
-### Mains drill
-
-**Question (10 marks / 150 words):** Explain the economic rationale for regulating petroleum and natural-gas pipelines.
-
-**Model answer:** Pipelines require large sunk investment and have low marginal transport cost, creating natural-monopoly characteristics. A single owner could discriminate among users, while wasteful duplication would raise social cost. Regulation should therefore govern authorisation, access, tariff, capacity and service while preserving investment incentives. Coordinated planning is also necessary because pipeline viability depends on anchor demand and downstream networks. The upstream production regime remains institutionally distinct.
+A price shock across crude, refining, pipelines and retail raises the larger question: what portfolio makes India secure without demanding autarky?
 
 ## Lesson 10 - Energy security is resilience, not autarky
 
-**Progress: 10 / 18 | Stage: Core | Subtopic: Energy security, import shocks, diversification and strategic buffers**
+Progress: 10 / 24 | Stage: Core | Subtopic: Energy security is resilience, not autarky
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - energy-security framework and import dependence
@@ -1304,75 +1033,29 @@ Long-term contracts provide volume certainty but rigidity; spot purchases provid
 11. Resilience includes cyber and climate shocks.
 12. Protect vulnerable consumers while retaining conservation signals.
 
-### Practice: security under shock
+### Mains application, responsive model and unique rubric
 
-**MCQ 26. A country buys slightly costlier oil from an additional supplier to reduce dependence on one route. What is the best economic justification?**
+**Question (15 marks, maximum 250 words):** Answer the 2026 GS-III energy-security demand using a structured approach.
 
-A. Import diversification always lowers the invoice price
-B. The premium may purchase insurance against concentration and disruption
-C. Domestic production becomes irrelevant
-D. Strategic reserves become unnecessary
+**Responsive model:** India's energy security faces high exposure to imported hydrocarbons and specialised coal, geopolitical and shipping disruption, exchange-rate and price volatility, uneven domestic logistics, financially weak DISCOMs, renewable-integration needs, climate and cyber risks, and emerging dependence on critical minerals and clean-technology supply chains. Policy should reduce demand through efficiency; diversify domestic and imported supply, routes and contract tenures; maintain strategic stocks; strengthen grids, pipelines, rail, storage and distribution finance; expand renewables, hydro and nuclear where viable; secure minerals and recycling; and support vulnerable consumers and coal regions. Energy security is resilient access at affordable social cost, not autarky.
 
-**MCQ 27. Which response can buffer a temporary supply disruption but cannot replace long-term diversification?**
+**Unique scoring rubric:** Award 4 marks for five security dimensions + 3 marks for shock transmission + 5 marks for portfolio instruments + 3 marks for resilience verdict (15 total).
 
-A. Permanent suppression of every retail price
-B. Counting refinery capacity as crude production
-C. Releasing strategic stocks
-D. Ignoring inventory finance
+### Concept check
 
-**MCQ 28. Which policy package best combines security, growth and sustainability?**
+**Question:** A country buys slightly costlier oil from an additional supplier to reduce dependence on one route. What is the best economic justification?
 
-A. Universal fuel subsidy with no fiscal ceiling
-B. One imported fuel from one supplier at any price
-C. Immediate closure of all dispatchable capacity without replacement
-D. Efficiency, diversified supply/routes, viable utilities, grids/storage, targeted protection and gradual clean transition
+**Model answer:** Lower disruption exposure has real insurance value.
 
-**MCQ 29. If an economy imports 10 million barrels during a period and the landed price rises by USD 10 per barrel, what is the direct additional import cost before exchange-rate effects?**
+**Misconception to avoid:** Energy security requires zero imports and complete autarky.
 
-A. USD 100 million
-B. USD 10 million
-C. USD 1 billion
-D. USD 20 million
+### Bridge
 
-#### Answers and explanations
-
-**MCQ 26: B**
-
-- **A - Incorrect.** Diversification can carry a price premium.
-- **B - Correct.** Lower disruption exposure has real insurance value.
-- **C - Incorrect.** Domestic production remains one portfolio element.
-- **D - Incorrect.** Supplier diversity and stocks address different risks.
-
-**MCQ 27: C**
-
-- **A - Incorrect.** General price suppression is fiscally costly and weakens signals.
-- **B - Incorrect.** Refining is not upstream production.
-- **C - Correct.** Reserves bridge short disruptions but are finite.
-- **D - Incorrect.** Stocks have financing and opportunity cost.
-
-**MCQ 28: D**
-
-- **A - Incorrect.** Untargeted subsidies create fiscal and conservation problems.
-- **B - Incorrect.** Concentration increases vulnerability.
-- **C - Incorrect.** Reliability failure would damage growth and public support.
-- **D - Correct.** It addresses demand, supply, networks, finance, equity and transition together.
-
-**MCQ 29: A**
-
-- **A - Correct.** `10 million barrels x USD 10 = USD 100 million`.
-- **B - Incorrect.** This fails to multiply the price rise by total imported barrels.
-- **C - Incorrect.** It overstates the result by a factor of ten.
-- **D - Incorrect.** It doubles the price change without basis.
-
-### Mains drill
-
-**Question (15 marks / 250 words):** Answer the 2026 GS-III energy-security demand using a structured approach.
-
-**Model answer:** India's energy security faces high exposure to imported hydrocarbons and specialised coal, geopolitical and shipping disruption, exchange-rate and price volatility, uneven domestic logistics, financially weak DISCOMs, renewable-integration needs, climate and cyber risks, and emerging dependence on critical minerals and clean-technology supply chains. Policy should reduce demand through efficiency; diversify domestic and imported supply, routes and contract tenures; maintain strategic stocks; strengthen grids, pipelines, rail, storage and distribution finance; expand renewables, hydro and nuclear where viable; secure minerals and recycling; and support vulnerable consumers and coal regions. Energy security is resilient access at affordable social cost, not autarky.
+Diversification and reserves reduce fuel risk, while decarbonisation changes the supply portfolio itself. Lesson 11 tests renewable cost against system value.
 
 ## Lesson 11 - Renewable electricity: cheap plant, valuable system?
 
-**Progress: 11 / 18 | Stage: Advanced | Subtopic: Renewable economics, LCOE, system value and curtailment**
+Progress: 11 / 24 | Stage: Core | Subtopic: Renewable electricity: cheap plant, valuable system?
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - renewable-energy and financing chapters
@@ -1441,61 +1124,29 @@ India's COP26 Panchamrit statement set a 500 GW non-fossil installed-capacity ob
 9. Non-fossil is broader than renewable.
 10. Land, materials and recycling belong in economic appraisal.
 
-### Practice: value beyond LCOE
+### Mains application, responsive model and unique rubric
 
-**MCQ 30. Two projects have similar LCOE, but one produces during a constrained evening peak. Why may it have greater system value?**
+**Question (15 marks, maximum 250 words):** "Falling renewable tariffs are necessary but insufficient for an affordable transition." Discuss.
 
-A. LCOE already counts every locational and adequacy benefit perfectly
-B. Timing and dependable peak contribution can add value beyond average lifetime cost
-C. Peak electricity has no network effect
-D. The project must have zero capital cost
+**Responsive model:** Competitive auctions and technology learning reduce project tariffs and fuel-import exposure. However, the electricity system must also finance transmission, balancing, storage, reserves, forecasting, land, recycling and dependable capacity. Simultaneous solar output can depress captured prices; congestion can cause curtailment; weak DISCOM payment can raise financing cost. Policy should therefore compare system value, coordinate generation with networks, procure flexibility and adequacy, improve demand response and protect land and material sustainability. Cheap projects become affordable energy only when reliably integrated.
 
-**MCQ 31. Available wind generation is reduced because the transmission corridor is congested. This is best described as:**
+**Unique scoring rubric:** Award 3 marks for LCOE-system-value distinction + 5 marks for integration costs + 4 marks for India evidence + 3 marks for qualified verdict (15 total).
 
-A. Primary-energy creation
-B. Capacity-factor regulation
-C. Curtailment
-D. Refinery complexity
+### Concept check
 
-**MCQ 32. Two solar plants have the same generation cost, but Plant X earns less because most of its output arrives during oversupplied noon hours. Which concept best explains the difference?**
+**Question:** Two projects have similar LCOE, but one produces during a constrained evening peak. Why may it have greater system value?
 
-A. Plant X has become a strategic reserve
-B. Noon generation is not electrical energy
-C. Plant X necessarily has lower installed capacity
-D. Captured-price cannibalisation lowers the market value of simultaneous output
+**Model answer:** Scarcity timing and dependable capability can make output more valuable.
 
-#### Answers and explanations
+**Misconception to avoid:** A low renewable project tariff equals low total electricity-system cost.
 
-**MCQ 30: B**
+### Bridge
 
-- **A - Incorrect.** LCOE omits or simplifies several system dimensions.
-- **B - Correct.** Scarcity timing and dependable capability can make output more valuable.
-- **C - Incorrect.** Peak and congestion conditions are network-relevant.
-- **D - Incorrect.** Greater value does not imply zero investment cost.
-
-**MCQ 31: C**
-
-- **A - Incorrect.** Wind is a primary resource; reducing output creates no new energy.
-- **B - Incorrect.** Capacity factor is an outcome measure, not the event's name.
-- **C - Correct.** Available generation is being constrained below potential.
-- **D - Incorrect.** Refinery complexity belongs to petroleum processing.
-
-**MCQ 32: D**
-
-- **A - Incorrect.** A generating plant is not an emergency oil inventory.
-- **B - Incorrect.** The output remains electricity; its time-specific value changes.
-- **C - Incorrect.** Equal cost and output timing do not imply different nameplate MW.
-- **D - Correct.** Common production hours can depress the price actually captured.
-
-### Mains drill
-
-**Question (15 marks / 250 words):** "Falling renewable tariffs are necessary but insufficient for an affordable transition." Discuss.
-
-**Model answer:** Competitive auctions and technology learning reduce project tariffs and fuel-import exposure. However, the electricity system must also finance transmission, balancing, storage, reserves, forecasting, land, recycling and dependable capacity. Simultaneous solar output can depress captured prices; congestion can cause curtailment; weak DISCOM payment can raise financing cost. Policy should therefore compare system value, coordinate generation with networks, procure flexibility and adequacy, improve demand response and protect land and material sustainability. Cheap projects become affordable energy only when reliably integrated.
+A low project tariff does not flatten the residual-load curve. Follow the evening ramp into flexibility, storage duration and dependable capacity.
 
 ## Lesson 12 - Flexibility, storage and the evening ramp
 
-**Progress: 12 / 18 | Stage: Advanced | Subtopic: Storage, flexibility, duck curve, missing money and adequacy**
+Progress: 12 / 24 | Stage: Core | Subtopic: Flexibility, storage and the evening ramp
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - storage economics, merit order and adequacy
@@ -1560,75 +1211,29 @@ If energy prices alone do not finance rarely used capacity, markets may pay expl
 11. Capacity mechanisms carry gaming and overprocurement risk.
 12. Planning estimates are not installed outcomes.
 
-### Practice: flexibility choices
+### Mains application, responsive model and unique rubric
 
-**MCQ 33. Which response most directly reduces a steep solar-driven evening ramp?**
+**Question (20 marks, maximum 250 words):** Evaluate storage as a solution to renewable-integration challenges.
 
-A. Shift demand and discharge storage during the evening peak
-B. Eliminate all forecasting
-C. Increase inflexible minimum generation
-D. Count noon solar generation as evening supply
+**Responsive model:** Storage can shift low-price renewable energy to peak hours, provide fast frequency response, reduce congestion, defer network investment and improve resilience. Yet value depends on duration, cycles, charging cost, round-trip loss, degradation, financing and the ability to combine compatible revenues. Batteries suit fast and multi-hour needs; pumped hydro may provide larger-duration capability where sites and safeguards permit. Storage cannot replace forecasting, transmission, demand response or flexible generation in every circumstance. Policy should procure the service required, avoid double counting, permit revenue stacking and compare storage against the least-social-cost flexibility portfolio.
 
-**MCQ 34. A battery earns from arbitrage, frequency response and peak support. What principle is essential?**
+**Unique scoring rubric:** Award 5 marks for duck curve + 5 marks for flexibility portfolio + 5 marks for storage economics + 5 marks for adequacy conclusion (20 total).
 
-A. Round-trip losses should be ignored
-B. Revenue may be stacked only if the same capability is not double-committed
-C. Charging energy is always free
-D. Duration never affects value
+### Concept check
 
-**MCQ 35. Why is installed capacity an unsafe proxy for resource adequacy?**
+**Question:** Which response most directly reduces a steep solar-driven evening ramp?
 
-A. Every technology has identical availability
-B. Adequacy concerns annual fuel imports only
-C. Dependable contribution varies with weather, outages, peak timing and storage state
-D. Transmission cannot affect supply
+**Model answer:** It aligns consumption and stored supply with the stress hour.
 
-**MCQ 36. A battery receives 100 MWh of charging energy and has 80% round-trip efficiency. Ignoring state-of-charge constraints, how much energy can it return?**
+**Misconception to avoid:** Storage generates primary energy and one duration can provide every flexibility service.
 
-A. 125 MWh
-B. 100 MWh
-C. 20 MWh
-D. 80 MWh
+### Bridge
 
-#### Answers and explanations
-
-**MCQ 33: A**
-
-- **A - Correct.** It aligns consumption and stored supply with the stress hour.
-- **B - Incorrect.** Forecasting helps operators prepare for ramps.
-- **C - Incorrect.** Greater inflexibility worsens the ramp challenge.
-- **D - Incorrect.** Energy cannot be counted at a different time without storage or another mechanism.
-
-**MCQ 34: B**
-
-- **A - Incorrect.** Losses affect usable output and economics.
-- **B - Correct.** Multiple revenues are valid only when service obligations are physically compatible.
-- **C - Incorrect.** Charging energy has price and opportunity cost.
-- **D - Incorrect.** Duration determines which stress the asset can cover.
-
-**MCQ 35: C**
-
-- **A - Incorrect.** Availability differs across technologies and conditions.
-- **B - Incorrect.** Fuel is one among several adequacy risks.
-- **C - Correct.** Adequacy depends on dependable output during stress, not rated capacity alone.
-- **D - Incorrect.** Congestion and outages can restrict deliverability.
-
-**MCQ 36: D**
-
-- **A - Incorrect.** Storage cannot return more energy merely because efficiency is below 100%.
-- **B - Incorrect.** This assumes no conversion loss.
-- **C - Incorrect.** Twenty MWh is the loss, not the returned energy.
-- **D - Correct.** `100 MWh x 0.80 = 80 MWh`.
-
-### Mains drill
-
-**Question (20 marks / 250-300 words):** Evaluate storage as a solution to renewable-integration challenges.
-
-**Model answer:** Storage can shift low-price renewable energy to peak hours, provide fast frequency response, reduce congestion, defer network investment and improve resilience. Yet value depends on duration, cycles, charging cost, round-trip loss, degradation, financing and the ability to combine compatible revenues. Batteries suit fast and multi-hour needs; pumped hydro may provide larger-duration capability where sites and safeguards permit. Storage cannot replace forecasting, transmission, demand response or flexible generation in every circumstance. Policy should procure the service required, avoid double counting, permit revenue stacking and compare storage against the least-social-cost flexibility portfolio.
+Before building every additional unit of supply, turn the diagram around: Lesson 13 treats efficiency and demand response as infrastructure resources.
 
 ## Lesson 13 - The cheapest unit may be the unit not required
 
-**Progress: 13 / 18 | Stage: Advanced | Subtopic: Efficiency, demand response, digitalisation, cyber risk and India Energy Stack**
+Progress: 13 / 24 | Stage: Core | Subtopic: The cheapest unit may be the unit not required
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - PAT, UJALA, smart-grid and efficiency sections
@@ -1706,47 +1311,29 @@ Use network segmentation, least privilege, encryption, secure updates, redundanc
 11. Interoperability reduces lock-in.
 12. Manual fallback and incident response support resilience.
 
-### Practice: efficiency and digital risk
+### Mains application, responsive model and unique rubric
 
-**MCQ 37. An efficient motor reduces electricity per unit of output, but the factory expands production enough that total electricity use rises. This illustrates:**
+**Question (15 marks, maximum 250 words):** Discuss energy efficiency as an infrastructure and energy-security strategy.
 
-A. Rebound or scale effect
-B. Refinery complexity
-C. Regulatory asset creation
-D. Strategic-stock release
+**Responsive model:** Efficiency delivers the same service with less energy, lowering fuel imports, generation need, peak capacity, network congestion, bills and emissions. Appliance standards, building codes, aggregation models, PAT and demand response address information, financing and coordination failures. Efficiency is therefore a virtual supply resource. Its gains may be moderated by rebound, weak compliance or unequal access to efficient assets. Policy should combine standards with finance, measurement, consumer awareness and recycling of savings while monitoring absolute demand as well as intensity.
 
-**MCQ 38. Which statement about smart meters is most accurate?**
+**Unique scoring rubric:** Award 3 marks for efficiency mechanism + 4 marks for policy instruments + 5 marks for rebound/cyber risk + 3 marks for demand-side verdict (15 total).
 
-A. They automatically rebuild weak distribution lines
-B. They improve measurement and control but require privacy, accuracy and grievance safeguards
-C. They make consumer safeguards unnecessary
-D. They eliminate every billing dispute
+### Concept check
 
-#### Answers and explanations
+**Question:** An efficient motor reduces electricity per unit of output, but the factory expands production enough that total electricity use rises. This illustrates:
 
-**MCQ 37: A**
+**Model answer:** Lower unit energy cost contributes to higher activity and total use.
 
-- **A - Correct.** Lower unit energy cost contributes to higher activity and total use.
-- **B - Incorrect.** The example concerns electricity use, not crude processing.
-- **C - Incorrect.** No deferred tariff claim is created.
-- **D - Incorrect.** No emergency fuel inventory is involved.
+**Misconception to avoid:** Energy efficiency always reduces aggregate energy use by the same proportion.
 
-**MCQ 38: B**
+### Bridge
 
-- **A - Incorrect.** Physical reinforcement remains necessary for technical constraints.
-- **B - Correct.** It states both the capability and its governance conditions.
-- **C - Incorrect.** Greater remote control increases the need for due process and security.
-- **D - Incorrect.** Configuration, communication and data errors can still cause disputes.
-
-### Mains drill
-
-**Question (15 marks / 250 words):** Discuss energy efficiency as an infrastructure and energy-security strategy.
-
-**Model answer:** Efficiency delivers the same service with less energy, lowering fuel imports, generation need, peak capacity, network congestion, bills and emissions. Appliance standards, building codes, aggregation models, PAT and demand response address information, financing and coordination failures. Efficiency is therefore a virtual supply resource. Its gains may be moderated by rebound, weak compliance or unequal access to efficient assets. Policy should combine standards with finance, measurement, consumer awareness and recycling of savings while monitoring absolute demand as well as intensity.
+Avoided demand and new capacity both require credible institutions and capital. The next lesson asks how financing cost, bankability and stranding reshape choices.
 
 ## Lesson 14 - Financing assets that must last through change
 
-**Progress: 14 / 18 | Stage: Advanced | Subtopic: Investment, cost of capital, contracts and stranded assets**
+Progress: 14 / 24 | Stage: Core | Subtopic: Financing assets that must last through change
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - project finance, green finance and bankability
@@ -1825,75 +1412,29 @@ Weak appraisal can impose irreversible ecological and social cost. Indefinite un
 9. Public support needs an additionality or externality rationale.
 10. Timely appraisal protects both ecology and finance.
 
-### Practice: bankability and stranding
+### Mains application, responsive model and unique rubric
 
-**MCQ 39. Two technologically identical renewable projects face different tariffs mainly because one sells to a chronically late-paying buyer. What is the best explanation?**
+**Question (15 marks, maximum 250 words):** Why does the cost of capital matter for India's energy transition?
 
-A. Renewable output becomes primary coal
-B. Electricity from the weaker buyer has lower voltage before generation
-C. Payment risk raises the cost of capital
-D. Installed capacity changes with the borrower's credit rating
+**Responsive model:** Renewable generation, grids, storage, hydro and nuclear require large upfront investment. Even when operating or fuel costs are low, high interest rates, approval delay, exchange risk and payment uncertainty raise annual revenue requirements and consumer tariffs. Financially weak buyers and unstable regulation therefore slow transition and favour short-horizon decisions. Lowering cost of capital requires credible procurement, payment security, timely networks and clear regulation, while public guarantees should be targeted to genuine externalities and additionality. Cheap finance cannot substitute for sound project selection.
 
-**MCQ 40. Which event can strand an otherwise functional power asset?**
+**Unique scoring rubric:** Award 4 marks for bankability + 3 marks for financing and cost of capital + 5 marks for stranding + 3 marks for public-value conclusion (15 total).
 
-A. Accurate metering
-B. Lower financing uncertainty
-C. Timely transmission completion
-D. Demand collapse or cheaper replacement technology that destroys expected revenue
+### Concept check
 
-**MCQ 41. What is the strongest reason against opportunistic cancellation of signed PPAs?**
+**Question:** Two technologically identical renewable projects face different tariffs mainly because one sells to a chronically late-paying buyer. What is the best explanation?
 
-A. It can raise perceived policy risk and future financing cost
-B. Consumers should never benefit from renegotiation
-C. Every contract is socially optimal forever
-D. PPAs eliminate all market change
+**Model answer:** Lenders and investors price delayed or uncertain cash flow.
 
-**MCQ 42. A project has the same construction cost as its peer but faces a higher interest rate and a two-year approval delay. What is the most likely tariff effect?**
+**Misconception to avoid:** A signed PPA eliminates construction, payment, network and stranded-asset risk.
 
-A. Tariff must fall because delay reduces risk
-B. Required tariff is likely to rise because financing and delay costs increase
-C. Installed capacity automatically doubles
-D. Tariff is unaffected because only fuel cost matters
+### Bridge
 
-#### Answers and explanations
-
-**MCQ 39: C**
-
-- **A - Incorrect.** Financial risk does not change the energy resource.
-- **B - Incorrect.** Buyer credit does not alter voltage before production.
-- **C - Correct.** Lenders and investors price delayed or uncertain cash flow.
-- **D - Incorrect.** Rated MW is a physical parameter, though financing can affect completion.
-
-**MCQ 40: D**
-
-- **A - Incorrect.** Better data normally improves operation and revenue.
-- **B - Incorrect.** Lower uncertainty improves bankability.
-- **C - Incorrect.** Timely evacuation supports value.
-- **D - Correct.** Revenue can collapse while the physical asset remains functional.
-
-**MCQ 41: A**
-
-- **A - Correct.** Retrospective opportunism is priced into later investment.
-- **B - Incorrect.** Transparent, consensual restructuring may benefit consumers.
-- **C - Incorrect.** Contracts can become inefficient.
-- **D - Incorrect.** Contracts allocate but do not eliminate change.
-
-**MCQ 42: B**
-
-- **A - Incorrect.** Delay normally adds carrying cost and uncertainty.
-- **B - Correct.** Higher cost of capital and delayed cash flow increase required revenue.
-- **C - Incorrect.** Financing terms do not double rated capacity.
-- **D - Incorrect.** Capital-intensive projects are highly sensitive to finance.
-
-### Mains drill
-
-**Question (15 marks / 250 words):** Why does the cost of capital matter for India's energy transition?
-
-**Model answer:** Renewable generation, grids, storage, hydro and nuclear require large upfront investment. Even when operating or fuel costs are low, high interest rates, approval delay, exchange risk and payment uncertainty raise annual revenue requirements and consumer tariffs. Financially weak buyers and unstable regulation therefore slow transition and favour short-horizon decisions. Lowering cost of capital requires credible procurement, payment security, timely networks and clear regulation, while public guarantees should be targeted to genuine externalities and additionality. Cheap finance cannot substitute for sound project selection.
+Long-lived finance cannot ignore technological and policy change. Lesson 15 follows the transition into minerals, industrial capability and distributional adjustment.
 
 ## Lesson 15 - A transition changes dependencies; it does not abolish them
 
-**Progress: 15 / 18 | Stage: Advanced | Subtopic: Critical minerals, carbon pricing, environmental safeguards and just transition**
+Progress: 15 / 24 | Stage: Core | Subtopic: A transition changes dependencies; it does not abolish them
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - energy transition, green finance and critical-mineral sections
@@ -1969,75 +1510,29 @@ National benefits from lower pollution or imports can coexist with local job and
 11. Reliability must be protected during retirement.
 12. Industrial policy should remain learning- and performance-oriented.
 
-### Practice: transition dependencies
+### Mains application, responsive model and unique rubric
 
-**MCQ 43. Which statement best describes critical-mineral security?**
+**Question (20 marks, maximum 250 words):** India's clean-energy transition may exchange hydrocarbon dependence for material and technological dependence. Evaluate.
 
-A. Mining alone guarantees resilience
-B. Recycling instantly removes all import need
-C. Security requires diversified mining, processing, technology, recycling and standards
-D. One protected domestic supplier is always safest
+**Responsive model:** Electrification and renewables can reduce oil, gas and coal exposure, pollution and price volatility. Yet batteries, grids, motors, solar modules and electrolysers require concentrated minerals, processing, equipment and intellectual property. New dependence can be mitigated through diversified overseas partnerships, responsible domestic mining, processing capability, recycling, material efficiency, substitution, R&D and traceability. Industrial policy should reward learning and performance rather than permanent high-cost protection. A secure transition also requires reliable power markets, environmental safeguards and support for affected fossil regions. The objective is diversified interdependence with lower social risk, not a new autarky.
 
-**MCQ 44. A carbon price raises coal generation's variable cost. What is the most direct electricity-market effect?**
+**Unique scoring rubric:** Award 4 marks for dependency shift + 6 marks for critical minerals/carbon + 6 marks for just transition + 4 marks for sequencing verdict (20 total).
 
-A. It guarantees lower retail tariffs immediately
-B. It converts coal into renewable energy
-C. It eliminates the need for consumer protection
-D. It can alter merit order and improve the relative signal for lower-carbon resources
+### Concept check
 
-**MCQ 45. Which use of carbon-pricing revenue best addresses distributional resistance without erasing the emissions signal?**
+**Question:** Which statement best describes critical-mineral security?
 
-A. Recycle part of the revenue into lifeline support, worker transition and clean alternatives
-B. Return every rupee only to the highest emitters
-C. Suppress the carbon price whenever fuel use rises
-D. Treat revenue collection as proof that emissions have fallen
+**Model answer:** Resilience spans the full mineral-to-technology chain.
 
-**MCQ 46. A clean-technology supply chain relies on one country for most mineral processing even though mining is geographically diversified. What risk remains?**
+**Misconception to avoid:** Replacing fuel imports with mineral or equipment imports abolishes strategic dependence.
 
-A. No concentration risk remains because mines are diversified
-B. Processing concentration can still disrupt the whole downstream chain
-C. Recycling becomes physically impossible
-D. Electricity demand becomes zero
+### Bridge
 
-#### Answers and explanations
-
-**MCQ 43: C**
-
-- **A - Incorrect.** Processing and technology bottlenecks may remain.
-- **B - Incorrect.** Material growth and losses preserve primary demand.
-- **C - Correct.** Resilience spans the full mineral-to-technology chain.
-- **D - Incorrect.** Concentration can create domestic vulnerability.
-
-**MCQ 44: D**
-
-- **A - Incorrect.** Consumer prices can rise before efficiency or substitution effects.
-- **B - Incorrect.** Pricing does not alter the physical resource category.
-- **C - Incorrect.** Tariff incidence may require lifeline support.
-- **D - Correct.** Higher fossil marginal cost changes dispatch and investment incentives.
-
-**MCQ 45: A**
-
-- **A - Correct.** Targeted recycling protects adjustment while retaining a marginal emissions incentive.
-- **B - Incorrect.** Rewarding the largest emitters without conditions weakens equity and incentives.
-- **C - Incorrect.** Ad hoc suspension destroys predictability.
-- **D - Incorrect.** Revenue is an instrument flow, not an emissions outcome.
-
-**MCQ 46: B**
-
-- **A - Incorrect.** A downstream bottleneck can dominate diversified extraction.
-- **B - Correct.** Processing is a distinct concentrated stage of material security.
-- **C - Incorrect.** Processing concentration does not make recycling physically impossible.
-- **D - Incorrect.** Mineral-market structure does not eliminate electricity demand.
-
-### Mains drill
-
-**Question (20 marks / 250-300 words):** India's clean-energy transition may exchange hydrocarbon dependence for material and technological dependence. Evaluate.
-
-**Model answer:** Electrification and renewables can reduce oil, gas and coal exposure, pollution and price volatility. Yet batteries, grids, motors, solar modules and electrolysers require concentrated minerals, processing, equipment and intellectual property. New dependence can be mitigated through diversified overseas partnerships, responsible domestic mining, processing capability, recycling, material efficiency, substitution, R&D and traceability. Industrial policy should reward learning and performance rather than permanent high-cost protection. A secure transition also requires reliable power markets, environmental safeguards and support for affected fossil regions. The objective is diversified interdependence with lower social risk, not a new autarky.
+System-wide transition risks become concrete in a farm-linked fuel. Use ethanol next to test security gains against land, water, food and lifecycle costs.
 
 ## Lesson 16 - Ethanol: an energy-security gain with farm-system costs
 
-**Progress: 16 / 18 | Stage: Advanced | Subtopic: Ethanol and biofuel economics**
+Progress: 16 / 24 | Stage: Core | Subtopic: Ethanol: an energy-security gain with farm-system costs
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - petroleum and biofuel linkages plus Topic 28 water-subsidy cross-link
@@ -2099,75 +1594,29 @@ Biofuel emissions depend on cultivation, fertiliser, irrigation energy, land-use
 11. Early target achievement does not erase externalities.
 12. Biofuels are one security instrument, not a complete oil strategy.
 
-### Practice: biofuel trade-offs
+### Mains application, responsive model and unique rubric
 
-**MCQ 47. What is the central feedstock distinction between Brazil and the United States in ethanol production?**
+**Question (15 marks, maximum 250 words):** Evaluate ethanol blending as an energy-security instrument for India.
 
-A. Brazil uses crude oil while the US uses natural gas
-B. Brazil produces only biodiesel while the US produces only hydrogen
-C. Brazil is primarily sugarcane-based while the US is primarily maize/corn-starch-based
-D. Both rely exclusively on imported molasses
+**Responsive model:** Ethanol blending can substitute part of petrol demand, reduce foreign-exchange exposure, support domestic distilleries and create an additional market for farm output. India's cane-plus-grain strategy diversifies feedstock. Costs arise from food-versus-fuel competition, sugar and grain price incentives, water stress, processing energy, lifecycle emissions and vehicle/retail compatibility. Policy should prioritise genuine surplus and sustainable feedstock, improve water productivity, enforce lifecycle standards, diversify toward advanced biofuels and keep cumulative benefit figures date-bound. Ethanol strengthens but cannot replace a broader oil-security strategy.
 
-**MCQ 48. Why can India's dual-feedstock strategy improve security yet complicate farm policy?**
+**Unique scoring rubric:** Award 4 marks for feedstock mechanism + 4 marks for security benefit + 4 marks for food-water-lifecycle costs + 3 marks for balanced conclusion (15 total).
 
-A. It eliminates crop-price effects
-B. It makes water irrelevant
-C. It removes the need for vehicle compatibility
-D. It diversifies supply but links blending demand to food, sugar, grain and water incentives
+### Concept check
 
-**MCQ 49. Which is the safest way to use the Survey's ethanol saving figure?**
+**Question:** What is the central feedstock distinction between Brazil and the United States in ethanol production?
 
-A. Cite it as a cumulative official figure reported as of August 2025
-B. Automatically add an assumed 2026 increment
-C. Treat it as proof that lifecycle emissions are zero
-D. Present it as an undated permanent annual saving
+**Model answer:** It captures direct-sugar and starch-route differences.
 
-**MCQ 50. Which statement correctly combines ethanol source discipline with policy analysis?**
+**Misconception to avoid:** Meeting an ethanol-blending target removes food, water and lifecycle trade-offs.
 
-A. The August 2025 cumulative figure may be silently projected to September 2026
-B. Cite the dated cumulative benefit and separately test feedstock, water, lifecycle and compatibility costs
-C. Foreign-exchange savings prove that water and food opportunity costs are zero
-D. A blending percentage alone proves full energy independence
+### Bridge
 
-#### Answers and explanations
-
-**MCQ 47: C**
-
-- **A - Incorrect.** These are fossil fuels, not the principal crop feedstocks in the comparison.
-- **B - Incorrect.** Both countries produce fuel ethanol.
-- **C - Correct.** It captures direct-sugar and starch-route differences.
-- **D - Incorrect.** Their systems are not exclusively import-molasses based.
-
-**MCQ 48: D**
-
-- **A - Incorrect.** Procurement demand can affect crop and processing incentives.
-- **B - Incorrect.** Cane and grain production have water implications.
-- **C - Incorrect.** Blend compatibility remains necessary.
-- **D - Correct.** Diversification reduces concentration but expands policy linkages.
-
-**MCQ 49: A**
-
-- **A - Correct.** It preserves publication and status discipline.
-- **B - Incorrect.** Unsupported extrapolation would fabricate a current total.
-- **C - Incorrect.** Foreign-exchange saving does not establish zero lifecycle emissions.
-- **D - Incorrect.** The figure is cumulative and date-bound.
-
-**MCQ 50: B**
-
-- **A - Incorrect.** Extrapolation without an official update fabricates a current value.
-- **B - Correct.** It preserves the fact while adding the relevant welfare tests.
-- **C - Incorrect.** Monetary benefit does not remove resource opportunity costs.
-- **D - Incorrect.** Blending substitutes only part of a much larger oil-security system.
-
-### Mains drill
-
-**Question (15 marks / 250 words):** Evaluate ethanol blending as an energy-security instrument for India.
-
-**Model answer:** Ethanol blending can substitute part of petrol demand, reduce foreign-exchange exposure, support domestic distilleries and create an additional market for farm output. India's cane-plus-grain strategy diversifies feedstock. Costs arise from food-versus-fuel competition, sugar and grain price incentives, water stress, processing energy, lifecycle emissions and vehicle/retail compatibility. Policy should prioritise genuine surplus and sustainable feedstock, improve water productivity, enforce lifecycle standards, diversify toward advanced biofuels and keep cumulative benefit figures date-bound. Ethanol strengthens but cannot replace a broader oil-security strategy.
+Biofuel portfolios diversify molecules; electricity resilience depends on networks across regions and borders. Lesson 17 stress-tests that wider grid.
 
 ## Lesson 17 - A resilient grid crosses borders and survives shocks
 
-**Progress: 17 / 18 | Stage: Advanced | Subtopic: Cross-border grids, energy federalism and climate resilience**
+Progress: 17 / 24 | Stage: Core | Subtopic: A resilient grid crosses borders and survives shocks
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - GGI-OSOWOG, ISA, federalism and resilience sections
@@ -2238,47 +1687,29 @@ A heatwave can raise demand while a cyber incident disrupts control or communica
 11. Black-start capability supports recovery.
 12. Compound risks require scenarios, not average forecasts.
 
-### Practice: interconnected resilience
+### Mains application, responsive model and unique rubric
 
-**MCQ 51. What is the principal system-economic logic of cross-border green grids?**
+**Question (10 marks, maximum 150 words):** Explain the economic rationale and governance constraints of GGI-OSOWOG.
 
-A. Transmission settlement becomes unnecessary
-B. Every country can eliminate its domestic grid
-C. Geographic and time-zone diversity can widen balancing and power exchange
-D. Solar output becomes constant everywhere
+**Responsive model:** Cross-border interconnection can exploit different time zones, weather profiles and demand peaks, allowing renewable exchange, reserve sharing and lower curtailment or storage pressure. Its gains require finance for long lines, common technical codes, transparent settlement, cyber protection, sovereign confidence and fair distribution of costs and benefits. It complements, rather than substitutes for, strong domestic grids, adequate generation and financially viable utilities.
 
-**MCQ 52. Which distinction is correct?**
+**Unique scoring rubric:** Award 2 marks for grid diversity + 3 marks for institutional distinction + 3 marks for federal/climate risks + 2 marks for resilience verdict (10 total).
 
-A. ISA and GGI-OSOWOG are the same treaty
-B. Both are Indian electricity regulators
-C. GGI-OSOWOG predates ISA by a decade
-D. ISA is solar-cooperation architecture; GGI-OSOWOG is a cross-border grid initiative
+### Concept check
 
-#### Answers and explanations
+**Question:** What is the principal system-economic logic of cross-border green grids?
 
-**MCQ 51: C**
+**Model answer:** Diversity can reduce simultaneous scarcity and improve exchange.
 
-- **A - Incorrect.** Cross-border flows require stronger settlement governance.
-- **B - Incorrect.** Domestic networks remain indispensable.
-- **C - Correct.** Diversity can reduce simultaneous scarcity and improve exchange.
-- **D - Incorrect.** Weather variability remains.
+**Misconception to avoid:** Cross-border interconnection can substitute for reliable domestic grids and governance.
 
-**MCQ 52: D**
+### Bridge
 
-- **A - Incorrect.** They have different origins and institutional purposes.
-- **B - Incorrect.** Neither is India's tariff regulator.
-- **C - Incorrect.** ISA launched in 2015; GGI-OSOWOG in 2021.
-- **D - Correct.** It states the relevant distinction.
-
-### Mains drill
-
-**Question (10 marks / 150 words):** Explain the economic rationale and governance constraints of GGI-OSOWOG.
-
-**Model answer:** Cross-border interconnection can exploit different time zones, weather profiles and demand peaks, allowing renewable exchange, reserve sharing and lower curtailment or storage pressure. Its gains require finance for long lines, common technical codes, transparent settlement, cyber protection, sovereign confidence and fair distribution of costs and benefits. It complements, rather than substitutes for, strong domestic grids, adequate generation and financially viable utilities.
+Resilience adds another outcome to cost, access and emissions. Lesson 18 now builds a dashboard that can compare strategies without being captured by one headline.
 
 ## Lesson 18 - How to evaluate an energy strategy without being captured by a headline
 
-**Progress: 18 / 18 | Stage: Advanced | Subtopic: Integrated energy-policy evaluation, scenarios and answer architecture**
+Progress: 18 / 24 | Stage: Core | Subtopic: How to evaluate an energy strategy without being captured by a headline
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - complete Basic/Advanced evaluation dashboard and scenario method
@@ -2361,92 +1792,476 @@ An energy strategy is successful when it delivers reliable and affordable servic
 11. Build the answer through ENERGY.
 12. End with a qualified, measurable verdict.
 
-### Practice: integrated judgement
+### Mains application, responsive model and unique rubric
 
-**MCQ 53. India adds large renewable capacity but transmission completion is delayed. Which headline is least justified?**
+**Question (20 marks, maximum 250 words):** "India's energy transition must be judged by delivered services and resilience, not capacity headlines alone." Critically examine.
 
-A. Reliable delivered renewable energy necessarily increased in the same proportion
-B. Network coordination became more important
-C. Installed renewable capacity increased
-D. Curtailment risk may have risen
+**Responsive model:** Capacity addition expands potential supply and can reduce fuel exposure, but actual welfare depends on generation timing, transmission, storage, distribution finance, affordability and environmental incidence. High non-fossil capacity may coexist with lower generation share; cheap projects can be curtailed; connected households may face unreliable supply; and mineral or equipment dependence can replace fuel dependence. India should coordinate capacity with grids, flexibility, efficient demand, viable DISCOMs, diversified imports, strategic stocks, domestic capability and just-transition support. Progress should be measured through reliability, unserved energy, cost, access, import concentration, emissions and recovery from shocks. Capacity remains necessary evidence, but delivered service is the decisive outcome.
 
-**MCQ 54. Which evidence best supports an "evaluate" answer?**
+**Unique scoring rubric:** Award 5 marks for ENERGY framework + 4 marks for dashboard/scenarios + 6 marks for evidence discipline + 5 marks for reasoned judgement (20 total).
 
-A. A list of schemes without dates
-B. Criteria, dated evidence, counter-evidence and a reasoned verdict
-C. A slogan about self-sufficiency
-D. One capacity target
+### Concept check
 
-**MCQ 55. Which sequence correctly audits a mutable energy claim?**
+**Question:** India adds large renewable capacity but transmission completion is delayed. Which headline is least justified?
 
-A. Capacity -> generation -> access, treated as identical
-B. Slogan -> assumed outcome -> undated figure -> conclusion
-C. Status -> unit/denominator -> payer/beneficiary -> complementary system -> qualification
-D. Proposal -> law -> universal implementation, treated as automatic
+**Model answer:** Delivered energy depends on utilisation and network readiness.
 
-**MCQ 56. An official document announces a scheme, a later notice sanctions projects and a dashboard reports commissioned capacity. Which evidence is needed before claiming delivered service?**
+**Misconception to avoid:** One capacity, tariff or import headline is sufficient to evaluate an energy strategy.
 
-A. The first announcement alone
-B. The sanction notice alone
-C. Commissioned nameplate capacity alone
-D. Generation, network delivery, reliability, affordability and user-outcome evidence
+### Bridge
 
-#### Answers and explanations
+Core coverage is complete. The optional block begins by asking where competition improves welfare and where natural-monopoly regulation remains unavoidable.
 
-**MCQ 53: A**
+# OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
 
-- **A - Correct.** Delivered energy depends on utilisation and network readiness.
-- **B - Incorrect.** The mismatch makes coordination more important.
-- **C - Incorrect.** Capacity can increase even if evacuation lags.
-- **D - Incorrect.** Congestion can indeed raise curtailment risk.
+## Lesson 19 - Welfare, natural monopoly and contestable energy layers
 
-**MCQ 54: B**
+Progress: 19 / 24 | Stage: Optional Advanced | Subtopic: Welfare, natural monopoly and contestable energy layers
 
-- **A - Incorrect.** Scheme lists do not establish performance.
-- **B - Correct.** Evaluation requires explicit criteria and balanced judgement.
-- **C - Incorrect.** A slogan supplies no evaluative evidence.
-- **D - Incorrect.** One target lacks outcome and trade-off analysis.
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried - Advanced owner sections 1-3 on welfare, monopoly and two-part tariffs
+CA search: "official India electricity market network tariff consumer protection current architecture 2026"
+CA found: no new numerical claim is required; the lesson uses the durable Electricity Act and regulator architecture already verified in Core.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-**MCQ 55: C**
+### Welfare equation
 
-- **A - Incorrect.** The concepts have different units and meanings.
-- **B - Incorrect.** It begins with assertion and fabricates inference.
-- **C - Correct.** It preserves evidence status and tests the full causal chain.
-- **D - Incorrect.** Legislative and implementation stages cannot be collapsed.
+```text
+SOCIAL VALUE
+= consumer service + investment + reliability + security + innovation
+- private system cost - fiscal cost - pollution/ecology - transition cost
+```
 
-**MCQ 56: D**
+A low observed tariff can conceal delayed subsidy, deferred maintenance, pollution or debt. A high tariff can conceal weak competition or excessive cross-subsidy. Price alone cannot identify social efficiency.
 
-- **A - Incorrect.** Announcement establishes intent, not delivery.
-- **B - Incorrect.** Sanction establishes approval, not operation.
-- **C - Incorrect.** Commissioning establishes an asset, not reliable affordable service.
-- **D - Correct.** The final claim requires evidence across the complete service chain.
+### Layer-by-layer governance
 
-### Mains drill
+| Layer | Economic property | Governance implication |
+|---|---|---|
+| Generation | Potential competition, constrained by fuel, contracts and grids | Auctions and markets plus reliability rules |
+| Transmission | Natural monopoly and network externality | Regulated planning, access and return |
+| System operation | Coordination monopoly requiring neutrality | Transparent independent despatch |
+| Distribution wires | Local natural monopoly | Performance and service regulation |
+| Retail/trading | Potential contestability | Choice with metering, settlement and network-cost recovery |
 
-**Question (20 marks / 250-300 words):** "India's energy transition must be judged by delivered services and resilience, not capacity headlines alone." Critically examine.
+### Two-part tariff dilemma
 
-**Model answer:** Capacity addition expands potential supply and can reduce fuel exposure, but actual welfare depends on generation timing, transmission, storage, distribution finance, affordability and environmental incidence. High non-fossil capacity may coexist with lower generation share; cheap projects can be curtailed; connected households may face unreliable supply; and mineral or equipment dependence can replace fuel dependence. India should coordinate capacity with grids, flexibility, efficient demand, viable DISCOMs, diversified imports, strategic stocks, domestic capability and just-transition support. Progress should be measured through reliability, unserved energy, cost, access, import concentration, emissions and recovery from shocks. Capacity remains necessary evidence, but delivered service is the decisive outcome.
+Fixed networks and capacity create costs even when energy sales fall. Recovering all cost per kWh can destabilise revenue as rooftop or captive supply grows; a high fixed charge can exclude low-use households. A defensible design protects lifeline use, sends a marginal-cost signal and allocates common-network cost transparently.
+
+**Strongest objection:** Layered regulation is too complex. **Reply:** complexity already exists physically; hiding it in one tariff or monopoly only obscures incidence. **Residual:** regulatory capacity and data quality constrain ideal design.
+
+### Revision notes
+
+1. Social value differs from the observed tariff.
+2. Reliability and security have economic value.
+3. Pollution, fiscal and transition costs belong in welfare analysis.
+4. Generation can support competition subject to system rules.
+5. Wires retain natural-monopoly features.
+6. System operation requires neutrality.
+7. Fixed and variable costs should not be confused.
+8. Lifeline protection must coexist with network-cost recovery.
+
+### Mains application, responsive model and unique rubric
+
+**Question (10 marks, maximum 150 words):** Why should electricity reform distinguish natural-monopoly layers from contestable layers?
+
+**Responsive model:** Electricity is one coordinated system but not one uniform market. Transmission and distribution wires have scale economies and network externalities, so duplicating complete networks is inefficient; they require regulated access, prudent investment and service standards. Generation, trading and some retail functions can support competition when metering, settlement and network access are reliable. System operation remains a neutral coordination function because supply and demand must balance continuously. Reform should therefore regulate monopoly infrastructure, procure contestable services competitively and recover common-network costs fairly. The choice is not state versus market in the abstract, but governance matched to each layer's economics.
+
+**Unique scoring rubric:** Award 3 marks for layer classification, 3 for natural-monopoly logic, 2 for contestability conditions and 2 for the governance verdict (10 total).
+
+### Concept check
+
+**Question:** A consumer buys from a competing supplier but still uses the local wires. Which cost cannot disappear?
+
+**Model answer:** The regulated common-network cost remains because retail choice does not duplicate or eliminate the distribution wires and reliability service.
+
+**Misconception to avoid:** Retail competition makes transmission and distribution networks costless.
+
+### Bridge
+
+The layer test becomes a utility-finance test next: regulatory assets and rigid PPAs show how delayed recovery and contract design transmit into service quality.
+
+## Lesson 20 - DISCOM cash flow, regulatory assets and contract lock-in
+
+Progress: 20 / 24 | Stage: Optional Advanced | Subtopic: DISCOM cash flow, regulatory assets and contract lock-in
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried - Advanced owner sections 4-7 on cross-subsidy, cash flow, PPAs and adequacy
+CA search: "Economic Survey 2025-26 cross subsidy DISCOM Electricity Amendment Bill 2025 official"
+CA found: the Survey provides a dated cross-subsidy and proposed-reform context; the Bill is not represented as enacted law.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Cash-flow decomposition
+
+```text
+INFLOW = collections + subsidy received + government dues + other finance
+OUTFLOW = power purchase + transmission + O&M + interest/debt + capex
+```
+
+Billing efficiency, collection efficiency, AT&C loss and ACS-ARR gap diagnose different links. A regulator may defer recovery as a regulatory asset, smoothing a tariff shock but shifting cost and carrying charges to future consumers.
+
+### Contract lock-in
+
+Long-term PPAs support project finance, yet can lock in excess capacity, inflexible take-or-pay obligations, old tariffs or failed fuel assumptions. Better contracts combine competitive procurement, realistic demand assessment, change-in-law clauses, availability incentives, payment security and limited rebalancing rules.
+
+### Missing money and adequacy
+
+Low-marginal-cost renewable output can suppress energy-market prices while flexible capacity remains necessary during scarcity. If energy-only revenue cannot finance that capability, options include ancillary services, scarcity pricing with safeguards, capacity or firm-power contracts, storage, demand response and resource-adequacy obligations.
+
+**Inference:** No instrument is universally superior; compare consumer cost, gaming risk, competition and Indian institutional capacity.
+
+### Revision notes
+
+1. Cash accounting requires subsidy received, not merely booked.
+2. AT&C loss and ACS-ARR gap measure different failures.
+3. Regulatory assets defer rather than erase recovery.
+4. PPAs reduce financing risk but can create lock-in.
+5. Contract sanctity affects future cost of capital.
+6. Merit order is a short-run scheduling device.
+7. Missing money concerns revenue for scarce dependable capability.
+8. Adequacy instruments must be judged against gaming and consumer cost.
+
+### Mains application, responsive model and unique rubric
+
+**Question (10 marks, maximum 150 words):** Why can repeated regulatory assets and rigid PPAs weaken a DISCOM even when supply appears adequate?
+
+**Responsive model:** A regulatory asset postpones tariff recovery; repeated deferral adds carrying cost, burdens future consumers and obscures present under-recovery. A long-term PPA can support investment, but rigid take-or-pay capacity, old tariffs or failed fuel assumptions may leave the DISCOM paying for power that is costly or no longer needed. Together they compress cash available for generators, maintenance and consumer service. Reform should disclose deferred balances, ensure timely subsidy, review procurement within lawful rebalancing rules and protect contract credibility. Adequate nameplate supply is insufficient when the buyer's cash flow and contract portfolio are unsustainable.
+
+**Unique scoring rubric:** Award 3 marks for regulatory-asset mechanics, 3 for PPA lock-in, 2 for cash/service transmission and 2 for balanced reform (10 total).
+
+### Concept check
+
+**Question:** AT&C loss falls, but costly PPAs and unpaid subsidy widen the ACS-ARR gap. Has the financial problem been solved?
+
+**Model answer:** No. Commercial recovery improved, but procurement and subsidy under-recovery still leave the utility financially stressed.
+
+**Misconception to avoid:** One improving DISCOM ratio proves complete financial recovery.
+
+### Bridge
+
+Contract lock-in explains one form of inflexibility; Lesson 21 examines another through renewable cannibalisation, storage duration and resource adequacy.
+
+## Lesson 21 - Cannibalisation, storage duration and resource adequacy
+
+Progress: 21 / 24 | Stage: Optional Advanced | Subtopic: Cannibalisation, storage duration and resource adequacy
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried - Advanced owner sections 8-11 on cannibalisation, storage, LCOE and adequacy
+CA search: "Economic Survey 2025-26 CEA storage requirement 336 GWh 411 GWh official"
+CA found: the Survey cites 336 GWh by 2029-30 and 411 GWh by 2031-32 as planning estimates, not installed outcomes.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Price and net-load shapes
+
+```text
+simultaneous solar output -> low midday price -> lower captured solar value
+midday solar lowers net load -> evening solar decline -> steep ramp
+```
+
+Cannibalisation is a market-value effect; the duck curve is a net-demand and ramping effect. Both strengthen the case for transmission, geographic diversity, demand shifting, flexible generation and storage.
+
+### Storage service stack
+
+Storage may earn from arbitrage, peak capacity, ancillary services, congestion relief, network deferral and resilience. The same physical capability must not be paid twice for one event. Duration should fit the need: seconds for frequency, hours for solar shifting, and multi-day stress only when superior to fuel stocks, interconnection or demand flexibility.
+
+### LCOE versus system value
+
+`System value = energy + capacity + flexibility + network/location + externality value.`
+
+LCOE omits timing, location, balancing, transmission, firm capacity and curtailment. Adequacy tests dependable capability under peaks, outages, weather, hydro/fuel uncertainty and storage state of charge—not simple nameplate addition.
+
+### Revision notes
+
+1. Cannibalisation lowers captured price during simultaneous output.
+2. The duck curve describes net demand and ramping.
+3. Storage can stack distinct services.
+4. Double payment for the same capability must be avoided.
+5. Duration must match the system need.
+6. Charging cost and round-trip loss affect storage economics.
+7. LCOE is a plant-cost metric, not complete system value.
+8. Adequacy uses dependable, stress-correlated capability.
+
+### Mains application, responsive model and unique rubric
+
+**Question (10 marks, maximum 150 words):** Why can the lowest-LCOE project be less valuable than a costlier flexibility resource?
+
+**Responsive model:** LCOE compares discounted plant-level energy cost but does not fully capture when and where output arrives, its peak contribution, balancing need, transmission, curtailment or externalities. Additional solar may have a low LCOE yet produce during already-saturated midday hours, lowering its captured value and increasing the evening ramp. A costlier storage, hydro, demand-response or flexible resource may supply scarce peak, reserve or congestion relief. Planning should therefore compare total system cost and dependable contribution under stress, not rank technologies by LCOE alone. The appropriate portfolio combines cheap energy with adequate flexibility, networks and resilience.
+
+**Unique scoring rubric:** Award 2 marks for LCOE limits, 3 for cannibalisation/duck-curve mechanism, 3 for system-value services and 2 for portfolio judgement (10 total).
+
+### Concept check
+
+**Question:** A four-hour battery is proposed for a five-day low-wind event. What is the first economic question?
+
+**Model answer:** Ask whether its duration, charging opportunity and cost can cover the multi-day need more efficiently than interconnection, demand flexibility or fuel-backed capacity.
+
+**Misconception to avoid:** All storage durations are interchangeable because every battery stores electricity.
+
+### Bridge
+
+Electricity portfolios price flexibility across hours. The next lens applies portfolio and insurance logic to oil supply, refining and gas-network exposure.
+
+## Lesson 22 - Oil shocks, import portfolios and fuel-network economics
+
+Progress: 22 / 24 | Stage: Optional Advanced | Subtopic: Oil shocks, import portfolios and fuel-network economics
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried - Advanced owner sections 12-15 on oil shocks, imports, refineries, gas and subsidy reform
+CA search: "official India PNGRB mandate strategic petroleum reserve energy security 2026"
+CA found: the PNGRB official page retrieved 25 September 2026 verifies its midstream/downstream perimeter; failed reserve-page access produced no current volume claim.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Oil-shock macro chain
+
+```text
+global price/supply shock -> import bill -> rupee pressure
+ -> fuel/freight/input inflation -> real-income loss
+ -> monetary, fiscal and growth trade-off
+```
+
+Full pass-through preserves the conservation signal but raises inflation; tax cuts cushion users but cost revenue; general subsidy is fiscally broad; targeted transfers protect vulnerable users; strategic-stock release bridges a temporary disruption but cannot solve chronic dependence.
+
+### Import portfolio
+
+Expected social cost includes purchase price, transport, disruption probability times damage, geopolitical concentration and transition risk. Long-term contracts provide certainty but rigidity; spot purchases provide flexibility but volatility; domestic production has strategic value but geological and ecological limits; inventories buy time at a financing cost.
+
+### Refinery and pipeline coordination
+
+Complex refineries process varied crude but face transition and export-market risks. Pipelines have high fixed and low marginal costs, requiring throughput, open access, anchor demand and coordinated terminals or city-gas expansion.
+
+### Subsidy reform
+
+Classify consumer support, producer support, public-service support and non-pricing of external costs. Replace general suppression gradually with targeted protection and recycle savings toward access, alternatives and resilience.
+
+### Revision notes
+
+1. Oil shocks transmit through imports, exchange rates and inflation.
+2. Monetary tightening cannot create imported fuel.
+3. Strategic stocks bridge disruption but are finite.
+4. Diversification has insurance value.
+5. Long-term and spot contracts trade certainty for flexibility.
+6. Refinery complexity improves crude flexibility but can strand capital.
+7. Gas pipelines need throughput and non-discriminatory access.
+8. Subsidy reform must distinguish poor-user protection from producer rent.
+
+### Mains application, responsive model and unique rubric
+
+**Question (10 marks, maximum 150 words):** Why can a somewhat costlier diversified import portfolio be more secure than the cheapest concentrated source?
+
+**Responsive model:** The cheapest cargo price omits disruption damage. A diversified portfolio spreads exposure across suppliers, routes, firms, contract tenures and fuels, reducing the probability that one geopolitical or logistical shock interrupts the whole system. Long-term contracts add volume certainty; spot purchases add flexibility; domestic output and strategic stocks provide bounded buffers. Diversification can therefore have insurance value even when a marginal source costs more. The portfolio should minimise expected social cost—purchase, infrastructure, disruption, concentration and transition risk—rather than the invoice price or import share alone.
+
+**Unique scoring rubric:** Award 3 marks for expected-social-cost logic, 3 for diversification channels, 2 for contract/stock trade-offs and 2 for the security verdict (10 total).
+
+### Concept check
+
+**Question:** Can a strategic petroleum reserve permanently offset a sustained multi-year price shock?
+
+**Model answer:** No. It is a finite time buffer; sustained exposure requires demand efficiency, diversified supply, infrastructure and structural adjustment.
+
+**Misconception to avoid:** A strategic reserve is a permanent substitute for supply diversification and efficiency.
+
+### Bridge
+
+Diversifying hydrocarbons can reduce one vulnerability while clean technologies create mineral and industrial dependencies. Lesson 23 evaluates that exchange.
+
+## Lesson 23 - Critical minerals, carbon pricing and federal resilience
+
+Progress: 23 / 24 | Stage: Optional Advanced | Subtopic: Critical minerals, carbon pricing and federal resilience
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried - Advanced owner sections 16-20 on minerals, carbon, federalism, cyber/climate and incidence
+CA search: "Economic Survey 2025-26 critical minerals power sector India Energy Stack official"
+CA found: the Survey supplies dated transition-risk and India Energy Stack context; it is not treated as proof of universal deployment.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Dependency-shift map
+
+```text
+lower hydrocarbon exposure
+        |
+        v
+minerals + cells/modules + batteries + electrolysers
+        |
+        v
+processing, technology, recycling and cyber dependencies
+```
+
+Policy should combine domestic exploration with safeguards, overseas partnerships, diversified sourcing, processing capability, justified stocks, recycling, material efficiency, R&D and standards. Poorly calibrated protection can raise transition cost.
+
+### Carbon-price interaction
+
+A carbon price raises fossil variable cost, changes merit order and strengthens low-carbon investment signals, but can raise tariffs and burden coal regions or energy-intensive industry. Predictable trajectories, revenue recycling, competitiveness treatment, lifeline support and avoidance of double counting are essential.
+
+### Federal and resilience matrix
+
+State tariff choices, open-access charges, coal revenue, hydro-water disputes and interstate transmission create federal friction. Cooperative mechanisms include regulator forums, common settlement standards, coordinated adequacy plans and transition finance. Digitisation expands operational capability and cyber attack surface; heat, drought, floods and cyclones can simultaneously affect demand, fuel, generation and networks.
+
+### Incidence test
+
+Ask who pays, owns the subsidised asset, receives reliability, loses employment or revenue, and bears land, pollution and outage cost.
+
+### Revision notes
+
+1. Transition changes rather than abolishes dependencies.
+2. Mineral security includes processing and technology.
+3. Recycling and material efficiency reduce exposure.
+4. Protection can improve resilience but raise cost.
+5. Carbon pricing changes merit order and tariffs.
+6. Revenue recycling affects incidence and legitimacy.
+7. Energy federalism spans tariffs, water, coal and grids.
+8. Cyber and climate risks can create compound outages.
+9. Every reform requires an explicit incidence test.
+
+### Mains application, responsive model and unique rubric
+
+**Question (10 marks, maximum 150 words):** How should India prevent clean-energy industrial policy from replacing one strategic vulnerability with another?
+
+**Responsive model:** Clean energy reduces fuel exposure but raises demand for minerals, processing, cells, batteries, electrolysers, power electronics and software. India should diversify mines, countries and firms; build competitive processing and manufacturing; invest in recycling, material efficiency and R&D; maintain open standards and traceability; and hold stocks only where disruption damage justifies carrying cost. Domestic production needs environmental and community safeguards, while trade partnerships preserve scale and technology access. Success is resilient capability, not autarky or permanent protection. Policy must compare security gains with consumer cost, fiscal burden and the risk of locking into obsolete technology.
+
+**Unique scoring rubric:** Award 3 marks for dependency diagnosis, 3 for portfolio instruments, 2 for safeguards/costs and 2 for the resilience verdict (10 total).
+
+### Concept check
+
+**Question:** A domestic battery subsidy creates one protected supplier and proprietary grid interfaces. Is dependence solved?
+
+**Model answer:** Only partly; import exposure may fall while vendor and technology lock-in rise. Competition, open standards and diversified inputs remain necessary.
+
+**Misconception to avoid:** Domestic assembly alone guarantees mineral, technology and cyber security.
+
+### Bridge
+
+Minerals, carbon prices and federal burdens interact under uncertainty. The final lesson replaces a single forecast with scenarios and robust decision rules.
+
+## Lesson 24 - Scenario evaluation and advanced ENERGY synthesis
+
+Progress: 24 / 24 | Stage: Optional Advanced | Subtopic: Scenario evaluation and advanced ENERGY synthesis
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried - Advanced owner sections 21-23 on dashboards, scenarios and Mains structures
+CA search: "India energy security economic growth sustainability official GS III 2026 question"
+CA found: the audited official-paper route verifies the 2026 energy-security demand; this lesson supplies an answer-neutral evaluation method.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Dashboard before verdict
+
+| Dimension | Metric family |
+|---|---|
+| Access | Connection, hours, quality, clean cooking and affordability |
+| Reliability | Outages, reserve and unserved energy |
+| Distribution | AT&C, billing/collection, ACS-ARR and subsidy receipt |
+| Market | Competition, payment delay, congestion and volatility |
+| Security | Import/source/route concentration, stocks and recovery time |
+| Investment | Cost/time overrun, capital cost, stranding and network readiness |
+| Transition | Capacity and generation mix, emissions and externalities |
+| Inclusion | Lifeline access, region, gender, worker and renter incidence |
+
+### Scenario fan
+
+```text
+high demand/high growth
+rapid efficiency
+high renewables but delayed grids/storage
+fuel/geopolitical shock
+extreme-weather or cyber outage
+```
+
+Test affordability, adequacy, imports, fiscal cost, emissions and distribution under each. One deterministic forecast hides the value of flexibility and recovery capacity.
+
+### Advanced ENERGY answer
+
+`E` energy mix and demand; `N` networks and stocks; `E` economics and tariffs; `R` regulation and resilience; `G` green transition and geopolitics; `Y` yield in services, productivity, inclusion and emissions.
+
+**Verdict rule:** Capacity, target or tariff evidence is necessary but never sufficient. State the mechanism, counter-evidence, subgroup incidence and life-cycle response.
+
+### Revision notes
+
+1. Evaluation starts with explicit criteria.
+2. Access and reliability require separate metrics.
+3. Financial and physical resilience interact.
+4. Import concentration is more informative than import share alone.
+5. Capacity and generation mix are different.
+6. Scenarios expose correlated risks.
+7. Distributional incidence belongs in the main verdict.
+8. The ENERGY spine prevents scheme-list answers.
+9. Evidence should trigger scale, redesign or retirement.
+
+### Mains application, responsive model and unique rubric
+
+**Question (10 marks, maximum 150 words):** Why is scenario analysis superior to one forecast for long-lived energy infrastructure?
+
+**Responsive model:** Energy assets face uncertain demand, fuel prices, technology costs, weather, geopolitics and regulation over decades. One forecast creates false precision and can lock policy into a brittle portfolio. Scenario analysis tests the same plan under high demand, rapid efficiency, delayed grids or storage, fuel shock and extreme-weather or cyber outage. It reveals whether capacity is dependable, contracts remain affordable, imports are diversified and vulnerable users are protected. Policy should prefer options that preserve reliability and adaptation across plausible futures, then use indicators and trigger points to scale, redesign or retire assets. Robustness, not perfect prediction, is the planning objective.
+
+**Unique scoring rubric:** Award 2 marks for uncertainty diagnosis, 3 for scenario construction, 3 for decision use and 2 for the robustness verdict (10 total).
+
+### Concept check
+
+**Question:** A plan succeeds only when fuel prices and demand exactly match one forecast. Is it resilient?
+
+**Model answer:** No. A resilient plan remains serviceable across plausible shocks or contains clear adaptation and exit mechanisms.
+
+**Misconception to avoid:** A precise central forecast removes the need for flexibility and scenario testing.
+
+### Bridge
+
+Optional Advanced depth now closes. Proceed to verified PYQs, cumulative checks and final Mains practice before remediation, master maps and consolidated register notes.
 
 # VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
 
-The entries below preserve the verified repository-ledger demand and paper metadata. Objective questions are treated as concept routes; no unavailable or provisional answer key is inferred.
+The Mains wording below is preserved exactly from the audited paper control used by the canonical owner. Approaches remain answer-neutral. Objective routes retain their verified statement-level demand and key status without assigning an option.
 
-| Year | Paper / Q | Verified demand | Directive / format | Lesson route | Concise answer approach |
-|---:|---|---|---|---:|---|
-| 2018 | GS-III Q1 | Energy access for Sustainable Development Goals in India | Comment; 10 marks; 150 words | 1, 7 | Define access as connection plus reliability, affordability, quality and clean cooking; show health, education, gender and productivity channels; qualify headline coverage |
-| 2018 | Prelims GS-I Q67 | Solar power production, silicon wafers and tariff regulation | Objective; official key unavailable locally | 2, 3, 11 | Separate technology/manufacturing facts from the competent tariff regulator and plant-versus-system economics |
-| 2019 | Prelims GS-I Q74 | PNGRB role and appeals | Objective; official key unavailable locally | 9 | Draw upstream-midstream-downstream; preserve statutory perimeter and appellate distinction |
-| 2020 | GS-III Q16 | Solar benefits versus conventional energy and government initiatives | Describe; 15 marks; 250 words | 11 | Separate economic, ecological and access benefits; add auctions, parks, rooftop, PM-KUSUM, corridors and RPO; qualify variability, land, storage and finance |
-| 2021 | GS-III Q6 | Green Grid Initiative purpose at COP26 and ISA origin | Explain; 10 marks; 150 words | 17 | Distinguish ISA and GGI-OSOWOG; explain time-zone/geographic diversity; add settlement, finance, cyber and sovereignty constraints |
-| 2022 | GS-III Q12 | Renewable-energy 2030 target and shift from fossil-fuel subsidies | Justify; 15 marks; 250 words | 5, 11, 15 | Clarify capacity target and non-fossil boundary; classify support; protect vulnerable users; redirect savings to grids, storage and transition |
-| 2022 | Prelims GS-I Q72 | Coal Controllers Organisation statutory role and functions | Objective; official key unavailable locally | 8 | Distinguish statutory/data/quality functions from commercial production and allocation |
-| 2023 | Prelims GS-I Q66 | Coal thermal plants, seawater and water stress | Objective; official key unavailable locally | 8 | Distinguish freshwater relief from marine intake, discharge, corrosion and ecological costs |
-| 2025 | GS-I | Ecological and economic benefits of solar energy | Mains demand | 11 | Separate ecological and economic headings; include land, materials, intermittency and network qualifications |
-| 2025 | GS-III | Energy independence through clean technology by 2047 | Mains demand | 10, 13, 15 | Efficiency, electrification, clean generation, grids/storage, clean molecules, domestic capability, reserves, DISCOM reform and just transition |
-| 2025 | Prelims GS-I Q60 | Activities regulated by PNGRB | Objective; official Set-A key available locally but not inferred here | 9 | Use official PNGRB perimeter; production of crude oil and natural gas remains excluded |
-| 2025 | Prelims GS-I Q63 | Brazil and USA ethanol feedstock comparison | Objective; official Set-A key available locally but not inferred here | 16 | Compare sugarcane/direct sugar with corn/starch route; connect India to dual-feedstock trade-offs |
-| 2026 | Prelims GS-I Q45 | Green-hydrogen pathways and National Green Hydrogen Mission | Objective; provisional key not inferred | 15 | Cross-reference Environment Topic 25 for engineering; retain energy-system use cases, infrastructure and cost in this topic |
-| 2026 | GS-III Q11 | "Explain the key challenges for India's energy security. What measures do you suggest for ensuring energy security along with economic growth and sustainability?" | 15 marks; 250 words | 10, 15, 18 | Use availability-accessibility-affordability-acceptability-resilience; diagnose imports, grids, utility finance, minerals, climate and cyber risk; propose a diversified, just transition |
+## 2018 GS-III Q1 — exact wording
+
+> “Access to affordable, reliable, sustainable and modern energy is the sine qua non to achieve Sustainable Development Goals (SDGs). Comment on the progress made in India in this regard.”
+
+**Format and route:** 10 marks / 150 words; Lessons 1 and 7. Define service access, trace development channels, qualify connection statistics and reach a balanced progress verdict.
+
+## 2020 GS-III — exact wording
+
+> “Describe the benefits of deriving electric energy from sunlight in contrast to the conventional energy generation. What are the initiatives offered by our Government for this purpose?”
+
+**Format and route:** 15 marks / 250 words; Lesson 11. Separate benefits and initiatives, then qualify variability, land, materials, grids, storage and finance.
+
+## 2021 GS-III Q6 — exact wording
+
+> “Explain the purpose of the Green Grid Initiative launched at the World Leaders Summit of the COP26 UN Climate Change Conference in Glasgow in November 2021. When was this idea first floated in the International Solar Alliance (ISA)?”
+
+**Format and route:** 10 marks / 150 words; Lesson 17. Distinguish ISA from GGI-OSOWOG and explain diversity, settlement, finance, sovereignty and cyber constraints.
+
+## 2022 GS-III — exact wording
+
+> “Do you think India will meet 50 percent of its energy needs from renewable energy by 2030? Justify your answer. How will the shift of subsidies from fossil fuels to renewables help achieve the above objective? Explain.”
+
+**Format and route:** 15 marks / 250 words; Lessons 5, 11 and 15. Preserve target-denominator caution, classify subsidies and protect vulnerable users during reallocation.
+
+## 2025 GS-I — exact wording
+
+> “Explain briefly the ecological and economic benefits of solar energy generation in India with suitable examples.”
+
+**Format and route:** 10 marks / 150 words; Lesson 11. Separate ecological and economic gains and add land, material, intermittency and network qualifications.
+
+## 2025 GS-III Q6 — exact wording
+
+> “How can India achieve energy independence through clean technology by 2047? How can biotechnology play a crucial role in this endeavour?”
+
+**Format and route:** 10 marks / 150 words; Lessons 10, 13, 15 and 16. Link efficiency, electrification, clean supply, grids, storage, biofuels, domestic capability and transition security.
+
+## 2026 GS-III Q11 — exact wording
+
+> “Explain the key challenges for India's energy security. What measures do you suggest for ensuring energy security along with economic growth and sustainability?”
+
+**Format and route:** 15 marks / 250 words; Lessons 10, 15, 18 and 24. Use availability, accessibility, affordability, acceptability and resilience before a diversified just-transition verdict.
+
+## Verified objective routes — answer-neutral
+
+| Year / paper | Verified statement-level demand | Key control | Lesson route |
+|---|---|---|---:|
+| 2018 Prelims GS-I Q67 | Solar-power production, silicon wafers and tariff regulation | Final key unavailable in the audited local set; no option inferred | 2, 3, 11 |
+| 2019 Prelims GS-I Q74 | PNGRB role and appeals | Final key unavailable in the audited local set; no option inferred | 9 |
+| 2022 Prelims GS-I Q72 | Coal Controllers Organisation statutory role and functions | Final key unavailable in the audited local set; no option inferred | 8 |
+| 2023 Prelims GS-I Q66 | Coal-based thermal plants, seawater and water stress | Final key unavailable in the audited local set; no option inferred | 8 |
+| 2025 Prelims GS-I Q60 | Activities regulated by PNGRB | Official Set-A key available locally; answer not reproduced | 9 |
+| 2025 Prelims GS-I Q63 | Brazil and USA ethanol-feedstock comparison | Official Set-A key available locally; answer not reproduced | 16 |
+| 2026 Prelims GS-I Q45 | Green-hydrogen pathways and National Green Hydrogen Mission | Provisional key not inferred | 15 |
 
 ## Directive decoder
 
@@ -2459,121 +2274,22 @@ The entries below preserve the verified repository-ledger demand and paper metad
 | Analyse | Break the causal chain into components |
 | Evaluate / Critically examine | Declare criteria, weigh evidence/counter-evidence and reach a reasoned verdict |
 
-# CUMULATIVE MCQS
+# CUMULATIVE CONCEPT CHECKS
 
-**MCQ 57. Which policy claim is correctly framed?**
+1. Equal MW plants produce unequal annual MWh. Which variable explains the difference?
+2. A state has enough annual energy but shortages at the evening peak. What planning test failed?
+3. A below-cost tariff is announced but the subsidy is unpaid. Where does the cash gap appear?
+4. AT&C loss falls while the ACS-ARR gap rises. Which causes should be investigated?
+5. A crude-importing country exports refined products. Why is this not a contradiction?
+6. Solar tariffs fall but curtailment and payment delays rise. Which system costs were omitted?
+7. A battery earns from arbitrage and reserve. How should double counting be prevented?
+8. Oil supply is diversified but all cargo uses one vulnerable route. Which concentration remains?
+9. Ethanol blending rises while groundwater stress worsens. Which lifecycle trade-off matters?
+10. Non-fossil capacity exceeds half of installed MW. What cannot be inferred about generation?
+11. A coal district loses jobs and revenue after plant retirement. Which just-transition tools fit?
+12. A cyber event and heat wave strike together. Which resilience capabilities should be tested?
 
-A. A dated non-fossil capacity share is evidence about installed MW, not automatically annual MWh
-B. Non-fossil installed-capacity share is identical to non-fossil generation share
-C. Every renewable project is dispatchable
-D. Every commissioned plant supplies reliable retail service
-
-**MCQ 58. A state directs a below-cost farm tariff but delays compensating the DISCOM. What is the most likely immediate financial effect?**
-
-A. Technical line loss falls automatically
-B. The utility's cash gap widens even if the subsidy is recognised on paper
-C. Installed capacity increases
-D. PNGRB becomes the retail tariff regulator
-
-**MCQ 59. Which portfolio best addresses a multi-day fuel or power disruption?**
-
-A. One spot supplier and no inventory
-B. Only nameplate renewable capacity
-C. Diversified supply, inventories, networks, demand response and restoration plans
-D. Permanent universal price suppression
-
-**MCQ 60. Why can rooftop solar create a DISCOM financing tension?**
-
-A. Renters always receive the entire subsidy
-B. Solar panels create crude oil
-C. Rooftop generation eliminates all distribution cost
-D. High-paying consumers may reduce purchases while still relying on the common network
-
-**MCQ 61. Which statement best distinguishes RPO and REC?**
-
-A. RPO is a procurement obligation; REC is a tradable renewable attribute under the framework
-B. Both are names for REC Limited
-C. RPO is a pipeline tariff; REC is a coal grade
-D. Both measure AT&C loss
-
-**MCQ 62. A system has sufficient annual generation but experiences shortages during extreme evening peaks. What is the most relevant planning failure?**
-
-A. Refinery under-complexity
-B. Inadequate dependable peak capacity/flexibility
-C. Excess billing efficiency
-D. Too much strategic oil inventory
-
-**MCQ 63. Which transition policy is most likely to be both efficient and equitable?**
-
-A. Close every fossil asset immediately regardless of reliability
-B. Protect every legacy asset forever
-C. Sequence clean investment and retirement while supporting vulnerable consumers, workers and regions
-D. Subsidise every unit of energy equally
-
-**MCQ 64. Which statement about an energy target is safest?**
-
-A. Assume a target applies to all primary energy when it says power capacity
-B. Treat announcement as generation
-C. Replace the publication date with the current date
-D. State its exact unit, denominator, deadline and status before judging progress
-
-## Answers and explanations
-
-**MCQ 57: A**
-
-- **A - Correct.** It preserves both the unit and denominator.
-- **B - Incorrect.** Technologies have different utilisation and output timing.
-- **C - Incorrect.** Variable renewables depend on resource availability.
-- **D - Incorrect.** Retail delivery also depends on networks, utilities and affordability.
-
-**MCQ 58: B**
-
-- **A - Incorrect.** A fiscal delay does not repair physical conductors.
-- **B - Correct.** Cash needed for power purchase and operations has not arrived.
-- **C - Incorrect.** Revenue recognition does not add generating assets.
-- **D - Incorrect.** PNGRB regulates specified petroleum/gas activities, not electricity retail tariff.
-
-**MCQ 59: C**
-
-- **A - Incorrect.** Concentration and no stock increase vulnerability.
-- **B - Incorrect.** Capacity alone may not be available or deliverable during stress.
-- **C - Correct.** Resilience requires redundancy, buffers, flexibility and recovery.
-- **D - Incorrect.** It creates fiscal strain without ensuring physical supply.
-
-**MCQ 60: D**
-
-- **A - Incorrect.** Renters may be excluded where ownership is required.
-- **B - Incorrect.** Solar converts sunlight into electricity.
-- **C - Incorrect.** Wires, balancing, metering and service still cost money.
-- **D - Correct.** Per-kWh revenue can fall while network fixed costs and backup obligations remain.
-
-**MCQ 61: A**
-
-- **A - Correct.** Obligation and certificate are related but distinct.
-- **B - Incorrect.** REC Limited is a finance company; context matters.
-- **C - Incorrect.** Neither term has those meanings.
-- **D - Incorrect.** AT&C is a distribution-recovery metric.
-
-**MCQ 62: B**
-
-- **A - Incorrect.** Refinery capability concerns liquid fuels.
-- **B - Correct.** Annual energy sufficiency can coexist with stress-hour inadequacy.
-- **C - Incorrect.** Better billing does not create peak power.
-- **D - Incorrect.** Petroleum stock does not directly solve electrical peak capability.
-
-**MCQ 63: C**
-
-- **A - Incorrect.** Reliability failure can damage welfare and political support.
-- **B - Incorrect.** Permanent protection locks in cost and pollution.
-- **C - Correct.** It coordinates reliability with distributional protection.
-- **D - Incorrect.** Uniform subsidy is poorly targeted and weakens price signals.
-
-**MCQ 64: D**
-
-- **A - Incorrect.** Sector and denominator cannot be broadened without evidence.
-- **B - Incorrect.** Announcement and output are different stages.
-- **C - Incorrect.** Publication vintage must be retained.
-- **D - Correct.** Accurate status and units precede evaluation.
+**Retrieval rule:** Answer with the relevant identity or value chain, the failed link, one India-centric institution or instrument and a qualified remedy.
 
 # ORIGINAL 10-, 15- AND 20-MARK MAINS MODEL PRACTICE
 
@@ -2583,11 +2299,15 @@ D. State its exact unit, denominator, deadline and status before judging progres
 
 **Model solution:** Installed capacity is the rated instantaneous power of generating assets, measured in MW or GW. Generation is electrical energy actually produced over time, measured in MWh, GWh or billion units. Capacity factor compares actual generation with the output possible at continuous full rating; it indicates utilisation, not efficiency. Resource adequacy asks whether dependable capability can meet demand under peak load, outages, weather variation, fuel uncertainty and storage constraints. Thus equal capacity can produce unequal energy, while high annual generation can still coexist with shortage during a stress hour.
 
+**Scoring rubric:** Award 2 marks for definitions, 3 for distinctions, 3 for adequacy implications and 2 for the conclusion (10 total).
+
 ## Practice 2 - 10 marks / 150 words
 
 **Question:** Why is the DISCOM described as the commercial hinge of the power sector?
 
 **Model solution:** The DISCOM purchases power, uses transmission and distribution networks, meters and bills consumers, collects revenue and maintains last-mile service. If tariffs are inadequate, subsidy is delayed, billing or collection is weak, PPAs are costly or debt is high, the utility delays generator payments and network investment. Generation capacity can therefore coexist with outages and poor access. Reform must combine energy accounting, technical upgrades, accurate metering, timely tariffs and subsidy, procurement review, professional governance and consumer grievance redress.
+
+**Scoring rubric:** Award 2 marks for DISCOM role, 3 for the cash-flow mechanism, 3 for reform and 2 for the service verdict (10 total).
 
 ## Practice 3 - 15 marks / 250 words
 
@@ -2595,142 +2315,48 @@ D. State its exact unit, denominator, deadline and status before judging progres
 
 **Model solution:** Transmission and distribution wires have large fixed costs, scale economies and network externalities; duplicating complete networks is generally inefficient. Real-time system operation also requires a neutral coordinating authority. Generation, trading and some retail functions, however, can support competition when network access, metering and settlement are reliable. Market design should therefore regulate monopoly wires, scrutinise investment and returns, mandate non-discriminatory access and enforce service obligations, while procuring generation competitively and enabling trading. The difficult issue is fixed-cost recovery when high-paying consumers migrate to captive or rooftop supply. Fair network charges, lifeline protection and transparent subsidies are preferable to either unregulated monopoly or artificial duplication.
 
+**Scoring rubric:** Award 3 marks for natural-monopoly logic, 4 for layer-specific design, 5 for market/regulatory safeguards and 3 for the judgement (15 total).
+
 ## Practice 4 - 15 marks / 250 words
 
 **Question:** Evaluate strategic petroleum reserves as an instrument of energy security.
 
 **Model solution:** Strategic reserves can bridge a temporary supply disruption, moderate panic and provide time for diplomatic, logistical or demand responses. Their value rises with import concentration, shipping vulnerability and long replacement times. They are nevertheless finite and costly: crude must be purchased, financed, stored, rotated and released under clear rules. Reserves cannot correct chronic import dependence, weak refining/product logistics or sustained high prices. They should therefore complement diversified suppliers and routes, commercial inventories, efficient demand, domestic production where viable and strong ports/pipelines. Success should be judged by days of effective disruption coverage and release capability, not nominal storage volume alone.
 
-## Practice 5 - 20 marks / 250-300 words
+**Scoring rubric:** Award 3 marks for reserve purpose, 4 for limitations, 5 for the wider security portfolio and 3 for the verdict (15 total).
+
+## Practice 5 - 20 marks / maximum 250 words
 
 **Question:** Renewable-energy expansion can weaken as well as strengthen electricity-market finances. Discuss.
 
 **Model solution:** Renewable generation lowers fuel exposure, operating emissions and short-run marginal cost. Competitive procurement and modular deployment can reduce project prices. Yet simultaneous solar or wind output can depress captured prices, while the system still needs transmission, reserves, storage and flexible capacity. Thermal or hydro assets used only during scarcity may face a missing-money problem. Rooftop and open-access migration can reduce DISCOM sales from high-paying consumers while common network costs remain. Curtailment and payment delay further raise financing cost. Reform should coordinate generation and transmission, procure flexibility and adequacy, permit compatible storage revenue stacking, use time-of-day tariffs and demand response, and recover network cost fairly. Renewable expansion strengthens finances when it reduces total social cost and payment risk; it weakens them when project tariffs are treated as the whole system cost.
 
-## Practice 6 - 20 marks / 250-300 words
+**Scoring rubric:** Award 4 marks for renewable benefits, 6 for market-finance risks, 6 for system reforms and 4 for the reasoned conclusion (20 total).
+
+## Practice 6 - 20 marks / maximum 250 words
 
 **Question:** Design an integrated policy for India's energy security that also protects growth, equity and sustainability.
 
 **Model solution:** Begin with efficient demand: appliance and building standards, industrial efficiency, public transport and demand response. Diversify domestic and imported oil, gas, coal and electricity sources, routes and contract tenures; maintain strategic and commercial stocks; strengthen ports, rail, pipelines, grids and storage. Expand renewables, hydro and nuclear according to system value, while reforming DISCOM tariffs, subsidy payment, procurement and governance. Develop critical-mineral partnerships, domestic processing, recycling, R&D and cyber standards. Use targeted lifeline support rather than universal price suppression. Sequence fossil-asset retirement with dependable alternatives and support workers, coal districts and affected states. Evaluate success through affordability, reliability, import concentration, fiscal exposure, emissions, access and recovery time. Security is diversified resilience, not costly autarky.
 
+**Scoring rubric:** Award 4 marks for demand and supply security, 6 for networks/finance, 6 for equity/sustainability/resilience and 4 for the integrated verdict (20 total).
+
 # REMEDIATION
 
-## Error map
-
-| Predictable error | Repair rule |
-|---|---|
-| Treating MW as MWh | Ask whether the statement concerns instantaneous power or energy over time |
-| Treating capacity share as generation share | State denominator before comparison |
-| Merging subsidy and cross-subsidy | Name the payer: budget or another consumer class |
-| Using AT&C and ACS-ARR interchangeably | Separate energy-to-cash loss from cost-revenue gap |
-| Calling every low-carbon source renewable | Nuclear is non-fossil but normally not renewable |
-| Assigning upstream production to PNGRB | Draw the petroleum value chain first |
-| Treating cheap renewable tariff as total system cost | Add network, balancing, adequacy and finance |
-| Equating energy independence with zero trade | Use resilience and diversification |
-| Presenting a Bill as law | Record legislative status and commencement |
-| Treating storage as generation | Track charging input, loss and discharge service |
-
-### Remedial MCQs
-
-**MCQ 65. A state's AT&C loss falls, but its ACS-ARR gap rises. Which explanation is possible?**
-
-A. Billing/collection improved while power-purchase cost rose or tariff/subsidy recovery worsened
-B. The two indicators are mathematically identical
-C. Technical loss must have become negative
-D. Installed capacity must have fallen
-
-**MCQ 66. Which statement is correct?**
-
-A. Nuclear is always classified as renewable
-B. Non-fossil can include nuclear and hydro in addition to renewable sources
-C. Every renewable source is dispatchable
-D. Coal with efficient technology becomes renewable
-
-**MCQ 67. A news report says a 500 GW target has been "met" because annual generation crossed 500 GWh. What is the core error?**
-
-A. Both are measures of tariff
-B. GWh is always larger than GW
-C. It confuses installed-power capacity with energy generated
-D. Generation is never measured
-
-**MCQ 68. Which transaction is a cross-subsidy rather than an explicit state subsidy?**
-
-A. A generator receives payment under a PPA
-B. The state transfers budget funds to the DISCOM
-C. A bank refinances utility debt
-D. Industrial users are charged above cost to support a below-cost household category
-
-**MCQ 69. Why is a battery not a primary energy source?**
-
-A. It stores converted energy and returns less energy than it received
-B. It has no power rating
-C. It cannot provide frequency response
-D. It is always fossil-fuelled
-
-**MCQ 70. Which statement best repairs the phrase "India should eliminate energy imports for security"?**
-
-A. Every import is necessarily insecure
-B. India should reduce vulnerability through efficiency, diversity, buffers and viable domestic capacity rather than pursue autarky at any cost
-C. Domestic energy has no environmental cost
-D. Strategic reserves make diversification unnecessary
-
-**MCQ 71. An amendment Bill is discussed in an official Survey. Which statement is valid?**
-
-A. Every provision is already enforceable
-B. The Survey itself enacted the Bill
-C. The Bill is a proposal unless enactment and commencement are separately verified
-D. All state regulations automatically lapse
-
-## Answers and explanations
-
-**MCQ 65: A**
-
-- **A - Correct.** Better energy recovery can coexist with a worsening cost-tariff-fiscal balance.
-- **B - Incorrect.** They measure different dimensions.
-- **C - Incorrect.** Negative technical loss is not required.
-- **D - Incorrect.** Installed capacity does not mechanically determine the utility gap.
-
-**MCQ 66: B**
-
-- **A - Incorrect.** Nuclear is generally treated as non-fossil/low-carbon, not renewable.
-- **B - Correct.** Non-fossil is the broader category in the relevant target language.
-- **C - Incorrect.** Solar and wind are variable.
-- **D - Incorrect.** Efficiency does not change coal's fossil character.
-
-**MCQ 67: C**
-
-- **A - Incorrect.** GW/GWh are physical power and energy units.
-- **B - Incorrect.** The units measure different quantities and cannot be ranked that way.
-- **C - Correct.** The target and reported outcome use different dimensions.
-- **D - Incorrect.** Generation is a valid measured outcome.
-
-**MCQ 68: D**
-
-- **A - Incorrect.** It is contractual power-payment expenditure.
-- **B - Incorrect.** This is explicit fiscal subsidy.
-- **C - Incorrect.** Refinancing changes debt terms.
-- **D - Correct.** One consumer class finances another through tariff design.
-
-**MCQ 69: A**
-
-- **A - Correct.** They shift secondary energy and incur round-trip loss.
-- **B - Incorrect.** Batteries have power and energy ratings.
-- **C - Incorrect.** Fast frequency response is a major battery service.
-- **D - Incorrect.** Charging source can vary.
-
-**MCQ 70: B**
-
-- **A - Incorrect.** Diversified imports can improve resilience.
-- **B - Correct.** It replaces autarky with a portfolio-security objective.
-- **C - Incorrect.** Domestic extraction and generation have social costs.
-- **D - Incorrect.** Stocks and diversification address different risks.
-
-**MCQ 71: C**
-
-- **A - Incorrect.** Proposal is not operative law.
-- **B - Incorrect.** An Economic Survey is not a legislative enactment.
-- **C - Correct.** Separate legal verification is mandatory.
-- **D - Incorrect.** State regulations continue subject to valid law and orders.
+| Predictable error | Return lesson | Corrective drill |
+|---|---:|---|
+| MW treated as MWh | 1 | Calculate annual energy at two capacity factors. |
+| Capacity share treated as generation share | 1, 11 | State the denominator and utilisation difference. |
+| Every layer treated as competitive | 2, 19 | Classify monopoly, coordination and contestable functions. |
+| Subsidy merged with cross-subsidy | 5 | Identify the actual payer and timing. |
+| AT&C equated with ACS-ARR | 6, 20 | Rebuild the DISCOM cash-flow identity. |
+| Connection treated as access | 7 | Walk through the complete access ladder. |
+| PNGRB assigned upstream production | 9 | Draw upstream-midstream-downstream. |
+| Energy security equated with autarky | 10, 22 | Build a diversified expected-cost portfolio. |
+| Renewable tariff treated as system cost | 11, 12, 21 | Add timing, grid, flexibility and adequacy. |
+| Storage treated as generation | 12, 21 | Track charging, loss, duration and discharge service. |
+| Transition treated as dependency-free | 15, 23 | Map minerals, equipment, technology and workers. |
+| One forecast treated as certainty | 18, 24 | Stress-test with five scenarios. |
 
 # MASTER COMPARISON, CAUSAL AND ARGUMENT MAPS
 
@@ -3020,112 +2646,76 @@ Always pair an achievement with its qualification:
 
 | Canonical / advanced / PYQ requirement | Primary lesson(s) | Practice / final evidence |
 |---|---:|---|
-| Primary, secondary, final and useful energy | 1 | MCQ 1-2; Register 1-2 |
-| MW/MWh, capacity, generation, peak, capacity factor, PLF | 1 | Calculation; MCQ 1, 46, 56; Practice 1 |
-| Access as service ladder | 1, 7 | 2018 PYQ; MCQ 16; Register 7 |
-| Electricity balance and value chain | 2 | MCQ 3-5; Map 1 |
+| Primary, secondary, final and useful energy | 1 | Vocabulary ladder; Register 1-2 |
+| MW/MWh, capacity, generation, peak, capacity factor, PLF | 1 | Numerical example; lesson check; Practice 1 |
+| Access as service ladder | 1, 7 | 2018 PYQ; lesson checks; Register 7 |
+| Electricity balance and value chain | 2 | Balance board; Map 1 |
 | Natural monopoly and contestable layers | 2 | Practice 3; Map 7 |
 | Externalities, lock-in and welfare model | 2, 14, 15 | Lesson objections; Register 13 |
-| Electricity Act, institutions and Concurrent List | 3 | MCQ 6-7, 60; Register 3-4 |
-| CEA/CERC/SERC/APTEL/Grid-India/CTU/STU/SLDC/DISCOM | 3 | Institutional map; MCQ 6 |
-| Procurement, PPAs, exchanges, merit order | 4 | MCQ 8-10; Practice 5 |
-| Missing money and resource adequacy | 4, 12 | MCQ 30, 51; Maps 2, 4 |
-| Two-part tariff, subsidy, cross-subsidy, regulatory assets | 5 | MCQ 11-12, 57; Register 6 |
-| Cross-subsidy death spiral and reform sequence | 5 | Mains drill; cumulative MCQ 49 |
-| DISCOM cash flow, AT&C, ACS-ARR | 6 | Calculation; MCQ 13-15, 54; Practice 2 |
+| Electricity Act, institutions and Concurrent List | 3 | Institutional matrix; Register 3-4 |
+| CEA/CERC/SERC/APTEL/Grid-India/CTU/STU/SLDC/DISCOM | 3 | Institutional map; lesson check |
+| Procurement, PPAs, exchanges and merit order | 4 | Market sequence; final Practice 5 |
+| Missing money and resource adequacy | 4, 12, 21 | Lesson models; Maps 2 and 4 |
+| Two-part tariff, subsidy, cross-subsidy and regulatory assets | 5, 19, 20 | Tariff incidence visual; advanced cash-flow model |
+| Cross-subsidy death spiral and reform sequence | 5 | Lesson model; cumulative check 3 |
+| DISCOM cash flow, AT&C and ACS-ARR | 6, 20 | Calculation; lesson checks; Practice 2 |
 | UDAY, RDSS, smart meters and governance limits | 6, 13 | Lesson drills; Register 6, 12 |
 | Access programmes and productive-use energy | 7 | Programme table; 2018 PYQ |
-| Distributional incidence | 5, 7, 15 | MCQ 17, 52; Register 7, 13 |
-| Coal value chain, quality, resource/reserve, institutions | 8 | 2022/2023 Prelims routes; MCQ 18-20 |
+| Distributional incidence | 5, 7, 15 | Incidence analysis; Register 7 and 13 |
+| Coal value chain, quality, resource/reserve and institutions | 8 | 2022/2023 Prelims routes; lesson check |
 | Coal water, pollution and just transition | 8, 15 | Mains drills; Register 8 |
-| Oil/gas upstream-midstream-downstream | 9 | MCQ 21-22; Map 1 |
+| Oil/gas upstream-midstream-downstream | 9 | Segment map; Map 1 |
 | PNGRB perimeter | 9 | 2019/2025 Prelims; live official source |
 | Refinery, pipeline and gas-network economics | 9 | Lesson mechanism; Register 9 |
 | Petroleum price/tax distinction | 9 | Revision notes; source caution |
-| Five-dimensional energy security | 10 | 2026 GS-III; MCQ 23-25; Map 6 |
+| Five-dimensional energy security | 10, 24 | 2026 GS-III; ENERGY spine; Map 6 |
 | Oil-shock macroeconomics | 10 | Policy-response table; Map 5 |
-| Import portfolio and strategic reserves | 10 | Practice 4; MCQ 48 |
-| Renewable auctions, RPO, REC, curtailment | 11 | 2020/2022/2025 PYQs; MCQ 27, 50 |
-| LCOE versus system value | 11 | MCQ 26; Practice 5 |
-| Cannibalisation and duck curve | 11, 12 | MCQ 28; Map 4 |
-| Storage revenue stacking, duration and cost | 12 | MCQ 29, 58; Register 11 |
-| Efficiency, PAT, UJALA, rebound | 13 | MCQ 31; Register 12 |
-| India Energy Stack, smart grids, cyber/privacy | 13, 17 | MCQ 32; climate/cyber scenario |
-| Bankability, cost of capital, stranded assets | 14 | MCQ 33-35; Register 13 |
-| Critical minerals and industrial policy | 15 | MCQ 36; 2025 clean-tech PYQ |
-| Carbon-price interaction | 15 | MCQ 37; Register 13 |
+| Import portfolio and strategic reserves | 10, 22 | Practice 4; advanced portfolio model |
+| Renewable auctions, RPO, REC and curtailment | 11 | 2020/2022/2025 PYQs; lesson model |
+| LCOE versus system value | 11, 21 | Lesson checks; Practice 5 |
+| Cannibalisation and duck curve | 11, 12, 21 | Causal visual; Map 4 |
+| Storage revenue stacking, duration and cost | 12, 21 | Portfolio visual; Register 11 |
+| Efficiency, PAT, UJALA and rebound | 13 | Demand-side chain; Register 12 |
+| India Energy Stack, smart grids, cyber and privacy | 13, 17 | Architecture visual; climate/cyber scenario |
+| Bankability, cost of capital and stranded assets | 14 | Finance chain; Register 13 |
+| Critical minerals and industrial policy | 15, 23 | Dependency map; 2025 clean-tech PYQ |
+| Carbon-price interaction | 15, 23 | Policy-interaction model; Register 13 |
 | Environmental safeguards | 2, 8, 15 | Risk table; welfare model |
-| Ethanol feedstocks and trade-offs | 16 | 2025 Prelims Q63; MCQ 38-40 |
-| ISA versus GGI-OSOWOG | 17 | 2021 GS-III; MCQ 41-42 |
+| Ethanol feedstocks and trade-offs | 16 | 2025 Prelims Q63; comparison table |
+| ISA versus GGI-OSOWOG | 17 | 2021 GS-III; institutional distinction |
 | Energy federalism | 3, 17 | Federal discussion; Register 15 |
 | Climate and cyber resilience | 13, 17, 18 | Hazard table; scenario method |
-| Evaluation dashboard and scenarios | 18 | MCQ 43-45, 53; ENERGY spine |
+| Evaluation dashboard and scenarios | 18, 24 | ENERGY spine; cumulative checks; scenario model |
+| Natural monopoly, contestability and two-part tariffs | 19 | Optional advanced layer test and welfare model |
+| Regulatory assets, PPA rigidity and DISCOM liquidity | 20 | Optional advanced cash-flow chain |
+| Cannibalisation, flexibility value and adequacy | 21 | Optional advanced residual-load visual |
+| Oil shocks, refinery/gas networks and import portfolios | 22 | Optional advanced shock-and-insurance model |
+| Critical minerals, carbon pricing and federal resilience | 23 | Optional advanced dependency and policy map |
+| Robust scenario evaluation and synthesis | 24 | Optional advanced decision matrix and ENERGY synthesis |
 | Original 10/15/20-mark practice | 1-18 and final arc | Six final model solutions plus lesson drills |
-| Continuous misconception remediation | All lessons | MCQ 54-60 and error map |
+| Continuous misconception remediation | All lessons | One lesson-specific misconception per lesson and final error map |
 
 # SOURCE LEDGER
 
-## A. Authoritative repository instructions
+## SOURCE-MANIFEST GATE
 
-| Source | Use |
-|---|---|
-| `instructions\README.md` | Instruction registry and authority |
-| `instructions\GENERATION-OPTIMIZATION-AND-INTEGRITY.md` | No-compromise, quarantine and integrity rules |
-| `live_sessions\LIVE-SESSION-GENERATION-RULES.md` | Sole live-session structure and validation contract |
-| `upsc-ai-kit\knowledge\Economy\LEARNING-SESSION-COMMAND-INDEX.md` | Canonical Topic 31 title and sequence |
-
-## B. Topic 31 Markdown owners
-
-| Source | Use and limitation |
-|---|---|
-| `Economy\basic\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md` | Core boundary, definitions, value chains, institutions, programmes, dated anchors and PYQ ownership |
-| `Economy\advanced\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md` | Welfare model, two-part tariff, death spiral, regulatory assets, missing money, storage, system value, scenario method and resilience |
-| `Economy\31_..._Learner-V2-Complete-Topic-Package.md` | Completeness cross-check only; repetitive generated shell not reproduced |
-| `Economy\learning-sessions\v2\subject-wide-syllabus\economy-31_Learning-Session.md` | Legacy coverage cross-check only |
-| `Economy\learning-sessions\v2\subject-wide-syllabus\economy-31_Solved-Workbook.md` | Misconception and practice inventory; new questions independently written |
-
-## C. Verified PYQ ledgers and papers
-
-| Source | Verified use |
-|---|---|
-| `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md` | 2018 access, 2020 solar, 2021 GGI/ISA, 2022 renewable target |
-| `_PYQ-ROUTING-PRELIMS-2018-2023.md` | 2018 solar/regulation, 2019 PNGRB, 2022 Coal Controller, 2023 thermal-water |
-| `_PYQ-ROUTING-PRELIMS-2024-2025.md` | 2025 PNGRB and ethanol demands |
-| `_PYQ-GS3-2026.md` | Exact 2026 GS-III Q11 energy-security demand |
-| `_PYQ-ROUTING-PRELIMS-2026.md` | 2026 green-hydrogen cross-link; provisional key not used |
-| `books\mains\2026\QP-CSM-26-010926-GENERAL-STUDIES-PAPER-III.pdf` | Official-paper provenance for 2026 demand through audited ledger |
-
-## D. OCR-searchable local books and official PDF
-
-| Source | Evidence used | Limitation |
+| Category | Status | Evidence or reason |
 |---|---|---|
-| `books\Indian economy ramesh singh.pdf` | Historical UDAY/DISCOM, petroleum, renewable and infrastructure formulations | Older edition; no old figure treated as current |
-| `books\economic-survey-2025-26.pdf` | Official cross-subsidy box; power-sector discussion; 51.93% non-fossil capacity at end-Dec 2025; 336/411 GWh CEA storage estimates; India Energy Stack discussion; critical-mineral risks; ethanol box and dated August 2025 figures | Publication-period evidence, not a September 2026 live dashboard |
+| Canonical Markdown | checked | `upsc-ai-kit\knowledge\Economy\basic\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md` audited for complete Core ownership |
+| Final learner package | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule |
+| Layered/complete session | checked | Existing Topic 31 target was used only as the permitted in-place baseline for retained teaching and provenance before structural replacement |
+| Solved workbook | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule |
+| Advanced dossier | checked | `upsc-ai-kit\knowledge\Economy\advanced\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md` mapped only after complete Core |
+| OCR books | checked | `books\Indian economy ramesh singh.pdf` and official `books\economic-survey-2025-26.pdf` supplied stable concepts and dated evidence without unsupported updates |
+| PYQs through 2026 | checked | Canonical owner-integrated audited routing metadata and the official-paper-controlled 2026 GS-III demand were preserved answer-neutrally |
+| Official live sources | checked | PNGRB official page was retrieved 25 September 2026; blocked or shell-only CEA, Power Ministry, BEE, PIB, Grid-India and ISPRL pages produced no invented current claim |
 
-## E. Live official sources and retrieval results
+## Detailed permitted provenance
 
-| Source | Retrieved 25 September 2026 | Use |
-|---|---|---|
-| `https://www.pngrb.gov.in/eng-web/` | Substantive official page fetched | Confirms Act-based mandate and exclusion of crude-oil/natural-gas production |
-| `https://cea.nic.in/dashboard/?lang=en` | Generic HTML shell; no reliable current values exposed | No live capacity/generation figure imported |
-| `https://beeindia.gov.in/en/programmes/perform-achieve-and-trade-pat` | Redirected to generic BEE home page | PAT treated through stable canonical architecture only |
-| `https://powermin.gov.in/en/content/overview` | HTTP 403 | No claim imported from failed fetch |
-| PIB energy pages attempted | HTTP 403 or search failure | No current numerical claim imported |
-| `https://www.isprlindia.com/aboutus.asp` | Transport/DNS/TLS failure | Strategic reserve architecture taught without unverified live capacity |
-| `https://grid-india.in/about-us/` | Page exposed only minimal title content | Institutional function retained from canonical verified owner |
-
-## F. Mutable-claim register
-
-| Claim | Publication/status discipline |
-|---|---|
-| 51.93% non-fossil installed capacity | Economic Survey 2025-26; end-December 2025; capacity, not generation |
-| 336 GWh by 2029-30 and 411 GWh by 2031-32 storage | CEA estimates cited by Survey; planning requirement, not installed outcome |
-| Electricity (Amendment) Bill, 2025 | Survey-discussed proposal; not presented as enacted law or confused with the separately notified Electricity (Amendment) Rules, 2026 |
-| India Energy Stack | Survey-described architecture; not presented as universal deployment |
-| Ethanol forex/crude-substitution totals | Survey-reported cumulative figures as of August 2025; not updated by inference |
-| PNGRB production exclusion | Live official page retrieved 25 September 2026 |
-| 2026 energy-security PYQ | Official paper route; exact question preserved |
-
-## G. Source limitations and integrity statement
-
-Qdrant was not used because repository Markdown, OCR-searchable PDFs, official PYQ ledgers and available live official material were sufficient. Failed, blocked, shell-only or redirecting government pages are recorded rather than treated as evidence. No live September 2026 capacity, generation, import-dependence, reserve-volume, tariff, fuel-price, AT&C-loss or ACS-ARR figure is asserted. Cross-topic technology detail is referenced to its owner instead of duplicated.
+- Core owner: `upsc-ai-kit\knowledge\Economy\basic\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md`.
+- Optional Advanced owner: `upsc-ai-kit\knowledge\Economy\advanced\31_Energy-Infrastructure-Economics-Power-Fuels-and-Energy-Security.md`.
+- Official local evidence: `books\economic-survey-2025-26.pdf`; 51.93% non-fossil installed capacity is dated end-December 2025, while 336 GWh and 411 GWh storage values are CEA planning estimates cited by the Survey.
+- Older OCR context: `books\Indian economy ramesh singh.pdf`; no historical statistic is represented as current.
+- Live statutory perimeter: `https://www.pngrb.gov.in/eng-web/`, retrieved 25 September 2026; upstream crude-oil and natural-gas production remains outside the PNGRB perimeter used here.
+- PYQ provenance: canonical owner-integrated audited routing metadata for 2018-2025 and the official-paper-controlled 2026 GS-III energy-security demand. Objective keys are not inferred.
+- Access limitations: failed, blocked, redirecting or shell-only government pages are recorded as limitations. No live 2026 capacity, generation, import-dependence, reserve-volume, fuel-price, AT&C-loss or ACS-ARR value is asserted.
