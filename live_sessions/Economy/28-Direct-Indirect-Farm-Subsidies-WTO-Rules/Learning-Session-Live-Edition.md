@@ -16,25 +16,39 @@
 | Core | 10 | How do credit and insurance subsidies address different failures? |
 | Core | 11 | How should MSP, procurement and price-deficiency support be kept distinct? |
 | Core | 12 | Why is the distribution of farm support often unequal and politically persistent? |
-| Advanced | 13 | Where do domestic subsidies fit within the WTO Agreement on Agriculture? |
-| Advanced | 14 | What legal tests separate Green, Blue, Amber and Article 6.2 support? |
-| Advanced | 15 | How are de minimis and AMS thresholds calculated? |
-| Advanced | 16 | Why is WTO market price support not the same as budget expenditure? |
-| Advanced | 17 | Why do developing countries call the existing architecture structurally asymmetric? |
-| Advanced | 18 | What exactly does the Bali public-stockholding shield protect after MC14? |
-| Advanced | 19 | What do notification, Committee questions and counter-notification actually do? |
-| Synthesis | 20 | How should India redesign support without exposing farmers to abrupt transition costs? |
+| Core | 13 | Where do domestic subsidies fit within the WTO Agreement on Agriculture? |
+| Core | 14 | What legal tests separate Green, Blue, Amber and Article 6.2 support? |
+| Core | 15 | How are de minimis and AMS thresholds calculated? |
+| Core | 16 | Why is WTO market price support not the same as budget expenditure? |
+| Core | 17 | Why do developing countries call the existing architecture structurally asymmetric? |
+| Core | 18 | What exactly does the Bali public-stockholding shield protect after MC14? |
+| Core | 19 | What do notification, Committee questions and counter-notification actually do? |
+| Core synthesis | 20 | How should India redesign support without exposing farmers to abrupt transition costs? |
+| Optional Advanced | 21 | How do statutory, budget and economic incidence diverge in a price-wedge model? |
+| Optional Advanced | 22 | How should instrument choice, coupling and second-best capacity be combined? |
+| Optional Advanced | 23 | Why do subsidy systems become politically durable and mutually reinforcing? |
+| Optional Advanced | 24 | How should targeting, equity, fiscal cost and opportunity cost be audited? |
+| Optional Advanced | 25 | How should WTO classification and public-stockholding controversies be argued beyond box labels? |
+| Optional Advanced | 26 | How can reform scenarios be stress-tested before implementation? |
 
-**Current-status discipline.** Mutable official claims are tied to a publication, decision, report-status or retrieval date. Official web pages and Union Budget 2026-27 documents used here were retrieved or status-checked on **25 September 2026**. Older Ramesh Singh material is used only for stable concepts and is explicitly treated as an older-edition source.
+**Core-first lock.** Lessons 1-20 complete the syllabus, Indian instruments, incidence,
+environmental and fiscal effects, WTO law, current status and answer architecture. Lessons
+21-26 are a separate enrichment block and are not required for a competent Core answer.
+
+**Current-status discipline.** Mutable official claims are tied to a publication, decision,
+report status or retrieval date. Official Agriculture, Fertilisers, Union Budget and WTO
+sources used here were retrieved or status-checked through **3 October 2026**. Older Ramesh
+Singh material is used only for stable concepts and is explicitly treated as an
+older-edition source.
 
 ## Lesson 1 - Why agriculture receives support
 
-**Progress: 1 / 20 | Stage: Foundation | Subtopic: Market failure, distribution, food security, risk, externalities and transition**
+Progress: 1 / 26 | Stage: Foundation | Subtopic: Market failure, distribution, food security, risk, externalities and transition
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical Economy 28 files, older-edition Ramesh Singh farm-subsidy chapter and Economic Survey 2025-26 agriculture chapter
 CA search: "India official agricultural income support fertiliser efficiency food security Economic Survey 2025-26"
-CA found: Economic Survey 2025-26 agriculture chapter, published January 2026, links productivity, income support, insurance and input-use efficiency; retrieved 25 September 2026.
+CA found: Economic Survey 2025-26 agriculture chapter, published January 2026, links productivity, income support, insurance and input-use efficiency; retrieved 3 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual: objective before instrument
@@ -78,51 +92,31 @@ Yet support can outlive its purpose. A temporary price-shock cushion may become 
 7. A justified objective does not automatically justify every instrument.
 8. Final evaluation includes incidence, distortion, ecology, fiscal cost and durability.
 
-### Lesson Mains micro-model
+### Responsive Mains practice and model
 
-**Question:** Why can farm support be economically justified even when it distorts some prices?
-**Model:** Identify food security, missing risk/credit markets, positive externalities and equity. Then state that price distortion may be a second-best cost, not proof of irrationality. Judge whether the intervention is targeted, additional, temporary where appropriate and less costly than the uncorrected failure. Conclude that support must protect capability without permanently rewarding resource depletion.
+**Mains prompt:** Why can farm support be economically justified even when it distorts some prices?
 
-### Local practice - 2 MCQs
+**Word ceiling:** 150 words
 
-**MCQ 1. Which sequence is the soundest method for evaluating a farm subsidy?**
+**Model response:** Farm support can be justified because agriculture combines correlated weather risk, seasonal credit gaps, knowledge spillovers and a strategic food-security function. A price distortion may therefore be a second-best cost of correcting a larger failure or protecting low-income cultivators. The case is strongest when support changes socially useful behaviour, such as resilience investment, rather than paying for an action that would occur anyway. It weakens when suppliers or large users capture the benefit, ecological damage exceeds the gain, or recurring subsidy crowds out research and infrastructure. The proper verdict is conditional: protect capability and equity, but choose the least costly instrument and review it when the original failure changes.
 
-A. Identify the failure, choose an instrument, trace incidence and test net outcomes.
-B. Identify the scheme name, call it welfare and compare its budget with GDP.
-C. Classify every payment as Green Box before studying its design.
-D. Measure only the amount received by the statutory beneficiary.
+**Unique scoring rubric:** Award for separating market failure, equity and food security; naming one second-best cost; and giving a conditional verdict.
 
-**MCQ 2. Additionality is strongest when:**
+### Concept check
 
-A. recipients would have undertaken the same action without support.
-B. support causes a socially desirable action that otherwise would not occur.
-C. the budget outlay is larger than last year.
-D. the programme has existed for many years.
+**Question:** A subsidy lowers an input price but does not address any identifiable market failure or equity goal. What is the first analytical objection?
 
-#### Answers and explanations
+**Model answer:** Instrument choice has preceded diagnosis. The state must first identify the failure or distributional objective, then test whether the subsidy creates additional social benefit greater than its fiscal, distortionary and ecological cost.
 
-**MCQ 1: A**
-
-- **A - Correct.** It connects objective, instrument, incidence and net welfare.
-- **B - Incorrect.** A label and outlay do not establish effectiveness.
-- **C - Incorrect.** WTO classification follows legal criteria, not intuition.
-- **D - Incorrect.** Final economic incidence may differ from the statutory recipient.
-
-**MCQ 2: B**
-
-- **A - Incorrect.** That is an inframarginal transfer with weak behavioural additionality.
-- **B - Correct.** The subsidy changes conduct toward the intended social outcome.
-- **C - Incorrect.** A larger outlay says nothing about the counterfactual.
-- **D - Incorrect.** Longevity may reflect persistence rather than additionality.
-
+**Misconception to avoid:** Do not infer justification from the existence, size or longevity of a scheme.
 ## Lesson 2 - Taxonomy without category errors
 
-**Progress: 2 / 20 | Stage: Foundation | Subtopic: Direct, indirect, explicit, implicit, income, input, output and public-good boundaries**
+Progress: 2 / 26 | Stage: Foundation | Subtopic: Direct, indirect, explicit, implicit, income, input, output and public-good boundaries
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical taxonomy and older Ramesh Singh distinction, used only as stable background
-CA search: "official India farm subsidy delivery PM-KISAN fertiliser DBT WTO classification retrieved September 2026"
-CA found: PM-KISAN and Department of Fertilisers pages retrieved 25 September 2026 demonstrate that 'direct' delivery and 'DBT' are not identical legal or payment channels.
+CA search: "official India farm subsidy delivery PM-KISAN fertiliser DBT WTO classification retrieved 3 October 2026"
+CA found: PM-KISAN and Department of Fertilisers pages retrieved 3 October 2026 demonstrate that 'direct' delivery and 'DBT' are not identical legal or payment channels.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Classification tree
@@ -166,65 +160,31 @@ Centre-state boundaries also matter. PM-KISAN and fertiliser support are Union i
 7. Public services require a producer-specific versus sector-wide boundary.
 8. Scheme names never replace legal criteria.
 
-### Lesson Mains micro-model
+### Responsive Mains practice and model
 
-**Question:** Distinguish direct subsidy, DBT and Green Box support.
-**Model:** Direct subsidy describes who receives the transfer; DBT describes an electronic delivery/verification architecture; Green Box is a WTO category requiring government funding, no producer price support and no or minimal distortion plus measure-specific criteria. Use PM-KISAN and fertiliser DBT to show why the labels cannot be collapsed.
+**Mains prompt:** Distinguish direct subsidy, DBT and Green Box support.
 
-### Local practice - 3 MCQs
+**Word ceiling:** 150 words
 
-**MCQ 3. A subsidy released to a fertiliser company after a farmer's PoS-recorded purchase is best described as:**
+**Model response:** A direct subsidy identifies the transfer recipient; DBT identifies an electronic verification or payment architecture; Green Box is a WTO legal category. PM-KISAN illustrates direct income transfer to an eligible landholding family. Fertiliser DBT illustrates a different channel: the company is reimbursed after PoS-recorded sale while the farmer pays a lower price. Neither label settles WTO treatment. Green Box support must satisfy government-funding, no-producer-price-support, minimal-distortion and measure-specific Annex 2 criteria. Thus a cash payment can remain production-linked and non-exempt, while a qualifying developing-country input measure may receive Article 6.2 treatment. Delivery, administration and legal classification must be answered separately.
 
-A. direct unrestricted income support to the buyer.
-B. a consumer food subsidy.
-C. an indirect input-price support channel despite its DBT label.
-D. automatically Green Box support.
+**Unique scoring rubric:** Award separately for delivery, administrative architecture and legal criteria; deduct if cash is equated with Green.
 
-**MCQ 4. Which statement is correct?**
+### Concept check
 
-A. Every public investment is a producer subsidy.
-B. Every state electricity concession is a Union fertiliser subsidy.
-C. An implicit subsidy requires no benchmark.
-D. Delivery, fiscal and WTO classifications answer different questions.
+**Question:** Why can a payment be direct in delivery but still fail the WTO Green Box test?
 
-**MCQ 5. Which is an explicit income-support illustration?**
+**Model answer:** Direct delivery only identifies the transfer channel. Green Box treatment depends on Agreement on Agriculture criteria, including government funding, no producer price support, no or minimal distortion and the relevant measure-specific conditions.
 
-A. PM-KISAN's bank transfer to eligible landholding farmer families.
-B. An unmetered below-cost electricity tariff.
-C. General agricultural research.
-D. A tariff on imported farm goods.
-
-#### Answers and explanations
-
-**MCQ 3: C**
-
-- **A - Incorrect.** The farmer receives a lower product price, not unrestricted cash.
-- **B - Incorrect.** Consumer food subsidy supports food access, not fertiliser purchase.
-- **C - Correct.** The payment channel runs through the company after verified sale.
-- **D - Incorrect.** WTO treatment depends on legal criteria.
-
-**MCQ 4: D**
-
-- **A - Incorrect.** Sector-wide infrastructure needs a narrower incidence and legal test.
-- **B - Incorrect.** Farm-power tariff support is generally state-level.
-- **C - Incorrect.** Implicit support is measured against an economic or opportunity-cost benchmark.
-- **D - Correct.** Each classification isolates a distinct analytical boundary.
-
-**MCQ 5: A**
-
-- **A - Correct.** It is an identifiable budgeted transfer to an eligible household.
-- **B - Incorrect.** That is implicit input-price support.
-- **C - Incorrect.** Research is a public service.
-- **D - Incorrect.** A tariff is a market-access measure.
-
+**Misconception to avoid:** Do not collapse direct, DBT, decoupled and Green into synonyms.
 ## Lesson 3 - Economic incidence: follow the benefit
 
-**Progress: 3 / 20 | Stage: Foundation | Subtopic: Statutory, budget and final beneficiaries; producer, consumer, budget and environmental incidence**
+Progress: 3 / 26 | Stage: Foundation | Subtopic: Statutory, budget and final beneficiaries; producer, consumer, budget and environmental incidence
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical price-wedge and incidence model
 CA search: "India 2026 farm subsidy budget fertiliser PM-KISAN official Budget Estimates incidence"
-CA found: Union Budget 2026-27 official Notes on Demands for Grants provide budget recipients and outlays, but do not by themselves establish final incidence; retrieved 25 September 2026.
+CA found: Union Budget 2026-27 official Notes on Demands for Grants provide budget recipients and outlays, but do not by themselves establish final incidence; retrieved 3 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Incidence map
@@ -266,51 +226,31 @@ The four-question test is: who is legally eligible; who can access; how prices/r
 7. Environmental incidence may be delayed and spatially displaced.
 8. Always state the counterfactual price or cost benchmark.
 
-### Lesson Mains micro-model
+### Responsive Mains practice and model
 
-**Question:** Explain why a subsidy paid to a firm can still benefit farmers, yet not fully.
-**Model:** Show the lower farm-gate price channel, then trace supply elasticity, vendor margin, quantity expansion and quality/rationing. Conclude that statutory payment to the firm and economic incidence on farmer, supplier and taxpayer must be separately measured.
+**Mains prompt:** Explain why a subsidy paid to a firm can still benefit farmers, yet not fully.
 
-### Local practice - 2 MCQs
+**Word ceiling:** 150 words
 
-**MCQ 6. A recurring irrigation benefit raises the rent of leased land. This illustrates:**
+**Model response:** A subsidy paid to a firm can benefit farmers when reimbursement permits the product to be sold below its unsubsidised price. The benefit may nevertheless be incomplete. Inelastic supply or weak competition can raise supplier margins; rationing or low quality can reduce effective access; expanded demand can raise the market price; and higher expected land returns can be capitalised into rent. Consumers may gain if output expands, while taxpayers finance the outlay and future users bear ecological costs. The machinery example, where a vendor captures part of a grant through a higher price, shows why the statutory recipient and final beneficiary differ. Incidence must be measured after price, rent, quantity and access adjust.
 
-A. WTO notification.
-B. capitalisation of part of the subsidy into land rent.
-C. complete decoupling.
-D. a tariff effect.
+**Unique scoring rubric:** Award for statutory recipient, elasticity/rent adjustment, taxpayer or ecological incidence and a measurement conclusion.
 
-**MCQ 7. An input costs Rs 900 without support and Rs 600 to the farmer. At 2,000 units, the accounting subsidy is:**
+### Concept check
 
-A. Rs 3,00,000.
-B. Rs 4,00,000.
-C. Rs 6,00,000.
-D. Rs 18,00,000.
+**Question:** A machinery grant is paid to a farmer, but vendors raise prices and a landlord raises rent. Who received the subsidy?
 
-#### Answers and explanations
+**Model answer:** The farmer is the statutory recipient, but final incidence is shared among the purchaser, vendor and landlord after prices and rent adjust; taxpayers finance the fiscal cost.
 
-**MCQ 6: B**
-
-- **A - Incorrect.** Notification is a transparency process.
-- **B - Correct.** Expected farm gains can be reflected in rent.
-- **C - Incorrect.** The benefit is linked to a productive asset.
-- **D - Incorrect.** No border measure is involved.
-
-**MCQ 7: C**
-
-- **A - Incorrect.** It understates the Rs 300 per-unit wedge.
-- **B - Incorrect.** It uses neither the correct wedge nor quantity.
-- **C - Correct.** `(900 - 600) x 2,000 = Rs 6,00,000`.
-- **D - Incorrect.** It multiplies the full price rather than the wedge.
-
+**Misconception to avoid:** The government cheque does not reveal the final beneficiary.
 ## Lesson 4 - Marginal incentives, coupling and additionality
 
-**Progress: 4 / 20 | Stage: Core | Subtopic: Marginal versus inframarginal support, coupling, decoupling and behavioural response**
+Progress: 4 / 26 | Stage: Core | Subtopic: Marginal versus inframarginal support, coupling, decoupling and behavioural response
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - advanced coupling spectrum and additionality scorecard
 CA search: "Economic Survey 2025-26 fertiliser price signal acre based support January 2026"
-CA found: Economic Survey 2025-26, published January 2026, argues that supply-side monitoring alone does not correct the relative nutrient-price signal; retrieved 25 September 2026.
+CA found: Economic Survey 2025-26, published January 2026, argues that supply-side monitoring alone does not correct the relative nutrient-price signal; retrieved 3 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Incentive spectrum
@@ -341,65 +281,31 @@ Decoupling is not automatically equitable. A historical land-based entitlement c
 7. Decoupling does not guarantee inclusion.
 8. Additionality must be judged against the desired outcome, not any extra use.
 
-### Lesson Mains micro-model
+### Responsive Mains practice and model
 
-**Question:** “Decoupled support is less distortive but not necessarily more equitable.” Explain.
-**Model:** Define decoupling, show why current output/input incentives weaken, then identify land-record and historical-base exclusion. Contrast with criteria-compliant support for low-income/resource-poor producers. Conclude that distortion and equity are separate tests.
+**Mains prompt:** “Decoupled support is less distortive but not necessarily more equitable.” Explain.
 
-### Local practice - 3 MCQs
+**Word ceiling:** 150 words
 
-**MCQ 8. Which support creates the strongest marginal incentive to consume an additional input unit?**
+**Model response:** Decoupled support weakens the link between payment and current output, price or input use, so it generally creates a smaller marginal production distortion. It is not automatically equitable. A payment based on ownership or a historical base can preserve existing land inequality and omit tenants, sharecroppers and women cultivators without title. Conversely, a coupled payment may be defensible when temporary adoption of a socially beneficial practice is the explicit objective and additionality is monitored. The key tests are whether behaviour should change, whether the beneficiary can access the instrument and whether a less distortive feasible alternative exists. Distortion, equity and administrative inclusion are separate dimensions.
 
-A. A fixed historical-base payment.
-B. A general household transfer.
-C. A research grant to a public institute.
-D. An uncapped per-bag input subsidy.
+**Unique scoring rubric:** Award for marginal rather than average incentive, coupling spectrum, additionality and an equity qualification.
 
-**MCQ 9. Farmer X would buy a machine without assistance. A grant reimburses part of its cost but changes no decision. The grant is mainly:**
+### Concept check
 
-A. inframarginal for that farmer.
-B. additional by definition.
-C. a market-access measure.
-D. a Blue Box payment automatically.
+**Question:** Why can a small per-unit subsidy create a large distortion?
 
-**MCQ 10. Which conclusion is soundest?**
+**Model answer:** A per-unit subsidy changes the marginal cost of every additional unit. Strong quantity response can therefore magnify fiscal and ecological effects even when the subsidy per unit appears modest.
 
-A. All coupled support is irrational.
-B. Coupling can be justified for a desired transition but should be calibrated and reviewed.
-C. Decoupling always reaches tenants.
-D. Additionality equals budget utilisation.
-
-#### Answers and explanations
-
-**MCQ 8: D**
-
-- **A - Incorrect.** A historical-base payment weakens the current-unit link.
-- **B - Incorrect.** General income does not reward one more input unit.
-- **C - Incorrect.** Public research is not a per-unit farmer incentive.
-- **D - Correct.** Each extra bag receives the price advantage.
-
-**MCQ 9: A**
-
-- **A - Correct.** Public money replaces spending that would have occurred.
-- **B - Incorrect.** Additionality requires a changed desired outcome.
-- **C - Incorrect.** The grant is domestic support.
-- **D - Incorrect.** Blue Box status requires specified production-limiting conditions.
-
-**MCQ 10: B**
-
-- **A - Incorrect.** Some transition policies deliberately induce behaviour.
-- **B - Correct.** The objective and a sunset/review test determine legitimacy.
-- **C - Incorrect.** Land-based decoupled support can exclude tenants.
-- **D - Incorrect.** Spending does not prove behavioural impact.
-
+**Misconception to avoid:** Do not judge behavioural effect from average transfer size alone.
 ## Lesson 5 - Direct income support and the actual cultivator
 
-**Progress: 5 / 20 | Stage: Core | Subtopic: PM-KISAN boundary, timing, adequacy and land-record exclusion**
+Progress: 5 / 26 | Stage: Core | Subtopic: PM-KISAN boundary, timing, adequacy and land-record exclusion
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical income-support and targeting sections
 CA search: "PM-KISAN official guidelines Rs 6000 three instalments eligible landholding farmer families 2026"
-CA found: Official PM-KISAN page/guidelines retrieved 25 September 2026 confirm Rs 6,000 per year in three instalments for eligible landholding farmer families subject to exclusions; Union Budget 2026-27 provides Rs 63,500 crore BE.
+CA found: Official PM-KISAN page/guidelines retrieved 3 October 2026 confirm Rs 6,000 per year in three instalments for eligible landholding farmer families subject to exclusions; Union Budget 2026-27 provides Rs 63,500 crore BE.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Entitlement map
@@ -416,7 +322,7 @@ Land records offer administrative verifiability, yet ownership is not cultivatio
 
 **Timing test:** Rs 2,000 received before sowing may prevent high-cost borrowing; the same amount after input purchase may mostly reimburse debt. Thus annual outlay and household welfare are connected through timing, not merely total value.
 
-**Budget fact:** the official Union Budget 2026-27 Notes on Demands for Grants, published in the Budget 2026-27 document context and retrieved 25 September 2026, show **PM-KISAN net provision of Rs 63,500 crore (BE 2026-27)**. A Budget Estimate is an allocation, not proof of expenditure or farmer outcome.
+**Budget fact:** the official Union Budget 2026-27 Notes on Demands for Grants, published in the Budget 2026-27 document context and retrieved 3 October 2026, show **PM-KISAN net provision of Rs 63,500 crore (BE 2026-27)**. A Budget Estimate is an allocation, not proof of expenditure or farmer outcome.
 
 ### Revision notes
 
@@ -429,65 +335,31 @@ Land records offer administrative verifiability, yet ownership is not cultivatio
 7. Women, tenants and sharecroppers need an inclusion test.
 8. Budget Estimate is neither actual spending nor impact.
 
-### Lesson Mains micro-model
+### Responsive Mains practice and model
 
-**Question:** Assess land-record-based income support.
-**Model:** Credit scalability, transparency and low transaction cost. Then examine ownership-cultivation divergence, stale records, gendered titles and tenancy. Recommend cultivator-sensitive verification, correction, grievance and seasonal timing while retaining anti-duplication controls.
+**Mains prompt:** Assess land-record-based income support.
 
-### Local practice - 3 MCQs
+**Word ceiling:** 150 words
 
-**MCQ 11. PM-KISAN is best understood as:**
+**Model response:** Land-record-based income support offers scale, transparent payment and relatively low transaction cost. PM-KISAN's landholding-family architecture shows these advantages. Its central weakness is the ownership-cultivation divergence: tenants, sharecroppers, women farming land titled to men and people with stale or disputed records can be excluded. Timing also matters because an instalment before sowing can prevent costly borrowing, while a late transfer may merely reimburse debt. Reform should retain anti-duplication controls but add cultivator-sensitive verification, accessible correction, season-bound appeals and regular record updating. Cash can improve liquidity, but it cannot substitute for irrigation, extension, risk cover or functioning markets.
 
-A. a fertiliser reimbursement to companies.
-B. universal support to every agricultural worker.
-C. income support to eligible landholding farmer families subject to exclusions.
-D. MSP procurement expenditure.
+**Unique scoring rubric:** Award for scalability, ownership-cultivation divergence, gender/tenancy exclusion and a workable correction-and-appeal design.
 
-**MCQ 12. Which group is most directly at risk from an ownership-only eligibility rule?**
+### Concept check
 
-A. Fertiliser manufacturers.
-B. Urban food consumers.
-C. Customs brokers.
-D. Tenant cultivators without recognised land title.
+**Question:** What is the central inclusion problem in land-record-based income support?
 
-**MCQ 13. The Rs 63,500 crore PM-KISAN figure used here is:**
+**Model answer:** Ownership is used as a proxy for cultivation. Tenants, sharecroppers, women cultivators without title and farmers with stale records can therefore be excluded even when payment technology works perfectly.
 
-A. a Budget Estimate for 2026-27, not an outcome measure.
-B. verified actual expenditure for the full year.
-C. a WTO AMS calculation.
-D. a state electricity liability.
-
-#### Answers and explanations
-
-**MCQ 11: C**
-
-- **A - Incorrect.** That describes fertiliser subsidy payment architecture.
-- **B - Incorrect.** Eligibility is not universal across all agricultural workers.
-- **C - Correct.** It states the scheme's official boundary.
-- **D - Incorrect.** Procurement and income transfer are different instruments.
-
-**MCQ 12: D**
-
-- **A - Incorrect.** Manufacturers are not excluded cultivators.
-- **B - Incorrect.** This rule concerns producer-side eligibility.
-- **C - Incorrect.** Customs brokers are outside the farm-income entitlement.
-- **D - Correct.** They cultivate but may lack the required ownership record.
-
-**MCQ 13: A**
-
-- **A - Correct.** BE records planned provision in the official Budget context.
-- **B - Incorrect.** Actual expenditure is known only later.
-- **C - Incorrect.** WTO support uses legal measurement rules.
-- **D - Incorrect.** PM-KISAN is a Union income-support scheme.
-
+**Misconception to avoid:** Digitisation can improve delivery while reproducing an inaccurate eligibility base.
 ## Lesson 6 - Fertiliser subsidy: payment channel and product regimes
 
-**Progress: 6 / 20 | Stage: Core | Subtopic: Fertiliser DBT, urea, NBS and farmer-company boundaries**
+Progress: 6 / 26 | Stage: Core | Subtopic: Fertiliser DBT, urea, NBS and farmer-company boundaries
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical fertiliser mechanism and older book background, with outdated book figures excluded
 CA search: "Department Fertilisers DBT NBS official Kharif 2026 rates"
-CA found: DBT and P&K pages retrieved 25 September 2026; Kharif 2026 NBS Cabinet approval dated 8 April 2026 and notification page last updated 16 June 2026.
+CA found: DBT and P&K pages retrieved 3 October 2026; Kharif 2026 NBS Cabinet approval dated 8 April 2026 and notification page last updated 16 June 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Transaction flow
@@ -507,9 +379,16 @@ Two regimes must be separated:
 | Urea | separate pricing/subsidy framework; outside NBS |
 | NBS for P&K | since 1 April 2010; fixed per-kg rates for N, P, K and S converted to covered grades |
 
-The official P&K page retrieved 25 September 2026 records **28 covered grades** and states that MRP is decontrolled but expected to remain reasonable. For Kharif 2026, Cabinet approval on **8 April 2026** gave tentative support of **Rs 41,534 crore**; notified nutrient rates were N Rs 47.32, P Rs 52.76, K Rs 2.38 and S Rs 3.16 per kg. Use these as dated seasonal rates, not timeless values.
+The official P&K page retrieved 3 October 2026 records **28 covered grades** and states that MRP is decontrolled but expected to remain reasonable. For Kharif 2026, Cabinet approval on **8 April 2026** gave tentative support of **Rs 41,534 crore**; notified nutrient rates were N Rs 47.32, P Rs 52.76, K Rs 2.38 and S Rs 3.16 per kg. Use these as dated seasonal rates, not timeless values.
 
-Union Budget 2026-27 Notes on Demands for Grants, official publication context and retrieval 25 September 2026, show Department of Fertilisers net total **Rs 170,944.53 crore**, urea subsidy net **Rs 116,805 crore** and NBS net **Rs 54,000 crore**, all **BE 2026-27**.
+Union Budget 2026-27 Notes on Demands for Grants, official publication context and retrieval 3 October 2026, show Department of Fertilisers net total **Rs 170,944.53 crore**, urea subsidy net **Rs 116,805 crore** and NBS net **Rs 54,000 crore**, all **BE 2026-27**.
+
+### Local verified PYQ link
+
+**UPSC Prelims 2020, Question 94 — neutral concept link:** the audited ledger routes
+chemical-fertiliser composition, ammonia/nitrogen, sulphur-bearing inputs and pricing to this
+topic and Topic 14. The official key is unavailable locally, so no answer letter, truth-value
+mapping or elimination cue is supplied.
 
 ### Revision notes
 
@@ -522,51 +401,31 @@ Union Budget 2026-27 Notes on Demands for Grants, official publication context a
 7. Seasonal NBS rates must be dated.
 8. Budget provisions are not actual benefit-incidence estimates.
 
-### Lesson Mains micro-model
+### Responsive Mains practice and model
 
-**Question:** Why is fertiliser DBT not equivalent to cash subsidy to cultivators?
-**Model:** Draw the company-retailer-PoS-farmer flow. Explain that government reimbursement follows actual recorded sale while the farmer receives a lower price. Add that transaction verification cannot ensure balanced application or actual-cultivator targeting.
+**Mains prompt:** Why is fertiliser DBT not equivalent to cash subsidy to cultivators?
 
-### Local practice - 2 MCQs
+**Word ceiling:** 150 words
 
-**MCQ 14. Under the fertiliser DBT architecture described by the Department of Fertilisers:**
+**Model response:** Fertiliser DBT is not a cash transfer to cultivators. The Department of Fertilisers states that subsidy is released to companies after actual retail sales are recorded through PoS devices; the buyer receives the immediate benefit through a lower product price. NBS fixes nutrient-based support for covered P&K grades, while urea remains under a separate regime. This architecture improves transaction visibility and links reimbursement to recorded sale, but it does not prove that the actual cultivator is targeted, that the product is available without rationing or that nutrients are applied efficiently. The correct classification is indirect input-price support delivered through a digitally verified company-reimbursement channel.
 
-A. all subsidy is deposited in the buyer's bank account.
-B. subsidy is released to companies on actual retailer sales recorded through PoS.
-C. urea is included in the P&K NBS regime.
-D. NBS rates never change by season.
+**Unique scoring rubric:** Award for the exact company-PoS-farmer flow, NBS/urea distinction and the limit of transaction verification.
 
-**MCQ 15. Which statement is correct?**
+### Concept check
 
-A. NBS began in 2018 with the PoS rollout.
-B. MRP of every fertiliser is fixed identically.
-C. NBS covers notified P&K grades while urea has a separate regime.
-D. BE 2026-27 proves actual fertiliser use efficiency.
+**Question:** Under fertiliser DBT, who receives the government payment and who receives the price benefit?
 
-#### Answers and explanations
+**Model answer:** The government releases subsidy to fertiliser companies after actual PoS-recorded sales; the buyer receives the immediate benefit through a lower retail price. The channel is indirect input-price support, not unrestricted cash to the cultivator.
 
-**MCQ 14: B**
-
-- **A - Incorrect.** The subsidy payment goes to companies.
-- **B - Correct.** This is the official payment-channel description.
-- **C - Incorrect.** Urea remains outside NBS.
-- **D - Incorrect.** Rates are announced for specified periods.
-
-**MCQ 15: C**
-
-- **A - Incorrect.** NBS began on 1 April 2010.
-- **B - Incorrect.** Covered P&K MRP is decontrolled subject to reasonableness.
-- **C - Correct.** It preserves the two-regime boundary.
-- **D - Incorrect.** Budget provision does not measure farm-level efficiency.
-
+**Misconception to avoid:** DBT is an administrative architecture, not proof that cash enters the farmer's bank account.
 ## Lesson 7 - Nutrient economics and the urea-price signal
 
-**Progress: 7 / 20 | Stage: Core | Subtopic: Relative nutrient prices, marginal product, soil effects and balanced reform**
+Progress: 7 / 26 | Stage: Core | Subtopic: Relative nutrient prices, marginal product, soil effects and balanced reform
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - Economic Survey 2025-26 OCR pages 289-292 and canonical nutrient loop
 CA search: "Economic Survey 2025-26 page 290 fertiliser imbalance nitrogen soil groundwater yield response"
-CA found: Agriculture chapter published January 2026 reports a dated deterioration in nutrient balance and discusses excess nitrogen, soil organic matter, micronutrients, groundwater and plateauing yield response; retrieved 25 September 2026.
+CA found: Agriculture chapter published January 2026 reports a dated deterioration in nutrient balance and discusses excess nitrogen, soil organic matter, micronutrients, groundwater and plateauing yield response; retrieved 3 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Causal loop
@@ -607,65 +466,31 @@ Balanced reform combines relative-price correction, soil testing, crop-specific 
 7. Dated national ratios are not universal prescriptions.
 8. Reform requires advice, alternatives and transition protection.
 
-### Lesson Mains micro-model
+### Responsive Mains practice and model
 
-**Question:** Why is fertiliser reform an incentive problem rather than only a leakage problem?
-**Model:** Separate transaction integrity from nutrient choice. Show how relative urea cheapness changes the marginal decision, causing imbalance despite perfect PoS records. Recommend phased price correction plus soil/crop advice and income safeguards.
+**Mains prompt:** Why is fertiliser reform an incentive problem rather than only a leakage problem?
 
-### Local practice - 3 MCQs
+**Word ceiling:** 150 words
 
-**MCQ 16. If subsidy lowers the private cost of an additional nitrogen unit below its private output gain, while environmental cost remains high, the likely result is:**
+**Model response:** Fertiliser reform is an incentive problem because a clean transaction can still produce the wrong agronomic choice. If urea is relatively cheap, the next unit of nitrogen becomes privately attractive even when its yield response is weak and its social cost includes leaching or soil imbalance. Economic Survey 2025-26 discusses deterioration in nutrient balance and adverse soil, micronutrient, groundwater and yield-response effects associated with excess nitrogen in several contexts. PoS control can reduce diversion but cannot correct the relative price signal. Reform should therefore phase price correction, preserve purchasing power for vulnerable cultivators, assure product supply and combine soil testing with crop- and zone-specific advice.
 
-A. automatic decoupling.
-B. removal of all externality.
-C. guaranteed balanced nutrition.
-D. privately rational but socially excessive use.
+**Unique scoring rubric:** Award for relative-price logic, diminishing response, named Survey evidence and phased agronomic safeguards.
 
-**MCQ 17. The Economic Survey 2025-26 discussion should be used as:**
+### Concept check
 
-A. dated official analysis, qualified by crop, soil and region.
-B. a timeless universal ratio for every field.
-C. proof that PoS systems are useless.
-D. a WTO dispute ruling.
+**Question:** Why can perfect PoS verification coexist with inefficient fertiliser use?
 
-**MCQ 18. Which reform package is most complete?**
+**Model answer:** PoS verifies a transaction, not agronomic need. If urea remains relatively cheap, the marginal price signal can still favour excess nitrogen despite accurate sale records.
 
-A. Ban urea immediately without alternatives.
-B. Correct relative incentives gradually, assure supply, improve soil advice and protect vulnerable cultivators.
-C. Retain the price signal and add only more sales monitoring.
-D. Replace agronomy with a national average ratio.
-
-#### Answers and explanations
-
-**MCQ 16: D**
-
-- **A - Incorrect.** Use remains linked to the subsidised unit.
-- **B - Incorrect.** The external cost persists.
-- **C - Incorrect.** Cheap nitrogen can worsen imbalance.
-- **D - Correct.** Private and social marginal costs diverge.
-
-**MCQ 17: A**
-
-- **A - Correct.** The source is dated and explicitly contextual.
-- **B - Incorrect.** Nutrient needs differ across crops and soils.
-- **C - Incorrect.** PoS still improves transaction visibility.
-- **D - Incorrect.** An Economic Survey is not WTO adjudication.
-
-**MCQ 18: B**
-
-- **A - Incorrect.** Abrupt withdrawal creates affordability and output risks.
-- **B - Correct.** It changes incentives while preserving capability.
-- **C - Incorrect.** Monitoring alone leaves the marginal price distortion.
-- **D - Incorrect.** Field-specific agronomy cannot be replaced by one ratio.
-
+**Misconception to avoid:** Leakage control and nutrient-balance reform solve different problems.
 ## Lesson 8 - The power-groundwater-crop-DISCOM nexus
 
-**Progress: 8 / 20 | Stage: Core | Subtopic: State tariff subsidy, groundwater externality, incidence and solar-pump rebound**
+Progress: 8 / 26 | Stage: Core | Subtopic: State tariff subsidy, groundwater externality, incidence and solar-pump rebound
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical water-energy-crop loop
 CA search: "official India 2025 groundwater resources report farm power feeder metering PM-KUSUM RDSS 2026"
-CA found: CGWB Dynamic Ground Water Resources of India 2025 and official power reform sources were status-checked 25 September 2026; Draft National Electricity Policy 2026 remains a draft.
+CA found: CGWB Dynamic Ground Water Resources of India 2025 and official power reform sources were status-checked 3 October 2026; Draft National Electricity Policy 2026 remains a draft.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Nexus map
@@ -682,7 +507,7 @@ free/flat farm tariff
 
 Agricultural tariff subsidy is primarily state-level. Its immediate benefit goes to a connected pump user, not equally to a rainfed farmer or tenant without control over the connection. Unmetered supply obscures both consumption and service quality; a nominally free connection can coexist with unreliable night supply.
 
-The official **Dynamic Ground Water Resources of India 2025** assessment records national recharge **448.52 bcm**, annual extractable resource **407.75 bcm**, extraction **247.22 bcm** and national extraction stage **60.63%**. These are 2025 national-status figures, retrieved 25 September 2026; they do not erase local over-exploitation.
+The official **Dynamic Ground Water Resources of India 2025** assessment records national recharge **448.52 bcm**, annual extractable resource **407.75 bcm**, extraction **247.22 bcm** and national extraction stage **60.63%**. These are 2025 national-status figures, retrieved 3 October 2026; they do not erase local over-exploitation.
 
 Solar pumps reduce operating cost and emissions relative to diesel, but near-zero marginal pumping cost can create a **rebound effect** unless extraction is governed or surplus electricity has an attractive grid-sale alternative.
 
@@ -699,51 +524,31 @@ Feeder separation, metering and RDSS/PM-KUSUM can improve measurement, supply qu
 7. National groundwater averages conceal local stress.
 8. Metering and feeder reform enable, but do not prove, DBT.
 
-### Lesson Mains micro-model
+### Responsive Mains practice and model
 
-**Question:** Explain why free farm power is simultaneously an income, groundwater and DISCOM issue.
-**Model:** Trace the marginal pumping cost to crop choice and water table, then to rising energy need and utility finances. Add unequal access between pump owners and rainfed farmers. Conclude with protected entitlement, quality metered supply, aquifer governance and crop transition.
+**Mains prompt:** Explain why free farm power is simultaneously an income, groundwater and DISCOM issue.
 
-### Local practice - 2 MCQs
+**Word ceiling:** 150 words
 
-**MCQ 19. Solarising a pump without extraction governance may increase groundwater use because of:**
+**Model response:** Free or flat farm power is an income, groundwater and fiscal-governance issue because it lowers the marginal cost of pumping. Connected pump owners can irrigate more cheaply, but the same signal encourages extraction and water-intensive cropping, especially where procurement protects returns. As water tables fall, more electricity is needed per unit of water. Unmetered supply obscures consumption, weakens conservation and burdens DISCOM finances, while rainfed farmers and tenants without connection control gain little. The CGWB 2025 national extraction stage of 60.63% cannot erase severe local stress. Reform requires reliable metered supply, a protected entitlement, aquifer governance, crop-transition markets and no sudden tariff shock.
 
-A. adverse selection.
-B. tariff escalation.
-C. a rebound from near-zero marginal pumping cost.
-D. WTO counter-notification.
+**Unique scoring rubric:** Award for the complete power-pumping-crop-water-table-DISCOM chain plus unequal access and transition safeguards.
 
-**MCQ 20. Which statement is most accurate?**
+### Concept check
 
-A. National extraction stage proves every block is safe.
-B. Draft National Electricity Policy 2026 is operative law.
-C. Feeder separation itself proves cash transfer to every farmer.
-D. Metering and feeder reform are enabling complements, not evidence of universal implemented DBT.
+**Question:** Why can free farm power worsen both groundwater and utility finances?
 
-#### Answers and explanations
+**Model answer:** A near-zero marginal pumping price encourages extraction and water-intensive crops; falling water tables then raise energy required per unit of water, while unmetered supply obscures consumption and burdens DISCOMs.
 
-**MCQ 19: C**
-
-- **A - Incorrect.** The issue is changed use after lower operating cost.
-- **B - Incorrect.** Solarisation lowers rather than escalates marginal energy cost.
-- **C - Correct.** Efficiency or cheap energy can raise total resource use.
-- **D - Incorrect.** WTO transparency is unrelated.
-
-**MCQ 20: D**
-
-- **A - Incorrect.** Local aquifers can be stressed despite the national average.
-- **B - Incorrect.** A draft is not operative policy.
-- **C - Incorrect.** Infrastructure reform does not establish a payment channel.
-- **D - Correct.** It preserves status and implementation boundaries.
-
+**Misconception to avoid:** Do not treat a tariff concession as only an income transfer.
 ## Lesson 9 - Irrigation, capital grants, machinery and public goods
 
-**Progress: 9 / 20 | Stage: Core | Subtopic: Head-tail equity, asset utilisation, custom hiring and public-service boundaries**
+Progress: 9 / 26 | Stage: Core | Subtopic: Head-tail equity, asset utilisation, custom hiring and public-service boundaries
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical irrigation and capital-support sections
 CA search: "Economic Survey 2025-26 irrigation disparities micro irrigation public investment agriculture"
-CA found: Economic Survey 2025-26 agriculture chapter, published January 2026, reports persistent inter-state and inter-crop irrigation disparities; retrieved 25 September 2026.
+CA found: Economic Survey 2025-26 agriculture chapter, published January 2026, reports persistent inter-state and inter-crop irrigation disparities; retrieved 3 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Provision-choice matrix
@@ -774,51 +579,31 @@ Micro-irrigation can reduce water per acre, but basin-wide saving is not guarant
 7. Asset ownership and service access are alternatives.
 8. Per-acre efficiency does not guarantee basin-wide saving.
 
-### Lesson Mains micro-model
+### Responsive Mains practice and model
 
-**Question:** Why may a machinery-service subsidy outperform an ownership subsidy for small farms?
-**Model:** Explain indivisibility and low utilisation. Show fixed-cost spreading through custom hiring or FPOs, then add scheduling, operator, maintenance and governance risks. Conclude that the objective is affordable service, not maximum machine distribution.
+**Mains prompt:** Why may a machinery-service subsidy outperform an ownership subsidy for small farms?
 
-### Local practice - 2 MCQs
+**Word ceiling:** 150 words
 
-**MCQ 21. A custom-hiring centre mainly addresses:**
+**Model response:** A machinery-service subsidy can outperform ownership support where small holdings cannot utilise an indivisible asset fully. The lesson's example reduces annual fixed cost from Rs 1,500 to Rs 500 per acre when serviced acreage rises from 400 to 1,200. A custom-hiring centre or FPO can therefore spread capital and maintenance costs across users and improve access for farmers unable to purchase. The service model is not automatically superior: scheduling, operator skill, repair, local monopoly and governance can fail. Policy should subsidise reliable productive access where utilisation is the constraint, while using ownership grants only where demand, maintenance and scale justify the asset.
 
-A. indivisible fixed cost and low individual-farm utilisation.
-B. the WTO fixed external reference price.
-C. food-consumer entitlement.
-D. export competition.
+**Unique scoring rubric:** Award for public-good/private-transfer boundary, utilisation arithmetic, service model and maintenance/governance caveat.
 
-**MCQ 22. Which is the best caution about micro-irrigation subsidy?**
+### Concept check
 
-A. It can never save water per acre.
-B. Per-acre efficiency may coexist with higher total extraction after acreage or crop response.
-C. It is automatically Amber Box in every design.
-D. It removes head-tail inequality in canals.
+**Question:** When can subsidising machinery access be better than subsidising ownership?
 
-#### Answers and explanations
+**Model answer:** Where holdings are small and utilisation is low, custom hiring or FPO-based service spreads fixed cost across users and can improve access without multiplying idle assets.
 
-**MCQ 21: A**
-
-- **A - Correct.** Shared use spreads capital and maintenance cost.
-- **B - Incorrect.** That belongs to WTO market-price support.
-- **C - Incorrect.** Machinery services target production.
-- **D - Incorrect.** No export measure is involved.
-
-**MCQ 22: B**
-
-- **A - Incorrect.** It can reduce application per acre.
-- **B - Correct.** Rebound can offset unit efficiency.
-- **C - Incorrect.** Classification depends on legal design and exemptions.
-- **D - Incorrect.** Canal distribution is a different governance problem.
-
+**Misconception to avoid:** An asset-distribution count is not the same as productive service availability.
 ## Lesson 10 - Credit and insurance: liquidity is not viability
 
-**Progress: 10 / 20 | Stage: Core | Subtopic: Interest support, premium subsidy, basis risk, adverse selection and moral hazard**
+Progress: 10 / 26 | Stage: Core | Subtopic: Interest support, premium subsidy, basis risk, adverse selection and moral hazard
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical credit and crop-insurance sections
 CA search: "Union Budget 2026-27 MISS PMFBY official Budget Estimate agriculture"
-CA found: Official Notes on Demands for Grants show MISS Rs 22,600 crore and PMFBY Rs 12,200 crore, BE 2026-27; official Budget context retrieved 25 September 2026.
+CA found: Official Notes on Demands for Grants show MISS Rs 22,600 crore and PMFBY Rs 12,200 crore, BE 2026-27; official Budget context retrieved 3 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Two failures, two channels
@@ -834,7 +619,7 @@ Insurance premium subsidy makes coverage affordable. It does not guarantee that 
 
 **Example.** A farmer loses 60% from local hail, while the area-yield trigger records only 20% loss and pays nothing. This is basis risk, not necessarily fraud. Better data, transparent triggers, exceptional-loss appeal and timely settlement are essential complements.
 
-The official Union Budget 2026-27 documents, retrieved 25 September 2026, provide **MISS Rs 22,600 crore** and **PMFBY Rs 12,200 crore**, both BE 2026-27. These values show fiscal scale, not claim quality, inclusion or viability.
+The official Union Budget 2026-27 documents, retrieved 3 October 2026, provide **MISS Rs 22,600 crore** and **PMFBY Rs 12,200 crore**, both BE 2026-27. These values show fiscal scale, not claim quality, inclusion or viability.
 
 ### Revision notes
 
@@ -847,65 +632,31 @@ The official Union Budget 2026-27 documents, retrieved 25 September 2026, provid
 7. Moral hazard concerns behaviour after protection.
 8. Budget outlay does not establish timely settlement.
 
-### Lesson Mains micro-model
+### Responsive Mains practice and model
 
-**Question:** “Subsidised credit and subsidised insurance are complements, not substitutes.” Explain.
-**Model:** Credit finances production before revenue; insurance protects specified downside risk. Explain that debt without protection can magnify shock, while insurance without working capital cannot finance cultivation. Add viability, basis-risk and inclusion safeguards.
+**Mains prompt:** “Subsidised credit and subsidised insurance are complements, not substitutes.” Explain.
 
-### Local practice - 3 MCQs
+**Word ceiling:** 150 words
 
-**MCQ 23. A tenant is excluded from subsidised bank credit because accepted land records are absent. This is primarily:**
+**Model response:** Subsidised credit and insurance solve different but connected failures. MISS or KCC-type credit finances seed, labour and other costs before harvest revenue arrives. PMFBY-type premium support makes specified production-risk cover affordable. Credit without risk protection can deepen debt after drought or crop loss; insurance without working capital cannot finance cultivation. Neither repairs an unviable crop or weak market. Effective design therefore requires cultivator inclusion, prudent cash-flow appraisal, reliable yield or weather data, disclosure of coverage, timely settlement and an independent grievance route. Basis risk must be recognised because an area trigger can diverge from an individual farmer's loss.
 
-A. a Green Box violation.
-B. an export subsidy.
-C. access exclusion from the credit channel.
-D. basis risk.
+**Unique scoring rubric:** Award for distinguishing liquidity from risk transfer, explaining complementarity, and adding basis-risk and viability limits.
 
-**MCQ 24. An area-yield policy pays nothing despite severe localised hail loss. The central problem is:**
+### Concept check
 
-A. additionality.
-B. land-rent capitalisation.
-C. bound AMS.
-D. basis risk.
+**Question:** Why are concessional credit and crop-insurance premium support complements?
 
-**MCQ 25. Which statement is soundest?**
+**Model answer:** Credit finances production before harvest; insurance transfers specified downside risk. Credit without protection can deepen debt after a shock, while insurance without liquidity cannot finance cultivation.
 
-A. Cheap credit improves liquidity but does not ensure crop viability.
-B. Premium subsidy eliminates adverse selection.
-C. Insurance is a general income guarantee.
-D. BE proves claim settlement quality.
-
-#### Answers and explanations
-
-**MCQ 23: C**
-
-- **A - Incorrect.** This is a domestic implementation issue.
-- **B - Incorrect.** No export contingency exists.
-- **C - Correct.** Documentation prevents the actual cultivator from access.
-- **D - Incorrect.** Basis risk concerns loss-trigger mismatch.
-
-**MCQ 24: D**
-
-- **A - Incorrect.** Additionality asks whether behaviour changed.
-- **B - Incorrect.** No rent adjustment is described.
-- **C - Incorrect.** Bound AMS is a WTO commitment.
-- **D - Correct.** Individual loss diverges from the area trigger.
-
-**MCQ 25: A**
-
-- **A - Correct.** Financing cost and expected profitability are distinct.
-- **B - Incorrect.** Hidden risk can persist.
-- **C - Incorrect.** Insurance covers defined risks and triggers.
-- **D - Incorrect.** Allocation does not prove service performance.
-
+**Misconception to avoid:** Neither instrument by itself makes an unviable crop-market system viable.
 ## Lesson 11 - MSP, procurement and output support
 
-**Progress: 11 / 20 | Stage: Core | Subtopic: Announcement, effective procurement, price deficiency, budget and WTO measurement**
+Progress: 11 / 26 | Stage: Core | Subtopic: Announcement, effective procurement, price deficiency, budget and WTO measurement
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - Economy Topics 12 and 28 cross-link
 CA search: "WTO official market price support administered price eligible production fixed reference price"
-CA found: WTO domestic-support framework retrieved 25 September 2026 confirms the market-price-support formula; no India-specific current notification percentage is imported.
+CA found: WTO domestic-support framework retrieved 3 October 2026 confirms the market-price-support formula; no India-specific current notification percentage is imported.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Five distinct objects
@@ -937,51 +688,31 @@ Output support can reinforce crop and regional concentration. Reform must retain
 7. Output support can reinforce water and fertiliser distortion.
 8. Topic 12 owns detailed stock and PDS mechanics.
 
-### Lesson Mains micro-model
+### Responsive Mains practice and model
 
-**Question:** Why should MSP announcement not be used as a proxy for farmer benefit?
-**Model:** Trace eligibility, procurement centre, grade, quantity and actual sale. Add regional/crop concentration and alternative market price. Conclude that effective incidence requires observed access, not announcement alone.
+**Mains prompt:** Why should MSP announcement not be used as a proxy for farmer benefit?
 
-### Local practice - 2 MCQs
+**Word ceiling:** 150 words
 
-**MCQ 26. Which event converts an MSP announcement into realised price support for a farmer most directly?**
+**Model response:** MSP announcement is a policy signal, not a measure of realised farmer benefit. CACP recommendation and CCEA announcement must be separated from FCI or state-agency procurement. Effective support depends on crop, grade, procurement-centre reach, quantity accepted, timing and the alternative market price. A price-deficiency payment supports the gap without physical stocks but introduces benchmark and sale-verification risks. Budget expenditure records purchasing, storage and handling; WTO market price support uses a legal formula and can differ sharply. A sound answer therefore traces the farmer's actual access before judging incidence and then examines crop, regional, stock, water and trade effects.
 
-A. Publication alone.
-B. Eligible sale under an effective procurement or support operation.
-C. A fertiliser PoS transaction.
-D. A consumer PDS entitlement.
+**Unique scoring rubric:** Award for separating MSP, procurement, deficiency payment, budget cost and WTO measurement; require one access qualification.
 
-**MCQ 27. Price-deficiency payment differs from procurement because it:**
+### Concept check
 
-A. is always Green Box.
-B. is a border tariff.
-C. may pay a defined price gap without physical stock acquisition.
-D. necessarily uses the WTO reference-price formula.
+**Question:** Why does an MSP announcement not establish effective price support?
 
-#### Answers and explanations
+**Model answer:** Effective support depends on eligible crop and grade, procurement presence, quantity purchased, farmer access and the alternative market price. Announcement, procurement, budget expenditure and WTO measurement are separate objects.
 
-**MCQ 26: B**
-
-- **A - Incorrect.** Announcement need not create access.
-- **B - Correct.** The farmer must connect to an operative purchase/support channel.
-- **C - Incorrect.** That concerns an input.
-- **D - Incorrect.** PDS targets consumers.
-
-**MCQ 27: C**
-
-- **A - Incorrect.** WTO status depends on design.
-- **B - Incorrect.** It is domestic support.
-- **C - Correct.** Physical procurement is not required by the concept.
-- **D - Incorrect.** Domestic payment design and WTO measurement remain distinct.
-
+**Misconception to avoid:** Do not equate a declared floor with universal purchase.
 ## Lesson 12 - Distribution and political economy
 
-**Progress: 12 / 20 | Stage: Core | Subtopic: Farm size, tenure, irrigation, crop, region, supplier capture and persistence**
+Progress: 12 / 26 | Stage: Core | Subtopic: Farm size, tenure, irrigation, crop, region, supplier capture and persistence
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - advanced targeting and political-economy sections
 CA search: "India agriculture subsidy distribution small farmers tenants regions official analysis 2026"
-CA found: Economic Survey 2025-26 and official scheme architectures retrieved 25 September 2026 show instrument-specific access boundaries; no unsupported national benefit-share estimate is used.
+CA found: Economic Survey 2025-26 and official scheme architectures retrieved 3 October 2026 show instrument-specific access boundaries; no unsupported national benefit-share estimate is used.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Distribution matrix
@@ -1011,65 +742,31 @@ Leakage and exclusion are different: leakage sends benefit to an unintended reci
 7. Concentrated benefits create political durability.
 8. Credible alternatives are necessary for reform consent.
 
-### Lesson Mains micro-model
+### Responsive Mains practice and model
 
-**Question:** Why are inefficient subsidies politically difficult to reform?
-**Model:** Contrast visible concentrated benefit with dispersed tax/ecological cost. Add distrust, complementary failures, supplier constituencies and federal competition. Recommend sequenced reform with legal entitlement, alternatives, grievance and transparent reinvestment.
+**Mains prompt:** Why are inefficient subsidies politically difficult to reform?
 
-### Local practice - 3 MCQs
+**Word ceiling:** 150 words
 
-**MCQ 28. Which farmer is least directly served by free electricity for groundwater pumping?**
+**Model response:** Inefficient subsidies persist because benefits are immediate, visible and concentrated, while tax, fiscal and ecological costs are dispersed or delayed. Farmers, fertiliser suppliers, utilities, banks, insurers, procurement agencies and regions can all acquire a stake in continuity. Withdrawal is certain, whereas the promised gain from reform is future and uncertain; beneficiaries may also view the subsidy as compensation for unreliable power, weak markets or missing risk cover. Federal competition can reinforce expansion. Reform must therefore build alternatives first, protect a defined entitlement, publish who gains and who pays, provide grievance and credibly reinvest savings. Political durability explains persistence but does not establish efficiency.
 
-A. A connected tube-well owner.
-B. A landlord with an energised pump.
-C. An irrigated owner-cultivator.
-D. A rainfed tenant without control over a connection.
+**Unique scoring rubric:** Award for concentrated-benefit/dispersed-cost logic, at least two constituencies, distrust or federal competition, and sequencing.
 
-**MCQ 29. A strict digital filter stops duplicate claims but wrongly rejects genuine tenants. This is a trade-off between:**
+### Concept check
 
-A. leakage control and exclusion.
-B. market access and export competition.
-C. Green and Blue Boxes only.
-D. recharge and extraction.
+**Question:** Why can a regressive subsidy remain politically durable?
 
-**MCQ 30. Subsidy persistence is most plausibly explained by:**
+**Model answer:** Benefits are visible and concentrated, while tax and ecological costs are dispersed; suppliers and regional constituencies also organise around the instrument, and beneficiaries may distrust promised alternatives.
 
-A. absence of any beneficiaries.
-B. visible concentrated benefits, dispersed costs and distrust of alternatives.
-C. automatic WTO approval.
-D. perfect measurement of implicit cost.
-
-#### Answers and explanations
-
-**MCQ 28: D**
-
-- **A - Incorrect.** The connection directly lowers pumping cost.
-- **B - Incorrect.** Asset ownership can capture part of the benefit.
-- **C - Incorrect.** This farmer can use the subsidised service.
-- **D - Correct.** Rainfed cultivation without connection receives little direct benefit.
-
-**MCQ 29: A**
-
-- **A - Correct.** Anti-leakage controls can create false rejection.
-- **B - Incorrect.** These are WTO pillars.
-- **C - Incorrect.** The issue is domestic targeting.
-- **D - Incorrect.** Those are groundwater quantities.
-
-**MCQ 30: B**
-
-- **A - Incorrect.** Constituencies exist precisely because benefits are received.
-- **B - Correct.** Political economy explains resistance despite social cost.
-- **C - Incorrect.** WTO legality is criteria-based.
-- **D - Incorrect.** Implicit subsidies are often benchmark-contested.
-
+**Misconception to avoid:** Persistence is not proof of efficiency or equitable incidence.
 ## Lesson 13 - Agreement on Agriculture architecture
 
-**Progress: 13 / 20 | Stage: Advanced | Subtopic: Market access, domestic support and export competition**
+Progress: 13 / 26 | Stage: Core | Subtopic: Market access, domestic support and export competition
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - WTO canonical sections and older Ramesh Singh stable three-pillar treatment
 CA search: "WTO Agreement on Agriculture three pillars Nairobi export subsidies official"
-CA found: WTO agriculture and domestic-support pages retrieved 25 September 2026; Nairobi export-subsidy discipline is used as a Topic 20 cross-link.
+CA found: WTO agriculture and domestic-support pages retrieved 3 October 2026; Nairobi export-subsidy discipline is used as a Topic 20 cross-link.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Three-pillar map
@@ -1088,6 +785,15 @@ The 2015 Nairobi decision on agricultural export subsidies is a useful cross-lin
 
 Domestic support rules do not prohibit every agricultural programme. They distinguish exempt or minimally distortive measures, development flexibilities and non-exempt support subject to limits.
 
+### Local verified PYQ link
+
+- **GS-III 2023, Question 14 (15 marks, 250 words):** classify direct and indirect farm
+  subsidies, then discuss WTO issues. At this lesson, use only the AoA-pillar route; the final
+  section preserves the complete exact question and answer approach without a solved PYQ answer.
+- **GS-III 2026, Question 14 (15 marks, 250 words):** types of Indian agricultural support and
+  related AoA issues. The local demand is wider than cash transfers and requires legal,
+  distributional and reform analysis.
+
 ### Revision notes
 
 1. AoA has market access, domestic support and export competition pillars.
@@ -1099,65 +805,31 @@ Domestic support rules do not prohibit every agricultural programme. They distin
 7. Topic 20 owns the wider WTO trade architecture.
 8. Classification begins with design, not political label.
 
-### Lesson Mains micro-model
+### Responsive Mains practice and model
 
-**Question:** Place farm subsidies within the AoA.
-**Model:** Draw three pillars, locate input, income and price support under domestic support, then note interactions with procurement disposal and exports. Avoid treating tariffs or all export measures as Amber Box support.
+**Mains prompt:** Place farm subsidies within the AoA.
 
-### Local practice - 3 MCQs
+**Word ceiling:** 150 words
 
-**MCQ 31. A tariff on imported wheat belongs primarily to:**
+**Model response:** The Agreement on Agriculture has three pillars: market access, domestic support and export competition. Fertiliser, power, credit, income and administered-price support primarily raise domestic-support questions. Tariffs and quotas belong to market access, while export subsidies, credits and related measures belong to export competition. The pillars can interact: procurement creates stocks whose disposal may affect world markets, but that does not turn every domestic purchase into an export subsidy. Classification should begin with the measure's design and contingency. The Nairobi export-competition disciplines and the domestic-support boxes are related parts of the AoA, not interchangeable labels.
 
-A. Green Box.
-B. Article 6.2.
-C. market access.
-D. domestic AMS.
+**Unique scoring rubric:** Award for all three pillars, correct primary placement, one interaction and rejection of a border/domestic-support category error.
 
-**MCQ 32. Farm input subsidies are examined primarily under which AoA pillar?**
+### Concept check
 
-A. Market access.
-B. Export competition only.
-C. SPS measures.
-D. Domestic support.
+**Question:** Which AoA pillar primarily governs fertiliser subsidy and MSP-based support?
 
-**MCQ 33. Which statement is correct?**
+**Model answer:** Domestic support is the primary pillar. Market access governs border protection, while export competition governs export subsidies and related disciplines; procurement disposal can create cross-pillar effects.
 
-A. Nairobi export-subsidy discipline is related but does not replace domestic-support analysis.
-B. Every tariff is Amber Box support.
-C. Domestic support rules prohibit all farm programmes.
-D. Public stocks are only a market-access issue.
-
-#### Answers and explanations
-
-**MCQ 31: C**
-
-- **A - Incorrect.** Green Box is a domestic-support category.
-- **B - Incorrect.** Article 6.2 concerns developing-country domestic support.
-- **C - Correct.** Tariffs regulate entry conditions.
-- **D - Incorrect.** AMS measures non-exempt domestic support.
-
-**MCQ 32: D**
-
-- **A - Incorrect.** Input support is not a border tariff.
-- **B - Incorrect.** Export contingency is not inherent.
-- **C - Incorrect.** SPS concerns food, animal and plant health measures.
-- **D - Correct.** The subsidy is support to domestic producers.
-
-**MCQ 33: A**
-
-- **A - Correct.** The pillars interact but remain analytically distinct.
-- **B - Incorrect.** Tariffs belong to market access.
-- **C - Incorrect.** Exempt categories and flexibilities exist.
-- **D - Incorrect.** Supported procurement raises domestic-support questions.
-
+**Misconception to avoid:** Tariffs are not Amber Box domestic support.
 ## Lesson 14 - Green, Blue, Amber and Article 6.2
 
-**Progress: 14 / 20 | Stage: Advanced | Subtopic: Criteria-based domestic-support classification**
+Progress: 14 / 26 | Stage: Core | Subtopic: Criteria-based domestic-support classification
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - WTO boxes page and canonical classification warnings
 CA search: "WTO domestic support boxes Green Blue Amber Article 6.2 official"
-CA found: WTO boxes and domestic-support framework retrieved 25 September 2026 confirm exact criteria and developing-country flexibility.
+CA found: WTO boxes and domestic-support framework retrieved 3 October 2026 confirm exact criteria and developing-country flexibility.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Legal classification tree
@@ -1195,65 +867,31 @@ Domestic support measure
 7. Article 6.2 is a specified development flexibility.
 8. De minimis operates after classification of non-exempt support.
 
-### Lesson Mains micro-model
+### Responsive Mains practice and model
 
-**Question:** Why is the statement “cash is Green and inputs are Amber” legally unsafe?
-**Model:** Cash can remain linked to current production and fail Annex 2; an input subsidy may qualify under Article 6.2 if generally available to low-income/resource-poor producers. Therefore apply criteria, not delivery form.
+**Mains prompt:** Why is the statement “cash is Green and inputs are Amber” legally unsafe?
 
-### Local practice - 3 MCQs
+**Word ceiling:** 150 words
 
-**MCQ 34. Which is a necessary Green Box general condition?**
+**Model response:** The statement 'cash is Green and inputs are Amber' is legally unsafe because WTO treatment follows criteria, not form. A cash payment linked to current output or price can remain trade-distorting and fail Annex 2. Green Box support must be government-funded, avoid producer price support, cause no or minimal distortion and meet the relevant programme conditions. Blue Box direct payments require specified production-limiting conditions. Article 6.2 can exempt certain developing-country investment subsidies and input subsidies generally available to low-income or resource-poor producers. Residual non-exempt support is tested as Amber-type support. Domestic delivery labels never complete this legal analysis.
 
-A. Payment through a bank account.
-B. Government funding without producer price support, plus applicable criteria.
-C. A production quota.
-D. Expenditure below 10% of farm GDP.
+**Unique scoring rubric:** Award for legal criteria of all four routes and one counterexample showing why form does not determine classification.
 
-**MCQ 35. Blue Box support is best described as:**
+### Concept check
 
-A. any water-related subsidy.
-B. all decoupled income support.
-C. normally amber-type direct payment under specified production-limiting conditions.
-D. an export prohibition.
+**Question:** Can an input subsidy ever be exempt from reduction commitments?
 
-**MCQ 36. Article 6.2 includes specified flexibility for:**
+**Model answer:** Yes. A developing-country measure can qualify under Article 6.2 when it meets the specified investment or low-income/resource-poor producer conditions; other criteria-compliant exemptions may also apply.
 
-A. unlimited procurement by every member.
-B. every cash transfer in a developing country.
-C. tariffs on food imports.
-D. certain generally available investment and low-income/resource-poor input subsidies in developing countries.
-
-#### Answers and explanations
-
-**MCQ 34: B**
-
-- **A - Incorrect.** Delivery mode does not establish legal compliance.
-- **B - Correct.** These are core Annex 2 general requirements.
-- **C - Incorrect.** Production-limiting conditions point toward Blue Box.
-- **D - Incorrect.** Green Box is not defined by de minimis.
-
-**MCQ 35: C**
-
-- **A - Incorrect.** “Blue” is not a water label.
-- **B - Incorrect.** Decoupled income can fall under Green if criteria are met.
-- **C - Correct.** Production limitation is the defining condition.
-- **D - Incorrect.** It is domestic support.
-
-**MCQ 36: D**
-
-- **A - Incorrect.** The flexibility is not unlimited.
-- **B - Incorrect.** Development status alone is insufficient.
-- **C - Incorrect.** Tariffs belong to market access.
-- **D - Correct.** It tracks the text of Article 6.2 flexibility.
-
+**Misconception to avoid:** Input support is not automatically Amber merely because an input is subsidised.
 ## Lesson 15 - De minimis, AMS and threshold calculations
 
-**Progress: 15 / 20 | Stage: Advanced | Subtopic: Product-specific, non-product-specific, bound AMS and numerical tests**
+Progress: 15 / 26 | Stage: Core | Subtopic: Product-specific, non-product-specific, bound AMS and numerical tests
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - WTO official domestic-support calculation and canonical AMS section
 CA search: "WTO developing country de minimis 10 percent product specific non product specific annual notification"
-CA found: WTO official framework retrieved 25 September 2026 confirms separate 10% tests for most developing members and annual notification obligations.
+CA found: WTO official framework retrieved 3 October 2026 confirms separate 10% tests for most developing members and annual notification obligations.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Calculation sequence
@@ -1297,79 +935,31 @@ A **bound AMS** is a scheduled ceiling arising from a member's commitments. It i
 7. Bound AMS is a scheduled entitlement/ceiling.
 8. Exempt support is classified before threshold testing.
 
-### Lesson Mains micro-model
+### Responsive Mains practice and model
 
-**Question:** Explain the difference between de minimis and bound AMS.
-**Model:** De minimis excludes small non-exempt support below percentage thresholds; bound AMS is a scheduled maximum for members with such commitments. Include separate product and non-product denominators and warn against combining percentages.
+**Mains prompt:** Explain the difference between de minimis and bound AMS.
 
-### Local practice - 4 MCQs
+**Word ceiling:** 150 words
 
-**MCQ 37. Product-specific support is Rs 8,000 crore and product value is Rs 1,00,000 crore. For a 10% threshold, it is:**
+**Model response:** De minimis excludes small amounts of otherwise non-exempt support from Current Total AMS. For most developing members, product-specific support is tested against 10% of that product's value of production, while non-product-specific support is separately tested against 10% of total agricultural production value. The two percentages cannot be added because their denominators differ. Bound AMS is different: it is the scheduled maximum available to a member with such a commitment. A member may have de minimis space without a positive bound AMS entitlement. A correct answer writes both fractions, applies each threshold separately and only then asks what enters Current Total AMS.
 
-A. below de minimis at 8%.
-B. above de minimis at 12.5%.
-C. exactly 10%.
-D. impossible to calculate.
+**Unique scoring rubric:** Award for both formulas, distinct denominators, de minimis-versus-bound-AMS distinction and no percentage addition.
 
-**MCQ 38. Non-product-specific support is Rs 25,000 crore and total agricultural production value is Rs 2,00,000 crore. The percentage is:**
+### Concept check
 
-A. 8%.
-B. 12.5%.
-C. 20%.
-D. 25%.
+**Question:** Why must product-specific and non-product-specific de minimis percentages not be added?
 
-**MCQ 39. Which statement is correct?**
+**Model answer:** They use different numerators and denominators and are tested separately: the product's support against that product's value, and non-product support against total agricultural production value.
 
-A. Product-specific and non-product-specific percentages are always added.
-B. Every developing member has unlimited Amber support.
-C. The two de minimis tests use different denominators and are applied separately.
-D. Green Box support is first counted as Amber.
-
-**MCQ 40. Bound AMS refers to:**
-
-A. annual budget expenditure on agriculture.
-B. the value of agricultural exports.
-C. the 10% threshold itself.
-D. a member's scheduled ceiling for relevant non-exempt support.
-
-#### Answers and explanations
-
-**MCQ 37: A**
-
-- **A - Correct.** `8,000/1,00,000 = 8%`.
-- **B - Incorrect.** The ratio is not 12.5%.
-- **C - Incorrect.** It is two percentage points below.
-- **D - Incorrect.** Both numerator and denominator are given.
-
-**MCQ 38: B**
-
-- **A - Incorrect.** That would be Rs 16,000 crore.
-- **B - Correct.** `25,000/2,00,000 = 12.5%`.
-- **C - Incorrect.** The amount is one-eighth, not one-fifth.
-- **D - Incorrect.** It is not one-fourth.
-
-**MCQ 39: C**
-
-- **A - Incorrect.** Different denominators make addition invalid.
-- **B - Incorrect.** Limits and exemptions remain applicable.
-- **C - Correct.** This is the core threshold rule.
-- **D - Incorrect.** Criteria-compliant Green support is exempt.
-
-**MCQ 40: D**
-
-- **A - Incorrect.** Budget accounting is distinct.
-- **B - Incorrect.** Export value is not the commitment ceiling.
-- **C - Incorrect.** De minimis and bound AMS are different.
-- **D - Correct.** It is the scheduled WTO limit where applicable.
-
+**Misconception to avoid:** A combined percentage destroys the legal comparison.
 ## Lesson 16 - Market price support formula and its controversies
 
-**Progress: 16 / 20 | Stage: Advanced | Subtopic: Administered price, fixed external reference price, eligible production and measurement disputes**
+Progress: 16 / 26 | Stage: Core | Subtopic: Administered price, fixed external reference price, eligible production and measurement disputes
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - WTO official formula, Bali factsheet and canonical price-support section
 CA search: "WTO market price support fixed external reference price eligible production 1986-88"
-CA found: WTO official domestic-support and Bali materials retrieved 25 September 2026 confirm the formula and the historical fixed-reference-price controversy.
+CA found: WTO official domestic-support and Bali materials retrieved 3 October 2026 confirm the formula and the historical fixed-reference-price controversy.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Formula
@@ -1401,65 +991,31 @@ The formula can even yield negative values when the administered price is below 
 7. Inflation and currency create fairness disputes.
 8. Always preserve unit and period consistency.
 
-### Lesson Mains micro-model
+### Responsive Mains practice and model
 
-**Question:** Why can WTO market-price support appear large without equivalent budget expenditure?
-**Model:** Write the formula, explain fixed historical reference price and eligible production, then contrast actual procurement and handling expenditure. Add inflation/currency and eligible-production controversies without claiming a settled ruling.
+**Mains prompt:** Why can WTO market-price support appear large without equivalent budget expenditure?
 
-### Local practice - 3 MCQs
+**Word ceiling:** 150 words
 
-**MCQ 41. If administered price is Rs 2,000, reference price Rs 1,200 and eligible production 10 lakh units, measured support is:**
+**Model response:** WTO market price support can appear large without equivalent budget expenditure because the legal formula is the applied administered price minus the fixed external reference price, multiplied by eligible production. It does not simply record the quantity actually procured or the government's storage and handling bill. Decades of inflation and exchange-rate movement can widen the nominal price gap, while members also contest what production is eligible. These concerns explain India's public-stockholding argument but do not by themselves settle legality. Candidates must distinguish announced price, actual procurement, fiscal cost, notified calculation and adjudicated finding.
 
-A. Rs 80 crore.
-B. Rs 800 crore.
-C. Rs 1,200 crore.
-D. Rs 2,000 crore.
+**Unique scoring rubric:** Award for the exact formula, eligible-production issue, fixed-reference-price controversy and budget-versus-legal distinction.
 
-**MCQ 42. Which variable is most directly disputed when members debate whether actual procurement or all legally eligible output should be counted?**
+### Concept check
 
-A. Government funding.
-B. Eligible production.
-C. Import tariff.
-D. Insurance premium.
+**Question:** Why can WTO market price support exceed actual procurement expenditure?
 
-**MCQ 43. WTO market price support is not equal to:**
+**Model answer:** The AoA calculation uses the administered-price gap against a fixed external reference price multiplied by eligible production. Actual quantity bought and handling expenditure are different fiscal facts.
 
-A. a price-gap calculation.
-B. a measure using a fixed reference price.
-C. actual procurement budget expenditure by definition.
-D. a product-specific support component.
-
-#### Answers and explanations
-
-**MCQ 41: A**
-
-- **A - Correct.** `Rs 800 x 10 lakh = Rs 80 crore`.
-- **B - Incorrect.** It overstates by ten times.
-- **C - Incorrect.** It uses the reference price as support.
-- **D - Incorrect.** It uses the administered price as support.
-
-**MCQ 42: B**
-
-- **A - Incorrect.** The debate concerns quantity in the formula.
-- **B - Correct.** “Eligible production” determines the multiplier.
-- **C - Incorrect.** Tariff belongs to market access.
-- **D - Incorrect.** Premium is unrelated to this formula.
-
-**MCQ 43: C**
-
-- **A - Incorrect.** The price gap is central.
-- **B - Incorrect.** The reference price is specified.
-- **C - Correct.** Budget and WTO measurement are different objects.
-- **D - Incorrect.** Market price support can enter product-specific support.
-
+**Misconception to avoid:** Do not substitute budget cost for the legal support formula.
 ## Lesson 17 - Development treatment and structural asymmetry
 
-**Progress: 17 / 20 | Stage: Advanced | Subtopic: Developing-country flexibility, historical entitlements and fairness debate**
+Progress: 17 / 26 | Stage: Core | Subtopic: Developing-country flexibility, historical entitlements and fairness debate
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - advanced structural-asymmetry section
 CA search: "WTO agriculture domestic support developing countries Article 6.2 fairness negotiations 2026"
-CA found: WTO official framework and MC14 agriculture status were checked 25 September 2026; no new MC14 agriculture declaration changed the core architecture.
+CA found: WTO official framework and MC14 agriculture status were checked 3 October 2026; no new MC14 agriculture declaration changed the core architecture.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Argument map
@@ -1494,65 +1050,31 @@ Article 6.2 and 10% de minimis provide flexibility, but their scope and adequacy
 7. De minimis offers threshold space, not unlimited exemption.
 8. Strong answers present both predictability and development critiques.
 
-### Lesson Mains micro-model
+### Responsive Mains practice and model
 
-**Question:** Examine the claim that AoA domestic-support rules are structurally asymmetric.
-**Model:** Explain historical bound AMS and design capacity, contrast developing-country instruments and farmer structure, then acknowledge trade-spillover concerns. Conclude with updated rules, targeted development flexibility and transparent notification.
+**Mains prompt:** Examine the claim that AoA domestic-support rules are structurally asymmetric.
 
-### Local practice - 3 MCQs
+**Word ceiling:** 150 words
 
-**MCQ 44. The structural-asymmetry critique mainly argues that:**
+**Model response:** The structural-asymmetry claim rests on unequal inherited policy space. Some developed members retain historically scheduled AMS entitlements and possess greater administrative capacity to design large support within Green or Blue criteria. Many developing members, with large low-income farm populations and food-security obligations, rely more on input and administered-price instruments exposed to de minimis scrutiny. Article 6.2 and the 10% developing-member thresholds provide flexibility, but their adequacy is contested. The counterpoint is that formal criteria protect producers elsewhere from trade spillovers. A balanced reform would update development flexibilities and public-stockholding rules while preserving transparency and discipline.
 
-A. every developed-country subsidy violates WTO law.
-B. developing countries face no threshold.
-C. tariffs are Green Box.
-D. historical entitlements and instrument design create unequal effective policy space.
+**Unique scoring rubric:** Award for historical entitlement, design capacity, developing-country farm structure, trade-spillover counterpoint and balanced reform.
 
-**MCQ 45. A balanced assessment should:**
+### Concept check
 
-A. recognise both development constraints and legitimate trade-distortion concerns.
-B. assume every food-security measure is unlimited.
-C. ignore Article 6.2.
-D. equate fairness debate with a dispute ruling.
+**Question:** What is the strongest form of the structural-asymmetry argument?
 
-**MCQ 46. Which feature offers specified developing-country flexibility?**
+**Model answer:** Historically scheduled AMS entitlements and greater capacity to design Green or Blue measures give some developed members wider effective space, while developing members with many low-income farmers rely more on input and administered-price instruments exposed to de minimis scrutiny.
 
-A. Nairobi export subsidy only.
-B. Article 6.2 development measures.
-C. Bound AMS of every member.
-D. A general agricultural red box.
-
-#### Answers and explanations
-
-**MCQ 44: D**
-
-- **A - Incorrect.** Compliance depends on measure and commitment.
-- **B - Incorrect.** De minimis and other limits apply.
-- **C - Incorrect.** Tariffs are market access.
-- **D - Correct.** It states the core distributive critique.
-
-**MCQ 45: A**
-
-- **A - Correct.** It separates fairness from spillover discipline.
-- **B - Incorrect.** Food-security purpose does not erase conditions.
-- **C - Incorrect.** Article 6.2 is central.
-- **D - Incorrect.** Negotiation critique is not adjudication.
-
-**MCQ 46: B**
-
-- **A - Incorrect.** Nairobi concerns export competition.
-- **B - Correct.** Article 6.2 is the development flexibility.
-- **C - Incorrect.** Not every member has a bound AMS.
-- **D - Incorrect.** Agriculture has no general red box.
-
+**Misconception to avoid:** The critique does not prove that every developed-country payment is illegal.
 ## Lesson 18 - Public stockholding, Bali and MC14
 
-**Progress: 18 / 20 | Stage: Advanced | Subtopic: Peace Clause conditions and exact post-MC14 status**
+Progress: 18 / 26 | Stage: Core | Subtopic: Peace Clause conditions and exact post-MC14 status
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - canonical public-stockholding section and WTO Bali material
 CA search: "WTO MC14 Yaounde agriculture public stockholding permanent solution March 2026 official"
-CA found: MC14 held in Yaounde 26-30 March 2026; official outcomes and post-MC14 agriculture pages status-checked 25 September 2026 show no adopted permanent public-stockholding solution.
+CA found: MC14 held in Yaounde 26-30 March 2026; official outcomes and post-MC14 agriculture pages status-checked 3 October 2026 show no adopted permanent public-stockholding solution.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Status timeline
@@ -1577,7 +1099,7 @@ Public stockholding purchases food for security stocks, often at administered pr
 
 The Bali decision is not automatic or unlimited immunity. It is an interim mechanism for qualifying programmes and traditional staple food crops, subject to notification/transparency, safeguards against trade distortion or adverse effects on others' food security, provision of information, consultations and monitoring.
 
-At **MC14, Yaounde, 26-30 March 2026**, members could not reach consensus on the draft agriculture declaration. Official outcomes list a Chair summary and decisions in other areas, with no agriculture/public-stockholding decision. The Chair summary indicates negotiations should resume. Therefore, as status-checked **25 September 2026**, **no permanent public-stockholding solution was adopted at MC14**; the conditional Bali interim mechanism remains the relevant shield.
+At **MC14, Yaounde, 26-30 March 2026**, members could not reach consensus on the draft agriculture declaration. Official outcomes list a Chair summary and decisions in other areas, with no agriculture/public-stockholding decision. The Chair summary indicates negotiations should resume. Therefore, as status-checked **3 October 2026**, **no permanent public-stockholding solution was adopted at MC14**; the conditional Bali interim mechanism remains the relevant shield.
 
 ### Revision notes
 
@@ -1590,51 +1112,31 @@ At **MC14, Yaounde, 26-30 March 2026**, members could not reach consensus on the
 7. MC14 ran 26-30 March 2026 in Yaounde.
 8. MC14 adopted no permanent PSH solution.
 
-### Lesson Mains micro-model
+### Responsive Mains practice and model
 
-**Question:** State the legal and negotiating status of public stockholding after MC14.
-**Model:** Explain purchasing-side AMS concern, Bali's conditional interim due restraint, its transparency and safeguard conditions, then state precisely that MC14 adopted no permanent solution and negotiations are to resume.
+**Mains prompt:** State the legal and negotiating status of public stockholding after MC14.
 
-### Local practice - 2 MCQs
+**Word ceiling:** 150 words
 
-**MCQ 47. The Bali public-stockholding mechanism is best described as:**
+**Model response:** Public stockholding has a purchasing side and a distribution side. Cheap food for vulnerable consumers is not the central WTO problem; procurement at an administered price can create measurable market price support. The 2013 Bali decision provides an interim, conditional due-restraint mechanism for qualifying food-security programmes involving traditional staple crops, subject to notification, information, safeguards, consultations and monitoring. MC14, held in Yaounde from 26 to 30 March 2026, adopted no agriculture declaration or permanent public-stockholding solution. As checked through 3 October 2026, Bali remains relevant, but it is neither automatic immunity nor a final settlement.
 
-A. a permanent unlimited Green Box exemption.
-B. an automatic waiver for all crops and exports.
-C. a conditional interim shield for qualifying food-security programmes.
-D. an MC14 agriculture declaration.
+**Unique scoring rubric:** Award for purchase/distribution distinction, Bali conditions, exact MC14 status and no claim of permanent exemption.
 
-**MCQ 48. As status-checked on 25 September 2026, MC14:**
+### Concept check
 
-A. replaced the AoA.
-B. adopted a permanent PSH solution.
-C. prohibited public stocks.
-D. ended without consensus on an agriculture declaration and adopted no PSH solution.
+**Question:** What did MC14 change about the Bali public-stockholding mechanism?
 
-#### Answers and explanations
+**Model answer:** MC14 adopted no permanent public-stockholding solution. The Bali mechanism therefore remains an interim, conditional due-restraint shield for qualifying programmes, subject to transparency, information and safeguard conditions.
 
-**MCQ 47: C**
-
-- **A - Incorrect.** It is interim and conditional.
-- **B - Incorrect.** Scope, safeguards and information conditions apply.
-- **C - Correct.** This is the precise status.
-- **D - Incorrect.** It originated at Bali in 2013.
-
-**MCQ 48: D**
-
-- **A - Incorrect.** The AoA remains operative.
-- **B - Incorrect.** No permanent solution was adopted.
-- **C - Incorrect.** Public stockholding was not prohibited.
-- **D - Correct.** It states the verified official outcome boundary.
-
+**Misconception to avoid:** Peace clause does not mean permanent, automatic or unlimited immunity.
 ## Lesson 19 - Notification, Committee scrutiny and counter-notification
 
-**Progress: 19 / 20 | Stage: Advanced | Subtopic: Annual transparency, questions, counter-notification and dispute boundaries**
+Progress: 19 / 26 | Stage: Core | Subtopic: Annual transparency, questions, counter-notification and dispute boundaries
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - WTO notification obligations and canonical transparency boundary
 CA search: "WTO Committee on Agriculture annual domestic support notification questions counter notification mechanics"
-CA found: WTO domestic-support page retrieved 25 September 2026 confirms annual notification and Committee scrutiny; no current India symbol, rice percentage or dispute outcome is asserted.
+CA found: WTO domestic-support page retrieved 3 October 2026 confirms annual notification and Committee scrutiny; no current India symbol, rice percentage or dispute outcome is asserted.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Process map
@@ -1673,65 +1175,31 @@ A WTO dispute requires formal consultations and, if pursued, panel/appellate-arb
 7. Counter-notification is not adjudication.
 8. Do not invent symbols, percentages or outcomes.
 
-### Lesson Mains micro-model
+### Responsive Mains practice and model
 
-**Question:** Why is transparency itself part of subsidy discipline?
-**Model:** Explain that classification and thresholds cannot be scrutinised without data on design, value and calculation. Then distinguish Committee questions and counter-notification from formal dispute rulings. Conclude that timely notification improves both legitimacy and negotiating credibility.
+**Mains prompt:** Why is transparency itself part of subsidy discipline?
 
-### Local practice - 3 MCQs
+**Word ceiling:** 150 words
 
-**MCQ 49. A WTO domestic-support notification is primarily:**
+**Model response:** Transparency is part of subsidy discipline because other members cannot assess classification, thresholds or spillovers without information on programme design, value, prices and eligible production. Domestic-support notifications are reviewed in the Committee on Agriculture, where members can ask questions and seek clarification. A counter-notification allows another member to submit information it believes is missing or inaccurate. Neither a question nor a counter-notification proves breach. Formal legal findings require consultations and dispute-settlement procedures. Timely, methodologically clear notification therefore supports compliance, negotiating credibility and the distinction between reported concern and adjudicated outcome.
 
-A. a transparency submission, not an adjudicated ruling.
-B. an automatic confession of breach.
-C. a tariff schedule.
-D. a farmer payment order.
+**Unique scoring rubric:** Award for notification, Committee question, counter-notification and dispute stages in correct institutional order.
 
-**MCQ 50. A counter-notification:**
+### Concept check
 
-A. permanently amends the AoA.
-B. allows another member to submit information for scrutiny but does not itself decide breach.
-C. automatically authorises retaliation.
-D. is identical to a panel report.
+**Question:** Does a counter-notification prove a WTO violation?
 
-**MCQ 51. Which sequence is correct?**
+**Model answer:** No. It places another member's information before the Committee on Agriculture for scrutiny. A legal breach requires the separate dispute-settlement process.
 
-A. Committee question -> automatic violation -> sanctions.
-B. Notification -> automatic immunity.
-C. Notification -> Committee scrutiny -> possible continuing concern, distinct from formal dispute adjudication.
-D. Counter-notification -> permanent solution.
-
-#### Answers and explanations
-
-**MCQ 49: A**
-
-- **A - Correct.** It reports measures and calculations for review.
-- **B - Incorrect.** Notification can report compliant support.
-- **C - Incorrect.** Tariffs belong to market-access schedules.
-- **D - Incorrect.** It is submitted to the WTO, not a payment instruction.
-
-**MCQ 50: B**
-
-- **A - Incorrect.** Members cannot amend the Agreement this way.
-- **B - Correct.** It is an information and scrutiny mechanism.
-- **C - Incorrect.** Retaliation requires legal procedures.
-- **D - Incorrect.** A panel report follows formal adjudication.
-
-**MCQ 51: C**
-
-- **A - Incorrect.** Questions do not automatically establish violation.
-- **B - Incorrect.** Transparency does not create immunity.
-- **C - Correct.** It preserves institutional boundaries.
-- **D - Incorrect.** Counter-notification cannot settle PSH negotiations.
-
+**Misconception to avoid:** Notification, question, counter-notification, consultation and ruling are different institutional stages.
 ## Lesson 20 - Reform synthesis: protect income, change incentives
 
-**Progress: 20 / 20 | Stage: Advanced | Subtopic: Outcome-linked design, public goods, transition safeguards and O-I-I-D-W-R**
+Progress: 20 / 26 | Stage: Core | Subtopic: Outcome-linked design, public goods, transition safeguards and O-I-I-D-W-R
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried - advanced reform scenarios and complete canonical scorecard
 CA search: "India farm subsidy reform Economic Survey 2025-26 nutrient support metering public goods WTO MC14 status"
-CA found: Economic Survey 2025-26 reform discussion and official power/fertiliser/WTO status sources were retrieved or checked 25 September 2026; no draft or proposal is presented as implemented policy.
+CA found: Economic Survey 2025-26 reform discussion and official power/fertiliser/WTO status sources were retrieved or checked 3 October 2026; no draft or proposal is presented as implemented policy.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Reform architecture
@@ -1778,44 +1246,522 @@ Scenario diagnostics:
 9. Build grievance before scaling targeting.
 10. Use O-I-I-D-W-R for 15- and 20-mark answers.
 
-### Lesson Mains micro-model
+### Responsive Mains practice and model
 
-**Question:** Suggest a politically and economically feasible farm-subsidy reform strategy.
-**Model:** Begin with O-I-I-D-W-R. Protect a defined income or service entitlement; phase relative-price correction; build metering, soil advice, cultivator records and alternative crop markets; reinvest savings in public goods; publish incidence and environmental outcomes; preserve strategic food security and WTO transparency. Reject both indefinite distortion and sudden withdrawal.
+**Mains prompt:** Suggest a politically and economically feasible farm-subsidy reform strategy.
 
-### Local practice - 2 MCQs
+**Word ceiling:** 150 words
 
-**MCQ 52. Which reform best protects farmers while changing a resource-depleting incentive?**
+**Model response:** A feasible reform should follow O-I-I-D-W-R. First identify the objective, then select the closest instrument and trace incidence. Diagnose nutrient, water, crop, regional, tenure and fiscal distortions; apply WTO criteria honestly; and sequence redesign. For fertiliser, combine gradual relative-price correction with soil advice, supply assurance and income protection. For power, combine quality metered supply with a protected entitlement, aquifer rules and alternative crop markets. Recognise actual cultivators, create appeals, reinvest savings in research and extension, and preserve strategic food-security stocks transparently. This rejects both permanent quantity-linked distortion and abrupt withdrawal that transfers adjustment risk to vulnerable farmers.
 
-A. Immediate withdrawal without alternatives.
-B. Rename the subsidy without changing its design.
-C. Retain unlimited quantity reward and add publicity.
-D. Phase incentive correction with protected entitlement, alternatives, grievance and public-good investment.
+**Unique scoring rubric:** Award for O-I-I-D-W-R, linked input-output reform, protected transition, public-goods reinvestment and review/grievance.
 
-**MCQ 53. In O-I-I-D-W-R, the second “I” stands for:**
+### Concept check
 
-A. Incidence.
-B. Inflation.
-C. Import.
-D. Institution only.
+**Question:** What must precede withdrawal of a deeply embedded input subsidy?
 
-#### Answers and explanations
+**Model answer:** The state should build a credible alternative: protected income or service entitlement, cultivator recognition, quality supply, extension, resource governance, market alternatives, grievance and monitoring. Reform then changes the marginal incentive predictably.
 
-**MCQ 52: D**
+**Misconception to avoid:** Abrupt withdrawal is not the same as efficient redesign.
 
-- **A - Incorrect.** Abrupt shock can damage livelihoods and political credibility.
-- **B - Incorrect.** Names do not change incentives.
-- **C - Incorrect.** Publicity does not remove the marginal distortion.
-- **D - Correct.** It combines reform with transition safeguards.
+# OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
 
-**MCQ 53: A**
+The Core syllabus and exam route are complete above. This block deepens welfare economics,
+political economy, targeting and WTO argumentation without reclassifying any Core unit as
+optional.
 
-- **A - Correct.** It asks who finally gains or loses.
-- **B - Incorrect.** Inflation may matter but is not the spine label.
-- **C - Incorrect.** Imports are not a universal step.
-- **D - Incorrect.** Institutional design belongs across the framework.
+## Lesson 21 - Price wedges and the three meanings of incidence
+
+Progress: 21 / 26 | Stage: Optional Advanced | Subtopic: Budget, statutory and economic incidence
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried - Advanced owner price-wedge model and older-edition Ramesh Singh taxonomy
+CA search: "Union Budget 2026-27 fertiliser subsidy official expenditure profile incidence"
+CA found: official Budget 2026-27 subsidy statement was rechecked through 3 October 2026; it reports allocations, not final incidence
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Visual: one payment, three answers
+
+```text
+Budget incidence      -> which account pays and which entity receives?
+Statutory incidence   -> who is legally eligible or named?
+Economic incidence    -> whose real income changes after adjustment?
+                                      |
+                                      v
+farmer | supplier | landlord | consumer | taxpayer | environment
+```
+
+Suppose an input's unsubsidised supply price is `P` and the farmer pays `Pf`.
+
+```text
+Per-unit wedge = P - Pf
+Approximate fiscal cost = wedge x subsidised quantity
+```
+
+This is an accounting identity, not a welfare conclusion. Inelastic supply can let a producer
+or dealer capture part of the wedge. A land-linked benefit can be capitalised into rent.
+Expanded output can pass some benefit to consumers. Rationing, queues or poor quality can reduce
+the farmer's effective gain. Environmental damage can shift cost to future users who never
+received the transfer.
+
+The advanced test is therefore counterfactual: compare prices, rents, quantity, access and
+resource use with a credible no-subsidy benchmark. The answer must also distinguish an
+inframarginal transfer, which rewards an action that would have occurred anyway, from a marginal
+incentive that changes the next unit of behaviour.
+
+### Revision notes
+
+1. Budget recipient, legal beneficiary and economic beneficiary are different objects.
+2. A price wedge gives an accounting starting point, not final welfare.
+3. Supply and demand elasticities distribute benefit.
+4. Land rent can capitalise expected support.
+5. Consumers may gain if output expands and prices fall.
+6. Rationing and quality can offset nominal affordability.
+7. Tax and ecological incidence must be counted.
+8. Counterfactual measurement is indispensable.
+9. Inframarginal transfer and marginal incentive must be separated.
+
+### Responsive Mains practice and model
+
+**Mains prompt:** Analyse why the budget recipient of an agricultural subsidy may not be its final beneficiary.
+
+**Word ceiling:** 150 words
+
+**Model response:** A budget records the entity paid, but economic incidence follows adjustment.
+Under fertiliser DBT the company receives reimbursement after PoS-recorded sale, while the farmer
+initially gains through a lower price. If supply is inelastic or retail competition weak, part of
+the wedge may become supplier margin. If subsidised irrigation raises expected land returns, rent
+may capture another share. Expanded output can benefit consumers, while taxpayers finance the
+outlay and depleted soil or water shifts costs forward. Hence the analyst should estimate the
+counterfactual price, access, quantity response, rent and environmental cost. The correct verdict
+is not that the farmer gains nothing, but that statutory receipt cannot establish the size or
+distribution of the real benefit.
+
+**Unique scoring rubric:** Award for all three incidence meanings, one elasticity or rent channel,
+one consumer/tax/ecology channel and a qualified counterfactual verdict.
+
+### Concept check
+
+**Question:** Why is `wedge x quantity` insufficient for measuring farmer welfare?
+
+**Model answer:** It measures approximate fiscal support, while prices, margins, rents, access,
+quality, behavioural response and environmental cost determine how much real benefit the farmer
+retains.
+
+**Misconception to avoid:** Accounting cost and beneficiary welfare are not interchangeable.
+
+## Lesson 22 - Instrument hierarchy, coupling and second-best capacity
+
+Progress: 22 / 26 | Stage: Optional Advanced | Subtopic: Matching policy failure to instrument under administrative constraints
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried - Advanced owner instrument-choice hierarchy and coupling spectrum
+CA search: "India agriculture support targeting actual cultivator metering administrative capacity 2026 official"
+CA found: official scheme architectures rechecked through 3 October 2026 show that records, metering and verification capacity differ sharply by instrument
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Visual: first-best logic meets second-best India
+
+| Failure or objective | Strong theoretical first choice | Binding implementation risk |
+|---|---|---|
+| General low income | Transparent targeted income support | Ownership records miss actual cultivators |
+| Positive externality | Outcome- or practice-linked payment | Measurement, permanence, additionality |
+| Missing research/extension | Public provision | Weak last-mile capability |
+| Temporary input shock | Time-bound calibrated support | Exit credibility and price volatility |
+| Credit rationing | Records, guarantees and risk sharing | Informality and adverse selection |
+| Catastrophic crop risk | Insurance plus prevention/relief | Basis risk, data and delayed claims |
+| Food-security stock need | Rule-based procurement/storage | Stock cost and crop concentration |
+
+```text
+MORE COUPLED                                      MORE DECOUPLED
+per-unit input -> per-unit output -> current area -> historical base -> general income
+```
+
+Coupling is not automatically irrational. A temporary adoption subsidy may intentionally change
+behaviour. Decoupling is not automatically equitable: historical or land-based entitlements can
+preserve ownership inequality. The correct question is whether the induced behaviour serves the
+stated objective and whether a less distortive, administratively feasible alternative exists.
+
+Second-best capacity matters. A theoretically precise payment can exclude vulnerable farmers
+when records or measurement fail. A broad instrument can be less allocatively efficient yet more
+accessible. This does not justify permanent bluntness; it requires correction, appeal, phased
+data improvement and a review trigger.
+
+### Revision notes
+
+1. Match the instrument to the failure, not to a slogan.
+2. Income, risk, public-good and stock objectives require different tools.
+3. Coupling describes linkage to current behaviour.
+4. More decoupled generally means weaker current production incentive.
+5. Temporary coupling can create desired adoption.
+6. Historical-base support can preserve inequality.
+7. Administrative precision can produce exclusion.
+8. Second-best design requires correction and appeal.
+9. Review and sunset rules protect against persistence.
+
+### Responsive Mains practice and model
+
+**Mains prompt:** "Less distortive" does not always mean "more equitable or implementable." Discuss in the context of farm support.
+
+**Word ceiling:** 150 words
+
+**Model response:** Decoupled income support weakens current input and output incentives and can
+therefore reduce production distortion. Yet land- or historical-base eligibility may exclude
+tenants, women cultivators and undocumented sharecroppers while preserving unequal ownership.
+Conversely, a broad input subsidy may be accessible at the point of purchase but reward larger
+users and resource-intensive production. India therefore faces a second-best design problem:
+the theoretically precise instrument may fail where records, metering or outcome measurement are
+weak. Reform should identify the objective, choose the least distortive feasible instrument,
+protect actual cultivators through correction and appeal, and improve administrative capacity
+over time. Equity, efficiency and implementability are separate tests; none can be inferred from
+the word "direct" or "decoupled."
+
+**Unique scoring rubric:** Award for coupling definition, one decoupled-equity failure, one broad-
+instrument distortion, second-best capacity and a phased institutional remedy.
+
+### Concept check
+
+**Question:** When can a coupled subsidy be defensible?
+
+**Model answer:** When changing current behaviour is the explicit, temporary objective—such as
+adoption of a socially beneficial practice—and monitoring shows additionality and a credible
+exit or redesign path.
+
+**Misconception to avoid:** Coupled does not mean automatically illegal or economically useless.
+
+## Lesson 23 - Political persistence and interlocking subsidy systems
+
+Progress: 23 / 26 | Stage: Optional Advanced | Subtopic: Constituencies, lock-in and water-energy-crop-fertiliser feedbacks
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried - Advanced owner political-economy and interlocking-system sections
+CA search: "India farm power fertiliser procurement groundwater reform 2026 official"
+CA found: official groundwater, fertiliser and procurement architectures remain separate programmes whose incentives interact; checked through 3 October 2026
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Visual: two mutually reinforcing loops
+
+```text
+cheap power -> cheap pumping -> water-intensive crop -> procurement assurance
+     ^                                                   |
+     |                                                   v
+higher energy need <- lower water table <- continued crop choice
+
+relative urea cheapness -> nitrogen-heavy use -> short-run response
+          -> soil/nutrient imbalance -> weaker response -> larger corrective input need
+```
+
+Subsidies create constituencies among farmers, suppliers, utilities, banks, insurers,
+procurement agencies, regions and political actors. Benefits are visible and concentrated;
+tax, fiscal and ecological costs are delayed or dispersed. Withdrawal is immediate, while
+alternative gains are uncertain. Support may also compensate for an unresolved failure:
+unreliable power, thin crop markets, weak risk cover or poor extension.
+
+This explains why single-instrument reform often fails. Raising the electricity price while
+leaving procurement and crop-transition risk unchanged can reduce income without changing crop
+choice. Correcting fertiliser prices without soil advice, reliable supply and purchasing-power
+protection can create a shock rather than balanced nutrition. Credible sequencing is therefore
+part of economics, not merely communication.
+
+### Revision notes
+
+1. Subsidies create multi-actor constituencies.
+2. Concentrated benefit and dispersed cost support persistence.
+3. Withdrawal is certain; reform gain is delayed.
+4. One subsidy can compensate for another market failure.
+5. Power, water, crop and procurement incentives interact.
+6. Fertiliser price and soil response form a dynamic loop.
+7. Single-price reform can cause income loss without adaptation.
+8. Credibility and sequencing alter behavioural response.
+9. Reform must address the linked system.
+
+### Responsive Mains practice and model
+
+**Mains prompt:** Why do isolated reforms of electricity or fertiliser subsidy frequently underperform?
+
+**Word ceiling:** 150 words
+
+**Model response:** Farm incentives operate as systems. Cheap electricity lowers pumping cost;
+procurement assurance sustains water-intensive crops; falling water tables then raise future
+energy demand. Raising the tariff alone can therefore reduce farm income without creating a
+market for alternative crops. Similarly, PoS control or a urea-price correction cannot by itself
+restore nutrient balance where soil advice, product supply and purchasing power are weak.
+Political resistance is reinforced because farmers, suppliers, utilities and regional
+constituencies receive visible benefits while ecological and fiscal costs are dispersed.
+Effective reform must coordinate protected income, reliable metered supply, aquifer governance,
+crop markets, insurance, extension and diversified procurement. Sequencing is a substantive
+economic condition because it determines whether farmers can respond rather than merely absorb
+a shock.
+
+**Unique scoring rubric:** Award for one complete feedback loop, constituency logic, why a
+single-price change fails and at least four coordinated transition elements.
+
+### Concept check
+
+**Question:** Why is political trust an economic variable in subsidy reform?
+
+**Model answer:** Farmers change behaviour only if promised income protection, service quality
+and alternative markets are credible; distrust raises the perceived transition risk and reduces
+response to the new price signal.
+
+**Misconception to avoid:** Communication cannot substitute for missing institutions, but
+credible institutions cannot work if beneficiaries reasonably expect promises to fail.
+
+## Lesson 24 - Targeting, equity and the full fiscal account
+
+Progress: 24 / 26 | Stage: Optional Advanced | Subtopic: Actual cultivator, exclusion, hidden liabilities and opportunity cost
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried - Advanced owner targeting and fiscal-opportunity-cost sections
+CA search: "India agriculture scheme actual cultivator grievance fiscal subsidy arrears 2026 official"
+CA found: official scheme eligibility and Budget documents rechecked through 3 October 2026; no unsupported national exclusion rate is asserted
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Visual: targeting bases and failure modes
+
+| Basis | Advantage | Main exclusion or manipulation risk |
+|---|---|---|
+| Land ownership | Administratively verifiable | Tenants, sharecroppers, gendered title |
+| Farm size | Equity proxy | Fragmentation, record error, crop-risk blindness |
+| Input purchase | Links benefit to use | Rewards quantity and overuse |
+| Crop or region | Addresses a specific need | Lobbying, classification, monoculture |
+| Income or wealth | Equity-oriented | Rural income measurement |
+| Actual cultivation | Closest to intended farmer | Seasonal verification cost |
+| Environmental outcome | Pays for social benefit | Measurement, permanence, additionality |
+
+The full fiscal account includes direct outlay, arrears, delayed reimbursement, utility losses,
+contingent liabilities, administration, verification, environmental remediation and the public
+goods forgone because funds are tied up. A cut in an explicit budget line can increase hidden
+liabilities if a utility or supplier must continue low prices without timely compensation.
+
+An inclusion audit asks whether the actual cultivator is recognised, whether a person without
+digital or land documentation can obtain correction, whether larger consumption automatically
+means larger support, whether women's cultivation is visible and whether appeal occurs before
+the season is lost.
+
+### Revision notes
+
+1. Every targeting basis creates a different exclusion risk.
+2. Ownership is not cultivation.
+3. Input purchase rewards use, not need.
+4. Environmental payment requires additionality.
+5. Appeal must be season-sensitive.
+6. Fiscal cost includes arrears and contingent liabilities.
+7. Utility losses can hide support.
+8. Environmental remediation belongs in social cost.
+9. Opportunity cost includes foregone research and infrastructure.
+10. Distribution must be reported by farm type, crop and region.
+
+### Responsive Mains practice and model
+
+**Mains prompt:** Design an equity and fiscal audit for a farm-subsidy programme.
+
+**Word ceiling:** 150 words
+
+**Model response:** Begin by identifying the intended cultivator and the proxy used—ownership,
+farm size, purchase, crop, income or outcome. Test exclusion of tenants, sharecroppers, women,
+rainfed farmers and people with record or digital errors; require correction and appeal before
+the crop season closes. Next trace benefit by farm size, quantity used, crop and region rather
+than reporting only beneficiary counts. The fiscal audit should add budget outlay, arrears,
+supplier or utility losses, contingent liabilities, administration, environmental remediation
+and the opportunity cost of foregone research, extension or maintenance. A lower explicit
+subsidy is not a saving if uncompensated public suppliers accumulate losses. The programme should
+publish access, incidence, outcome and liability indicators and carry a review or redesign
+trigger.
+
+**Unique scoring rubric:** Award for targeting proxy, four exclusion groups, season-sensitive
+grievance, hidden-liability account, opportunity cost and disaggregated outcome reporting.
+
+### Concept check
+
+**Question:** Why can replacing a budget subsidy with an unpaid utility mandate worsen fiscal transparency?
+
+**Model answer:** The visible outlay falls, but the utility accumulates losses, arrears or debt
+that remain a public or contingent liability while the underlying concession continues.
+
+**Misconception to avoid:** An off-budget cost has not disappeared.
+
+## Lesson 25 - WTO reasoning beyond box memorisation
+
+Progress: 25 / 26 | Stage: Optional Advanced | Subtopic: Domestic labels, structural asymmetry and the public-stockholding calculation controversy
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried - Advanced owner WTO reasoning and public-stockholding controversy
+CA search: "WTO agriculture public stockholding MC14 domestic support official 3 October 2026"
+CA found: official WTO architecture and post-MC14 status were rechecked through 3 October 2026; no permanent PSH solution or adjudicated India percentage is asserted
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Visual: domestic name versus legal question
+
+| Domestic description | WTO question |
+|---|---|
+| Income support | Is it decoupled and Annex 2-compliant? |
+| Input subsidy | Does Article 6.2 apply, or is it non-exempt support? |
+| MSP/procurement | Does the administered price create measurable market price support? |
+| Public stockholding | Are Bali scope, information and safeguard conditions met? |
+| Infrastructure | Is it a compliant general service rather than a producer-specific transfer? |
+| Environmental payment | Is eligibility clearly defined and payment limited to relevant cost or income loss? |
+
+```text
+(current administered price - fixed external reference price)
+                         x eligible production
+                 = measured market price support
+```
+
+Inflation and currency change can widen the nominal price gap even when real support has not
+risen proportionately. Members also dispute what counts as eligible production, how programmes
+dispose of stocks and whether food-security operations create trade spillovers. These are
+methodological and negotiating controversies; they are not permission to invent an adjudicated
+outcome.
+
+The structural-asymmetry argument is strongest when it distinguishes formal legality from
+effective policy space. Historically bound AMS and design capacity can permit high support in
+some members, while developing members with many low-income producers depend more on instruments
+exposed to de minimis scrutiny. The counterpoint is that development purpose does not erase harm
+to other producers or the need for transparency.
+
+### Revision notes
+
+1. Domestic labels never determine WTO classification.
+2. Apply general and measure-specific criteria.
+3. Public stockholding has purchasing and distribution sides.
+4. Fixed external reference price is historical.
+5. Inflation and exchange-rate effects complicate comparison.
+6. Eligible production is a contested calculation input.
+7. Notification is not adjudication.
+8. Structural asymmetry concerns effective policy space.
+9. Development fairness and trade spillover must both be addressed.
+10. MC14 produced no permanent PSH solution.
+
+### Responsive Mains practice and model
+
+**Mains prompt:** Critically examine the public-stockholding controversy under the Agreement on Agriculture.
+
+**Word ceiling:** 150 words
+
+**Model response:** Public stocks serve food security, but purchasing at an administered price can
+create product-specific market price support. The AoA measures it through the gap between the
+current administered price and a fixed historical external reference price multiplied by
+eligible production, not through actual procurement expenditure. India and other developing
+members argue that decades of inflation, exchange-rate movement and large vulnerable populations
+make this method developmentally unfair; disputes also concern eligible production and stock
+disposal. Trading partners answer that supported surplus can depress markets and therefore
+requires limits and transparency. The 2013 Bali mechanism supplies conditional interim due
+restraint for qualifying programmes, but MC14 adopted no permanent solution. A defensible route
+combines a permanent development-sensitive settlement, safeguards against spillovers and timely,
+methodologically transparent notification.
+
+**Unique scoring rubric:** Award for the exact formula, two calculation controversies, food-
+security case, trade-spillover counterpoint, Bali conditions and exact post-MC14 status.
+
+### Concept check
+
+**Question:** Why is a notified support percentage not itself a WTO ruling?
+
+**Model answer:** A notification reports a member's measure and calculation for Committee
+scrutiny; only the dispute-settlement process can produce an adjudicated legal finding.
+
+**Misconception to avoid:** Transparency documents and judgments have different legal status.
+
+## Lesson 26 - Scenario testing and the subsidy-quality scorecard
+
+Progress: 26 / 26 | Stage: Optional Advanced | Subtopic: Reform packages, failure risks and implementation tests
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried - Advanced owner reform scenarios, scorecard and synthesis
+CA search: "India agricultural subsidy reform fertiliser power procurement transition 2026 official"
+CA found: official sources through 3 October 2026 support the instrument architectures; scenario packages below are analytical designs, not announced policy
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Visual: scenario stress test
+
+| Scenario | Potential gain | Failure risk | Minimum package |
+|---|---|---|---|
+| Free power to direct support | Transparent cost, conservation incentive, better supply | Tenant exclusion, weak metering, unchanged crop incentive | Cultivator registry, protected entitlement, feeder quality, aquifer rules, crop markets |
+| Fertiliser reform | Balanced nutrients, lower fiscal/ecological cost | Price shock, shortage, substitution, exclusion | Phased prices, soil advice, supply assurance, retailer monitoring, income protection |
+| Procurement to income/deficiency support | Lower stock and crop distortion | Weak benchmark, manipulation, inadequate stocks | Strategic procurement, credible market data, competitive buyers, appeal |
+
+### Subsidy-quality scorecard
+
+```text
+Objective -> Additionality -> Incidence -> Equity -> Efficiency
+    -> Ecology -> Fiscal durability -> Exit/adaptation
+    -> WTO treatment -> Resilience
+```
+
+A reform scenario fails if it improves one box while ignoring the system. Direct cash can make
+cost visible but miss tenants. Metering can price extraction but cannot create an alternative
+crop market. Deficiency payment can avoid physical procurement but depends on a credible market
+price and proof of sale. Every scenario therefore needs a failure-risk column, an appeal route
+and indicators that trigger pause, correction or redesign.
+
+The final advanced synthesis is:
+
+```text
+GOOD FARM SUPPORT
+= explicit objective
++ transparent full fiscal cost
++ actual-cultivator inclusion
++ low distortion per rupee of protection
++ complementary public goods
++ environmental safeguards
++ predictable transition
++ honest WTO classification and notification
+```
+
+### Revision notes
+
+1. Compare packages, not isolated instruments.
+2. State potential gain and failure risk together.
+3. Direct support requires cultivator inclusion.
+4. Metering requires reliable service and grievance.
+5. Fertiliser reform requires supply and agronomy.
+6. Deficiency payment requires a credible benchmark.
+7. Strategic stocks may remain necessary.
+8. Use measurable pause and redesign triggers.
+9. Apply the ten-part scorecard.
+10. The objective is better support, not disappearance of the state.
+
+### Responsive Mains practice and model
+
+**Mains prompt:** Propose a scorecard for evaluating agricultural-subsidy reform in India.
+
+**Word ceiling:** 150 words
+
+**Model response:** Evaluation should start with the stated failure or distributional objective
+and ask whether the supported action is additional. It should then trace economic incidence and
+access among small, tenant, rainfed and women cultivators; compare the instrument with a cheaper,
+less distortive alternative; and measure water, soil, emission and biodiversity effects. Fiscal
+durability requires explicit outlay, arrears, utility losses, administration, remediation and
+opportunity cost. The design should contain an exit, review or adaptation trigger rather than
+assume permanence. WTO treatment must follow actual criteria and notification obligations.
+Finally, resilience asks whether support builds capability or recurring dependence. A reform
+should proceed only with protected transition, complementary public goods, grievance redress and
+predefined indicators for correction.
+
+**Unique scoring rubric:** Award one mark-cluster each for objective/additionality, incidence/
+equity, efficiency/ecology, full fiscal account, exit/WTO/resilience and implementation
+safeguards.
+
+### Concept check
+
+**Question:** What makes a reform scorecard superior to comparing subsidy outlays alone?
+
+**Model answer:** It tests behaviour, distribution, environmental effect, hidden liabilities,
+alternatives, legal treatment and adaptation, while outlay records only one fiscal input.
+
+**Misconception to avoid:** Lower spending is not necessarily better policy if exclusion,
+resource damage or hidden debt rises.
 
 # VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
+
+## Local-to-final ownership map
+
+| PYQ | Local lesson link | Final boundary |
+|---|---|---|
+| Prelims 2020 Q94 | Lesson 6 fertiliser channel; Lesson 7 nutrient logic | Neutral concepts only; no locally verified official key and no inferred answer |
+| GS-III 2023 Q14 | Lessons 2, 6-12 and 13-19 | Exact wording, directive, demand and approach; no solved PYQ model |
+| GS-III 2026 Q14 | Lessons 1-20 | Exact wording, directive, demand and approach; no solved PYQ model |
 
 ## UPSC GS-III 2023, Question 14 - 15 marks, 250 words
 
@@ -1823,18 +1769,16 @@ D. Institution only.
 
 > What are the direct and indirect subsidies provided to farm sector in India? Discuss the issues raised by the World Trade Organization (WTO) in relation to agricultural subsidies.
 
-**Demand:** classify Indian support without category errors, then explain WTO domestic-support concerns rather than merely criticising fiscal cost.
+**Demand:** classify Indian support without category errors, then explain WTO domestic-support
+concerns rather than merely criticising fiscal cost.
 
-**Approach:**
+**Answer approach:** define the delivery distinction; cover income, fertiliser, power, irrigation,
+credit, insurance, capital and output support; add incidence and ecological effects; then explain
+Green, Blue, Amber, Article 6.2, separate de minimis tests, AMS, public stockholding, reference
+prices and notification. Conclude with cultivator-sensitive, less resource-depleting reform and
+transition protection.
 
-1. Define direct and indirect as delivery categories.
-2. Give direct income/capital illustrations and indirect fertiliser, power, irrigation, credit, insurance and price-support channels.
-3. Add economic incidence and ecological/distributional concerns.
-4. Explain Green, Blue, Amber, Article 6.2, separate de minimis tests and AMS.
-5. Explain public stockholding, reference-price and notification issues.
-6. Conclude with transparent, cultivator-sensitive and less resource-depleting reform plus transition protection.
-
-No solved PYQ model answer is provided here.
+No solved PYQ model answer is provided.
 
 ## UPSC GS-III 2026, Question 14 - 15 marks, 250 words
 
@@ -1842,517 +1786,592 @@ No solved PYQ model answer is provided here.
 
 > Discuss the different types of subsidies and supports provided by the Government of India to agricultural sector. Examine the related issues pertaining to Agreement on Agriculture of World Trade Organisation (WTO).
 
-**Demand:** “types of subsidies and supports” is wider than cash subsidy; “examine” requires the legal architecture, India's development concerns, transparency and a balanced reform verdict.
+**Demand:** "types of subsidies and supports" is wider than cash subsidy; "examine" requires
+legal architecture, development concerns, transparency and a balanced reform verdict.
 
-**Approach:**
+**Answer approach:** use objective-delivery-incidence taxonomy; cover income, input, risk,
+investment, price/procurement and public-good support; distinguish Centre/state and farmer/firm
+channels; explain de minimis and market-price-support methodology; state Bali's conditional
+status and the post-MC14 position as checked through 3 October 2026; conclude with O-I-I-D-W-R.
 
-1. Use objective-delivery-incidence taxonomy.
-2. Cover income, input, risk, investment, price/procurement and public-good support.
-3. Distinguish Centre/state and farmer/firm channels.
-4. Locate issues within AoA domestic support.
-5. Calculate or explain de minimis and market-price-support formula.
-6. State Bali's conditional status and exact post-MC14 position as of 25 September 2026.
-7. End with O-I-I-D-W-R.
-
-No solved PYQ model answer is provided here.
+No solved PYQ model answer is provided.
 
 ## UPSC Prelims 2020, Question 94 - neutral concept rendering
 
-The locally audited routing ledger records a question on **chemical fertilisers, ammonia source, sulphur input and pricing**. It is cross-routed to fertiliser fundamentals and this subsidy owner.
+The audited routing ledger records a question on chemical fertilisers, ammonia source, sulphur
+input and pricing. It is cross-routed to input fundamentals and this subsidy owner.
 
-**Integrity boundary:** the official key is not locally verified. No answer letter, inferred combination or solved rendering is supplied. Revise only the neutral concepts: fertiliser composition, ammonia/nitrogen linkage, sulphur-bearing inputs and the distinction between market price, regulated price and subsidy.
+**Integrity boundary:** the official key is not locally verified. No answer letter, inferred
+combination, truth-value mapping, option elimination or corrective wording is supplied. Revise
+only fertiliser composition, ammonia/nitrogen linkage, sulphur-bearing inputs and the distinction
+between market price, regulated price and subsidy.
 
-# CUMULATIVE MCQS
+# CUMULATIVE CONCEPT CHECKS
 
-### Whole-topic diagnostic set - 8 MCQs
+## Check 1 - classification
 
-**MCQ 54. A fertiliser company receives subsidy after PoS-recorded sale, while the farmer pays a lower price. Which distinction is central?**
+**Question:** A government pays a farmer electronically for every tonne produced. Is it
+necessarily Green Box?
 
-A. Tariff versus quota.
-B. Budget recipient versus economic beneficiary.
-C. Export subsidy versus SPS.
-D. Recharge versus extraction.
+**Model answer:** No. It is direct and electronic, but production-linked. Green treatment depends
+on Annex 2 and measure-specific criteria, not payment technology.
 
-**MCQ 55. Product-specific non-exempt support equals 9% of that product's value, while non-product-specific support equals 11% of total agricultural production value. For a 10% developing-country threshold:**
+**Misconception to avoid:** Direct and decoupled are not synonyms.
 
-A. both are included in Current Total AMS.
-B. both are below threshold.
-C. the product-specific amount is below its test while the non-product-specific amount exceeds its separate test.
-D. the percentages must be added to 20%.
+## Check 2 - incidence
 
-**MCQ 56. Which policy most clearly risks a water-energy-crop feedback?**
+**Question:** A Rs 100 input subsidy causes the supplier price to rise by Rs 30. What is the
+farmer's immediate retained price benefit before other adjustments?
 
-A. General pest-control research.
-B. A decoupled historical-base payment.
-C. Domestic food aid.
-D. Free unmetered power combined with assured procurement of a water-intensive crop.
+**Model answer:** Rs 70. The remaining Rs 30 is captured upstream; rent, quantity and quality
+adjustments may redistribute the benefit further.
 
-**MCQ 57. An administered price is Rs 2,500, fixed reference price Rs 1,000 and eligible production 20 lakh units. Measured market price support is:**
+**Misconception to avoid:** The nominal wedge is not automatically the farmer's welfare gain.
 
-A. Rs 300 crore.
-B. Rs 150 crore.
-C. Rs 500 crore.
-D. Rs 3,000 crore.
+## Check 3 - input systems
 
-**MCQ 58. Which statement about MC14 is correct as status-checked 25 September 2026?**
+**Question:** Why might metered power fail to conserve groundwater?
 
-A. It made Bali protection unconditional.
-B. It adopted no permanent public-stockholding solution.
-C. It abolished annual notifications.
-D. It converted all procurement into Green Box support.
+**Model answer:** If supply remains unreliable, the protected entitlement is inadequate,
+procurement still rewards water-intensive crops and aquifer rules or alternative markets are
+absent, metering alone cannot produce feasible crop change.
 
-**MCQ 59. Which package best addresses fertiliser imbalance?**
+**Misconception to avoid:** Measurement is an enabling institution, not a complete reform.
 
-A. PoS monitoring alone.
-B. Abrupt price removal alone.
-C. Relative-price correction, soil/crop advice, supply assurance and income transition protection.
-D. A universal national nutrient dose.
+## Check 4 - risk and finance
 
-**MCQ 60. A subsidy is paid for practices that would have occurred anyway. The principal weakness is:**
+**Question:** Why can a heavily subsidised crop-insurance premium still deliver low welfare?
 
-A. high additionality.
-B. basis risk.
-C. market access.
-D. low additionality.
+**Model answer:** Basis risk, poor enrolment data, delayed state premium, weak loss measurement,
+late settlement and inaccessible grievance can make the policy unreliable despite low farmer
+premium.
 
-**MCQ 61. Which answer structure is most complete for a subsidy-reform question?**
+**Misconception to avoid:** Premium affordability does not establish claim quality.
 
-A. Objective, instrument, incidence, distortion/distribution, WTO treatment and reform safeguards.
-B. Scheme list, slogan and conclusion.
-C. Budget totals only.
-D. WTO boxes only.
+## Check 5 - de minimis
 
-#### Answers and explanations
+**Question:** Product-specific support is 9% of that product's value and non-product support is
+11% of total agricultural production value. What follows for a 10% threshold?
 
-**MCQ 54: B**
+**Model answer:** The product-specific amount is below its separate test; the non-product-
+specific amount exceeds its separate test. The percentages are not added.
 
-- **A - Incorrect.** No border measure is involved.
-- **B - Correct.** Payment destination and final benefit channel differ.
-- **C - Incorrect.** Neither export contingency nor health regulation is central.
-- **D - Incorrect.** Those are groundwater accounts.
+**Misconception to avoid:** Different denominators cannot be combined.
 
-**MCQ 55: C**
+## Check 6 - public stockholding
 
-- **A - Incorrect.** The 9% product-specific amount is below its test.
-- **B - Incorrect.** The 11% amount exceeds its test.
-- **C - Correct.** The tests and denominators are separate.
-- **D - Incorrect.** Adding percentages is invalid.
+**Question:** What remains unresolved after MC14?
 
-**MCQ 56: D**
+**Model answer:** A permanent public-stockholding solution. Bali's interim conditional mechanism
+remains relevant for qualifying programmes.
 
-- **A - Incorrect.** Research does not price pumping at zero.
-- **B - Incorrect.** It has a weak current crop-use link.
-- **C - Incorrect.** Food aid targets consumers.
-- **D - Correct.** Input and output incentives reinforce extraction.
+**Misconception to avoid:** Continued protection is not a final settlement.
 
-**MCQ 57: A**
+## Check 7 - reform
 
-- **A - Correct.** `Rs 1,500 x 20 lakh = Rs 300 crore`.
-- **B - Incorrect.** It halves the correct amount.
-- **C - Incorrect.** It uses the administered price incorrectly.
-- **D - Incorrect.** It confuses units and crore conversion.
+**Question:** What is the minimum logic of a defensible subsidy transition?
 
-**MCQ 58: B**
+**Model answer:** Protect a defined entitlement, build the alternative service and market,
+correct the marginal incentive predictably, recognise actual cultivators, provide grievance and
+measure distributional, fiscal and ecological outcomes.
 
-- **A - Incorrect.** Bali remains conditional.
-- **B - Correct.** No permanent solution was adopted.
-- **C - Incorrect.** Notification obligations remain.
-- **D - Incorrect.** Procurement must satisfy legal criteria.
-
-**MCQ 59: C**
-
-- **A - Incorrect.** Monitoring does not correct nutrient prices.
-- **B - Incorrect.** Abrupt removal risks affordability and output.
-- **C - Correct.** It combines incentive and capability reform.
-- **D - Incorrect.** Agronomic need varies.
-
-**MCQ 60: D**
-
-- **A - Incorrect.** Unchanged behaviour indicates the opposite.
-- **B - Incorrect.** Basis risk concerns insurance triggers.
-- **C - Incorrect.** Market access concerns border measures.
-- **D - Correct.** The transfer has weak behavioural additionality.
-
-**MCQ 61: A**
-
-- **A - Correct.** O-I-I-D-W-R integrates economics and law.
-- **B - Incorrect.** Listing lacks analysis.
-- **C - Incorrect.** Fiscal scale is only one dimension.
-- **D - Incorrect.** WTO law alone misses domestic incidence and transition.
+**Misconception to avoid:** Renaming or abruptly removing an instrument is not redesign.
 
 # ORIGINAL 10-, 15- AND 20-MARK MAINS MODEL PRACTICE
 
 ## Original 10-mark question 1
 
-**Question:** Distinguish direct income support from indirect input subsidy with suitable Indian illustrations. (150 words)
+**Question:** Distinguish direct income support from indirect input subsidy with suitable Indian illustrations.
+
+**Ceiling:** 150 words
 
 ### Model answer
 
-Direct income support transfers an identifiable amount to an eligible farmer household without requiring purchase of a specified input. PM-KISAN provides Rs 6,000 annually in three instalments to eligible landholding farmer families subject to exclusions. It improves transparency and liquidity, but land-based eligibility may exclude tenants, sharecroppers and women cultivators without title.
+Direct income support transfers an identifiable amount to an eligible farm household without
+requiring purchase of a specified input. PM-KISAN provides Rs 6,000 annually in three instalments
+to eligible landholding farmer families, subject to exclusions. It improves transparency and
+liquidity but can miss tenants, sharecroppers and women cultivators without title.
 
-Indirect input subsidy lowers the price or cost of a production input through an intermediary or administered tariff. Under fertiliser DBT, companies receive subsidy after actual PoS-recorded retail sales while farmers pay a lower price. State-level free or concessional farm power similarly lowers irrigation cost for connected users.
+Indirect input subsidy lowers production cost through an intermediary or administered price.
+Under fertiliser DBT, companies receive subsidy after actual PoS-recorded sales while the farmer
+pays a lower price. State-level concessional farm power similarly lowers irrigation cost for
+connected users.
 
-The distinction concerns delivery, not final incidence or WTO legality. Income support can be captured through rent or prices; input subsidy can benefit suppliers and large users. A direct payment is not automatically Green Box, while a qualifying developing-country input measure may use Article 6.2. Both should be judged by objective, inclusion, marginal incentive and environmental effect.
+The distinction concerns delivery, not final incidence or WTO legality. Income support may be
+captured through rent; input support can favour suppliers and larger users. Both require tests of
+objective, inclusion, marginal incentive, ecology and legal design.
+
+**Unique scoring note:** 2 marks definition; 3 Indian channels; 2 incidence; 2 WTO boundary;
+1 qualified conclusion.
 
 ## Original 10-mark question 2
 
-**Question:** Explain the economic incidence of fertiliser subsidy. (150 words)
+**Question:** Explain the economic incidence of fertiliser subsidy.
+
+**Ceiling:** 150 words
 
 ### Model answer
 
-The government releases fertiliser subsidy to companies on actual retailer sales recorded through PoS, while the farmer receives the immediate benefit as a lower purchase price. This statutory payment channel does not settle final incidence.
+The government releases fertiliser subsidy to companies after actual retailer sales recorded
+through PoS, while the farmer receives the immediate benefit through a lower purchase price.
+This statutory channel does not settle final incidence.
 
-Where supply or retail competition is weak, firms or dealers may capture part through price, quality or availability. Quantity-linked support benefits larger users more. Lower input cost can expand output and transmit some benefit to consumers through prices. Landlords may capture part if expected farm returns raise rent. Taxpayers bear the fiscal cost, while excess nitrogen and nitrate leaching can shift costs to soil, water and future cultivators.
+Where supply or retail competition is weak, firms or dealers may capture part through margin,
+quality or availability. Quantity-linked support gives larger users more benefit. Lower input
+cost can expand output and pass some gain to consumers; landlords may capture part through rent.
+Taxpayers bear the fiscal cost, while excess nitrogen can shift costs to soil, water and future
+cultivators.
 
-Thus incidence requires comparison with the unsubsidised benchmark, supplier and demand elasticities, access, quantity response and ecological cost. Reform should protect affordable nutrient access while correcting relative urea cheapness and strengthening soil-based advice.
+Incidence therefore requires the unsubsidised benchmark, access, elasticities, quantity response
+and ecological cost. Reform should preserve affordable nutrients while correcting relative urea
+cheapness and strengthening soil-based advice.
+
+**Unique scoring note:** 2 payment channel; 4 incidence groups; 2 ecology/fiscal cost; 2 reform.
 
 ## Original 15-mark question 1
 
-**Question:** “Farm-power subsidy is not merely a tariff issue; it is a water, crop and fiscal-governance issue.” Discuss. (250 words)
+**Question:** "Farm-power subsidy is not merely a tariff issue; it is a water, crop and fiscal-governance issue." Discuss.
+
+**Ceiling:** 250 words
 
 ### Model answer
 
-Free or flat agricultural electricity lowers the marginal cost of groundwater pumping. For a connected pump owner this supports irrigation and protects against rainfall risk. However, the same price signal encourages longer pumping and can favour water-intensive crops, especially where output procurement reinforces their returns.
+Free or flat agricultural electricity lowers the marginal cost of groundwater pumping. For a
+connected pump owner this supports irrigation and protects against rainfall risk. The same price
+signal, however, encourages longer pumping and can favour water-intensive crops where procurement
+reinforces returns.
 
-As water tables fall, more energy is required to lift each unit of water. Unmetered supply obscures consumption and loss, while poor DISCOM finances can produce rationed or unreliable service. The incidence is unequal: pump-owning irrigated farms gain directly; rainfed farmers, tenants without control over the connection and tail-end canal users may gain little. Land rent can absorb part of the advantage.
+As water tables fall, more energy is required to lift each unit. Unmetered supply obscures use and
+loss, while weak DISCOM finances can produce rationed service. Incidence is unequal: pump-owning
+irrigated farms gain directly; rainfed farmers and tenants without connection control may gain
+little. Land rent can absorb part. Solar pumps reduce diesel use but may intensify extraction
+when marginal pumping cost approaches zero. The 2025 official groundwater assessment's national
+extraction stage of 60.63% does not exclude severe local stress.
 
-Solar pumps reduce diesel use but may intensify extraction when marginal pumping cost approaches zero. The 2025 official groundwater assessment's national extraction stage of 60.63% does not exclude severe local stress.
+Reform should combine quality metered supply, a transparent protected entitlement, feeder
+improvement, aquifer governance, crop alignment and reliable alternative markets. Sudden tariff
+withdrawal without income and crop transition would be inequitable. The objective is dependable
+irrigation with a conservation incentive, not simply a higher bill.
 
-Reform should combine quality metered supply, a transparent protected entitlement, feeder improvement, aquifer governance, incentives for efficient crops and reliable alternative markets. PM-KUSUM and RDSS are enabling complements, not evidence of universal power DBT. Sudden tariff withdrawal without crop and income transition would be inequitable and politically unstable. The objective is dependable irrigation with a conservation incentive, not simply a higher bill.
+**Unique scoring note:** 3 causal chain; 3 distribution; 2 named groundwater evidence; 5 reform
+package; 2 qualification.
 
 ## Original 15-mark question 2
 
-**Question:** Examine the WTO treatment of agricultural domestic support available to developing countries. (250 words)
+**Question:** Examine the WTO treatment of agricultural domestic support available to developing countries.
+
+**Ceiling:** 250 words
 
 ### Model answer
 
-The Agreement on Agriculture places producer support primarily under the domestic-support pillar. Non-exempt production- or trade-distorting measures fall in the Amber Box and are tested against commitments.
+The Agreement on Agriculture places producer support mainly under domestic support. Non-exempt
+production- or trade-distorting measures fall in the Amber Box and are tested against applicable
+commitments.
 
-Most developing members generally receive a 10% de minimis threshold, applied separately to product-specific support as a share of that product's value and non-product-specific support as a share of total agricultural production value. The percentages cannot be added. Article 6.2 additionally exempts specified development measures, including generally available agricultural investment subsidies and input subsidies generally available to low-income or resource-poor producers.
+Most developing members generally receive a 10% de minimis threshold, applied separately to
+product-specific support as a share of that product's value and non-product-specific support as a
+share of total agricultural production value. Article 6.2 additionally exempts specified
+development measures, including generally available agricultural investment subsidies and input
+subsidies generally available to low-income or resource-poor producers.
 
-Criteria-compliant Green Box programmes are exempt: they must be government-funded, avoid producer price support and cause no or minimal distortion, while satisfying measure-specific conditions. Blue Box direct payments require specified production-limiting conditions.
+Criteria-compliant Green Box programmes are exempt; Blue Box direct payments require specified
+production-limiting conditions. The development critique is that historical bound AMS and
+sophisticated Green/Blue design give some developed members more policy space, whereas developing
+members often use input and administered-price support exposed to de minimis limits. Yet food-
+security purpose cannot justify unlimited trade spillovers.
 
-The development critique is that historical bound AMS entitlements and sophisticated Green/Blue designs give some developed members more policy space, whereas developing countries with many low-income farmers rely on price and input instruments more exposed to de minimis limits. Yet food-security purpose cannot justify unlimited trade spillovers.
+India should use Article 6.2 honestly, improve notification, expand public goods and pursue a
+permanent, development-sensitive public-stockholding solution.
 
-India should use Article 6.2 honestly, improve notifications, expand public goods and pursue fairer public-stockholding rules while redesigning resource-depleting support with transition safeguards.
+**Unique scoring note:** 4 legal categories; 3 threshold mechanics; 3 development asymmetry;
+2 counterpoint; 3 India route.
 
 ## Original 20-mark question 1
 
-**Question:** Analyse India's fertiliser-support architecture and propose a transition from volume-driven use to nutrient efficiency without harming farm incomes. (300 words)
+**Question:** Analyse India's fertiliser-support architecture and propose a transition from volume-driven use to nutrient efficiency without harming farm incomes.
+
+**Ceiling:** 250 words
 
 ### Model answer
 
-India's fertiliser support combines a separate urea pricing/subsidy regime with Nutrient Based Subsidy for notified phosphatic and potassic grades. NBS, operating since 1 April 2010, fixes per-kilogram support for N, P, K and S. Fertiliser DBT releases subsidy to companies after actual PoS-recorded retail sales; it is not cash to the buyer.
+India combines a separate urea pricing/subsidy regime with Nutrient Based Subsidy for notified
+phosphatic and potassic grades. NBS, operating since 1 April 2010, fixes per-kilogram support for
+N, P, K and S. Fertiliser DBT releases subsidy to companies after actual PoS-recorded sales; it is
+not cash to the buyer.
 
-The architecture protects affordability and buffers international price shocks. Yet relative urea cheapness changes the marginal nutrient choice. The Economic Survey 2025-26, published January 2026, reports a deterioration in the national N:P:K ratio and links excessive nitrogen in several contexts to soil-organic-matter decline, micronutrient depletion, nitrate leaching and plateauing yield response. PoS monitoring improves transaction visibility but does not correct this price signal.
+The architecture protects affordability and buffers global price shocks. Yet relative urea
+cheapness changes the marginal nutrient choice. Economic Survey 2025-26 reports a deterioration
+in the national N:P:K ratio and links excess nitrogen in several contexts to soil-organic-matter
+decline, micronutrient depletion, nitrate leaching and plateauing yield response. PoS monitoring
+improves transaction visibility but not the agronomic price signal.
 
-Distribution is also unequal. Quantity-linked benefit rises with use; irrigated and larger farms may capture more, while low-input rainfed farmers receive less. Suppliers can gain where competition is weak.
+Distribution is unequal because quantity-linked benefit rises with use; irrigated and larger
+farms can capture more, while low-input rainfed farmers gain less. A feasible transition should
+predictably correct relative prices, preserve purchasing power through a protected cultivator-
+sensitive entitlement, provide soil and crop-zone advice, assure product supply and quality, and
+measure net income, nutrient balance, yield response, water effects and farm-size distribution.
+Savings should finance research, extension and soil restoration. WTO classification must follow
+actual design. The goal is sustainable output and income per unit of nutrient, not minimum
+fertiliser volume.
 
-A feasible transition should modestly and predictably correct relative prices, not abruptly withdraw support. A protected transfer or entitlement should preserve purchasing power, but cultivator recognition must address tenancy. Soil testing and crop-zone advice should guide balanced N:P:K:S and organic-matter use. Supply assurance, retailer monitoring and quality control must continue. Pilot evaluation should measure yield response, farmer net income, nutrient balance, water effects and distribution by farm type.
-
-Savings should finance research, extension and soil restoration. WTO classification and notification must follow actual design. The goal is not minimum fertiliser volume; it is maximum sustainable output and income per unit of nutrient.
+**Unique scoring note:** 4 architecture; 4 named evidence/mechanism; 3 distribution; 7 transition
+package; 2 qualified objective.
 
 ## Original 20-mark question 2
 
-**Question:** “The future of agricultural support lies neither in blanket withdrawal nor in unchanged subsidies.” Develop a reform framework for India. (300 words)
+**Question:** "The future of agricultural support lies neither in blanket withdrawal nor in unchanged subsidies." Develop a reform framework for India.
+
+**Ceiling:** 250 words
 
 ### Model answer
 
-Agricultural support serves food security, income distribution, seasonal liquidity, risk management and positive externalities. Blanket withdrawal would expose small cultivators to price shocks, missing markets and unreliable public services. Unchanged quantity-linked support, however, entrenches nutrient imbalance, groundwater depletion, crop concentration, unequal incidence and fiscal opportunity cost.
+Farm support serves food security, income distribution, seasonal liquidity, risk management and
+positive externalities. Blanket withdrawal would expose small cultivators to price shocks,
+missing markets and unreliable services. Unchanged quantity-linked support entrenches nutrient
+imbalance, groundwater depletion, crop concentration, unequal incidence and fiscal opportunity
+cost.
 
-Reform should follow O-I-I-D-W-R. First, define the objective: income, risk, food stock, technology adoption or ecosystem service. Second, select the instrument closest to the failure: transparent income support for general poverty, insurance for defined risk, public provision for research and extension, and outcome-linked payment for verified environmental benefit. Third, trace incidence across farmer, tenant, landlord, supplier, consumer and taxpayer.
+Reform should follow O-I-I-D-W-R. Define the objective: income, risk, food stock, adoption or
+ecosystem service. Select the instrument closest to the failure: income support for general
+poverty, insurance for defined risk, public provision for research and extension, and monitored
+outcome payment for environmental benefit. Trace incidence across farmer, tenant, landlord,
+supplier, consumer, taxpayer and environment. Diagnose distribution and distortion: land-record
+cash misses tenants; free power favours pump owners; procurement favours accessible crops and
+regions; per-unit fertiliser support rewards volume. Apply WTO criteria, Article 6.2, de minimis
+and notification honestly.
 
-Fourth, diagnose distribution and distortion. Land-record cash may miss tenants; free power favours pump owners; procurement favours accessible crops and regions; per-unit fertiliser support rewards volume. Fifth, apply WTO criteria, Article 6.2, de minimis and notification honestly.
+Finally, build cultivator records, reliable metering, soil advice, alternative crop markets,
+claim appeals and public goods before reducing embedded support. Protect a defined entitlement
+during transition and publish distributional and ecological outcomes. Strategic stocks should
+continue transparently while India pursues a permanent public-stockholding solution. Reform
+means changing rewarded behaviour while preserving livelihood and food-security capability.
 
-Finally, sequence change. Build cultivator records, reliable metering, soil advice, alternative crop markets, claim appeals and public goods before reducing embedded support. Protect a defined entitlement during transition and publish distributional and ecological outcomes. Strategic procurement and food stocks should continue with transparent rules while India pursues a permanent public-stockholding solution.
-
-Thus reform means changing the rewarded behaviour while preserving livelihood and food-security capability.
+**Unique scoring note:** 3 rationale; 8 O-I-I-D-W-R execution; 5 transition institutions;
+2 WTO/food security; 2 reasoned verdict.
 
 # REMEDIATION
 
 ## Common-error clinic
 
-| Error | Repair |
-|---|---|
-| “DBT means cash to farmer” | Draw the actual payment channel. |
-| “Direct means Green” | Apply Annex 2 criteria. |
-| “MSP equals procurement equals WTO support” | Separate announcement, purchase, budget and formula. |
-| “10% is one combined allowance” | Test product and non-product support separately. |
-| “Bali is permanent immunity” | State interim, conditional protection and obligations. |
-| “Notification proves violation” | Separate transparency, concern and adjudication. |
-| “Free power benefits all farmers” | Check connection, pump, tenure and rainfall status. |
-| “Subsidy reform means withdrawal” | Specify protection, alternatives and sequencing. |
+| Error | Why it fails | Repair drill |
+|---|---|---|
+| "DBT means cash to farmer" | Fertiliser DBT reimburses companies after sale | Draw payer -> company -> PoS sale -> lower farmer price |
+| "Direct means Green" | Delivery and WTO criteria differ | Apply Annex 2 before naming a box |
+| "MSP equals procurement equals WTO support" | Announcement, purchase, expenditure and formula differ | Define all four in one sentence each |
+| "10% is one combined allowance" | Product and non-product tests use different denominators | Write both fractions separately |
+| "Bali is permanent immunity" | It is interim and conditional | State scope, conditions and post-MC14 status |
+| "Notification proves violation" | Transparency is not adjudication | Draw notification -> Committee -> dispute |
+| "Free power benefits all farmers" | Access depends on pump, connection, tenure and water | Compare pump owner with rainfed tenant |
+| "Reform means withdrawal" | Efficient transition requires alternatives and protection | Use O-I-I-D-W-R |
 
-### Remediation MCQs - 3
+## Responsive remediation models
 
-**MCQ 62. A learner says, “PM-KISAN is Green Box because it is cash.” The best correction is:**
+**Prompt:** Repair the sentence "PM-KISAN is Green Box because it is cash."
 
-A. All cash is Amber.
-B. WTO classification depends on decoupling and Annex 2 criteria, not cash delivery alone.
-C. PM-KISAN is a tariff.
-D. Green Box is defined by Indian budget heads.
+**Model:** PM-KISAN is direct income support in domestic delivery terms. Any Green Box claim
+requires the payment to satisfy Annex 2 and applicable decoupling criteria; cash form alone is
+insufficient.
 
-**MCQ 63. A learner adds a 7% product-specific figure to a 6% non-product-specific figure and claims 13% support. The error is:**
+**Prompt:** Repair the sentence "India has 20% de minimis because both 10% allowances add up."
 
-A. use of percentages in economics.
-B. failure to use a current exchange rate.
-C. combining separate tests with different denominators.
-D. ignoring export subsidy.
+**Model:** Product-specific and non-product-specific support are separate tests against different
+values of production. They cannot be added into one 20% allowance.
 
-**MCQ 64. Which statement best repairs the public-stockholding misconception?**
+**Prompt:** Repair the sentence "MC14 permanently legalised public stockholding."
 
-A. Bali made every stock programme permanently exempt.
-B. MC14 adopted an unlimited PSH solution.
-C. Consumer food distribution itself is always Amber.
-D. Bali provides conditional interim due restraint; MC14 adopted no permanent solution.
-
-#### Answers and explanations
-
-**MCQ 62: B**
-
-- **A - Incorrect.** Cash can satisfy Green criteria in some designs.
-- **B - Correct.** Legal conditions, not delivery technology, control.
-- **C - Incorrect.** It is domestic income support.
-- **D - Incorrect.** WTO law does not follow Indian budget labels.
-
-**MCQ 63: C**
-
-- **A - Incorrect.** Percentages are valid when denominators are respected.
-- **B - Incorrect.** The stated error precedes any currency question.
-- **C - Correct.** Product value and total agriculture value are different bases.
-- **D - Incorrect.** Export support is not part of the calculation given.
-
-**MCQ 64: D**
-
-- **A - Incorrect.** Bali is interim and conditional.
-- **B - Incorrect.** MC14 produced no such decision.
-- **C - Incorrect.** The core difficulty is supported purchasing, not aid to vulnerable consumers as such.
-- **D - Correct.** It states both legal and 2026 status boundaries.
+**Model:** MC14 adopted no permanent solution. The Bali decision remains an interim, conditional
+due-restraint mechanism for qualifying programmes.
 
 # MASTER COMPARISON, CAUSAL AND ARGUMENT MAPS
 
-## Master comparison
+## Complete instrument comparison
 
-| Instrument | Immediate channel | Main strength | Main risk | WTO question |
-|---|---|---|---|---|
-| PM-KISAN | eligible family's bank account | transparent liquidity | title-based exclusion | Annex 2 criteria if Green claimed |
-| Fertiliser subsidy | company after actual sale; lower farmer price | affordability | imbalance and quantity bias | Article 6.2 or non-exempt support by design |
-| Power subsidy | state tariff/utility channel | cheaper irrigation | extraction and DISCOM stress | classification depends on design |
-| Irrigation/public works | infrastructure/service | productivity spillover | head-tail inequality | general service or producer transfer? |
-| Interest support | bank/borrower | seasonal liquidity | exclusion and rollover | product/non-product and exemption test |
-| Premium subsidy | insurer on farmer's behalf | risk access | basis risk and trust | design-specific |
-| MSP/procurement | agency purchase | price and stock assurance | crop/region concentration | market price support |
-| Public research | government service | spillovers | weak last mile | Green if criteria met |
+| Instrument | Immediate channel | Objective | Main incidence risk | Ecological/fiscal risk | WTO question |
+|---|---|---|---|---|---|
+| PM-KISAN | Eligible family bank account | Liquidity/income | Title and rent capture | Opportunity cost | Annex 2 if Green claimed |
+| Fertiliser | Company after sale; lower buyer price | Input affordability | Supplier/larger-user capture | Nutrient, import and budget volatility | Article 6.2 or non-exempt by design |
+| Power | State tariff/utility | Irrigation affordability | Pump-owner concentration | Groundwater and DISCOM loss | Design-specific |
+| Irrigation | Infrastructure/service | Access/productivity | Head-tail and regional inequality | O&M and basin rebound | General service or transfer? |
+| Credit | Bank/borrower | Seasonal liquidity | Formal-borrower bias | Rollover and fiscal cost | Product/non-product/exemption test |
+| Insurance | Insurer on farmer's behalf | Risk transfer | Basis risk and claim delay | Premium and data cost | Design-specific |
+| MSP/procurement | Agency purchase | Price/stock assurance | Crop-region concentration | Stock and water distortion | Market price support |
+| Public research | Government service | Capability/spillover | Weak last mile | Foregone if subsidies crowd it out | Green if criteria met |
 
-## Water-energy-crop-price map
+## Continuous causal rail
 
 ```text
-cheap power -> cheap pumping -> water-intensive crop
-     ^                              |
-     |                              v
-higher energy need <- falling water table <- procurement assurance
+policy failure/equity goal
+        -> instrument and eligibility
+        -> payment/service channel
+        -> access and economic incidence
+        -> marginal input/output response
+        -> crop, nutrient, water and risk effects
+        -> fiscal and environmental feedback
+        -> political constituency and lock-in
+        -> WTO category, threshold and transparency
+        -> protected, sequenced redesign
 ```
 
-## Fertiliser incentive map
+## Water-energy-crop-price loop
 
 ```text
-relative urea cheapness
- -> excess marginal nitrogen
- -> declining nutrient efficiency
- -> soil/water cost
- -> more input for same response
+cheap power -> cheap pumping -> water-intensive crop -> procurement assurance
+     ^                                                   |
+     |                                                   v
+higher energy need <- falling water table <- continued crop choice
+```
+
+## Fertiliser loop
+
+```text
+relative urea cheapness -> excess marginal nitrogen -> weaker nutrient efficiency
+       -> soil/micronutrient/water damage -> more input for the same response
 ```
 
 ## WTO decision tree
 
 ```text
 Measure
- -> Green criteria? yes: exempt
- -> Blue production-limit criteria? yes: exempt
- -> Article 6.2 criteria? yes: exempt development measure
- -> otherwise Amber
- -> below separate de minimis test? exclude
- -> otherwise enter Current Total AMS and compare with commitment
+  -> Annex 2 Green criteria met? yes -> exempt
+  -> Article 6.5 Blue criteria met? yes -> exempt
+  -> Article 6.2 development criteria met? yes -> exempt
+  -> otherwise non-exempt/Amber-type support
+  -> below the correct separate de minimis test? yes -> excluded
+  -> otherwise enters Current Total AMS and is compared with the member's commitment
 ```
 
 ## Reform argument map
 
 ```text
-Objection: remove subsidies because they distort.
-Reply: abrupt removal worsens risk, income and food security.
+Remove all support?
+  -> ignores risk, equity, food security and missing public goods.
 
-Objection: retain subsidies because farmers are vulnerable.
-Reply: vulnerability does not justify unlimited resource depletion or unequal capture.
+Retain all existing support?
+  -> ignores unequal capture, fiscal opportunity cost and resource depletion.
 
-Qualified verdict:
-protect entitlement + change marginal incentive + build public goods
-+ recognise cultivator + measure outcomes + notify transparently
+Qualified route
+  -> protect livelihood/food-security capability
+  -> change the marginal incentive
+  -> include the actual cultivator
+  -> build services, markets and grievance
+  -> measure outcomes and hidden liabilities
+  -> classify and notify honestly
 ```
 
 # COMPLETE CONSOLIDATED REGISTER NOTES
 
-## A. Core definitions
+## Classification and analytical spine
 
-- A subsidy lowers cost, raises return or protects income relative to a benchmark through expenditure, revenue concession or administered price.
-- Direct and indirect describe delivery; explicit and implicit describe fiscal visibility; WTO boxes describe legal treatment.
-- Economic incidence is the final real-income effect after price, rent, quantity and behavioural adjustment.
-- Coupling links support to current input, output, area or price; decoupling weakens that link.
-- Additionality asks whether the desired action would occur without support.
+- Subsidy lowers cost, raises return or protects income relative to a benchmark.
+- Direct farm subsidy transfers an identified payment or grant to the eligible producer;
+  indirect farm subsidy works through an input price, service, intermediary or administered return.
+- Direct/indirect = delivery; explicit/implicit = fiscal visibility; income/input/output/risk =
+  objective; Green/Blue/Amber/Article 6.2 = WTO treatment.
+- Budget recipient, statutory beneficiary and economic beneficiary differ.
+- Coupling links support to current input, output, price or area.
+- Additionality asks what changed because of support.
+- Judge every instrument through objective, access, incidence, marginal response, equity,
+  ecology, fiscal cost, durability and WTO rule.
 
-## B. Indian support map
+## Indian support channels
 
-- Income: PM-KISAN, Rs 6,000 in three instalments to eligible landholding farmer families subject to exclusions.
-- Fertiliser: company reimbursement after PoS-recorded actual sale; lower farmer price.
-- NBS: since 1 April 2010; per-kg N, P, K and S support for 28 covered P&K grades; urea separate.
-- Power: mainly state-level tariff support; analyse pump ownership, metering, groundwater and DISCOM incidence.
-- Irrigation/capital: public infrastructure, micro-irrigation, machinery and custom-hiring support.
-- Credit: interest support improves liquidity, not necessarily viability.
-- Insurance: premium support improves affordability; basis risk and claims quality remain.
-- Output: MSP announcement, procurement, deficiency payment and WTO support are distinct.
-- Public goods: research, extension, pest control and suitable infrastructure create sector-wide capability.
+- PM-KISAN: Rs 6,000 yearly in three instalments for eligible landholding farmer families,
+  subject to exclusions; transparent but title-sensitive.
+- Fertiliser DBT: 100% subsidy released to companies after actual PoS-recorded sales; lower
+  farmer price, not unrestricted cash.
+- NBS: from 1 April 2010; per-kg N, P, K and S subsidy for 28 covered P&K grades; urea separate.
+- Kharif 2026 NBS: tentative requirement about Rs 41,534 crore; dated nutrient rates N 47.32,
+  P 52.76, K 2.38 and S 3.16 rupees/kg.
+- Power: mainly state tariff support; trace pump access, groundwater and DISCOM incidence.
+- Irrigation/capital: public works, micro-irrigation, machinery and service/custom hiring.
+- Credit: MISS/KCC support liquidity; it does not prove viability.
+- Insurance: PMFBY premium support transfers specified risk; official farmer shares are 2%
+  Kharif, 1.5% Rabi and 5% commercial/horticultural crops.
+- Output: MSP announcement, procurement, deficiency payment, budget cost and WTO market price
+  support are distinct.
+- Public goods: research, extension, pest control and suitable infrastructure create capability.
 
-## C. Official 2026 fiscal anchors
+## Official fiscal anchors — Budget 2026-27
 
-- PM-KISAN: Rs 63,500 crore, BE 2026-27.
-- PMFBY: Rs 12,200 crore, BE 2026-27.
-- MISS: Rs 22,600 crore, BE 2026-27.
-- Department of Fertilisers net total: Rs 170,944.53 crore, BE 2026-27.
-- Urea subsidy net: Rs 116,805 crore, BE 2026-27.
-- NBS net: Rs 54,000 crore, BE 2026-27.
-- These are official Union Budget 2026-27 provisions, retrieved 25 September 2026; they are not actual expenditure or outcome measures.
+| Item | BE 2026-27 | Boundary |
+|---|---:|---|
+| PM-KISAN | Rs 63,500 crore | Allocation, not realised outcome |
+| PMFBY | Rs 12,200 crore | Allocation, not claim-quality measure |
+| MISS | Rs 22,600 crore | Allocation, not proof of inclusion |
+| Aggregate fertiliser subsidy | Rs 1,70,799 crore | Expenditure Profile subsidy statement |
+| Urea subsidy | Rs 1,16,799 crore | Expenditure Profile subsidy statement |
+| NBS | Rs 54,000 crore | Expenditure Profile subsidy statement |
 
-## D. Fertiliser and soil logic
+## Fertiliser, soil and resource logic
 
-- PoS and DBT improve sale visibility but do not establish correct nutrient application.
+- PoS verifies sale, not correct nutrient application.
 - Relative urea cheapness changes the marginal choice.
-- Economic Survey 2025-26, published January 2026, records a national N:P:K ratio around 10.9:4.1:1 for 2023-24 and discusses adverse soil, micronutrient, groundwater and yield-response effects from excess nitrogen.
-- Use the Survey as dated national analysis, not a prescription for every field.
-- Reform requires price-signal correction, soil/crop advice, supply assurance and income protection.
+- Economic Survey 2025-26 records a national N:P:K ratio around 10.9:4.1:1 for 2023-24 and
+  discusses excess-nitrogen effects; use as dated national analysis, not a universal field dose.
+- Reform = phased relative-price correction + soil/crop advice + supply/quality assurance +
+  cultivator-sensitive purchasing-power protection.
+- Free/flat power lowers pumping cost; procurement can reinforce water-intensive crops.
+- CGWB 2025: recharge 448.52 bcm; extractable resource 407.75 bcm; extraction 247.22 bcm;
+  national extraction stage 60.63%. National average does not prove local aquifer safety.
+- Micro-irrigation can face basin-level rebound; solar pumps can reduce energy cost while raising
+  extraction without a water or grid-sale incentive.
 
-## E. Water-energy nexus
+## Incidence, equity and fiscal account
 
-- Free or flat power lowers marginal pumping cost.
-- Benefit is concentrated among connected pump users.
-- Falling water tables increase future energy need.
-- Solar-pump rebound is possible.
-- CGWB 2025: recharge 448.52 bcm; extractable 407.75 bcm; extraction 247.22 bcm; national stage 60.63%.
-- National average does not remove local aquifer stress.
-- Feeder separation, metering, RDSS and PM-KUSUM are complements; they do not prove universal DBT.
-- Draft National Electricity Policy 2026 is draft.
+- Quantity-linked benefit often favours larger or irrigated users.
+- Land records can miss tenants, sharecroppers and women cultivators without title.
+- Supplier margin, land rent and consumer-price effects can redistribute support.
+- Full cost includes outlay, arrears, utility losses, contingent liabilities, administration,
+  remediation and foregone public goods.
+- A lower explicit subsidy can hide higher public-enterprise liabilities.
+- Targeting requires correction and appeal before the season is lost.
 
-## F. WTO architecture
+## WTO architecture and traps
 
-- Three pillars: market access, domestic support and export competition.
-- Green: government-funded, no producer price support, no/minimal distortion, policy-specific criteria.
+- Pillars: market access, domestic support, export competition.
+- Green: government-funded, no producer price support, no/minimal distortion and policy-specific
+  criteria.
 - Blue: specified direct payments under production-limiting programmes.
-- Amber: residual non-exempt distortive domestic support.
+- Amber: residual non-exempt trade/production-distorting support.
 - Article 6.2: specified developing-country investment and low-income/resource-poor input support.
-- Most developing-country de minimis: 10%, tested separately for product-specific and non-product-specific support.
+- Most developing-member de minimis: 10%, tested separately for product and non-product support.
+- Aggregate Measurement of Support (AMS) measures non-exempt trade-distorting domestic support
+  under the applicable AoA methodology.
 - Bound AMS is a scheduled ceiling, not the de minimis percentage.
-- Market price support = administered-price gap x eligible production.
-- Budget expenditure and WTO support are not the same.
+- Market price support = administered-price gap against fixed external reference price x eligible
+  production.
+- Budget expenditure, actual procurement and WTO measurement are different.
+- Nairobi export-competition disciplines remain a separate pillar; domestic subsidy labels do
+  not answer export-contingency questions.
 
-## G. Public stockholding and transparency
+## Public stockholding, MC14 and transparency
 
-- Bali decision adopted 7 December 2013.
-- Interim due-restraint mechanism is conditional.
+- Bali decision: 7 December 2013; interim and conditional due restraint for qualifying programmes.
 - Conditions include notification/information, safeguards, consultations and monitoring.
 - MC14, Yaounde, 26-30 March 2026, adopted no agriculture declaration or permanent PSH solution.
-- As status-checked 25 September 2026, Bali remains the relevant interim shield.
-- Notification is not a ruling.
-- Committee concern is not a dispute outcome.
-- Counter-notification is not adjudication.
+- Status checked through 3 October 2026: Bali remains the relevant interim mechanism.
+- Notification, Committee question, counter-notification, consultations and ruling are distinct.
+- No current India notification percentage or dispute result is asserted here.
 
-## H. O-I-I-D-W-R answer spine
+## Reform and answer-writing spine
 
-1. **Objective:** failure or equity goal.
-2. **Instrument:** cash, price, insurance, service or public good.
-3. **Incidence:** farmer, tenant, landlord, supplier, consumer, taxpayer, environment.
-4. **Distortion/distribution:** nutrient, water, crop, region, scale, gender and tenure.
-5. **WTO:** category, exemption, threshold, formula and notification.
-6. **Reform:** sequencing, protection, alternatives, grievance, review and public-goods reinvestment.
+1. Objective: failure or equity goal.
+2. Instrument: cash, price, insurance, service, stock or public good.
+3. Incidence: farmer, tenant, landlord, supplier, consumer, taxpayer, environment.
+4. Distortion/distribution: nutrient, water, crop, scale, region, gender and tenure.
+5. WTO: category, exemption, threshold, formula and notification.
+6. Reform: alternatives, protected transition, grievance, monitoring and public-goods reinvestment.
+
+Qualified conclusion: the aim is not withdrawal of the state from agriculture, but conversion of
+opaque, quantity-linked and resource-depleting support into transparent livelihood protection,
+risk management, sustainable incentives and productivity-enhancing public goods.
 
 # COVERAGE MATRIX
 
-| Frozen lesson requirement | Primary coverage | Practice/application |
-|---|---|---|
-| 1 rationale | Lesson 1 | MCQs 1-2; 10/20-mark reform models |
-| 2 taxonomy/boundaries | Lesson 2 | MCQs 3-5; original 10-mark Q1 |
-| 3 incidence | Lesson 3 | MCQs 6-7; original 10-mark Q2 |
-| 4 incentives/coupling | Lesson 4 | MCQs 8-10; cumulative Q60 |
-| 5 income support | Lesson 5 | MCQs 11-13; master comparison |
-| 6 fertiliser architecture | Lesson 6 | MCQs 14-15; cumulative Q54 |
-| 7 nutrient economics | Lesson 7 | MCQs 16-18; 20-mark fertiliser model |
-| 8 power-groundwater | Lesson 8 | MCQs 19-20; 15-mark power model |
-| 9 irrigation/capital/public goods | Lesson 9 | MCQs 21-22; service calculation |
-| 10 credit/insurance | Lesson 10 | MCQs 23-25; basis-risk example |
-| 11 MSP/output support | Lesson 11 | MCQs 26-27; Topic 12 cross-link |
-| 12 distribution/political economy | Lesson 12 | MCQs 28-30; distribution matrix |
-| 13 AoA pillars | Lesson 13 | MCQs 31-33; Topic 20 cross-link |
-| 14 classification tree | Lesson 14 | MCQs 34-36; WTO decision tree |
-| 15 de minimis/AMS | Lesson 15 | MCQs 37-40 and 55 |
-| 16 market-price-support formula | Lesson 16 | MCQs 41-43 and 57 |
-| 17 development/fairness | Lesson 17 | MCQs 44-46; 15-mark WTO model |
-| 18 PSH/Bali/MC14 | Lesson 18 | MCQs 47-48, 58 and 64 |
-| 19 notification mechanics | Lesson 19 | MCQs 49-51 |
-| 20 reform synthesis | Lesson 20 | MCQs 52-53 and 61; Mains models |
-| 2023 exact GS-III Q14 | Verified PYQ section | demand and approach; no solved answer |
-| 2026 exact GS-III Q14 | Verified PYQ section | demand and approach; no solved answer |
-| 2020 fertiliser concept | Verified PYQ section | neutral rendering; no key inferred |
+| Owner or verified demand | Complete location |
+|---|---|
+| Rationale: market failure, equity, food security, risk, externality, transition | Lesson 1 |
+| Direct/indirect, explicit/implicit, income/input/output/public-good taxonomy | Lesson 2 |
+| Price wedge; statutory, budget and economic incidence | Lessons 3 and 21 |
+| Marginal incentive, coupling, decoupling, additionality | Lessons 4 and 22 |
+| PM-KISAN, eligibility, actual-cultivator inclusion | Lesson 5 |
+| Fertiliser DBT channel; NBS, P&K and urea boundary; Kharif 2026 rates | Lesson 6 |
+| Nutrient imbalance, diminishing response, soil/water effects | Lesson 7 |
+| Power-groundwater-crop-DISCOM and solar-pump rebound | Lesson 8 |
+| Irrigation, machinery, capital grant, custom hiring, public-good boundary | Lesson 9 |
+| Credit, MISS/KCC, PMFBY, basis risk and claims | Lesson 10 |
+| MSP, procurement, deficiency payment, stocks and output support | Lesson 11 |
+| Equity, regional/farm-size distribution and political persistence | Lessons 12 and 23 |
+| AoA pillars including export competition | Lesson 13 |
+| Green, Blue, Amber and Article 6.2 legal tests | Lesson 14 |
+| Separate de minimis tests, Current Total AMS and bound AMS | Lesson 15 |
+| Market-price-support formula, reference price and eligible production | Lesson 16 |
+| Historical entitlements and structural asymmetry | Lessons 17 and 25 |
+| Bali peace clause, public stockholding and post-MC14 status | Lesson 18 |
+| Notification, Committee questions, counter-notification and disputes | Lesson 19 |
+| Core reform, O-I-I-D-W-R and transition safeguards | Lesson 20 |
+| Instrument hierarchy and second-best capacity | Lesson 22 |
+| Interlocking fertiliser/power/procurement systems | Lesson 23 |
+| Targeting bases, hidden liabilities and opportunity cost | Lesson 24 |
+| Domestic label versus WTO test and calculation controversy | Lesson 25 |
+| Three reform scenarios and ten-part scorecard | Lesson 26 |
+| 2020 Prelims Q94 neutral fertiliser concepts | Lesson 6 and final PYQ section |
+| 2023 GS-III Q14 exact demand and route | Lesson 13 and final PYQ section |
+| 2026 GS-III Q14 exact demand and route | Lesson 13 and final PYQ section |
+| Lesson-local concept trio | Every lesson, 1-26 |
+| Lesson-local responsive Mains model, ceiling and unique rubric | Every lesson, 1-26 |
+| Final 10/15/20-mark models with distinct ceilings and scoring notes | Original Mains section |
+| Remediation, maps and complete final register notes | Final arc |
 
 # SOURCE LEDGER
 
-## A. Canonical repository sources
+## A. Canonical and cross-owner Markdown
 
 | Source | Use |
 |---|---|
-| `upsc-ai-kit\knowledge\Economy\basic\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md` | Core definitions, instruments, WTO framework, traps and PYQ boundary |
-| `upsc-ai-kit\knowledge\Economy\advanced\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md` | Incidence, coupling, political economy, targeting, scenarios and O-I-I-D-W-R |
-| `upsc-ai-kit\knowledge\Economy\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules_Learner-V2-Complete-Topic-Package.md` | Completeness cross-check; package shell not reused |
-| Topic 28 v2 learning session and solved workbook | Practice and gap audit only |
-| Economy Topics 12, 14 and 20 canonical/live materials | MSP-food system, input-risk and WTO cross-links without duplication |
+| `upsc-ai-kit\knowledge\Economy\basic\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md` | Complete Core owner: definitions, Indian support, WTO framework, current anchors, limitations, answer architecture and PYQ routing |
+| `upsc-ai-kit\knowledge\Economy\advanced\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md` | Optional Advanced owner: price wedge, hierarchy, coupling, political economy, targeting, fiscal cost, WTO controversies, scenarios and scorecard |
+| `upsc-ai-kit\knowledge\Economy\basic\12_MSP-Procurement-Buffer-Stocks-PDS-and-Food-Security.md` | MSP/procurement/stock distinctions and food-security link |
+| `upsc-ai-kit\knowledge\Economy\basic\14_Irrigation-Inputs-Credit-Insurance-and-Sustainable-Agriculture.md` | Irrigation, KCC/MISS, PMFBY, groundwater, micro-irrigation and input fundamentals |
+| `upsc-ai-kit\knowledge\Economy\basic\20_Foreign-Trade-WTO-FTAs-and-Protectionism.md` | WTO pillar and export-competition boundary |
+| `upsc-ai-kit\knowledge\Economy\basic\09_Union-Budget-Fiscal-Policy-and-Deficit-Indicators.md` | Budget-estimate, opportunity-cost and fiscal-transparency boundaries |
 
-## B. OCR-searchable sources
+## B. OCR-searchable local sources
 
-| Source | Evidence and boundary |
+| Source | Use and limitation |
 |---|---|
-| Ramesh Singh, *Indian Economy*, local older-edition PDF, especially PDF pages 377-378 and 414-416 | Stable direct/indirect taxonomy and WTO-box background only; numerical and “current negotiation” claims from the older edition were not treated as current |
-| *Economic Survey 2025-26*, agriculture chapter, published January 2026, OCR pages 289-292 | Soil and nutrient imbalance, price-signal analysis, groundwater/micronutrient effects and plateauing yield response; treated as dated official analysis |
+| Ramesh Singh, *Indian Economy*, local older-edition OCR extract at `notes\Economy\Ref_RameshSingh_Economy.md`, source-PDF pages 377-378 and 414-416 | Stable direct/indirect taxonomy and WTO-box background only; stale quantities and then-current negotiations excluded |
+| *Economic Survey 2025-26*, agriculture chapter, local OCR extract at `notes\Economy\Ref_EconomicSurvey_2025-26.md`, source-PDF pages 289-292; official chapter: `https://www.indiabudget.gov.in/economicsurvey/doc/eschapter/echap06.pdf` | Dated nutrient imbalance, soil, micronutrient, groundwater and yield-response analysis |
 
-## C. Official live and dated sources
+## C. Official Agriculture, Budget and WTO sources
 
-All sources in this subsection were retrieved or status-checked **25 September 2026**.
+All mutable pages and statuses below were retrieved or rechecked through **3 October 2026**.
 
-| Institution/document | Publication/status | Claim used |
+| Institution/document | Exact official URL(s) | Claim used and status boundary |
 |---|---|---|
-| Union Budget 2026-27, Notes on Demands for Grants, SBE1 | Budget 2026-27 official publication context | PM-KISAN Rs 63,500 crore; PMFBY Rs 12,200 crore; MISS Rs 22,600 crore, all BE 2026-27 |
-| Union Budget 2026-27, Notes on Demands for Grants, SBE6 | Budget 2026-27 official publication context | Department net Rs 170,944.53 crore; urea Rs 116,805 crore; NBS Rs 54,000 crore, all BE 2026-27 |
-| Department of Fertilisers, DBT page | page retrieved 25 September 2026; rollout history to March 2018 | 100% subsidy to companies on actual retailer sales; PoS channel |
-| Department of Fertilisers, P&K/NBS page | retrieved 25 September 2026 | NBS since 1 April 2010; per-kg N/P/K/S rates; 28 grades; decontrolled reasonable MRP |
-| Cabinet/NBS Kharif 2026 approval and notification | approval 8 April 2026; page last updated 16 June 2026 | tentative Rs 41,534 crore; N 47.32, P 52.76, K 2.38, S 3.16 per kg |
-| PM-KISAN official page/guidelines | retrieved 25 September 2026 | Rs 6,000 yearly in three instalments; eligible landholding farmer-family and exclusion boundary |
-| CGWB, *Dynamic Ground Water Resources of India 2025* | official 2025 report status | recharge 448.52 bcm; extractable 407.75 bcm; extraction 247.22 bcm; stage 60.63% |
-| Official power-sector sources on RDSS, feeder reform and PM-KUSUM | status checked 25 September 2026 | reform complements only; no universal implemented farmer DBT inferred |
-| Draft National Electricity Policy 2026 | draft status checked 25 September 2026 | explicitly not treated as operative policy |
-| WTO, “Domestic support in agriculture: The boxes” | retrieved 25 September 2026 | Amber, Blue, Green, de minimis and Article 6.2 criteria |
-| WTO domestic-support framework | retrieved 25 September 2026 | AMS, separate thresholds, market-price-support formula and annual notification |
-| WTO Bali PSH decision/material | decision 7 December 2013; posting context 11 December 2013 | conditional interim mechanism, information, safeguards, consultation and monitoring |
-| WTO MC14 conference/outcome/post-MC14 agriculture pages | MC14 26-30 March 2026; status checked 25 September 2026 | no consensus agriculture declaration and no permanent PSH decision; negotiations to resume |
+| Union Budget 2026-27, Notes on Demands for Grants SBE1 | `https://www.indiabudget.gov.in/doc/eb/sbe1.pdf` | PM-KISAN Rs 63,500 crore; PMFBY Rs 12,200 crore; MISS Rs 22,600 crore, BE only |
+| Union Budget 2026-27, Expenditure Profile Statement 7 | `https://www.indiabudget.gov.in/doc/eb/stat7.pdf` | Aggregate fertiliser subsidy Rs 1,70,799 crore; urea Rs 1,16,799 crore; NBS Rs 54,000 crore, BE only |
+| Department of Fertilisers, Direct Benefit Transfer page | `https://www.fert.gov.in/en/department/our-wings/direct-benefit-transfer-dbt` | 100% subsidy released to companies on actual retailer sales through PoS; not farmer cash |
+| Department of Fertilisers, P&K/NBS policy | `https://fert.gov.in/en/documents/act-policies/phosphatic-and-potassic-pk-policy` | NBS from 1 April 2010; 28 grades; N/P/K/S basis; MRP policy |
+| Cabinet approval of Kharif 2026 NBS rates, PIB release 2250032 | `https://pib.gov.in/PressReleasePage.aspx?PRID=2250032&reg=3&lang=1` | Estimated requirement Rs 41,533.81 crore and season-specific nutrient rates; not timeless |
+| PMFBY Revised Operational Guidelines | `https://pmfby.gov.in/pdf/revised_operational_guidelines.pdf` | Specified risk cover and farmer premium shares 2%, 1.5% and 5% |
+| Updated PM-KISAN Operational Guidelines | `https://agriwelfare.gov.in/sites/default/files/OperationalGuidelinesofPM-KISANScheme.pdf` | Rs 6,000 yearly in three instalments and landholding-family eligibility/exclusions |
+| CGWB, *National Compilation on Dynamic Ground Water Resources of India, 2025* | `https://cgwb.gov.in/GWRA/GWRA_2025.pdf` | National recharge, extractable resource, extraction and 60.63% stage; not local safety proof |
+| WTO Agreement on Agriculture legal text and domestic-support boxes | `https://www.wto.org/english/docs_e/legal_e/14-ag_01_e.htm`; `https://www.wto.org/english/tratop_e/agric_e/agboxes_e.htm` | Green, Blue, Amber, Article 6.2, de minimis, AMS, price-support formula and notification |
+| WTO Bali and General Council public-stockholding decisions | `https://docs.wto.org/dol2fe/Pages/SS/directdoc.aspx?filename=q:/WT/MIN13/38.pdf&Open=True`; `https://docs.wto.org/dol2fe/Pages/SS/directdoc.aspx?filename=q:/WT/L/939.pdf&Open=True` | Conditional due restraint, information and safeguard conditions pending a permanent solution |
+| WTO MC14 conference, outcome documents and post-MC14 agriculture briefing | `https://www.wto.org/english/thewto_e/minist_e/mc14_e/mc14_e.htm`; `https://www.wto.org/english/thewto_e/minist_e/mc14_e/documents_e.htm`; `https://www.wto.org/english/thewto_e/minist_e/mc14_e/briefing_notes_e/agriculture_e.htm` | MC14 dates and absence of an adopted permanent PSH solution through the status date |
+| WTO Agriculture Information Management System | `https://agims.wto.org/`; notification search: `https://agims.wto.org/en/SearchNotificationIssue/SearchResults`; domestic-support search: `https://agims.wto.org/en/DomesticSupport/SearchResults` | Notifications and Committee scrutiny; no unverified India symbol or percentage imported |
 
-## D. PYQ sources
+## D. Verified PYQ sources
 
 | Source | Boundary |
 |---|---|
-| `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md` and verified 2023 paper routing | Exact 2023 GS-III Q14, marks and demand |
-| `_PYQ-GS3-2026.md` | Exact 2026 GS-III Q14, marks and routing |
-| `_PYQ-ROUTING-PRELIMS-2018-2023.md` | 2020 Q94 neutral fertiliser concept; locally verified key unavailable, so none inferred |
+| `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md` and official-paper routing | Exact 2023 GS-III Q14, marks and ownership |
+| `_PYQ-GS3-2026.md` | Exact 2026 GS-III Q14, marks and full owner status |
+| `_PYQ-ROUTING-PRELIMS-2018-2023.md` | 2020 Q94 neutral fertiliser concepts; official key unavailable locally, so none inferred |
 
-## E. Status boundaries
+## SOURCE-MANIFEST GATE
 
-- No current India WTO notification symbol, rice-support percentage, counter-notification result or dispute ruling is asserted.
-- No undated fertiliser or PM-KISAN dashboard count is used.
-- Budget Estimates are not described as actual expenditure.
+| Category | Status | Evidence or reason |
+|---|---|---|
+| Canonical Markdown | checked | Exact owners: `upsc-ai-kit\knowledge\Economy\basic\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md` and `upsc-ai-kit\knowledge\Economy\advanced\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md`; exact cross-owner paths are listed in Section A |
+| Final learner package | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule |
+| Layered/complete session | not relevant | No separate layered or complete session was used as an evidentiary source; this target is the artifact under repair |
+| Solved workbook | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule |
+| Advanced dossier | checked | `upsc-ai-kit\knowledge\Economy\advanced\28_Direct-and-Indirect-Farm-Subsidies-and-WTO-Rules.md` was mapped completely to Lessons 21-26 |
+| OCR books | checked | Ramesh Singh pages 377-378 and 414-416 and Economic Survey 2025-26 agriculture OCR were used within dated limits |
+| PYQs through 2026 | checked | 2020, 2023 and 2026 verified ledgers were checked; unavailable 2020 official key was not inferred |
+| Official live sources | checked | Every Agriculture, Fertilisers, Budget, CGWB and WTO document used has its direct official URL in Sections B-C; retrieval/status cut-off: 3 October 2026 |
+
+## Truth and exclusion boundaries
+
+- No artifact from the permanently excluded final-package directory was read, searched, cited or used.
+- No excluded learner session or solved workbook was used.
+- Budget Estimates are not presented as actual expenditure or outcomes.
+- Seasonal NBS rates are not presented as permanent.
+- No current India WTO notification symbol, rice-support percentage, counter-notification result
+  or dispute ruling is asserted.
 - National groundwater data are not treated as proof of local aquifer safety.
-- Draft electricity policy is not described as operative.
 - Bali protection is not described as automatic, unlimited or permanent.
-- MC14 is not described as having adopted an agriculture or public-stockholding decision.
+- MC14 is not described as adopting an agriculture declaration or permanent PSH solution.
+- Analytical reform scenarios are labelled as analysis, not announced government policy.
