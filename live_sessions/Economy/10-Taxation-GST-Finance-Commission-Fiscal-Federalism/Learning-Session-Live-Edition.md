@@ -1,41 +1,43 @@
-# Economy 10 - Taxation, GST, Finance Commission and Fiscal Federalism
+# Economy 10 - Taxation, GST, Finance Commission and Fiscal Federalism - Live Session Edition
 
-## Frozen roadmap - 14 lessons
+**GS III + Prelims, with bounded GS II cross-links | Current-data cutoff: 3 October 2026**
 
-| # | Learner-facing lesson | Stage |
+## Roadmap - complete Core first, then optional Advanced depth
+
+| # | Stage | Learner-facing lesson |
 |---:|---|---|
-| 1 | Why governments tax: principles, bases and the equity-efficiency problem | Foundation |
-| 2 | Who really bears a tax: incidence, elasticity and progressivity | Foundation |
-| 3 | Revenue performance: buoyancy, elasticity, tax effort, expenditure and administration | Core |
-| 4 | India's constitutional tax map and direct-tax boundary cases | Core |
-| 5 | Why GST was created: the 101st Amendment, taxes subsumed and exclusions | Core |
-| 6 | How dual GST moves across India: supply, CGST-SGST-UTGST, IGST and destination | Core |
-| 7 | How input-tax credit works: value addition, zero rating, exemption and refunds | Core |
-| 8 | GST Council and cooperative federalism: voting, law-making and *Mohit Minerals* | Advanced |
-| 9 | GST compensation: transition insurance, the pandemic shock and federal trust | Advanced |
-| 10 | Compliance and formalisation: registration, composition, digital trails and enforcement | Advanced |
-| 11 | Fiscal federalism: assignment, vertical imbalance, horizontal imbalance and equalisation | Core |
-| 12 | Divisible pool, cesses, surcharges and the grant architecture | Advanced |
-| 13 | Finance Commission: constitutional role, devolution criteria and the XV-XVI transition | Advanced |
-| 14 | State and local finance: borrowing constraints, State Finance Commissions and reform | Mastery |
+| 1 | Foundation | Why governments tax: principles, bases, rates and equity-efficiency |
+| 2 | Foundation | Incidence, elasticity, progressivity and regressivity |
+| 3 | Core | Buoyancy, elasticity, tax effort, expenditure and administration |
+| 4 | Core | Income/corporation tax, customs, excise and constitutional boundaries |
+| 5 | Core | GST rationale, 101st Amendment, taxes subsumed and exclusions |
+| 6 | Core | Dual GST, IGST, destination and place of supply |
+| 7 | Core | Input-tax credit, value addition, zero rating, exemption and refunds |
+| 8 | Core | GST Council, voting, law-making and Mohit Minerals |
+| 9 | Core | GST compensation, pandemic shock and federal trust |
+| 10 | Core | Registration, composition, compliance, formalisation and enforcement |
+| 11 | Core | Vertical and horizontal imbalance, assignment and equalisation |
+| 12 | Core | Divisible pool, cesses, surcharges and grants |
+| 13 | Core | Finance Commission, XV-FC and operative XVI-FC settlement |
+| 14 | Core | State borrowing, State Finance Commissions and local bodies |
+| 15 | Optional Advanced | Tax expenditures, Laffer limits, digital nexus and indirect transfer |
+| 16 | Optional Advanced | GST neutrality: place of supply, inversion, refunds and technology |
+| 17 | Optional Advanced | Incentive-compatible federalism and XVI-FC accountability |
 
 ```text
-Tax design
-   -> actual burden
-      -> collection and compliance
-         -> constitutional assignment
-            -> GST coordination
-               -> intergovernmental transfers
-                  -> State and local public services
+base + rate -> incidence -> collection -> constitutional assignment
+     -> GST credit/settlement -> devolution/grants -> public services
+     -> equity + efficiency + autonomy + accountability
 ```
 
-This sequence begins with the taxpayer's burden and ends with the citizen's public
-service. It therefore treats taxation and fiscal federalism as one accountability chain,
-not as two disconnected chapters.
+Lessons 1-14 complete every Basic/Core unit. Lessons 15-17 are distinct optional enrichment,
+not prerequisites for a competent core answer.
 
 ---
 
-**Progress: 1/14 | Stage: Foundation | Subtopic: Why governments tax: principles, bases and the equity-efficiency problem**
+## Lesson 1 - Why governments tax: principles, bases and the equity-efficiency problem
+
+Progress: 1 / 17 | Stage: Foundation | Subtopic: Why governments tax: principles, bases and the equity-efficiency problem
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Ramesh Singh, Chapter 17 OCR and Economy 10 Basic/Advanced queried
@@ -133,46 +135,23 @@ and the alternative methods available.
 9. Benefit taxation cannot alone finance redistribution.
 10. Evaluate the tax-and-expenditure system together.
 
-### Practice
+### PYQ and exam linkage
 
-**MCQ 1.** Which statement best describes a tax?
+No directly owned exact Mains PYQ is forced into this lesson. Its mechanism supports the consolidated exact questions and Prelims discrimination.
 
-A. A compulsory public levy under law without exact quid pro quo
+### Concept check
 
-B. A user charge linked to a measured government service
+**Question:** A deduction narrows the base while the rate stays unchanged. Which tests precede a judgement?
 
-C. A government security carrying a repayment obligation
+**Model answer:** Estimate revenue forgone and identify the behavioural or distributional objective; then compare it with a transparent budget outlay pursuing the same goal.
 
-D. A punitive payment triggered by a legal breach
+**Misconception to avoid:** A lawful concession is not fiscally free.
 
-**Answer: A**
+### Responsive Mains practice
 
-- **A is correct:** it captures compulsion, law and public purpose.
-- **B is wrong:** a measured user charge has a service-linked quid pro quo.
-- **C is wrong:** taxation does not create an individual repayment claim.
-- **D is wrong:** a penalty responds to breach; a tax applies to a lawful taxable event.
+**Question - 10 marks:** "A good tax system is a balance, not a maximisation of one objective." Explain.
 
-**MCQ 2.** A tax concession delivered through a deduction should primarily be evaluated as:
-
-A. an administrative simplification without a fiscal cost
-
-B. a benchmarked tax expenditure
-
-C. concealed tax evasion by the beneficiary
-
-D. a recoverable loan recorded as a financial asset
-
-**Answer: B**
-
-- **A is wrong:** forgone revenue has an opportunity cost.
-- **B is correct:** a concession is analogous to spending through the tax code.
-- **C is wrong:** a lawful concession is not evasion.
-- **D is wrong:** no repayment obligation is created.
-
-**Mains micro-drill - 10 marks:** "A good tax system is a balance, not a maximisation of
-one objective." Explain.
-
-**Model answer:** A good tax must raise adequate and predictable revenue, distribute
+**Model answer (110 words):** A good tax must raise adequate and predictable revenue, distribute
 burden fairly, minimise avoidable distortions, remain certain and simple, and be
 administratively feasible. Maximising one objective can damage another. Numerous
 concessions may improve targeting but narrow the base and create litigation; a single
@@ -183,9 +162,13 @@ administrative cost and the distribution of the expenditure it finances. Broad b
 moderate rates, transparent concessions and capable administration generally offer a
 better balance than either punitive rates or indiscriminate exemptions.
 
+**Unique scoring rubric:** 10 marks: definition/conflict 2; base-rate mechanism 3; example 2; qualification 1; balance 2.
+
 ---
 
-**Progress: 2/14 | Stage: Foundation | Subtopic: Who really bears a tax: incidence, elasticity and progressivity**
+## Lesson 2 - Who really bears a tax: incidence, elasticity and progressivity
+
+Progress: 2 / 17 | Stage: Foundation | Subtopic: Who really bears a tax: incidence, elasticity and progressivity
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Ramesh Singh taxation chapter and canonical incidence material queried
@@ -286,49 +269,23 @@ controls, market power and delayed adjustment are additional channels to analyse
 9. Market power complicates competitive incidence.
 10. The Laffer curve is not a universal case for tax cuts.
 
-### Practice
+### PYQ and exam linkage
 
-**MCQ 3.** A seller legally remits a tax, but demand is highly inelastic and supply is
-relatively elastic. Which outcome is most likely?
+No directly owned exact Mains PYQ is forced into this lesson. Its mechanism supports the consolidated exact questions and Prelims discrimination.
 
-A. Sellers, because legal remittance fixes final incidence
+### Concept check
 
-B. Both sides equally, because the statutory rate is common
+**Question:** Tax is imposed on sellers, but demand is less elastic than supply. Who bears more?
 
-C. Consumers, through a higher market price
+**Model answer:** Consumers likely bear more because their quantity changes less, allowing sellers to shift more tax into price.
 
-D. Workers, because wage adjustment precedes price adjustment
+**Misconception to avoid:** The remitter need not be the final bearer.
 
-**Answer: C**
+### Responsive Mains practice
 
-- **A is wrong:** legal remittance does not determine economic incidence.
-- **B is wrong:** a common statutory rate does not imply equal economic burden.
-- **C is correct:** the less elastic demand side changes quantity less and bears more.
-- **D is wrong:** the stated demand-supply elasticities point to price shifting toward
-  buyers, not a prior wage adjustment.
+**Question - 10 marks:** Explain why statutory incidence is an unsafe guide to tax equity.
 
-**MCQ 4.** Which statement is correct?
-
-A. Direct-tax classification guarantees a progressive burden
-
-B. A single consumption-tax rate establishes proportionality to income
-
-C. Regressivity means the marginal schedule declines with each transaction
-
-D. Average burden rises with income or ability to pay
-
-**Answer: D**
-
-- **A is wrong:** a direct tax can be proportional.
-- **B is wrong:** one transaction rate does not make burden proportional to household
-  income.
-- **C is wrong:** regressivity may arise from burden as a share of income.
-- **D is correct:** it states the distributional test.
-
-**Mains micro-drill - 10 marks:** Explain why statutory incidence is an unsafe guide to
-tax equity.
-
-**Model answer:** Statutory incidence identifies the person required to remit tax, while
+**Model answer (102 words):** Statutory incidence identifies the person required to remit tax, while
 economic incidence identifies whose real income falls after prices, wages, rents and
 returns adjust. A GST-registered seller remits output tax, but consumers may bear part
 through higher prices and producers part through lower margins. The division depends
@@ -338,9 +295,13 @@ corporate tax may partly affect workers or consumers, while an indirect tax may 
 moderated by exemptions and transfers. Sound analysis traces the adjustment mechanism
 and evaluates the complete tax-and-transfer system.
 
+**Unique scoring rubric:** 10 marks: statutory/economic distinction 2; elasticity 3; example 2; time qualification 1; equity 2.
+
 ---
 
-**Progress: 3/14 | Stage: Core | Subtopic: Revenue performance: buoyancy, elasticity, tax effort, expenditure and administration**
+## Lesson 3 - Revenue performance: buoyancy, elasticity, tax effort, expenditure and administration
+
+Progress: 3 / 17 | Stage: Core | Subtopic: Revenue performance: buoyancy, elasticity, tax effort, expenditure and administration
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Economy 10 owners, Ramesh Singh tax chapter and Economic Survey OCR queried
@@ -439,47 +400,23 @@ aggregates, not proof that every tax is more efficient or equitable.
 9. DGGI, DRI and ED are not substitutes.
 10. International tax rules require year-specific status.
 
-### Practice
+### PYQ and exam linkage
 
-**MCQ 5.** Tax revenue rises 15 per cent while nominal income rises 10 per cent after a
-major compliance reform. Which conclusion is safest?
+No directly owned exact Mains PYQ is forced into this lesson. Its mechanism supports the consolidated exact questions and Prelims discrimination.
 
-A. Buoyancy is 1.5; elasticity needs reform adjustment
+### Concept check
 
-B. Tax elasticity is 1.5 despite the compliance reform
+**Question:** GDP grows 8 per cent and tax revenue 12 per cent without a rate change. What follows?
 
-C. Tax effort also equals the observed buoyancy ratio
+**Model answer:** Buoyancy exceeds one, but the observation alone cannot isolate elasticity or prove that administration caused the result.
 
-D. The statutory rate rose in the same proportion as revenue
+**Misconception to avoid:** Buoyancy, elasticity and tax effort are not synonyms.
 
-**Answer: A**
+### Responsive Mains practice
 
-- **A is correct:** buoyancy uses observed revenue; elasticity removes discretionary change.
-- **B is wrong:** the compliance reform contaminates the automatic response.
-- **C is wrong:** effort compares actual mobilisation with capacity.
-- **D is wrong:** revenue growth does not reveal the rate change.
+**Question - 10 marks:** Distinguish tax buoyancy, tax elasticity and tax effort.
 
-**MCQ 6.** Which pairing is correct?
-
-A. DRI - personal income-tax assessment
-
-B. DGGI - GST intelligence and investigation
-
-C. CBDT - customs anti-smuggling intelligence
-
-D. ED - routine State GST return administration
-
-**Answer: B**
-
-- **A is wrong:** DRI's principal domain is customs intelligence.
-- **B is correct:** DGGI is the specialised GST intelligence body.
-- **C is wrong:** CBDT administers Union direct taxes.
-- **D is wrong:** ED has distinct statutory enforcement functions.
-
-**Mains micro-drill - 10 marks:** Distinguish tax buoyancy, tax elasticity and tax
-effort.
-
-**Model answer:** Tax buoyancy measures the observed responsiveness of tax revenue to
+**Model answer (94 words):** Tax buoyancy measures the observed responsiveness of tax revenue to
 growth in the relevant income base and therefore includes rate changes, base
 rationalisation and enforcement reform. Tax elasticity estimates the automatic
 responsiveness after removing such discretionary changes. Tax effort is different: it
@@ -489,9 +426,13 @@ buoyancy without changing underlying elasticity; a poorer State may show strong 
 despite a low tax-GSDP ratio. Comparisons must use consistent periods, nominal bases,
 refund treatment and legal coverage.
 
+**Unique scoring rubric:** 10 marks: definitions 3; automatic/discretionary split 2; numeric reading 2; limit 1; conclusion 2.
+
 ---
 
-**Progress: 4/14 | Stage: Core | Subtopic: India's constitutional tax map and direct-tax boundary cases**
+## Lesson 4 - India's constitutional tax map and direct-tax boundary cases
+
+Progress: 4 / 17 | Stage: Core | Subtopic: India's constitutional tax map and direct-tax boundary cases
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Economy 10 and constitutional Finance Commission/GST Council owners queried
@@ -577,46 +518,25 @@ without bypassing legislative authority.
 10. Equalisation Levy answers must state its historical period and withdrawal from
     1 April 2025.
 
-### Practice
+### Verified PYQ linkage
 
-**MCQ 7.** Which statement best describes Article 246A?
+**UPSC Prelims 2025, Q5 (exact, answer-neutral):** "Consider the following statements: Statement I: In India, income from allied agricultural activities like poultry farming and wool rearing in rural areas is exempted from any tax. Statement II: In India, rural agricultural land is not considered a capital asset under the provisions of the Income-tax Act, 1961. Which one of the following is correct in respect of the above statements?"
 
-A. It creates an ordinary Union-only GST taxing field
+**Demand and approach:** preserve question-date law and keep objective framing answer-neutral.
 
-B. It makes each Council recommendation self-executing law
+### Concept check
 
-C. Concurrent GST power, except Parliament over inter-State supply
+**Question:** Why can GST use shared competence when ordinary income-tax fields are assigned separately?
 
-D. It limits States to GST administration without legislative power
+**Model answer:** Article 246A creates special simultaneous GST competence, unlike the ordinary Union-State tax entries; the Concurrent List has no general tax entry.
 
-**Answer: C**
+**Misconception to avoid:** GST is not an ordinary Concurrent List tax.
 
-- **A is wrong:** States retain intra-State GST competence.
-- **B is wrong:** the Council recommends; legislatures enact.
-- **C is correct:** this is the special constitutional design.
-- **D is wrong:** non-GST State taxes and SGST competence remain.
+### Responsive Mains practice
 
-**MCQ 8.** Which proposition is safest?
+**Question - 10 marks:** Why is GST's constitutional design different from ordinary tax assignment?
 
-A. Rural location is sufficient to establish agricultural income
-
-B. Agricultural use alone settles capital-asset status
-
-C. The Income-tax Act, 2025 fixes rates without annual Finance legislation
-
-D. Both treatments depend on statutory definitions and conditions
-
-**Answer: D**
-
-- **A is wrong:** allied business is not automatically agricultural income.
-- **B is wrong:** qualifying rural agricultural land may be excluded.
-- **C is wrong:** annual Finance legislation and applicable provisions matter.
-- **D is correct:** legal boundaries control.
-
-**Mains micro-drill - 10 marks:** Why is GST's constitutional design different from
-ordinary tax assignment?
-
-**Model answer:** Ordinary tax competence is primarily distributed by Article 246 and
+**Model answer (89 words):** Ordinary tax competence is primarily distributed by Article 246 and
 the Seventh Schedule. GST instead rests on Article 246A, a special provision that gives
 Parliament and State legislatures simultaneous power over intra-State GST while
 reserving inter-State GST to Parliament. Article 269A then provides Union levy and
@@ -625,9 +545,13 @@ GST pools authority over a common base rather than merely transferring a State t
 the Union. The design promotes a national market but makes legislative coordination,
 settlement and federal trust indispensable.
 
+**Unique scoring rubric:** 10 marks: constitutional map 3; Article 246A 2; tax examples 2; qualification 1; conclusion 2.
+
 ---
 
-**Progress: 5/14 | Stage: Core | Subtopic: Why GST was created: the 101st Amendment, taxes subsumed and exclusions**
+## Lesson 5 - Why GST was created: the 101st Amendment, taxes subsumed and exclusions
+
+Progress: 5 / 17 | Stage: Core | Subtopic: Why GST was created: the 101st Amendment, taxes subsumed and exclusions
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Ramesh Singh VAT/GST chapter and constitutional GST material queried
@@ -717,46 +641,25 @@ notification and date.
 9. A common base supports but does not guarantee a common market.
 10. Current rates are notification- and date-specific.
 
-### Practice
+### Verified PYQ linkage
 
-**MCQ 9.** Which levy was substantially subsumed into GST?
+**UPSC GS-III 2019, Q1 (exact):** "Enumerate the indirect taxes which have been subsumed in the Goods and Services Tax (GST) in India. Also, comment on the revenue implications of the GST introduced in India since July 2017." **10 marks, 150 words.**
 
-A. Service tax
+**Demand and approach:** preserve question-date law and keep objective framing answer-neutral.
 
-B. Basic customs duty
+### Concept check
 
-C. Stamp duty
+**Question:** Why is One Nation, One Tax incomplete?
 
-D. Property tax
+**Model answer:** GST harmonises a large base but remains dual, while alcohol for human consumption, basic customs, stamp and electricity duties remain outside and specified petroleum awaits inclusion.
 
-**Answer: A**
+**Misconception to avoid:** GST did not replace every indirect tax.
 
-- **A is correct:** service tax was absorbed into GST.
-- **B is wrong:** basic customs duty remains outside.
-- **C is wrong:** stamp duty remains outside GST.
-- **D is wrong:** property tax is outside GST.
+### Responsive Mains practice
 
-**MCQ 10.** Which distinction is correct?
+**Question - 10 marks:** Explain why "One Nation, One Tax" is an incomplete description of GST.
 
-A. Alcohol for human consumption is an exempt GST supply
-
-B. Non-GST is outside the levy; exemption remains within GST law
-
-C. Specified petroleum products entered GST on the 2017 rollout date
-
-D. A Council recommendation creates liability before legal notification
-
-**Answer: B**
-
-- **A is wrong:** alcoholic liquor for human consumption is constitutionally outside GST.
-- **B is correct:** legal location and credit consequences differ.
-- **C is wrong:** specified petroleum products await inclusion.
-- **D is wrong:** legislation and valid notification give operative effect.
-
-**Mains micro-drill - 10 marks:** Explain why "One Nation, One Tax" is an incomplete
-description of GST.
-
-**Model answer:** GST created a harmonised destination-based tax on supply and subsumed
+**Model answer (98 words):** GST created a harmonised destination-based tax on supply and subsumed
 many Union and State indirect taxes. Its dual design, common credit chain and IGST
 settlement reduced cascading and internal barriers. Yet it is not literally one tax:
 intra-State supplies carry CGST and SGST or UTGST, inter-State supplies use IGST, and
@@ -765,9 +668,13 @@ tax, electricity duty and State excise on alcoholic liquor remain outside; speci
 petroleum products await inclusion. "One Nation, One Tax" is therefore a political
 shorthand for a coordinated base and market, not an exact constitutional description.
 
+**Unique scoring rubric:** 10 marks: rationale 2; subsumed taxes 3; exclusions 2; revenue analysis 2; qualification 1.
+
 ---
 
-**Progress: 6/14 | Stage: Core | Subtopic: How dual GST moves across India: supply, CGST-SGST-UTGST, IGST and destination**
+## Lesson 6 - How dual GST moves across India: supply, CGST-SGST-UTGST, IGST and destination
+
+Progress: 6 / 17 | Stage: Core | Subtopic: How dual GST moves across India: supply, CGST-SGST-UTGST, IGST and destination
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Economy 10 GST mechanism, IGST Act concepts and constitutional owner queried
@@ -849,46 +756,23 @@ data and classification dependence.
 9. Union collection does not mean Union retention of all IGST.
 10. Producing and consuming States can face different incentives.
 
-### Practice
+### PYQ and exam linkage
 
-**MCQ 11.** What is IGST's central economic function?
+No directly owned exact Mains PYQ is forced into this lesson. Its mechanism supports the consolidated exact questions and Prelims discrimination.
 
-A. It adds a supplementary origin tax to CGST and SGST
+### Concept check
 
-B. It clears inter-State credit while retaining revenue at origin
+**Question:** How does an inter-State supply ultimately favour the consumption State?
 
-C. It preserves the credit-and-settlement chain for inter-State supplies
+**Model answer:** IGST carries credit through a Union clearing mechanism and settlement allocates the State component toward final destination.
 
-D. It operates as an export-specific settlement levy
+**Misconception to avoid:** IGST is not a third tax retained wholly by the Union.
 
-**Answer: C**
+### Responsive Mains practice
 
-- **A is wrong:** it substitutes for the intra-State split on an inter-State supply.
-- **B is wrong:** destination apportionment is central.
-- **C is correct:** IGST bridges credit and settlement.
-- **D is wrong:** it applies broadly to inter-State supplies and imports.
+**Question - 10 marks:** How does destination-based GST alter the geography of tax revenue?
 
-**MCQ 12.** Which factor legally determines whether a supply is inter-State?
-
-A. Distance travelled alone
-
-B. Seller's preferred tax
-
-C. Consumer's income
-
-D. Supplier location and statutory place of supply
-
-**Answer: D**
-
-- **A is wrong:** a nearby transaction can cross a State boundary.
-- **B is wrong:** tax character is not elective.
-- **C is wrong:** income does not determine supply location.
-- **D is correct:** the IGST framework uses statutory location rules.
-
-**Mains micro-drill - 10 marks:** How does destination-based GST alter the geography of
-tax revenue?
-
-**Model answer:** Destination-based GST assigns consumption-tax revenue toward the
+**Model answer (89 words):** Destination-based GST assigns consumption-tax revenue toward the
 jurisdiction where final consumption occurs rather than merely where production takes
 place. For inter-State trade, the Union collects IGST, the buyer receives eligible
 credit and settlement rules apportion revenue toward the destination State. This
@@ -898,9 +782,13 @@ refunds and inaccurate invoices can delay correct assignment. Destination taxati
 therefore both a principle of revenue geography and an administrative clearing
 problem.
 
+**Unique scoring rubric:** 10 marks: dual architecture 3; IGST 2; example 2; place-of-supply limit 1; implication 2.
+
 ---
 
-**Progress: 7/14 | Stage: Core | Subtopic: How input-tax credit works: value addition, zero rating, exemption and refunds**
+## Lesson 7 - How input-tax credit works: value addition, zero rating, exemption and refunds
+
+Progress: 7 / 17 | Stage: Core | Subtopic: How input-tax credit works: value addition, zero rating, exemption and refunds
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Ramesh Singh VAT/GST evidence and Economy 10 ITC sessions queried
@@ -977,47 +865,23 @@ refunds.
 9. Inverted duty creates credit accumulation.
 10. Refund delay is a working-capital cost.
 
-### Practice
+### PYQ and exam linkage
 
-**MCQ 13.** Which supply treatment most clearly preserves export neutrality?
+No directly owned exact Mains PYQ is forced into this lesson. Its mechanism supports the consolidated exact questions and Prelims discrimination.
 
-A. Zero rating with an eligible input-credit/refund route
+### Concept check
 
-B. Exemption with unrestricted preservation of input credit
+**Question:** Why does exemption often break credit while zero rating preserves it?
 
-C. Treating export as an intra-State supply
+**Model answer:** Exemption can block input credit and embed prior tax; zero rating ordinarily preserves credit/refund so domestic tax is not exported.
 
-D. Adding basic customs duty to export GST
+**Misconception to avoid:** Exempt and zero-rated are not synonyms.
 
-**Answer: A**
+### Responsive Mains practice
 
-- **A is correct:** domestic input tax need not remain embedded in the export.
-- **B is wrong:** ordinary exemption generally restricts credit rather than preserving
-  it without condition.
-- **C is wrong:** exports have a distinct zero-rated route.
-- **D is wrong:** customs treatment does not create export neutrality this way.
+**Question - 10 marks:** Explain how ITC supports efficiency but creates a compliance trade-off.
 
-**MCQ 14.** An inverted duty structure most directly means:
-
-A. output tax rates exceed input tax rates
-
-B. inputs are taxed above outputs, accumulating credit
-
-C. the seller has no registration
-
-D. the transaction is outside GST
-
-**Answer: B**
-
-- **A is wrong:** that is the reverse relation.
-- **B is correct:** accumulated credit and refunds become central.
-- **C is wrong:** registration is a separate issue.
-- **D is wrong:** inversion occurs within GST.
-
-**Mains micro-drill - 10 marks:** Explain how ITC supports efficiency but creates a
-compliance trade-off.
-
-**Model answer:** ITC allows eligible tax paid on business inputs to offset output-tax
+**Model answer (81 words):** ITC allows eligible tax paid on business inputs to offset output-tax
 liability, so net payment approximates tax on value added. This reduces tax-on-tax,
 supports production neutrality and creates an invoice trail. The same mechanism,
 however, makes one firm's credit depend on legal eligibility and chain compliance.
@@ -1026,9 +890,13 @@ embed tax or lock working capital, especially for small firms and inverted-duty
 sectors. Efficiency therefore requires both an intact credit chain and proportionate,
 reliable administration.
 
+**Unique scoring rubric:** 10 marks: value addition 2; ITC 2; exempt/zero distinction 3; refund limit 1; verdict 2.
+
 ---
 
-**Progress: 8/14 | Stage: Advanced | Subtopic: GST Council and cooperative federalism: voting, law-making and *Mohit Minerals***
+## Lesson 8 - GST Council and cooperative federalism: voting, law-making and *Mohit Minerals*
+
+Progress: 8 / 17 | Stage: Core | Subtopic: GST Council and cooperative federalism: voting, law-making and *Mohit Minerals*
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Economy 10 and Polity GST Council owners queried
@@ -1124,46 +992,25 @@ market still depends on reason-giving and negotiated consistency.
 9. Enacted statutes and valid notifications remain binding.
 10. Cooperative federalism requires continuing dialogue.
 
-### Practice
+### Verified PYQ linkage
 
-**MCQ 15.** Which statement about GST Council voting is correct?
+**UPSC GS-II 2023, Q15 (exact):** "Explain the significance of the 101st Constitutional Amendment Act. To what extent does it reflect the accommodative spirit of federalism?" **15 marks, 250 words.**
 
-A. The Union alone can pass a proposal
+**Demand and approach:** preserve question-date law and keep objective framing answer-neutral.
 
-B. States alone can pass a proposal
+### Concept check
 
-C. Union-State support is necessary
+**Question:** If Council recommendations are non-binding, why does the Council matter?
 
-D. Each State individually has two-thirds weight
+**Model answer:** Article 279A still supplies the standing bargaining forum, weighted vote and coordinated recommendation; Mohit Minerals preserves legislative power rather than erasing the Council.
 
-**Answer: C**
+**Misconception to avoid:** Recommendatory does not mean irrelevant or self-executing.
 
-- **A is wrong:** the Union has only one-third weight.
-- **B is wrong:** States together have two-thirds, below three-fourths.
-- **C is correct:** formal passage needs a federal coalition.
-- **D is wrong:** two-thirds is shared collectively by States present and voting.
+### Responsive Mains practice
 
-**MCQ 16.** The *Mohit Minerals* ruling means:
+**Question - 15 marks:** Examine the GST Council as an institution of accommodative federalism.
 
-A. GST statutes are merely advisory
-
-B. taxpayers may choose whether to comply
-
-C. the GST Council is unconstitutional
-
-D. Persuasive Council advice; legislative authority retained
-
-**Answer: D**
-
-- **A is wrong:** enacted laws bind according to their terms.
-- **B is wrong:** taxpayer liability does not become optional.
-- **C is wrong:** Article 279A remains valid.
-- **D is correct:** it preserves coordination and legislative autonomy.
-
-**Mains micro-drill - 15 marks:** Examine the GST Council as an institution of
-accommodative federalism.
-
-**Model answer:** Article 279A institutionalises continuous Union-State bargaining over
+**Model answer (111 words):** Article 279A institutionalises continuous Union-State bargaining over
 a shared tax base. Its composition gives every State a seat, while weighted voting
 gives one-third to the Union and two-thirds collectively to States; a three-fourths
 threshold prevents unilateral formal decisions. Compensation during transition and
@@ -1175,9 +1022,13 @@ compensation or rate design. The Council is therefore a genuine forum of pooled
 sovereignty, but its success rests on transparent data, consensus and faithful legal
 implementation.
 
+**Unique scoring rubric:** 15 marks: Articles/composition 3; voting 3; law chain 3; case 2; critique 2; verdict 2.
+
 ---
 
-**Progress: 9/14 | Stage: Advanced | Subtopic: GST compensation: transition insurance, the pandemic shock and federal trust**
+## Lesson 9 - GST compensation: transition insurance, the pandemic shock and federal trust
+
+Progress: 9 / 17 | Stage: Core | Subtopic: GST compensation: transition insurance, the pandemic shock and federal trust
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Economy 10 compensation evidence and GST Council official material queried
@@ -1275,46 +1126,25 @@ time-bound support with effort incentives, not denial of transition risk.
 10. Notification No. 03/2025 made the listed cess rates nil from 1 February 2026 after
     the separate debt-servicing phase.
 
-### Practice
+### Verified PYQ linkage
 
-**MCQ 17.** The original GST compensation arrangement primarily sought to:
+**UPSC GS-III 2020, Q12 (exact):** "Explain the rationale behind the Goods and Services Tax (Compensation to States) Act of 2017. How has COVID-19 impacted the GST compensation fund and created new federal tensions?" **15 marks, 250 words.**
 
-A. insure defined State transition revenue
+**Demand and approach:** preserve question-date law and keep objective framing answer-neutral.
 
-B. create a permanent 14 per cent State tax-devolution share
+### Concept check
 
-C. replace the Finance Commission
+**Question:** Why did cess outlive the five-year compensation window?
 
-D. finance State expenditure unrelated to the defined revenue gap
+**Model answer:** The entitlement ended on 30 June 2022, but pandemic back-to-back loans created repayment liabilities serviced through later cess collections.
 
-**Answer: A**
+**Misconception to avoid:** Entitlement period and loan-repayment cess period differ.
 
-- **A is correct:** it insured the transition against defined revenue loss.
-- **B is wrong:** 14 per cent was protected revenue growth, not devolution.
-- **C is wrong:** the Finance Commission has a separate constitutional role.
-- **D is wrong:** the arrangement covered a specified revenue shortfall.
+### Responsive Mains practice
 
-**MCQ 18.** Which statement correctly separates the pandemic arrangements?
+**Question - 15 marks:** Explain how COVID-19 converted GST compensation from a technical formula into a federal trust issue.
 
-A. Back-to-back loans converted the entitlement into a continuing right
-
-B. bridge finance without extending the entitlement
-
-C. Compensation cess entered the divisible pool
-
-D. States stopped receiving IGST settlement during the pandemic
-
-**Answer: B**
-
-- **A is wrong:** financing and entitlement are distinct.
-- **B is correct:** it captures the bridge mechanism.
-- **C is wrong:** the cess did not become ordinary divisible-pool tax.
-- **D is wrong:** GST revenue and settlement continued.
-
-**Mains micro-drill - 15 marks:** Explain how COVID-19 converted GST compensation from a
-technical formula into a federal trust issue.
-
-**Model answer:** The 2017 compensation law made State consent to GST credible by
+**Model answer (105 words):** The 2017 compensation law made State consent to GST credible by
 protecting defined revenue for five years, using a 2015-16 base and 14 per cent annual
 growth. COVID-19 simultaneously reduced GST and cess collections while enlarging the
 protected gap. The resulting dispute concerned not only arithmetic but who should bear
@@ -1324,9 +1154,13 @@ compensation. The episode showed that cooperative federalism requires transparen
 baselines, agreed shock clauses, timely settlement and a credible sunset. Without
 these, even a technically sound common tax can suffer a political trust deficit.
 
+**Unique scoring rubric:** 15 marks: rationale 3; guarantee design 3; shock/loans 3; cess distinction 2; trust 2; reform 2.
+
 ---
 
-**Progress: 10/14 | Stage: Advanced | Subtopic: Compliance and formalisation: registration, composition, digital trails and enforcement**
+## Lesson 10 - Compliance and formalisation: registration, composition, digital trails and enforcement
+
+Progress: 10 / 17 | Stage: Core | Subtopic: Compliance and formalisation: registration, composition, digital trails and enforcement
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Economy 10 compliance, registration, composition and enforcement sections queried
@@ -1414,46 +1248,23 @@ Good administration requires:
 9. Risk scoring needs due process.
 10. Small-firm compliance should be proportionate.
 
-### Practice
+### PYQ and exam linkage
 
-**MCQ 19.** Which mechanism most directly encourages invoice-based formalisation?
+No directly owned exact Mains PYQ is forced into this lesson. Its mechanism supports the consolidated exact questions and Prelims discrimination.
 
-A. Buyers have less reason to verify supplier invoices
+### Concept check
 
-B. Credit arises without a linked supplier record
+**Question:** Do e-invoicing and matching prove formalisation?
 
-C. Buyers demand valid invoices for ITC
+**Model answer:** They create audit trails and raise evasion cost, but genuine formalisation also needs productive, sustainable compliance; fake invoices and fixed costs qualify the claim.
 
-D. Registration substitutes for transaction-level accounting records
+**Misconception to avoid:** Digital reporting is not complete formalisation.
 
-**Answer: C**
+### Responsive Mains practice
 
-- **A is wrong:** credit gives buyers a reason to demand documentation.
-- **B is wrong:** credit depends on eligibility, documents and linked transaction
-  records.
-- **C is correct:** the incentive links both sides of the transaction.
-- **D is wrong:** registration increases record obligations.
+**Question - 15 marks:** Does GST formalise the economy automatically?
 
-**MCQ 20.** Which statement about risk-based GST enforcement is correct?
-
-A. An analytics flag is conclusive proof of fraud
-
-B. DGGI and DRI exercise the same statutory domain
-
-C. A data mismatch is sufficient for penalty without adjudication
-
-D. Analytics should be followed by due process
-
-**Answer: D**
-
-- **A is wrong:** a risk signal requires investigation.
-- **B is wrong:** GST and customs intelligence domains differ.
-- **C is wrong:** proportionality and intent matter.
-- **D is correct:** it combines enforcement with due process.
-
-**Mains micro-drill - 15 marks:** Does GST formalise the economy automatically?
-
-**Model answer:** GST can promote formalisation because a buyer seeking ITC demands a
+**Model answer (90 words):** GST can promote formalisation because a buyer seeking ITC demands a
 valid invoice, while e-invoicing and return matching create third-party information.
 Visible turnover may improve tax compliance and access to formal finance. But
 registration alone is not durable formalisation. Small firms may face high fixed
@@ -1462,9 +1273,13 @@ supplier. Excessive enforcement can encourage exit or cash transactions. GST sup
 formalisation when digital systems are reliable, thresholds and composition rules are
 proportionate, refunds are timely, and risk analytics are paired with due process.
 
+**Unique scoring rubric:** 15 marks: architecture 3; formalisation 3; small-firm costs 2; institutions 2; limits 2; reform 3.
+
 ---
 
-**Progress: 11/14 | Stage: Core | Subtopic: Fiscal federalism: assignment, vertical imbalance, horizontal imbalance and equalisation**
+## Lesson 11 - Fiscal federalism: assignment, vertical imbalance, horizontal imbalance and equalisation
+
+Progress: 11 / 17 | Stage: Core | Subtopic: Fiscal federalism: assignment, vertical imbalance, horizontal imbalance and equalisation
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Ramesh Singh public finance and Economy 10 fiscal-federal sections queried
@@ -1559,46 +1374,23 @@ goal of comparable service capacity.
 9. Performance criteria create incentives but may favour stronger States.
 10. Accountability requires predictable resources and clear responsibility.
 
-### Practice
+### PYQ and exam linkage
 
-**MCQ 21.** Which is the best example of vertical fiscal imbalance?
+No directly owned exact Mains PYQ is forced into this lesson. Its mechanism supports the consolidated exact questions and Prelims discrimination.
 
-A. States spend heavily; the Union has broader tax bases
+### Concept check
 
-B. Two States have different per-capita incomes
+**Question:** Why can strong Union collection coexist with vertical imbalance?
 
-C. Two municipalities use different property-tax rates
+**Model answer:** The Union may hold stronger bases while States deliver major services; imbalance concerns assignment of revenue and duties, not aggregate collection alone.
 
-D. A firm shifts GST to consumers
+**Misconception to avoid:** Vertical imbalance is not automatically inefficiency.
 
-**Answer: A**
+### Responsive Mains practice
 
-- **A is correct:** it describes a mismatch between levels.
-- **B is wrong:** that is horizontal disparity.
-- **C is wrong:** difference alone is not the Centre-State gap.
-- **D is wrong:** that is tax incidence.
+**Question - 15 marks:** Why must horizontal devolution balance equity with incentives?
 
-**MCQ 22.** Fiscal equalisation primarily seeks to:
-
-A. provide identical nominal transfers to each State
-
-B. enable comparable service capacity at comparable effort
-
-C. substitute transfers for State own-revenue effort
-
-D. allocate the pool through a population-exclusive formula
-
-**Answer: B**
-
-- **A is wrong:** needs and choices remain different.
-- **B is correct:** it states the equalisation objective.
-- **C is wrong:** own-revenue responsibility remains.
-- **D is wrong:** formulas use multiple criteria.
-
-**Mains micro-drill - 15 marks:** Why must horizontal devolution balance equity with
-incentives?
-
-**Model answer:** Horizontal devolution addresses unequal fiscal capacity and service
+**Model answer (92 words):** Horizontal devolution addresses unequal fiscal capacity and service
 costs among States. Income distance, population, area and forest constraints support
 equalisation so that residence in a poorer State does not permanently determine access
 to basic services. Yet transfers that ignore tax effort, demographic performance or
@@ -1608,9 +1400,13 @@ bases and institutions. A balanced formula should keep equalisation central, use
 measurable and controllable incentive criteria, avoid volatile indicators and preserve
 State responsibility for own revenue and spending quality.
 
+**Unique scoring rubric:** 15 marks: assignment 2; vertical 3; horizontal 3; equalisation 3; example 2; verdict 2.
+
 ---
 
-**Progress: 12/14 | Stage: Advanced | Subtopic: Divisible pool, cesses, surcharges and the grant architecture**
+## Lesson 12 - Divisible pool, cesses, surcharges and the grant architecture
+
+Progress: 12 / 17 | Stage: Core | Subtopic: Divisible pool, cesses, surcharges and the grant architecture
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Ramesh Singh divisible-pool/grant evidence and constitutional owners queried
@@ -1690,47 +1486,23 @@ shareable base can preserve purpose without hollowing out devolution.
 9. Excessive conditions can weaken State autonomy.
 10. Earmarking needs utilisation transparency and sunset review.
 
-### Practice
+### PYQ and exam linkage
 
-**MCQ 23.** A Finance Commission recommends 41 per cent vertical devolution. The
-percentage applies to:
+No directly owned exact Mains PYQ is forced into this lesson. Its mechanism supports the consolidated exact questions and Prelims discrimination.
 
-A. gross Union receipts including tax and non-tax revenue
+### Concept check
 
-B. net Union tax proceeds plus earmarked cesses
+**Question:** Why can expanding cesses shrink effective State access despite 41 per cent devolution?
 
-C. shareable net proceeds in the divisible pool
+**Model answer:** The 41 per cent applies to net proceeds in the divisible pool, while cesses and surcharges remain outside it.
 
-D. net State GST receipts after inter-State settlement
+**Misconception to avoid:** Do not apply 41 per cent to gross tax revenue.
 
-**Answer: C**
+### Responsive Mains practice
 
-- **A is wrong:** borrowing and non-tax receipts are outside the base.
-- **B is wrong:** applicable cesses and surcharges are excluded.
-- **C is correct:** the percentage applies to Article 270 net proceeds.
-- **D is wrong:** the divisible pool covers shareable Union taxes, not State GST alone.
+**Question - 15 marks:** Explain why rising cesses and surcharges can weaken fiscal federalism even when vertical devolution remains unchanged.
 
-**MCQ 24.** How do Article 275 and Article 282 grants differ?
-
-A. Both are formula shares of Union tax devolution
-
-B. Article 282 grants form the horizontal devolution formula
-
-C. A surcharge must enter the divisible pool
-
-D. Article 275 grants-in-aid; Article 282 discretionary public-purpose grants
-
-**Answer: D**
-
-- **A is wrong:** their constitutional bases and character differ.
-- **B is wrong:** grants and devolution are separate transfers.
-- **C is wrong:** Article 271 surcharge proceeds accrue to the Union.
-- **D is correct:** it states the legal distinction.
-
-**Mains micro-drill - 15 marks:** Explain why rising cesses and surcharges can weaken
-fiscal federalism even when vertical devolution remains unchanged.
-
-**Model answer:** Vertical devolution is a percentage of the Article 270 divisible pool,
+**Model answer (97 words):** Vertical devolution is a percentage of the Article 270 divisible pool,
 not gross Union tax receipts. Article 271 surcharges and applicable specific-purpose
 cesses remain outside that pool. If their share in gross taxation rises, the base on
 which the State percentage is applied becomes relatively smaller; a stable headline
@@ -1740,9 +1512,13 @@ trust. Reform should favour broad shareable taxes, transparent cess accounts, pe
 sunsets and targeted grants only where spillovers or minimum standards justify
 conditions.
 
+**Unique scoring rubric:** 15 marks: pool 3; cess/surcharge 3; Articles/grants 3; autonomy 2; counter 2; reform 2.
+
 ---
 
-**Progress: 13/14 | Stage: Advanced | Subtopic: Finance Commission: constitutional role, devolution criteria and the XV-XVI transition**
+## Lesson 13 - Finance Commission: constitutional role, devolution criteria and the XV-XVI transition
+
+Progress: 13 / 17 | Stage: Core | Subtopic: Finance Commission: constitutional role, devolution criteria and the XV-XVI transition
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Economy 10, Polity Finance Commission owner and official XVI-FC material queried
@@ -1838,47 +1614,25 @@ predictable rules and a defensible equity-incentive balance.
 9. XVI-FC uses six horizontal criteria.
 10. Recommendation, acceptance and release are different stages.
 
-### Practice
+### Verified PYQ linkage
 
-**MCQ 25.** Which is a function of the Finance Commission?
+**UPSC GS-II 2021, Q3 (exact):** "How have the recommendations of the 14th Finance Commission of India enabled the States to improve their fiscal position?" **10 marks, 150 words.**
 
-A. Recommending devolution and grant principles
+**Demand and approach:** preserve question-date law and keep objective framing answer-neutral.
 
-B. Notifying GST rates directly
+### Concept check
 
-C. Granting Union consent for State borrowing under Article 293
+**Question:** How does XVI-FC combine equalisation and incentives?
 
-D. Enacting the annual Finance Act
+**Model answer:** GSDP distance carries 42.5 per cent for equalisation, while population, demography, area, forest and a 10 per cent Contribution to GDP criterion add need, cost and efficiency signals.
 
-**Answer: A**
+**Misconception to avoid:** Vertical share and horizontal criteria are different.
 
-- **A is correct:** these are central Article 280 functions.
-- **B is wrong:** GST rates require the Council-law-notification chain.
-- **C is wrong:** Article 293 consent belongs to the Union-State borrowing framework,
-  not the Finance Commission's functions.
-- **D is wrong:** Parliament enacts finance legislation.
+### Responsive Mains practice
 
-**MCQ 26.** Which criterion is part of the XVI-FC horizontal formula for 2026-31?
+**Question - 20 marks:** Evaluate the XVI Finance Commission's attempt to balance equalisation and contribution.
 
-A. Tax effort as a separate 2.5 per cent weight
-
-B. Contribution to GDP at 10 per cent
-
-C. Literacy at 20 per cent
-
-D. Urbanisation at 15 per cent
-
-**Answer: B**
-
-- **A is wrong:** that was a XV-FC criterion, not a separate XVI-FC weight.
-- **B is correct:** contribution to GDP is a new 10 per cent criterion.
-- **C is wrong:** literacy is not a listed horizontal weight.
-- **D is wrong:** urbanisation is not a listed weight.
-
-**Mains micro-drill - 20 marks:** Evaluate the XVI Finance Commission's attempt to
-balance equalisation and contribution.
-
-**Model answer:** The XVI Finance Commission retains States' collective share at 41 per
+**Model answer (134 words):** The XVI Finance Commission retains States' collective share at 41 per
 cent of Article 270 net proceeds for 2026-31, preserving vertical continuity. Its
 horizontal formula keeps income distance dominant at 42.5 per cent, protecting the
 equalisation objective. Population receives 17.5 per cent, while demographic
@@ -1891,9 +1645,13 @@ weight and that some contribution incentive sustains political legitimacy. The f
 is defensible as negotiated equalisation, provided data are transparent and the
 divisible pool is not narrowed through excessive non-shareable levies.
 
+**Unique scoring rubric:** 20 marks: Articles 3; vertical/horizontal 3; XV-XVI 4; exact weights 4; grants 2; critique 2; verdict 2.
+
 ---
 
-**Progress: 14/14 | Stage: Mastery | Subtopic: State and local finance: borrowing constraints, State Finance Commissions and reform**
+## Lesson 14 - State and local finance: borrowing constraints, State Finance Commissions and reform
+
+Progress: 14 / 17 | Stage: Core | Subtopic: State and local finance: borrowing constraints, State Finance Commissions and reform
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Economy 10 borrowing/local-body sections, Ramesh Singh and Finance Commission owner queried
@@ -1962,6 +1720,20 @@ Local body
 - functions devolved without funds and functionaries;
 - weak predictability of State transfers.
 
+### Operative XVI-FC local-body settlement
+
+The Sixteenth Finance Commission recommends **Rs 7,91,493 crore** for duly
+constituted rural and urban local bodies during 2026-27 to 2030-31. The aggregate
+basic-and-performance allocation is divided **60:40 between rural and urban local
+bodies**; within both categories, basic and performance components are divided
+**80:20**. Entry conditions include duly constituted bodies, publicly available
+accounts and regular State Finance Commissions with action-taken reports. States
+should transfer the grants within **ten working days** or pay interest for delay.
+
+This is not merely a grant total. It links money to elected institutions, accounts,
+State-local review and timely pass-through—the accountability chain required for
+effective decentralisation.
+
 ### Reform package
 
 1. regular SFCs and time-bound action-taken reports;
@@ -2001,47 +1773,29 @@ transparent borrowing + capable States/local bodies + accountable services
 10. Predictability is central to cooperative fiscal federalism.
 11. Conditions should protect outcomes without erasing local choice.
 12. Tax design succeeds only when revenue becomes accountable public service.
+13. XVI-FC local-body grants total Rs 7,91,493 crore for 2026-31.
+14. The aggregate rural-urban split is 60:40; basic-performance is 80:20.
+15. State pass-through is due within ten working days or with interest.
 
-### Practice
+### Verified PYQ linkage
 
-**MCQ 27.** Which statement best describes the Union-State-local finance chain?
+**UPSC GS-II 2025, Q14 (exact):** "Examine the evolving pattern of Centre-State financial relations in the context of planned development in India. How far have the recent reforms impacted the fiscal federalism in India?" **15 marks, 250 words.**
 
-A. The Union Finance Commission performs the State-local fiscal review
+**Demand and approach:** preserve question-date law and keep objective framing answer-neutral.
 
-B. Local bodies directly receive the States' vertical tax share
+### Concept check
 
-C. Union FC supports State-fund augmentation; SFCs review State-local finance
+**Question:** Why is a Union Finance Commission local grant not sufficient for municipal empowerment?
 
-D. Article 293 sets local-body borrowing ceilings
+**Model answer:** Empowerment also requires pass-through, regular SFCs, functions, staff, accounts and own revenue.
 
-**Answer: C**
+**Misconception to avoid:** Money alone does not supply functions and functionaries.
 
-- **A is wrong:** the two commissions are constitutionally distinct.
-- **B is wrong:** local grants and vertical devolution are different.
-- **C is correct:** it states the linked but separate roles.
-- **D is wrong:** Article 293 governs State borrowing, not municipal borrowing ceilings.
+### Responsive Mains practice
 
-**MCQ 28.** Which reform most directly strengthens local fiscal accountability?
+**Question - 20 marks:** Fiscal federalism remains incomplete without viable State and local finances. Discuss.
 
-A. Substituting ad hoc grants for local own-source taxation
-
-B. Delaying accounts until the end of the Finance Commission period
-
-C. Assigning functions without funds
-
-D. Predictable transfers, transparent accounts and stronger own revenue
-
-**Answer: D**
-
-- **A is wrong:** complete grant dependence weakens the tax-service link.
-- **B is wrong:** delayed accounts obstruct scrutiny.
-- **C is wrong:** unfunded mandates weaken delivery.
-- **D is correct:** resources and accountability reinforce each other.
-
-**Mains micro-drill - 20 marks:** Fiscal federalism remains incomplete without viable
-State and local finances. Discuss.
-
-**Model answer:** States deliver many expenditure-intensive services but depend on
+**Model answer (149 words):** States deliver many expenditure-intensive services but depend on
 devolution, grants and regulated borrowing in addition to own revenue. Article 293
 protects common fiscal stability, yet opaque or inflexible consent conditions can
 reduce autonomy. Debt must be judged by sustainability, disclosure and whether it
@@ -2050,764 +1804,511 @@ Finance Commissions, while Article 280 links Union Finance Commission support to
 fund augmentation. Delayed SFCs, weak property taxation, tied grants, poor accounts and
 functions without staff or funds undermine decentralisation. Reform requires regular
 SFCs, formula-based transfers, better local own revenue, transparent liabilities and
-outcome-based rather than input-micromanaged conditions. Fiscal federalism becomes
-real only when each level has adequate, predictable resources and answerability for
-the services it controls.
+outcome-based rather than input-micromanaged conditions. XVI-FC's Rs 7,91,493 crore
+local-body package, 60:40 rural-urban allocation and ten-working-day pass-through rule
+show how grant design can reinforce institutions and accountability. Fiscal federalism
+becomes real only when each level has adequate, predictable resources and answerability
+for the services it controls.
+
+**Unique scoring rubric:** 20 marks: borrowing 3; SFC chain 4; three Fs 4; local grant evidence 3; risks 3; reforms 3.
+
+---
+
+## Lesson 15 - OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER: tax design at the frontier
+
+Progress: 15 / 17 | Stage: Advanced | Subtopic: Tax expenditures, Laffer limits, digital nexus and indirect transfer
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried - Economy 10 Advanced owner and direct-tax boundary material
+CA search: "Income-tax Act 2025 commencement Equalisation Levy withdrawal official India 2026"
+CA found: Income-tax Act, 2025 and Rules, 2026 commenced 1 April 2026; earlier-year proceedings retain the applicable transition treatment
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Visual: four ways a tax base changes
+
+```text
+rate -> mechanical liability -> behavioural response -> administrative response -> realised revenue
+```
+
+The **Laffer curve** states only a possibility: at an extremely high rate, base contraction or
+non-compliance can reduce revenue. It neither identifies the turning point nor proves that a
+particular cut finances itself.
+
+A deduction, exemption or concessional rate is a **tax expenditure**. Audit it against a benchmark
+tax, revenue forgone, beneficiary, objective, measurable outcome and sunset. Compared with an
+explicit outlay, it can be less visible and may favour persons already inside the tax net.
+
+Digital supply weakened the assumption that taxable business requires a large physical presence.
+India's Equalisation Levy was a response for specified non-resident digital transactions. It is
+historical for current-law answers: the remaining online-advertisement levy was withdrawn from
+1 April 2025. A 2018 PYQ must still be answered under the law then in force.
+
+```text
+offshore share transfer -> value substantially derived from Indian assets -> possible Indian source nexus
+```
+
+The indirect-transfer rule protects the source base against offshore form, but creates valuation,
+treaty and certainty questions. It is an income-tax problem, not GST.
+
+**Strong objection:** anti-avoidance breadth deters investment. **Reply:** legal form cannot be
+allowed to sever genuine Indian value, but the response must be prospective, clearly defined,
+treaty-consistent and supported by timely dispute resolution.
+
+### Revision notes
+
+1. Rate and realised revenue are not mechanically proportional.
+2. Laffer is a possibility, not a universal theorem.
+3. Tax expenditures have opportunity cost.
+4. Benchmark, beneficiary, objective and sunset are essential.
+5. Digitalisation weakens physical-presence assumptions.
+6. Equalisation Levy status is date-specific.
+7. The remaining limb was withdrawn from 1 April 2025.
+8. Indirect transfer links offshore form to underlying Indian value.
+9. Valuation and treaties limit aggressive reach.
+10. Predictability is part of sound tax design.
+
+### Concept check
+
+**Question:** Why can a rate cut raise revenue in one setting but reduce it in another?
+
+**Model answer:** The result depends on the starting rate, base response, compliance, substitution and administration. Only if improved activity or reporting outweighs the mechanical rate loss will revenue rise.
+
+**Misconception to avoid:** Invoking Laffer as proof that every tax cut pays for itself.
+
+### Responsive Mains practice
+
+**Question - 10 marks:** Explain why modern tax-base protection must be balanced with certainty.
+
+**Model answer (111 words):** Modern tax bases are mobile, digital and legally separable from the place where value is created. Source countries therefore use indirect-transfer rules, anti-avoidance standards and, historically in India, the Equalisation Levy. These tools protect neutrality: a cross-border structure should not escape tax merely because contracts or shares sit offshore. Yet breadth without precision creates valuation disputes, treaty conflict, retrospective uncertainty and high documentation costs. The balance is prospective law, clearly defined nexus, proportionate information duties, consistent treaty interpretation and time-bound dispute resolution. Base protection should target genuine economic connection and abusive separation of form from substance, not presume that every cross-border arrangement is avoidance. Effective tax sovereignty combines enforceability with predictability.
+
+**Unique scoring rubric:** 10 marks: mobility/digital problem 2; named tools 2; mechanism 2; certainty/treaty costs 2; balanced conclusion 2.
+
+---
+
+## Lesson 16 - OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER: GST neutrality under stress
+
+Progress: 16 / 17 | Stage: Advanced | Subtopic: Place of supply, inverted duties, refunds and compliance technology
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried - Economy 10 Advanced owner and official GST implementation material
+CA search: "latest GST Council meeting official 2026 refunds GSTAT place of supply"
+CA found: latest official meeting release located by 3 October 2026 remains the 56th meeting of 3 September 2025; legal liability remains notification-specific
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Visual: where neutrality can break
+
+```text
+input tax -> eligible credit? -> output set-off? -> refund? -> correct place-of-supply settlement?
+              no: embedded tax   no: locked cash   no: wrong jurisdiction
+```
+
+GST approaches neutrality only when taxable event, place of supply, credit, invoice reporting,
+refund and settlement work together. Services are difficult because supplier, recipient,
+performance and digital-use locations may differ. A place-of-supply error may allocate revenue to
+the wrong State even if total tax is correct.
+
+An **inverted duty structure** arises when input rates exceed output rates. Credit may exist on the
+ledger yet lock working capital until used or refunded. Rate rationalisation can reduce inversion;
+refund denial can turn it into embedded cost.
+
+E-way bills, e-invoicing and matching improve traceability. They do not make data infallible: fake
+invoices create false credit, genuine invoices can mismatch, and small firms bear fixed costs.
+Risk-based scrutiny and accessible appeal therefore matter.
+
+The 56th Council recommended broad 5 and 18 per cent rates plus a special 40 per cent demerit
+rate, with most changes intended from 22 September 2025. This evidences simplification, not a
+claim that every supply has only two rates; applicable notification controls.
+
+### Revision notes
+
+1. Neutrality depends on the complete chain.
+2. Place of supply allocates jurisdiction.
+3. Services create hard destination questions.
+4. Inversion means input rate exceeds output rate.
+5. Accumulated credit locks working capital.
+6. Refund delay can embed tax.
+7. Digital trails aid detection but permit false positives.
+8. Fake invoices exploit the credit mechanism.
+9. Multiple rates create classification boundaries.
+10. Council recommendation and notification are separate.
+11. Latest official meeting release located is the 56th.
+
+### Concept check
+
+**Question:** Inputs face a higher rate than outputs. What is the economic problem?
+
+**Model answer:** Credit accumulates and locks working capital until used or refunded, raising financing cost and weakening neutrality.
+
+**Misconception to avoid:** Defining inversion backwards or equating ledger credit with cash.
+
+### Responsive Mains practice
+
+**Question - 15 marks:** GST is a value-added tax only to the extent that its credit and refund chain works. Analyse.
+
+**Model answer (132 words):** GST seeks to tax value addition by offsetting eligible input tax against output liability. This prevents tax-on-tax and lets credit travel through invoices. IGST settlement also uses documented inter-State supplies to direct the State component toward destination. Neutrality can nevertheless fail. Exempt outputs may block credit; statutory exclusions embed tax; inversion accumulates credit; delayed refunds lock working capital; and place-of-supply errors misallocate revenue. E-invoicing and matching improve traceability but expose genuine firms to mismatches, while fake invoices exploit the credit mechanism itself. Rate simplification and risk-based administration can reduce these costs, though equity-sensitive differentiation cannot be eliminated mechanically. GST is therefore not neutral merely because a credit provision exists. It becomes a value-added tax in practice only when eligibility is clear, refunds are timely, digital controls are proportionate and settlement is accurate.
+
+**Unique scoring rubric:** 15 marks: ITC mechanism 3; destination link 2; four breakpoints 4; technology trade-off 2; equity qualification 2; verdict 2.
+
+---
+
+## Lesson 17 - OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER: incentive-compatible federalism
+
+Progress: 17 / 17 | Stage: Advanced | Subtopic: XVI-FC choices, local grants, transparency and accountable transfers
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried - official XVI-FC Volume I and Polity cross-topic owners
+CA search: "Sixteenth Finance Commission horizontal devolution local body grants official 2026"
+CA found: report retains 41 per cent, introduces Contribution to GDP at 10 per cent and recommends Rs 7,91,493 crore of local-body grants
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Visual: transfer design changes behaviour
+
+```text
+formula -> equalisation weights + incentive weights + conditions + transparency -> services/accountability
+```
+
+XVI-FC uses Population 17.5, Demographic Performance 10, Area 10, Forest 10, Per-capita GSDP
+Distance 42.5 and Contribution to GDP 10 per cent. The new GDP contribution criterion is an
+efficiency-growth signal; income distance remains the principal equalisation instrument.
+
+It recommends no revenue-deficit, sector-specific or State-specific grants. Its argument is that
+anticipated deficit support can weaken subsidy, tax-administration and expenditure reform. The
+objection is that formulas may miss structural disability; the reply is that open-ended gap filling
+can reward persistence.
+
+The report recommends Rs 7,91,493 crore for duly constituted rural and urban local bodies during
+2026-31. Aggregate basic and performance components are divided 60:40 between rural and urban,
+while both use an 80:20 basic-performance split. Entry conditions include constituted bodies,
+public accounts and regular SFCs with action-taken reports. States should transfer grants within
+ten working days or pay interest for delay.
+
+It also recommends annual disclosure of CAG-certified net proceeds under Article 279, clarifying
+what the 41 per cent actually applies to.
+
+### Revision notes
+
+1. Transfer formulas create incentives.
+2. Vertical share remains 41 per cent.
+3. GSDP distance carries 42.5 per cent.
+4. Contribution to GDP is a new 10 per cent criterion.
+5. It replaces a direct tax-effort weight.
+6. No revenue-deficit grants are recommended.
+7. No sector/State-specific grants are recommended.
+8. Local-body grants total Rs 7,91,493 crore.
+9. Rural-urban split is 60:40.
+10. Basic-performance split is 80:20.
+11. SFC regularity and accounts are conditions.
+12. Pass-through deadline is ten working days.
+13. Net-proceeds disclosure improves transparency.
+
+### Concept check
+
+**Question:** Why can Contribution to GDP improve one incentive while weakening another?
+
+**Model answer:** It may reward growth and economic management but also inherited scale, while weakening the direct signal to improve own-tax collection.
+
+**Misconception to avoid:** Every efficiency criterion is distribution-free; weights change shares.
+
+### Responsive Mains practice
+
+**Question - 20 marks:** Evaluate whether XVI-FC balances equalisation, efficiency and accountable decentralisation.
+
+**Model answer (176 words):** XVI-FC retains 41 per cent of the divisible pool for States, preserving vertical continuity. Horizontally, 42.5 per cent for per-capita GSDP distance keeps equalisation central, while population, demographic performance, area and forest reflect need, cost and ecological service. The new 10 per cent Contribution to GDP criterion adds a growth signal, but may reward inherited scale more than current revenue effort. Accountability also shapes grants. The Commission recommends no revenue-deficit, sector-specific or State-specific grants, arguing that expected gap filling can weaken reform. This reduces moral hazard, though structurally constrained States may find a general formula insufficient. Its Rs 7,91,493 crore local-body package links grants to constituted bodies, public accounts and regular SFCs, and requires timely State pass-through. These conditions can strengthen functions, funds and functionaries, but poorly sequenced enforcement could penalise citizens for State failure. Annual disclosure of CAG-certified net proceeds can clarify the 41 per cent denominator. Overall, the settlement balances the three objectives explicitly; success depends on transparent data, fair conditions and whether the growth criterion improves performance without weakening equalisation.
+
+**Unique scoring rubric:** 20 marks: vertical 2; six criteria 5; trade-off 4; grant choice 3; local-body design 3; transparency/verdict 3.
 
 ---
 
 # VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
 
-These are links to verified UPSC demands. The approach column is a planning spine, not
-a solved PYQ answer.
+Displayed questions remain answer-neutral. Exact wording is reproduced where verified; objective
+answer letters are neither shown nor inferred. Approaches are planning spines, not solved PYQs.
 
-## Direct Economy 10 ownership
+## Direct ownership
 
-| Year and paper | Verified question / demand | Directive or format | Concise answer approach |
+| Year | Exact question or answer-neutral official demand | Provenance | Approach |
 |---|---|---|---|
-| [UPSC Prelims 2018, Q8](https://upsc.gov.in/sites/default/files/QP-CSP-18-GS-I-C.pdf) | Equalisation Levy was tested through the type of transaction to which it applied under the law then in force. | Single correct | Answer in the 2018 legal context, then note separately that the remaining online-advertisement levy was withdrawn from 1 April 2025; prior-period proceedings remain period-specific. |
-| [UPSC Prelims 2018, Q97](https://upsc.gov.in/sites/default/files/QP-CSP-18-GS-I-C.pdf) | Exemptions under GST were tested through cereal, jewellery and cooked-food statements. | Statement combination | Apply date-specific notification knowledge; distinguish basic food exemptions from taxable supplies and avoid permanent-rate assumptions. |
-| [UPSC GS-III 2019, Q1](https://upsc.gov.in/sites/default/files/QP-CSM19-GeneralStudies-III.pdf) | Enumerate the indirect taxes subsumed in GST and comment on the revenue implications of GST introduced since July 2017. | Enumerate and comment · 10 marks · 150 words | Classify Union/State levies subsumed; explain common base, ITC, formalisation and compliance gains; qualify with rate complexity, refunds and transition effects. |
-| [UPSC GS-III 2020, Q12](https://upsc.gov.in/sites/default/files/QP-CSM-20-GEN-STUDIES-PAPER-III.pdf) | Explain the rationale behind the Goods and Services Tax (Compensation to States) Act of 2017. How has COVID-19 impacted the GST compensation fund and created new federal tensions? | Explain · 15 marks · 250 words | Establish the federal bargain, base year and protected growth; trace lockdown-to-shortfall mechanism; distinguish entitlement, cess and borrowing. |
-| [UPSC Prelims 2022, Q8](https://upsc.gov.in/sites/default/files/QP-CSP-22-GENERAL-STUDIES-PAPER-I-010622.pdf) | India's taxation of indirect transfers of underlying Indian assets was tested. | Statement combination | Separate residence from source nexus; explain indirect transfer and retrospective-amendment boundary without importing GST concepts. |
-| [UPSC Prelims 2023, Q29](https://upsc.gov.in/sites/default/files/QP-CSP-23-GENERAL-STUDIES-PAPER-I-290523.pdf) | XV Finance Commission horizontal-tax-devolution criteria were tested. | Statement combination | Recall the actual criteria; distinguish horizontal distribution from grant conditions and vertical share. |
-| [UPSC Prelims 2025, Q3](https://upsc.gov.in/examinations/previous-question-papers) | Parent departments/ministries of ED, DRI and DGGI were tested. | Matching | Map enforcement bodies precisely: ED to Revenue, DRI and DGGI to CBIC/Revenue; do not merge statutory mandates. |
-| [UPSC Prelims 2025, Q5](https://upsc.gov.in/examinations/previous-question-papers) | Agricultural income and capital-gains treatment of rural agricultural land were tested. | Statement combination | Apply constitutional tax competence and Income-tax Act definitions separately; rural agricultural land boundary depends on statutory conditions. |
-
-## Bounded cross-links
-
-| Year and paper | Cross-owner demand | Why it matters here | Concise answer approach |
-|---|---|---|---|
-| [UPSC GS-II 2018, Q14](https://upsc.gov.in/examinations/previous-question-papers) | How is the Finance Commission of India constituted? What do you know about the terms of reference of the recently constituted Finance Commission? Discuss. | Discuss · 15 marks · 250 words | Start with Articles 280-281, composition and functions; then use the Commission applicable to the question date, not today's award. |
-| [UPSC GS-II 2021, Q3](https://upsc.gov.in/sites/default/files/QP-CSM-21-GEN-STUDIES-PAPER-II-110122.pdf) | How have the Fourteenth Finance Commission recommendations enabled States to improve their fiscal position? | How have they enabled · 10 marks · 150 words | Explain increased untied devolution and autonomy, then qualify with plan-grant restructuring, cesses and State-specific outcomes. |
-| [UPSC GS-II 2023, Q15](https://upsc.gov.in/sites/default/files/QP-CSM-23-GENERAL-STUDIES-PAPER-II-180923.pdf) | Explain the significance of the 101st Constitutional Amendment Act and the extent to which it reflects accommodative federalism. | Explain the significance · 15 marks · 250 words | Link Articles 246A, 269A and 279A to pooled authority; assess Council bargaining, compensation and legislative autonomy. |
-| [UPSC Prelims 2025, Q66](https://upsc.gov.in/examinations/previous-question-papers) | XV Finance Commission recommendations, including vertical share and performance grants. | Exact institution/fact boundary | Separate 41 per cent vertical share from horizontal criteria and grants; test each statement against the report period. |
-| [UPSC GS-III 2025, Q11](https://upsc.gov.in/examinations/previous-question-papers) | Explain how the Fiscal Health Index can assess the fiscal performance of States in India and encourage prudent and sustainable fiscal policies. | Explain · 15 marks · 250 words | Use debt, deficit, revenue mobilisation, expenditure quality and transparency; connect cautiously to transfer dependence and Article 293. |
-
-**PYQ method:** For an objective question, reconstruct the legal or economic boundary
-before considering options. For Mains, identify the constitutional base, draw the
-mechanism, present evidence valid for the question's date, and close with a balanced
-reform.
-
----
-
-# CUMULATIVE MCQS
-
-**MCQ 29.** A tax is imposed on sellers in a market where demand is highly inelastic
-and supply is relatively elastic. Who is likely to bear the larger economic burden?
-
-A. Buyers, through a higher post-tax price
-
-B. Sellers, because the statute names them
-
-C. Government, because tax creates no revenue
-
-D. Foreign producers, irrespective of the market
-
-**Answer: A**
-
-- **A is correct:** the less elastic demand side adjusts quantity less and bears more.
-- **B is wrong:** statutory remittance does not determine economic incidence.
-- **C is wrong:** the statutory rate does not allocate economic burden between market
-  participants.
-- **D is wrong:** the stated elasticities support consumer price shifting, not a wage
-  effect unrelated to the market facts.
-
-**MCQ 30.** Tax revenue grows by 12 per cent while GDP grows by 8 per cent, with no
-major discretionary tax change. The most direct interpretation is:
-
-A. Tax elasticity equals the observed 1.5 ratio
-
-B. Observed tax buoyancy is 1.5
-
-C. The tax is progressive because buoyancy exceeds unity
-
-D. The divisible pool has grown at the same 12 per cent rate
-
-**Answer: B**
-
-- **A is wrong:** the 1.5 observation is buoyancy; elasticity requires adjustment for
-  policy changes even when none is described as major.
-- **B is correct:** buoyancy equals 12 divided by 8.
-- **C is wrong:** distribution cannot be inferred from aggregate growth.
-- **D is wrong:** revenue growth does not identify the shareable pool.
-
-**MCQ 31.** Consider the following supplies:
-
-1. A zero-rated export
-2. An exempt domestic supply
-3. A non-GST petroleum product
-
-Which usually preserves the input-credit/refund logic most clearly?
-
-A. 2 only
-
-B. 3 only
-
-C. 1 only
-
-D. 1, 2 and 3 equally
-
-**Answer: C**
-
-- **A is wrong:** exemption ordinarily breaks or restricts the credit chain.
-- **B is wrong:** non-GST treatment lies outside ordinary GST credit.
-- **C is correct:** zero rating is designed to relieve output while preserving eligible input relief.
-- **D is wrong:** the three legal categories have different credit consequences.
-
-**MCQ 32.** Which sequence correctly describes an inter-State B2B GST transaction?
-
-A. SGST is collected by the destination State without IGST clearing
-
-B. Customs credit is reclassified as CGST at the State border
-
-C. The origin State retains net IGST after buyer credit
-
-D. IGST credit and settlement move revenue toward destination
-
-**Answer: D**
-
-- **A is wrong:** an inter-State B2B supply uses IGST clearing rather than a direct SGST
-  levy by the destination State.
-- **B is wrong:** customs and GST are legally distinct.
-- **C is wrong:** destination-based settlement is the design.
-- **D is correct:** it captures the clearing function of IGST.
-
-**MCQ 33.** Which institutional pairing is correct?
-
-A. GST Council - recommendations; Finance Commission - tax devolution and grant principles
-
-B. GST Council - Article 293 borrowing consent; Finance Commission - GST rate notification
-
-C. GST Council - local property valuation; Finance Commission - customs assessment
-
-D. Both bodies enact binding tax law by themselves
-
-**Answer: A**
-
-- **A is correct:** it states their distinct constitutional functions.
-- **B is wrong:** both functions are misassigned.
-- **C is wrong:** neither pairing is valid.
-- **D is wrong:** recommendations require competent legal and budgetary action.
-
-**MCQ 34.** If cesses and surcharges rise as a share of gross Union tax receipts while
-the devolution rate is unchanged, which result is most plausible?
-
-A. The divisible pool expands in step with gross receipts
-
-B. The shareable base may narrow relative to gross receipts
-
-C. Cess proceeds become shareable through Article 270
-
-D. Horizontal weights are recalculated against gross receipts
-
-**Answer: B**
-
-- **A is wrong:** exclusions can have the opposite effect.
-- **B is correct:** the headline rate may apply to a relatively smaller base.
-- **C is wrong:** applicable cesses and Article 271 surcharges are non-shareable.
-- **D is wrong:** horizontal weights distribute the shareable pool; they are not
-  recalculated against gross receipts merely because exclusions rise.
-
-**MCQ 35.** Which of the following best expresses fiscal equalisation?
-
-A. Providing identical per-capita transfers to each State
-
-B. Making contribution to GDP the dominant criterion
-
-C. Comparable service capacity despite fiscal-capacity gaps
-
-D. Requiring uniform State policies and service outcomes
-
-**Answer: C**
-
-- **A is wrong:** identical per-capita transfers ignore cost and fiscal-capacity gaps.
-- **B is wrong:** making contribution dominant would displace the equalisation purpose.
-- **C is correct:** equalisation concerns capacity at comparable effort.
-- **D is wrong:** federal diversity remains legitimate.
-
-**MCQ 36.** A State indebted to the Union proposes additional borrowing. The most
-relevant constitutional provision is:
-
-A. Article 246A
-
-B. Article 279A
-
-C. Article 281
-
-D. Article 293
-
-**Answer: D**
-
-- **A is wrong:** Article 246A concerns GST legislative power.
-- **B is wrong:** Article 279A creates the GST Council.
-- **C is wrong:** Article 281 concerns laying the Finance Commission report.
-- **D is correct:** Article 293 governs State borrowing and specified Union consent.
-
----
+| 2018 Prelims Q8 | Equalisation Levy transaction under the law then in force. | Official paper `QP-CSP-18-GS-I-C.pdf`; routed to Economy 10; local key unavailable. | Apply 2018 law, then separately date-label later withdrawal. |
+| 2018 Prelims Q97 | GST-exemption statements concerning cereals, jewellery and cooked food. | Same official paper and audited routing ledger. | Test each statement at question-date notification status. |
+| 2019 GS-III Q1 | "Enumerate the indirect taxes which have been subsumed in the Goods and Services Tax (GST) in India. Also, comment on the revenue implications of the GST introduced in India since July 2017." | Official GS-III paper; direct owner. | Enumerate Union/State levies; analyse base, ITC, compliance, transition and exclusions. |
+| 2020 GS-III Q12 | "Explain the rationale behind the Goods and Services Tax (Compensation to States) Act of 2017. How has COVID-19 impacted the GST compensation fund and created new federal tensions?" | Official GS-III paper; direct owner. | Bargain -> base/protected growth -> shock -> cess shortfall -> borrowing -> trust. |
+| 2022 Prelims Q8 | Official statements on offshore transfer where underlying value derives substantially from Indian assets. | Official paper; direct owner; key unavailable locally. | Separate residence, source nexus, indirect transfer and retrospective boundary. |
+| 2023 Prelims Q29 | Official statement-combination question on XV-FC horizontal-devolution criteria. | Official paper; direct owner; key unavailable locally. | Separate vertical share, horizontal formula and grants. |
+| 2025 Prelims Q3 | "With reference to the Government of India, consider the following information" followed by rows for Directorate of Enforcement, Directorate of Revenue Intelligence and Directorate General of Systems and Data Management, their functions and parent administration; asks how many rows are correctly matched. | Exact table checked from local official Set-A scan. | Verify organisation, function and department independently. |
+| 2025 Prelims Q5 | "Consider the following statements: Statement I: In India, income from allied agricultural activities like poultry farming and wool rearing in rural areas is exempted from any tax. Statement II: In India, rural agricultural land is not considered a capital asset under the provisions of the Income-tax Act, 1961. Which one of the following is correct in respect of the above statements?" | Exact wording checked from local official Set-A scan. | Apply statutory definitions separately. |
+
+## Cross-topic ownership required for complete preparation
+
+1. **2018 GS-II Q14, 15 marks, 250 words:** "How is the Finance Commission of India constituted? What do you know about the terms of reference of the recently constituted Finance Commission? Discuss." Owner: Polity Finance Commission. Route: composition -> Article 280(3) -> question-date Commission -> Article 281.
+2. **2021 GS-II Q3, 10 marks, 150 words:** "How have the recommendations of the 14th Finance Commission of India enabled the States to improve their fiscal position?" Owner: Polity Finance Commission. Route: 32-to-42 -> flexibility/predictability -> plan-transfer transition -> qualification.
+3. **2023 GS-II Q15, 15 marks, 250 words:** "Explain the significance of the 101st Constitutional Amendment Act. To what extent does it reflect the accommodative spirit of federalism?" Owner: Polity GST Council. Route: Articles 246A/269A/279A -> pooled sovereignty -> voting/compensation -> Mohit Minerals -> extent.
+4. **2025 Prelims Q66, answer-neutral:** "Which of the following statements with regard to recommendations of the 15th Finance Commission of India are correct?" Statements concern Rs 4,800 crore education-outcome grants, 45 per cent vertical devolution, Rs 45,000 crore agricultural-reform incentives and reintroduced tax effort. Exact wording checked from the local official Set-A scan; no answer disclosed.
+5. **2025 GS-II Q14, 15 marks, 250 words:** "Examine the evolving pattern of Centre-State financial relations in the context of planned development in India. How far have the recent reforms impacted the fiscal federalism in India?" Owner: Polity Centre-State Relations. Route: plan era -> FC/NITI -> GST -> cesses/CSS/borrowing -> verdict.
+6. **2025 GS-III Q11, 15 marks, 250 words:** "Explain how the Fiscal Health Index (FHI) can be used to assess the fiscal performance of states in India. In what way would it encourage the states to follow prudent and sustainable fiscal policies?" Owner: Economy 09; bounded link for State effort, expenditure quality and debt.
+
+## 2026 control
+
+Audited 2026 Prelims, GS-II and GS-III ledgers route no direct taxation-GST-Finance Commission
+question to Economy 10. No 2026 question is invented or stretched into this topic.
+
+# CUMULATIVE CONCEPT CHECKS
+
+## Check 1 - tax system
+**Question:** Can a progressive schedule prove a progressive system?
+**Model answer:** No. Effective deductions, indirect-tax incidence, transfers and expenditure benefits must also be examined.
+
+## Check 2 - GST credit
+**Question:** Distinguish eligibility, timing and settlement failures.
+**Model answer:** Blocked eligibility embeds tax; delayed refund locks cash; wrong place of supply misallocates jurisdictional revenue.
+
+## Check 3 - institutions
+**Question:** Allocate rate recommendation, direct-tax administration, net-proceeds certification, devolution and GST appeals.
+**Model answer:** GST Council; CBDT; CAG; Finance Commission; GSTAT, respectively.
+
+## Check 4 - devolution
+**Question:** Why can a higher horizontal share coexist with weaker autonomy?
+**Model answer:** Autonomy also depends on pool size, tied transfers, own revenue, borrowing space and expenditure duties.
+
+## Check 5 - XVI-FC
+**Question:** State the horizontal weights.
+**Model answer:** Population 17.5; demographic performance 10; area 10; forest 10; per-capita GSDP distance 42.5; Contribution to GDP 10.
 
 # ORIGINAL 10-, 15- AND 20-MARK MAINS MODEL PRACTICE
 
 ## Question 1 - 10 marks, 150 words
+**"The legal payer of a tax need not be its final bearer." Explain with reference to elasticity.**
 
-**"The legal payer of a tax need not be its final bearer." Explain with reference to
-elasticity.**
+### Model answer - 115 words
+Tax impact falls initially on the legal remitter, while incidence is the final burden after prices,
+wages and returns adjust. Elasticity determines the ability to escape. If demand is relatively
+inelastic, consumers reduce purchases little after a price rise, so producers pass more tax
+forward. If supply is relatively inelastic, producers cannot withdraw capacity and bear more
+through lower net receipts. A Rs 20 seller tax may raise price by Rs 15, leaving consumers with
+most of the burden; the split may reverse when demand is elastic. Long-run incidence can also
+change as firms relocate or consumers substitute. Equity therefore cannot be inferred from the
+statute alone; design must examine market structure, alternatives and time.
 
-### Model answer
-
-Tax impact falls initially on the person legally required to remit it, while incidence
-is the final economic burden after prices, wages and returns adjust. Elasticity
-determines the ability to escape that burden. If demand is relatively inelastic,
-consumers reduce purchases only slightly after a price increase, so producers can pass
-more tax forward. If supply is relatively inelastic, producers cannot readily withdraw
-capacity and bear more through lower net receipts.
-
-For example, a Rs 20 statutory tax on a seller need not reduce the seller's receipt by
-Rs 20; the market price may rise by Rs 15, leaving consumers with most of the burden.
-The reverse is possible when demand is elastic. Long-run incidence may also differ as
-firms relocate or consumers substitute.
-
-Hence progressivity cannot be inferred merely from the statute. Sound tax design must
-analyse market structure, substitution possibilities and time horizon.
+**Quantified rubric:** distinction 2; elasticity 3; example 2; qualification 1; conclusion 2.
 
 ## Question 2 - 15 marks, 250 words
+**Analyse GST's destination principle as economic reform and federal redistribution.**
 
-**Analyse GST's destination principle as both an economic reform and a federal
-redistribution mechanism.**
+### Model answer - 142 words
+GST taxes consumption broadly at destination. Within a State, CGST and SGST apply concurrently;
+on inter-State supply, IGST operates as a clearing mechanism. Eligible credit follows invoices and
+settlement moves the State component toward final consumption. Economically, this reduces
+origin-based cascading and tax-motivated location, supports a common market and permits zero-
+rated exports. Federally, destination changes revenue geography: consuming States may gain
+relative to producing States. Place-of-supply rules therefore become distribution rules,
+especially for services and digital transactions. Transitional compensation made State consent
+credible, while the Council supplies continuing coordination. Blocked credit, petroleum
+exclusions, classification disputes, refund delay and wrong place-of-supply rules can break
+neutrality. Destination also cannot equalise State capacity by itself; Finance Commission transfers
+address that different problem. GST is both a value-added architecture and a negotiated
+redistribution of tax jurisdiction, whose legitimacy depends on accurate settlement and credible
+consultation.
 
-### Model answer
-
-GST taxes consumption broadly at destination rather than production at origin. Within
-a State, CGST and SGST apply concurrently; on an inter-State supply, IGST acts as a
-clearing mechanism. Eligible input credit follows the invoice chain and settlement
-moves the State component toward the jurisdiction of final consumption.
-
-Economically, this reduces origin-based cascading and the incentive to locate activity
-merely for tax arbitrage. It supports a common market, improves production neutrality
-and allows exports to be zero-rated so domestic indirect tax is not exported.
-
-Federally, however, destination changes the geography of revenue. Consuming States may
-gain relative to producing States that earlier relied on origin-linked levies.
-Place-of-supply rules therefore become distribution rules, especially for services and
-digital transactions. Transitional compensation made State consent credible, while
-the GST Council provides continuing coordination.
-
-The model faces limitations: blocked credit, petroleum exclusions, classification
-disputes, delayed refunds and inaccurate place-of-supply rules can break neutrality.
-Moreover, destination cannot by itself equalise State capacity, which remains a task
-for Finance Commission transfers.
-
-Thus GST is simultaneously a value-added tax architecture and a negotiated
-redistribution of tax jurisdiction. Its legitimacy depends on accurate settlement,
-stable credit rules and credible federal consultation.
+**Quantified rubric:** definition 2; architecture 3; gains 3; federal effect 3; limits 2; verdict 2.
 
 ## Question 3 - 20 marks, 250 words
+**"India's fiscal federalism must reconcile autonomy, equalisation and macroeconomic stability." Discuss.**
 
-**"India's fiscal federalism must reconcile autonomy, equalisation and macroeconomic
-stability." Discuss with reference to the Finance Commission, grants and State
-borrowing.**
+### Model answer - 174 words
+India assigns the Union broad tax bases while States carry major service duties, creating vertical
+imbalance. Unequal income, population, area and ecological constraints create horizontal
+imbalance. Article 280's Finance Commission addresses both through the States' collective share
+in Article 270 net proceeds, horizontal allocation, Article 275 grant principles and augmentation
+of State funds for local bodies. Income distance advances equalisation; population, area and
+forest reflect need or cost; demographic and contribution criteria preserve incentives. Formula-
+based devolution normally gives more autonomy than tightly tied grants. Grants remain useful
+where spillovers or structural disabilities escape a general formula, but excessive Article 282
+conditions can blur accountability. Cesses and surcharges can narrow the pool despite a stable
+headline share. Article 293 permits Union consent conditions for borrowing by indebted States.
+This can contain common debt risk, but must transparently distinguish productive capital and
+disclose off-budget liabilities. A durable settlement needs a broad pool, predictable untied
+transfers, bounded grants, transparent borrowing and regular State Finance Commissions.
+Autonomy without discipline risks instability; discipline without resources creates unfunded
+responsibility.
 
-### Model answer
-
-India's Constitution assigns the Union broad tax bases while States bear major
-service-delivery responsibilities, producing vertical imbalance. Unequal income,
-population, area and ecological constraints also create horizontal imbalance.
-
-The Finance Commission under Article 280 addresses both. It recommends the States'
-collective share in Article 270 net proceeds, horizontal allocation and Article 275
-grant principles, while supporting State-fund augmentation for local bodies. Income
-distance advances equalisation; population and area reflect need and cost; demographic,
-effort or contribution criteria preserve incentives. Formula-based devolution gives
-States greater autonomy than tightly tied grants.
-
-Grants remain necessary where spillovers, minimum standards or specific disabilities
-cannot be handled by a general formula. Yet excessive Article 282 or scheme conditions
-can blur accountability. Similarly, widespread cesses and surcharges narrow the
-shareable base even when the headline devolution rate is stable.
-
-Article 293 introduces macroeconomic discipline by permitting Union consent conditions
-for borrowing by indebted States. Such oversight can contain common debt risk, but it
-must be transparent and distinguish productive capital from fiscal concealment.
-Off-budget liabilities and guarantees require full disclosure.
-
-A durable settlement therefore needs a broad divisible pool, predictable untied
-transfers, bounded outcome-oriented grants, transparent borrowing rules and regular
-State Finance Commissions. Autonomy without discipline risks instability; discipline
-without adequate resources reduces federalism to unfunded responsibility.
-
----
+**Quantified rubric:** imbalance 3; FC 4; formula 3; grants/cess 3; borrowing 3; local reform 2; verdict 2.
 
 # REMEDIATION
 
-## Error 1: A higher marginal rate applies to the whole income
-
-**MCQ 37.** Which observation correctly distinguishes marginal and average tax rates?
-
-A. A higher marginal rate on the next unit need not apply to the whole income
-
-B. The average rate measures tax due on the next unit of income
-
-C. The marginal rate equals total tax divided by total income
-
-D. The rate schedule by itself establishes final economic incidence
-
-**Answer: A**
-
-- **A is correct:** slab rates apply to successive portions, not retrospectively to the
-  entire base.
-- **B is wrong:** that describes the marginal rate, not the average.
-- **C is wrong:** total tax divided by total income is the average rate.
-- **D is wrong:** incidence also depends on behavioural and market adjustment.
-
-**Repair rule:** Write the slab calculation first, then distinguish marginal rate,
-average rate and final incidence.
-
-## Error 2: An inverted duty structure means output tax is higher
-
-**MCQ 38.** Which rate relationship creates an inverted duty structure?
-
-A. Output tax rates exceed input rates, rapidly using accumulated credits
-
-B. Input tax rates exceed output rates, allowing eligible credit to accumulate
-
-C. Export output is relieved while eligible input relief is preserved
-
-D. The supply is legally outside the GST levy and credit framework
-
-**Answer: B**
-
-- **A is wrong:** that relationship ordinarily consumes rather than accumulates credit.
-- **B is correct:** higher input taxation relative to output can create excess credit
-  and refund pressure.
-- **C is wrong:** that describes zero rating, not rate inversion.
-- **D is wrong:** non-GST status is a different legal category.
-
-**Repair rule:** Compare the input rate with the output rate before discussing refund
-or working-capital effects.
-
-## Error 3: All intergovernmental transfers provide equal State discretion
-
-**MCQ 39.** Which transfer generally provides States the widest spending discretion?
-
-A. An Article 282 grant tied to a centrally designed programme
-
-B. A local-body grant tied to a specified service condition
-
-C. Formula-based tax devolution from the divisible pool
-
-D. Compensation-cess proceeds committed to servicing transition borrowing
-
-**Answer: C**
-
-- **A is wrong:** programme conditions constrain spending choice.
-- **B is wrong:** the specified service condition makes the grant tied.
-- **C is correct:** formula-based tax devolution is ordinarily untied.
-- **D is wrong:** earmarked debt servicing is not discretionary State revenue.
-
-**Repair rule:** Classify a transfer by source, formula and conditions before judging
-fiscal autonomy.
-
-## Error 4: A grant alone completes functional devolution
-
-**MCQ 40.** A State transfers sanitation responsibility and a tied grant to a
-municipality but retains the engineers and procurement authority. What is the best
-diagnosis?
-
-A. Excessive municipal reliance on own-source revenue
-
-B. Horizontal fiscal imbalance between richer and poorer States
-
-C. Incorrect apportionment of inter-State GST revenue
-
-D. Incomplete devolution of functionaries and operational authority
-
-**Answer: D**
-
-- **A is wrong:** the facts describe retained State capacity, not excessive municipal
-  taxation.
-- **B is wrong:** the problem is within the State-local assignment, not disparities
-  among States.
-- **C is wrong:** IGST settlement has no connection with municipal sanitation staffing.
-- **D is correct:** money and a formal function cannot deliver services when staff and
-  operating control remain elsewhere.
-
-**Repair rule:** Test decentralisation through the three Fs - functions, funds and
-functionaries - plus accounts and audit.
-
----
+| Error | Repair |
+|---|---|
+| Higher marginal rate applies to all income | It normally applies only to the next slab; average rate is total tax divided by income. |
+| Remitter bears the whole tax | Incidence depends on elasticity and market adjustment. |
+| Inversion means output rate is higher | Input rate exceeds output rate, causing accumulated credit. |
+| Council press release changes law | Legislation and notification create legal effect. |
+| 41 per cent applies to gross tax revenue | It applies to net proceeds in the divisible pool. |
+| Union FC directly empowers municipalities | State pass-through, SFCs, functions, staff, accounts and own revenue remain necessary. |
 
 # MASTER COMPARISON, CAUSAL AND ARGUMENT MAPS
 
-## Core tax distinctions
+## Core distinctions
+| Pair | Decisive distinction |
+|---|---|
+| Direct / indirect | legal route and shiftability, not automatic equity |
+| Progressive / regressive | average burden as income rises |
+| Buoyancy / elasticity | total observed response / response after discretionary adjustment |
+| Exempt / zero-rated | credit often blocked / credit-refund generally preserved |
+| Vertical / horizontal devolution | Union-State share / inter-State distribution |
+| Article 275 / 282 grants | constitutional need-based grants / public-purpose discretionary grants |
 
-| Pair | First concept | Second concept | Exam trap |
-|---|---|---|---|
-| Impact vs incidence | initial legal/payment point | final economic burden | treating statutory payer as final bearer |
-| Buoyancy vs elasticity | revenue response including policy changes | underlying response after removing discretionary change | calculating both from the same raw ratio |
-| Progressive vs proportional | average rate rises with base | average rate remains constant | using marginal rate alone |
-| Avoidance vs evasion | exploits law within formal legality | unlawfully conceals liability | treating morality as the legal test |
-| Tax expenditure vs spending | revenue forgone through concessions | budgetary outlay | assuming concessions have zero fiscal cost |
-
-## GST category matrix
-
-| Category | Output GST | Ordinary input-credit result | Example logic |
-|---|---:|---|---|
-| Taxable | positive rate | eligible credit can continue | ordinary domestic supply |
-| Nil-rated | zero rate in schedule | depends on exempt-supply treatment | rate is nil |
-| Exempt | relieved by notification/law | credit generally restricted/reversed | policy exemption |
-| Zero-rated | output relieved | eligible credit/refund route preserved | exports, specified supplies |
-| Non-GST | outside operative GST levy | ordinary GST credit chain unavailable | excluded petroleum products until brought in |
-
-## Federal institutions
-
-| Institution | Constitutional base | Main job | Output |
-|---|---|---|---|
-| GST Council | Article 279A | GST coordination | recommendations |
-| Finance Commission | Articles 280-281 | Union-State distribution and grant principles | periodic report |
-| State Finance Commission | Articles 243-I and 243-Y | State-local fiscal review | State-level recommendations |
-| CAG on net proceeds | Article 279 | certifies net proceeds | final certification |
-
-## Complete causal chains
-
+## GST flow
 ```text
-High consumer demand inelasticity
- -> price rises after tax
- -> consumer quantity falls little
- -> consumer bears larger incidence
+supply -> intra-State: CGST+SGST/UTGST | inter-State: IGST
+       -> eligible ITC -> place-of-supply settlement -> destination revenue
 ```
 
+## Federal flow
 ```text
-Eligible ITC + invoice matching
- -> tax applies to value addition
- -> cascading falls
- -> invoice demand rises
- -> formal trail widens
+assignment -> vertical/horizontal imbalance -> Article 270 devolution + grants
+           -> State budget + Article 293 borrowing -> SFC/local bodies -> services
 ```
 
-```text
-More cesses/surcharges
- -> smaller shareable base relative to gross taxes
- -> unchanged devolution rate applied to narrower pool
- -> weaker untied State space
- -> federal bargaining intensifies
-```
-
-```text
-Weak SFC + weak local own revenue
- -> unpredictable municipal resources
- -> poor staffing and maintenance
- -> weak services
- -> low willingness to pay
- -> further revenue weakness
-```
-
-## Argument map: Should GST Council recommendations bind?
-
-```text
-FOR BINDING FORCE
-harmonisation | certainty | common-market integrity
-
-             versus
-
-FOR PERSUASIVE FORCE
-Article 246A autonomy | democratic legislation | federal dialogue
-
-CONSTITUTIONAL POSITION AFTER MOHIT MINERALS
-persuasive recommendation + binding enacted law
-```
-
-## Answer spine for any fiscal-federalism question
-
-1. State the constitutional assignment.
-2. Identify vertical or horizontal mismatch.
-3. Draw the transfer or settlement mechanism.
-4. Explain equity and efficiency.
-5. Present the strongest federal objection.
-6. Distinguish recommendation, law, budget and release.
-7. End with predictability, transparency and accountability.
-
----
+## Institution firewall
+| Institution | Function | Not its function |
+|---|---|---|
+| GST Council | recommends design | does not legislate or distribute the divisible pool |
+| CBDT | Union direct-tax administration | does not set GST policy |
+| CBIC/State administrations | indirect-tax administration | do not recommend FC weights |
+| CAG | certifies net proceeds and audits | does not choose distribution weights |
+| Finance Commission | devolution and grants | does not set GST rates |
+| State Finance Commission | State-local fiscal review | is not a Union FC branch |
 
 # COMPLETE CONSOLIDATED REGISTER NOTES
 
-## 1. Purpose and principles of taxation
+## Tax design, incidence and revenue
+1. Tax is compulsory and has no exact individual quid pro quo.
+2. Base and rate jointly determine liability; marginal and average rates differ.
+3. Tests: adequacy, equity, efficiency, certainty, simplicity and administrability.
+4. Direct is not automatically progressive; indirect does not determine final incidence.
+5. Less elastic side tends to bear more burden.
+6. Progressive burden rises relative to income; proportional stays constant; regressive falls.
+7. Buoyancy includes all observed effects; elasticity seeks automatic response.
+8. Tax effort compares collection with capacity; tax expenditure is revenue forgone.
+9. Laffer supplies no universal prediction.
+10. Evaluate collection and spending incidence together.
 
-- Taxes finance public goods, redistribution, stabilisation, demerit correction and
-  State capacity.
-- A good tax system seeks adequacy, equity, efficiency, certainty, convenience,
-  simplicity and administrability.
-- Benefit principle links payment to benefit; ability-to-pay supports vertical and
-  horizontal equity.
-- Efficiency cost includes compliance, administration, avoidance and deadweight loss,
-  not only the amount collected.
-- A broad base with moderate rates usually reduces distortion and discretion.
+## Income tax, corporation tax, customs and excise
+1. CBDT administers Union direct taxes; CBIC administers Union indirect taxes.
+2. Non-agricultural income is a Union field; agricultural-income taxation is a State field.
+3. Rural allied activity is not automatically agricultural income.
+4. Rural agricultural land requires statutory conditions to escape capital-asset treatment.
+5. Basic Customs Duty remains outside GST; imports can attract IGST.
+6. Union excise remains important for specified non-GST/specially treated goods.
+7. Income-tax Act, 2025 and Rules, 2026 commenced 1 April 2026.
+8. Earlier periods require transition-law care.
+9. Equalisation Levy is historical after withdrawal of its remaining limb from 1 April 2025.
+10. Indirect transfer protects source nexus but raises valuation and treaty issues.
 
-## 2. Classification and distribution
+## GST architecture and Council
+1. Articles 246A, 269A and 279A form the constitutional core.
+2. GST is destination-based and supply-centred.
+3. Intra-State: CGST plus SGST/UTGST; inter-State: IGST.
+4. IGST is a clearing/settlement bridge.
+5. ITC reduces cascading only when eligible and documented.
+6. Exemption and zero rating have different credit consequences.
+7. Input rate above output rate is inversion.
+8. Alcohol for human consumption is constitutionally outside GST.
+9. Specified petroleum awaits a Council date; customs, stamp and electricity duties remain outside.
+10. Council quorum is one-half; Centre weight one-third; States two-thirds; threshold three-fourths.
+11. Mohit Minerals: recommendations persuasive, not binding.
+12. Recommendation, legislation, notification and implementation are separate.
 
-- Direct/indirect identifies the legal and institutional form; it does not by itself
-  establish economic incidence.
-- Progressive: average rate rises; proportional: constant; regressive: average rate
-  falls.
-- Specific tax is per physical unit; ad valorem tax is a percentage of value.
-- Origin taxation follows production; destination taxation follows consumption.
-- Equity needs incidence analysis across income groups, markets and time.
+## Compensation, compliance and current status
+1. Compensation protected 14 per cent annual growth over 2015-16 for five years ending 30 June 2022.
+2. Back-to-back loans: roughly Rs 1.1 lakh crore FY21 and Rs 1.59 lakh crore FY22.
+3. Later cess serviced loans; it did not extend permanent entitlement.
+4. Registration, composition, e-way bills, e-invoicing and matching improve trails.
+5. Fake invoices, mismatches and small-firm fixed cost qualify formalisation claims.
+6. Latest official meeting release located by 3 October 2026 is the 56th, dated 3 September 2025.
+7. It recommended broad 5/18 rates and a special 40 per cent demerit rate.
+8. Most changes were intended from 22 September 2025; notification controls each supply.
 
-## 3. Incidence and elasticity
+## Fiscal federalism and Finance Commissions
+1. Vertical imbalance is Union-State mismatch; horizontal imbalance is unequal State capacity/cost.
+2. Article 270 covers shareable net proceeds; Article 271 covers Union surcharge.
+3. Cesses and surcharges generally remain outside the divisible pool.
+4. Article 275 grants differ from Article 282 public-purpose grants.
+5. Article 280 Commission is constituted every fifth year or earlier.
+6. Article 281 requires report and action-taken memorandum before Parliament.
+7. XV-FC vertical share: 41 per cent; criteria included income distance, 2011 population, area, forest/ecology, demography and tax effort.
+8. XVI-FC 2026-31 retains 41 per cent.
+9. XVI weights: income distance 42.5; population 17.5; demography 10; area 10; forest 10; GDP contribution 10.
+10. XVI recommends no revenue-deficit, sector-specific or State-specific grants.
+11. It recommends annual disclosure of CAG-certified net proceeds.
+12. Article 293 governs State borrowing and covered Union consent.
 
-- Impact is initial liability; shifting is adjustment; incidence is final burden.
-- Less elastic side generally bears more because it can escape less.
-- Statutory collection from sellers can still burden buyers.
-- Long-run elasticity may be greater, changing incidence over time.
-- Salience, informality, market power and enforcement qualify the simple model.
-
-## 4. Revenue diagnostics
-
-- Tax buoyancy = percentage change in tax revenue / percentage change in nominal GDP.
-- Elasticity removes estimated discretionary policy effects.
-- Tax effort compares collection with taxable capacity.
-- Tax expenditure is revenue forgone through concessions; it should face review like
-  explicit expenditure.
-- Sustainable mobilisation depends on base, administration, compliance and economic
-  structure.
-
-## 5. Constitutional tax map
-
-- Parliament and State legislatures receive taxing competence through the
-  Constitution; no tax can be imposed without authority of law under Article 265.
-- Article 246A creates concurrent GST power, with Parliament's special role over
-  inter-State supply.
-- Article 269A governs inter-State GST levy and apportionment.
-- Agricultural income and rural agricultural land questions require exact statutory
-  definitions, not conversational meaning.
-- Equalisation Levy is historical for current-law purposes: the remaining levy on
-  specified online-advertisement services was withdrawn from 1 April 2025. The 2018
-  PYQ and earlier-period proceedings must still be analysed under the law applicable
-  to their period.
-
-## 6. GST architecture
-
-- The 101st Amendment pooled GST power and created the Council.
-- Major subsumed levies included Union excise/service-tax and State VAT/sales-tax
-  components within the GST base; exclusions and retained levies remain important.
-- Intra-State supply generally produces CGST plus SGST/UTGST.
-- Inter-State supply and imports use IGST.
-- Destination principle moves revenue toward final consumption.
-- Supply, time and place rules determine charge, timing and jurisdiction.
-
-## 7. ITC and category boundaries
-
-- Output tax minus eligible input credit approximates tax on value addition.
-- Valid invoice, business use, receipt and legal conditions matter.
-- Blocked credit embeds tax even in a nominal VAT.
-- Zero rating preserves eligible input relief; exemption generally breaks or restricts
-  it.
-- Nil-rated, exempt and non-GST are not synonyms.
-- Inverted duty can create accumulated credit and refund pressure.
-- Delayed refunds are a working-capital tax in economic effect.
-
-## 8. GST Council and law
-
-- Article 279A: Union Finance Minister chairs; Union has one-third vote weight and
-  States together two-thirds.
-- Three-fourths weighted majority and one-half quorum apply.
-- Council recommendations require legislation or valid delegated notification where
-  the legal framework so requires.
-- *Mohit Minerals* (19 May 2022): recommendations are persuasive, not binding on
-  legislatures.
-- The ruling preserves enacted-law compliance and recognises cooperative dialogue
-  rather than hierarchy.
-
-## 9. Compensation
-
-- Compensation Act used 2015-16 base and 14 per cent protected annual growth.
-- Original State entitlement lasted five years and ended in June 2022.
-- Compensation cess, entitlement and back-to-back borrowing are distinct.
-- COVID created simultaneous collection collapse and larger protected gaps.
-- Notification No. 03/2025-Compensation Cess (Rate), dated 31 December 2025, made the
-  listed compensation-cess rates nil from 1 February 2026 after the separate
-  post-2022 debt-servicing phase.
-- Transition insurance needs a clear base, shock rule, reconciliation and sunset.
-
-## 10. Administration and formalisation
-
-- Registration threshold is conditional; supply remains the taxable-event gateway.
-- Composition simplifies compliance for eligible small taxpayers but limits ordinary
-  credit-chain participation.
-- Invoice demand, e-invoicing and data matching can widen the formal trail.
-- Formalisation is durable record, finance and legal integration, not mere
-  registration.
-- Fake-invoice control requires analytics plus verification, reasoned notice,
-  adjudication and appeal.
-- DGGI, DRI and ED must not be casually merged; their tax/customs/enforcement mandates
-  differ.
-
-## 11. Fiscal federalism
-
-- It allocates functions, taxes, transfers and borrowing across levels.
-- Subsidiarity favours local information; scale, spillovers, redistribution and
-  stabilisation can favour higher levels.
-- Vertical imbalance is between levels; horizontal imbalance is among States.
-- Equalisation seeks comparable service capacity at comparable effort, not identical
-  outcomes.
-- Formula design balances need, cost disability, ecology, demographic performance,
-  effort and contribution.
-
-## 12. Divisible pool and grants
-
-- Article 270 covers shareable net proceeds; Article 279 addresses net proceeds and CAG
-  certification.
-- Devolution percentage applies to the divisible pool, not gross Union taxes.
-- Article 271 surcharges and applicable cesses remain outside the pool.
-- Article 275 grants follow constitutional grant-in-aid principles; Article 282 permits
-  discretionary grants for public purposes.
-- Untied devolution supports autonomy; tied grants require spillover or standard-based
-  justification.
-- Cesses need transparent use, sunset review and protection against permanent pool
-  erosion.
-
-## 13. Finance Commission
-
-- Article 280: President constitutes every fifth year or earlier; Chairperson plus four
-  members.
-- It recommends vertical distribution, horizontal allocation, Article 275 principles
-  and State-fund augmentation for local bodies.
-- Article 281 requires the report and explanatory action memorandum before Parliament.
-- Recommendations are advisory but institutionally influential.
-- XV-FC (2021-26) recommended 41 per cent vertical devolution and used income distance,
-  population, area, forest/ecology, demographic performance and tax/fiscal effort.
-- XVI-FC (2026-31) retains accepted 41 per cent vertical share.
-- XVI horizontal weights: income distance 42.5, population 17.5, demographic
-  performance 10, area 10, forest 10, contribution to GDP 10 per cent.
-- Weights distribute the States' collective share; they are not expenditure earmarks.
-
-## 14. State and local finance
-
-- State resources combine own taxes/non-tax revenue, devolution, grants and borrowing.
-- Article 293 may require Union consent for further borrowing by a State indebted to
-  the Union.
-- Judge debt through sustainability, interest burden, capital quality, guarantees and
-  off-budget disclosure.
-- RBI's dated 2025-26 budget study placed consolidated State GFD at 3.3 per cent of GDP
-  and liabilities at 29.2 per cent by end-March 2026; State variation remains large.
-- Articles 243-I and 243-Y establish SFC review of Panchayat and Municipality finance.
-- Article 280(3)(bb)-(c) connects Union Finance Commission support to State-fund
-  augmentation on the basis of SFC recommendations.
-- Local reform: timely SFCs, predictable transfers, property-tax capacity, fair user
-  charges, accounts, audits, staff and outcome accountability.
-
-## Final memory grid
-
-| If the question says... | Immediately think... |
-|---|---|
-| Who pays? | incidence + elasticity |
-| Revenue grew faster than GDP | buoyancy; check policy changes |
-| Export under GST | zero rating + input relief |
-| Inter-State supply | IGST + place of supply + settlement |
-| Council decision | recommendation -> law/notification -> effective date |
-| 41 per cent | divisible-pool net proceeds, not gross receipts |
-| Rich and poor States | horizontal equalisation |
-| Union versus State resources | vertical imbalance |
-| Cess or surcharge | pool exclusion + federal effect |
-| State debt | Article 293 + debt quality |
-| Municipal finance | SFC + own revenue + predictable transfer |
-
----
+## Local fiscal capacity
+1. SFCs should be constituted every five years under Articles 243I and 243Y.
+2. Local capacity requires functions, funds and functionaries.
+3. Property tax, user charges, accounts and own revenue support autonomy.
+4. XVI local-body grants total Rs 7,91,493 crore for 2026-31.
+5. Aggregate rural-urban allocation is 60:40.
+6. Basic-performance split is 80:20 in both.
+7. Constituted bodies, public accounts and regular SFC/ATR are entry conditions.
+8. State pass-through is due within ten working days or with interest.
+9. Equalisation without accountability can weaken incentives.
+10. Conditions without capacity can punish citizens.
 
 # COVERAGE MATRIX
 
-| Audited requirement | Lesson / final location | Status |
+| Unit | Location | Status |
 |---|---|---|
-| Tax purposes and good-tax principles | Lesson 1; Register 1 | Covered |
-| Direct/indirect and progressive/proportional/regressive | Lessons 1-2; Register 2 | Covered |
-| Incidence, elasticity and shifting | Lesson 2; Q1 model | Covered |
-| Buoyancy, elasticity and tax effort | Lesson 3; cumulative MCQ 30 | Covered |
-| Equity-efficiency and tax expenditure | Lessons 1 and 3 | Covered |
-| Constitutional tax competence and boundary cases | Lesson 4; PYQs 2018/2022/2025 | Covered |
-| GST creation, 101st Amendment and subsumed levies | Lesson 5; PYQ 2019 | Covered |
-| Supply, dual GST, IGST and destination | Lesson 6; Q2 model | Covered |
-| ITC, value addition, zero rating and exemption | Lesson 7; MCQ 31 | Covered |
-| GST Council voting and *Mohit Minerals* | Lesson 8; argument map | Covered |
-| Compensation, COVID and federal trust | Lesson 9; PYQ 2020 | Covered |
-| Administration, compliance and formalisation | Lesson 10 | Covered |
-| Registration, composition, fraud and refunds | Lessons 7 and 10 | Covered |
-| Vertical and horizontal imbalance | Lesson 11 | Covered |
-| Divisible pool, cesses and surcharges | Lesson 12; Q3 model | Covered |
-| Article 275 and Article 282 grants | Lesson 12 | Covered |
-| Finance Commission Articles 280-281 | Lesson 13 | Covered |
-| XV and XVI criteria and award transition | Lesson 13 | Covered |
-| State finance and Article 293 borrowing | Lesson 14 | Covered |
-| SFCs and local-body finance | Lesson 14 | Covered |
-| Contemporary authoritative context | Lessons 8-14; ledger below | Covered |
-| Verified links-only PYQs | PYQ index | Covered |
-| Original 10/15/20-mark model answers | Mains section | Covered |
-| Misconception-driven practice | Remediation set | Covered |
-
----
+| Principles, base/rate, equity-efficiency | Lesson 1 | Complete |
+| Incidence, elasticity, progressivity | Lesson 2 | Complete |
+| Buoyancy, elasticity, effort, expenditure | Lesson 3 | Complete |
+| Income/corporation/customs/excise and legal boundaries | Lesson 4 | Complete |
+| GST rationale, subsumed taxes, exclusions | Lesson 5 | Complete |
+| Dual GST, IGST, destination | Lesson 6 | Complete |
+| ITC, value addition, exemption, zero rating, refunds | Lesson 7 | Complete |
+| Council, voting, law chain, Mohit Minerals | Lesson 8 | Complete |
+| Compensation and pandemic finance | Lesson 9 | Complete |
+| Compliance, formalisation, enforcement | Lesson 10 | Complete |
+| Vertical/horizontal imbalance and equalisation | Lesson 11 | Complete |
+| Pool, cesses, surcharges and grants | Lesson 12 | Complete |
+| Articles 280-281, XV-XVI data | Lesson 13 | Complete |
+| Article 293, SFCs and local bodies | Lesson 14 | Complete |
+| Tax expenditures, digital nexus, indirect transfer | Lesson 15 | Complete optional depth |
+| Place of supply, inversion, refunds, technology | Lesson 16 | Complete optional depth |
+| XVI incentives, local grants and transparency | Lesson 17 | Complete optional depth |
+| Exact/answer-neutral PYQs through 2026 | Lesson-local and final index | Complete |
+| 10/15/20 models within 150/250/250 ceilings | Final Mains section | Complete |
+| Visual + 8-15 notes + concept trio + Mains/model/rubric each | Lessons 1-17 | Complete |
 
 # SOURCE LEDGER
 
-## Stable primary and constitutional sources
+## SOURCE-MANIFEST GATE
 
-- [Constitution of India, Legislative Department](https://legislative.gov.in/constitution-of-india/)
-  - Articles 243-I, 243-Y, 246A, 265, 269A, 270, 271, 275, 279, 279A,
-    280, 281, 282 and 293.
-- [GST Council](https://gstcouncil.gov.in/)
-  - composition, meetings, recommendations and official releases.
-- [Central Board of Indirect Taxes and Customs - GST](https://cbic-gst.gov.in/)
-  - Acts, rules, notifications, taxpayer guidance and legal updates.
-- [Supreme Court judgment portal](https://www.sci.gov.in/judgements-case-no/)
-  - *Union of India v. Mohit Minerals Pvt Ltd*, decided 19 May 2022.
-- [Finance Commission of India](https://fincomindia.nic.in/)
-  - XV and XVI Finance Commission reports and explanatory material.
-- [Union Budget](https://www.indiabudget.gov.in/)
-  - receipts, transfers and explanatory memoranda.
-- [UPSC previous question papers](https://upsc.gov.in/examinations/previous-question-papers)
-  - verified examination demands.
+| Category | Status | Evidence or reason |
+|---|---|---|
+| Canonical Markdown | checked | Complete Economy Basic and Advanced Topic 10 owners audited |
+| Final learner package | not relevant | Permanently excluded by the governing live-session source rule |
+| Layered/complete session | checked | Prior live edition at this exact path used only as permitted depth continuity before reconstruction |
+| Solved workbook | not relevant | Permanently excluded by the governing live-session source rule |
+| Advanced dossier | checked | Complete Economy Topic 10 Advanced owner mapped to Lessons 15-17 and Core qualifications |
+| OCR books | checked | Ramesh Singh taxation/public-finance OCR context referenced by owners; no unsupported page quotation added |
+| PYQs through 2026 | checked | Audited 2018-2026 ledgers, official/local 2025 Set-A scan and exact Polity-owner quotations |
+| Official live sources | checked | XVI-FC Volume I, Income-tax Department, Economic Survey 2025-26, GST Council and PIB checked through 3 October 2026 |
 
-## Dated current anchors
+## Exact source paths and official anchors
 
-- [Report of the Sixteenth Finance Commission](https://fincomindia.nic.in/)
-  and Government explanatory memorandum tabled 1 February 2026: award period
-  2026-27 to 2030-31, accepted 41 per cent vertical devolution and stated horizontal
-  criteria.
-- [RBI, State Finances: A Study of Budgets 2025-26](https://www.rbi.org.in/)
-  - released 23 January 2026; consolidated State deficit, liabilities and fiscal-risk
-    context.
-- [Economic Survey 2025-26](https://www.indiabudget.gov.in/economicsurvey/)
-  - released 29 January 2026; tax administration, technology, receipts and
-    formalisation context.
-- [Income Tax Department](https://www.incometax.gov.in/)
-  - Income-tax Act, 2025 and Income-tax Rules, 2026 commencement context from
-    1 April 2026; item-level application always requires current legal text.
-- [Finance Act, 2025](https://egazette.nic.in/)
-  - withdrew the remaining Equalisation Levy on specified online-advertisement
-    consideration from 1 April 2025; earlier-period proceedings remain governed by
-    the law applicable to their period.
-- [GST Council official releases](https://gstcouncil.gov.in/gst-council-meetings)
-  - 56th Council recommendations dated 3 September 2025 described the 5%, 18% and
-    special 40% architecture; most notified rate changes took effect on
-    22 September 2025.
-- [Notification No. 03/2025-Compensation Cess (Rate)](https://taxinformation.cbic.gov.in/view-pdf/1010537/ENG/Notifications)
-  - dated 31 December 2025; substituted nil rates for the listed compensation-cess
-    entries with effect from 1 February 2026.
+- `upsc-ai-kit/knowledge/Economy/basic/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md`.
+- `upsc-ai-kit/knowledge/Economy/advanced/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md`.
+- Cross-owners: `Polity/basic/Finance-Commission.md`, `Polity/basic/GST-Council.md`, `Polity/basic/Centre-State-Relations.md` and Advanced companions.
+- PYQ routing ledgers for Prelims and Mains, 2018-2026, under `upsc-ai-kit/knowledge/`.
+- Sixteenth Finance Commission Volume I: 41 per cent; Table 8.8; no revenue-deficit/sector/State-specific grants; local grants.
+- Official action-taken memorandum `16fc-EM.pdf`; direct web fetch returned 403, so no unavailable detail was invented.
+- Income-tax Department 2026 Rules notification and new-Act FAQ.
+- GST Council 56th-meeting official release and FAQs.
+- Economic Survey 2025-26 fiscal chapter: revenue-receipts macro anchor.
+- PIB Nine Years of GST checked; unpublished September 2026 collection is omitted.
 
-## Local knowledge and book evidence
+## Truth controls
 
-- `upsc-ai-kit/knowledge/Economy/basic/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md`
-- `upsc-ai-kit/knowledge/Economy/advanced/10_Taxation-GST-Finance-Commission-and-Fiscal-Federalism.md`
-- `upsc-ai-kit/knowledge/Polity/basic/Finance-Commission.md`
-- `upsc-ai-kit/knowledge/Polity/basic/GST-Council.md`
-- Ramesh Singh, *Indian Economy*, public-finance and taxation chapters, consulted through
-  the OCR-searchable local edition for incidence, classifications, tax expenditure,
-  VAT/GST, divisible pool, grants and borrowing.
-
-## Time-sensitivity guardrails
-
-1. GST rates, thresholds, exemptions, return rules and cess treatment are
-   notification-sensitive.
-2. Finance Commission criteria are award-period specific.
-3. Budget and RBI aggregates must be quoted with their year and unit.
-4. A Council press release is not a substitute for an effective legal notification.
-5. The five-year GST compensation entitlement ended in June 2022; entitlement,
-   post-2022 debt servicing and the nil rates effective 1 February 2026 under
-   Notification No. 03/2025 must not be conflated.
+- No direct Economy 10 PYQ appears in audited 2026 ledgers.
+- Objective answers are not disclosed where ledgers withhold them.
+- Equalisation Levy, income-tax transition, compensation cess and GST rates are date-labelled.
+- Qdrant was unnecessary because Markdown, OCR context and official evidence resolved the topic.
