@@ -19,11 +19,11 @@ the **North-West European Maritime Climate**.
 | Region | Extent |
 |---|---|
 | ✅ NW Europe | From Britain inland across the lowlands of **W. France, Belgium, the Netherlands, Denmark, western Norway** |
-| ✅ North America | Rockies block the onshore Westerlies → confined to the **coastlands of British Columbia** |
+| ✅ North America | **Coast Mountains, Cascades and the wider western cordillera** force uplift and restrict inland penetration → strongest textbook expression along **coastal British Columbia**; the Rockies lie farther inland |
 | ✅ Southern hemisphere | **Southern Chile, Tasmania, and most of South Island (New Zealand)** |
 
-> 🔑 Trap: In North America the western mountains (Rockies) keep the British-type climate as a **narrow
-> coastal strip** (British Columbia), not far inland — unlike open NW Europe.
+> 🔑 Trap: The immediate British Columbia rain-shadow barrier is the **Coast Mountains / western
+> cordillera**, not the Rockies alone. The Rockies reinforce continental separation farther inland.
 
 ## 3. Temperature & Rainfall
 
@@ -44,20 +44,21 @@ the **North-West European Maritime Climate**.
 - ✅ Also called **North-West European Maritime** climate.
 - ✅ **Small annual temperature range**; **rain throughout the year, autumn–winter max (~30 in)**.
 - ✅ Natural vegetation = **deciduous (summer) forest**.
-- ✅ In N. America confined to **British Columbia** coast (Rockies barrier); S-hemisphere = S. Chile, Tasmania, NZ South Island.
+- ✅ In N. America the textbook belt is narrow along coastal **British Columbia** because the Coast Mountains and western cordillera restrict inland penetration; the Rockies are farther inland. S-hemisphere = S. Chile, Tasmania, NZ South Island.
 
 ## 6. UPSC Traps
 
 - ❌ British type has a summer rainfall maximum → rain is **year-round, max in autumn/winter**.
 - ❌ It has a large annual temperature range → **small range** (maritime/oceanic moderation).
-- ❌ British type extends deep inland in North America → **narrow BC coast** (Rockies block it).
+- ❌ British type extends deep inland in North America → **narrow coastal belt**; Coast Mountains and the western cordillera are the immediate barrier, with the Rockies farther inland.
 - ❌ Its natural vegetation is coniferous → **deciduous** (conifers dominate the colder Siberian type).
 
 ## 7. 📰 Current link
 
-📰 **European State of the Climate reports** show that the maritime-climate belt is experiencing
-heatwaves, drought, floods and marine heatwaves despite its historically mild mean climate. Quote a
-specific report year only after publication and keep river-flow/fire statistics tied to that report.
+📰 **European State of the Climate reports** provide pan-European context for heatwaves, drought,
+floods and marine heatwaves. They do **not** measure the British-type belt separately. Quote a
+specific report year only after publication, preserve the continental spatial domain and use a
+dedicated north-west-European dataset for subregional attribution.
 
 ## 8. Mains angles
 
@@ -175,37 +176,75 @@ WESTERN MARGIN (British type)              EASTERN MARGIN (Laurentian type)
 > This block integrates the 2024-2025 examinable demand and paper metadata. It is kept separate from the 2018-2023 block and does not convert an unkeyed/answer-free objective question into a solved answer.
 <!-- END GENERATED PYQ INTEGRATION: 2024-2025 -->
 
+## Supporting PYQ Linkage (2021)
+
+> **Ownership:** routed to
+> `upsc-ai-kit\knowledge\Geography\basic\12_The-Oceans-Currents-Tides-Salinity.md`;
+> retained here only because its Westerlies–ocean-temperature mechanism directly
+> supports Topic 22. The display is unkeyed.
+>
+> **Question source:**
+> `knowledge-export\Prelims PYQ\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf.md`
+> (Q58; OCR lines 5455–5525).
+
+**2021 Prelims GS-I, Q58**
+
+> Consider the following statements:
+>
+> 1. In the tropical zone, the western sections of the oceans are warmer than
+>    the eastern sections owing to the influence of trade winds.
+> 2. In the temperate zone, westerlies make the eastern sections of oceans
+>    warmer than the western sections.
+>
+> Which of the statements given above is/are correct?
+>
+> (a) 1 only
+> (b) 2 only
+> (c) Both 1 and 2
+> (d) Neither 1 nor 2
+
+**Supporting demand:** connect prevailing wind direction with the redistribution
+of ocean-surface heat, then use that mechanism to explain why ocean-facing
+western continental margins receive maritime air. No option is marked or solved.
+
 ### Semantic-completeness ownership and PYQ control
 
 - **Owned core:** cool-temperate western-margin distribution; permanent
   Westerlies, maritime moderation, frontal/cyclonic and relief rain; mild
-  winters, cool summers, small annual range, deciduous forest and dairying;
-  Himalayan moist, wet and dry temperate forest analogues.
+  winters, cool summers, small annual range, deciduous forest, dairying and
+  comparison with neighbouring climate types.
+- **Supporting/optional Advanced application:** Himalayan moist, wet and dry
+  temperate forest analogues belong to
+  `advanced/22_India-Himalayan-Temperate-Forests.md`. They support India
+  application but are not required for the global British-type Core answer.
 - **Process control:** onshore Westerlies plus warm-current influence and
   frontal systems moderate temperature and distribute rain through the year.
-  In the Himalaya altitude, aspect, monsoon exposure and rain shadow replace
-  latitude as the primary zonation controls.
 - **Scale/map control:** NW European region, narrow British Columbia strip,
-  southern Chile/Tasmania/New Zealand margins, Himalayan slope, forest belt
-  and stand are distinct. A 1,500-3,300 metre textbook belt is approximate and
-  cannot be treated as one fixed contour across the Himalaya.
+  southern Chile/Tasmania/New Zealand margins, station and continental belt
+  are distinct. In the optional Himalayan application, slope, forest group and
+  stand are separate scales.
 - **Date/data control:** forest cover, fire detections, burned area, snow or
   moisture anomaly and restoration outcome require a dated FSI/state/IMD
   source. ISFR 2023 is an assessment edition, not a 2026 forest-condition
   measurement, and forest cover is not temperate-forest extent.
 - **Terminology control:** British type equals marine west coast, not every
-  temperate coast; deciduous differs from coniferous and mixed forest; deodar
-  is a conifer, chir pine is mainly subtropical montane, and dry temperate
-  forest differs from the humid middle-slope belt.
-- **Causal control:** resinous litter, dry weather and ignition can accelerate
-  fire, but chir pine alone does not prove cause. Forest-floor storage can
-  support springs, yet geology, soil depth, rainfall, extraction and land use
-  also govern catchment response.
+  temperate coast; deciduous differs from coniferous and mixed forest. Detailed
+  Group 11/12/13 and Group 9 distinctions remain in the optional Advanced owner.
+- **Causal control for the optional fire application:** the FRI workshop report
+  dated 17 February 2022 describes shed chir-pine needles in Himachal Pradesh
+  as highly combustible summer fuel. This supports a **needle fuel-load** link,
+  not a resin-chemistry claim or a monocausal explanation; ignition, weather
+  and fuel continuity remain necessary.
 - **Boundary:** Topic 19 owns Mediterranean climate; Topics 23-24 own
   subalpine/alpine and Eastern-Himalaya/Laurentian comparisons. Environment
-  owns forest-conservation policy. Topic 22 owns British-type mechanism and the
-  Himalayan temperate-forest zonation/water-security analogy.
-- **Verified PYQ ownership, 2018-2026:** the routed 2024 Prelims Marine West
-  Coast demand tests low annual/daily range and year-round precipitation. Its
-  official answer letter is not invented; other forest questions retain their
-  routed owners.
+  owns forest-conservation policy. Topic 22 Core owns the British-type
+  mechanism; its Advanced companion owns the optional Himalayan
+  zonation/water-security analogy.
+- **Verified PYQ ownership, 2018-2026:** the routed 2024 Prelims climate-
+  identification demand is directly owned. The 2021 Prelims westerlies/ocean-
+  temperature question is routed to Topic 12 but is a necessary supporting
+  linkage for Topic 22's wind-current mechanism. Neither objective key is
+  inferred here.
+- **Official fire-mechanism source:** FRI, “Workshop on Utilization of Pine
+  Needles as a Source of Natural Fiber,” 17 February 2022, p. 1:
+  `https://fri.icfre.gov.in/wp-content/uploads/2022/02/workshop-on-utilization-of-Pine-Needles-as-a-source-of-Natural-Fiber.pdf`
