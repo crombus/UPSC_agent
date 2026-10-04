@@ -1,2166 +1,2910 @@
-# Philosophy of Religion Topic 06 — Religious Experience
+# Religious Experience — Complete Learner-First Live Session
 
-**UPSC Philosophy Optional · Paper II · Philosophy of Religion**
+> **UPSC Philosophy Optional · Paper II · Philosophy of Religion**
+>
+> **Syllabus:** “Religious Experience : Nature and Object (Indian and Western).”
+>
+> **Evidence key:** ✅ doctrine or question-demand grounded in the permitted repository sources;
+> ⚠️ analytical comparison, evaluation or answer-writing judgement.
 
-> **Evidence key:** ✅ Fact or standard doctrine supported by the audited sources. ⚠️ Analytical inference, comparison, evaluation or answer-writing judgement.
-
-## Learner roadmap
-
-Religious experience becomes manageable when four questions are kept separate: What happened? What seemed present? How did a tradition name it? What does it justify? The roadmap follows those dependencies before asking whether private experience can become public reason.
-
-| Lesson | Learning dependency | Main outcome |
-|---:|---|---|
-| 1 | What counts as a religious experience? | Separate phenomenology, claimed object, interpretation and epistemic force |
-| 2 | How does James identify mystical states? | Master the two defining and two usual marks |
-| 3 | How does James study and assess religion? | Explain varieties, conversion, the “MORE”, medical materialism and fruits |
-| 4 | What are the holy and the sacred? | Compare Otto, Schleiermacher, Durkheim and Eliade; decide whether God must be the object |
-| 5 | Is mysticism one experience or many? | Compare Stace, Zaehner, Katz and Forman |
-| 6 | What is Advaitic religious experience? | Explain non-dual, immediate, self-luminous realisation without objectifying Brahman |
-| 7 | Is Vedāntic experience only Advaitic? | Compare Vedāntic plurality, Radhakrishnan and wider Indian experience-types |
-| 8 | How are mystical experience and revelation related? | Distinguish vehicle, disclosure, interpretation and religious significance |
-| 9 | Why are prayer and worship not synonyms? | Separate address from acknowledgement of supreme worth and test non-theistic cases |
-| 10 | Can experience justify belief in a transcendent object? | Apply credulity, testimony, naturalistic explanations and defeaters |
-| 11 | Can religious experience be perceptual and plural? | Reconstruct Alston, the diversity objection and Hick’s response |
-| 12 | How far can private experience enter public discourse? | Build a graded account of verification, transformation and public reason |
+## How the three learning tiers work
 
 ```text
-REPORT OF AN EXPERIENCE
-        ↓
-WHAT WAS IT LIKE? ── phenomenology
-        ↓
-WHAT SEEMED PRESENT? ── claimed object
-        ↓
-HOW WAS IT NAMED? ── interpretation
-        ↓
-WHAT DOES IT JUSTIFY? ── epistemic force
-        ↓
-CAN ITS CLAIMS ENTER PUBLIC DISCOURSE?
+MUST-NEEDED / CORE
+complete syllabus + all nine verified PYQ demands
+        |
+        | independently sufficient for a strong answer
+        v
+OPTIONAL ADVANCED
+one selective refinement after the Core is secure
+        |
+        | not required for understanding or answering the topic
+        v
+BOUNDED EXPERT REFERENCE
+one precision distinction, then stop and return to the directive
 ```
+
+1. **Must-Needed/Core** owns every point required by the syllabus or a verified PYQ, irrespective
+   of the source tier in which that point was found.
+2. **Optional Advanced** sharpens evaluation but may never replace a missing Core doctrine,
+   objection, comparison or PYQ route.
+3. **Bounded Expert Reference** is a precision bench. It is not a compulsory stage.
+4. **Promotion rule:** once a PYQ directly tests a point, that point is Core. Thus public discourse,
+   prayer and worship, Vedāntic plurality, Radhakrishnan, James’s authority conclusions, mystical
+   experience and revelation, Stace–Zaehner mediation, and Alston’s warrant problem are taught in
+   the Core where they answer owned demands.
+
+## Dependency-led roadmap
+
+| Tier | Lesson | Learning dependency | Main outcome |
+|---|---:|---|---|
+| Core | 1 | What exactly is being analysed? | Separate occurrence, nature, object, interpretation and warrant; classify experience; distinguish holy, sacred and God |
+| Core | 2 | How does James identify mystical states? | Master two defining and two usual marks, plus his three authority conclusions |
+| Core | 3 | What makes James’s account broader than four marks? | Explain personal religion, conversion, fruits, the “MORE” and rival mystical typologies |
+| Core | 4 | What is distinctive about Indian experience? | Compare Advaita, Yoga, Buddhism and devotional encounter without forcing one object on all |
+| Core | 5 | Is Vedāntic experience a single doctrine? | Compare Advaita, Viśiṣṭādvaita and Dvaita; reconstruct Radhakrishnan’s named-work account |
+| Core | 6 | How do practices and disclosure relate to experience? | Distinguish prayer from worship and mystical experience from revelation |
+| Core | 7 | Can experience justify belief in its object? | Apply credulity, testimony, naturalistic explanation and the diversity defeater |
+| Core | 8 | Can private experience become public reason? | Reconstruct Alston’s perceptual model, doxastic practice and graded public discourse |
+| Core | 9 | How do Indian and Western accounts compare? | Build the complete nature–object–method–authority matrix |
+| Core | 10 | How is the whole topic converted into marks? | Directive decoding, answer frameworks, traps, retrieval and nine-PYQ readiness |
+| Optional Advanced | A1–A3 | Core already complete | Add one mediation, warrant or embodiment refinement and state its cost |
+| Bounded Expert | E1–E2 | Advanced use is disciplined | Deploy one discriminator under explicit stop rules |
+
+```text
+REPORT
+  |
+  v
+WHAT OCCURRED? ------ psychological genuineness
+  |
+  v
+WHAT WAS IT LIKE? --- phenomenology / nature
+  |
+  v
+WHAT SEEMED GIVEN? -- claimed object or terminus
+  |
+  v
+HOW WAS IT NAMED? --- interpretation by a tradition
+  |
+  v
+WHAT DOES IT WARRANT?
+  +--> subject
+  +--> hearer of testimony
+  +--> public inquiry
+```
+
+Lessons 1–10 form the complete Core. Nothing in the Optional Advanced or Expert sections is
+needed to write a complete Core answer.
 
 ---
 
-## Lesson 1 — The Four-Question Gate: Nature, Object, Interpretation and Warrant
+# MUST-NEEDED / CORE LEARNING SESSION
 
-Progress: 1/12 | Stage: Foundation | Subtopic: The analytical structure and varieties of religious experience
+## Lesson 1 — The analytical gate: nature, object, interpretation and warrant
+
+Progress: 1/10 | Stage: Foundation | Subtopic: The genus of religious experience and its possible objects
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Queried — exact complete learner-session PDF; Oxford Handbook chapter “Mysticism and Religious Experience”.
-CA search: "official India religious experience meditation consciousness 2026"
-CA found: Official 2026 yoga material discusses meditation and well-being, not the truth of a transcendent object; no direct current-affairs event changes the doctrine.
+Book context: queried — canonical Religious Experience Markdown, Clause 6 coverage map and verified PYQ ledgers.
+CA search: not performed — live sources are outside this task’s permitted provenance.
+CA found: not applicable; no current event is used as doctrinal evidence.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual first — one report, four different questions
+### Visual: one report, five questions
 
 ```text
-"I felt an overwhelming presence and my life changed."
+"I encountered an overwhelming holy presence and my life changed."
 
-1. PHENOMENOLOGY      2. CLAIMED OBJECT
-   What was it like?     What seemed present?
-   awe, unity, peace     God, Brahman, the Holy,
-   insight, passivity    Dharma, a wider "MORE"
-          │                    │
-          └──────┬─────────────┘
-                 ↓
-3. INTERPRETATION       4. EPISTEMIC FORCE
-   How is it named?        What does it justify?
-   Christian, Advaitic,    certainty for the subject?
-   Buddhist grammar        testimony for others?
-                           public proof?
+OCCURRENCE          NATURE               CLAIMED OBJECT
+Was there a         What was it like?    What seemed present?
+real mental event?  awe, unity, peace,   God, Brahman, Holy,
+                    insight, passivity   Dharma, the "MORE"
+       |                   |                    |
+       +-------------------+--------------------+
+                           v
+INTERPRETATION                              WARRANT
+How is it named?                            What follows?
+Christian / Advaitic /                      certainty for subject?
+Buddhist / social grammar                   reason for outsider?
+                                            public proof?
 ```
 
-*The four boxes prevent an intense experience from being treated automatically as proof of its interpretation.*
+*A sincere and transformative occurrence may still be misinterpreted or fail to establish the
+reality of its claimed object.*
 
-### 1. Start with ordinary intuition
+### 1. Working definition
 
-Pain is private but real. A dream is real as an occurrence even when its apparent object is not. A trained doctor and an untrained observer may see the same scan differently. Religious experience raises all three issues at once: first-person occurrence, apparent object and conceptual interpretation.
+✅ A **religious experience** is an experience taken by its subject to involve contact with,
+awareness of, identity with, or response to a sacred or ultimate reality. “Religious” may refer
+to the content, setting, interpretation or life-orienting function of the experience.
 
-✅ A **religious experience** is an experience that the subject takes to involve contact with, awareness of, identity with, or response to a sacred or ultimate reality. “Religious” may describe its content, its interpretation, its setting or its transforming role.
+The definition is deliberately broader than **mystical experience**. Prayer, worship, conversion,
+numinous awe, devotion, meditative insight and mystical union are related but not synonymous.
 
-### 2. The four analytical layers
-
-1. **Phenomenology:** unity, awe, dependence, peace, noetic force, passivity or transformation.
-2. **Claimed object:** God, the numinous, Brahman, the sacred, Dharma or a wider reality.
-3. **Interpretation:** the tradition’s concepts identify what the subject believes occurred.
-4. **Epistemic force:** the degree of warrant the experience gives the subject, a hearer or the public.
-
-⚠️ Three achievements must also remain separate:
-
-- **Psychological genuineness:** the person sincerely had the state.
-- **Doctrinal authenticity:** the state fits a tradition’s criteria.
-- **Metaphysical veridicality:** the claimed object exists and was genuinely disclosed.
-
-### 3. Main varieties
-
-| Variety | Structure | Typical example |
+| Variety | Characteristic structure | Typical attribution |
 |---|---|---|
-| Mystical or unitive | Unity, communion or non-duality; often ineffable and noetic | James, Stace, Advaita, theistic mysticism |
-| Numinous | Awe before overwhelming yet attracting holiness | Otto |
-| Conversion | Reorganisation of a divided self and its conduct | James |
-| Revelatory | An event or presence received as disclosure | Non-propositional revelation |
-| Devotional | Address, surrender, praise and worship | Bhakti and theistic practice |
-| Meditative | Disciplined concentration or insight with stated stages | Yoga, Buddhism, Vedānta |
+| Mystical or unitive | unity, communion, non-duality; often ineffable and noetic | James, Stace, Advaita, theistic mysticism |
+| Numinous | awe before an overwhelming and attracting Holy | Otto |
+| Conversion | reorganisation of a divided self and conduct | James |
+| Revelatory | an event received as disclosure | prophetic or non-propositional revelation |
+| Devotional | address, surrender, praise or service | theistic devotion (*bhakti*) |
+| Yogic or meditative | trained concentration or insight through stated stages | Yoga, Buddhism, Vedānta |
 
-**Example with a limit:** A devotee’s experience of being heard may be psychologically genuine and doctrinally recognised. That does not by itself prove that a divine hearer exists.
+### 2. Three achievements that must not be merged
 
-### 4. Three illicit jumps
+```text
+PSYCHOLOGICAL GENUINENESS
+the person really underwent the state
+          |
+          | does not entail
+          v
+DOCTRINAL AUTHENTICITY
+the state satisfies a tradition's tests
+          |
+          | does not entail
+          v
+METAPHYSICAL VERIDICALITY
+the claimed object exists and was disclosed
+```
 
-- **Intensity → truth:** “It overwhelmed me, therefore its object is real.”
-- **Naming → meeting:** “My tradition calls it God, therefore God was encountered.”
-- **Mediation → fabrication:** “It has a neural or cultural cause, therefore nothing transcendent was involved.”
+⚠️ “Subjective” means first-personal; it does not mean imaginary. A dream is real as an
+occurrence even when its apparent object is not present. Conversely, an experience may be caused
+through brain and culture without thereby being false: ordinary perception is mediated too.
 
-The first two over-believe; the third over-reduces. Each needs an additional argument.
+### 3. What can “object” mean?
+
+The object need not be a finite item standing before a spectator.
+
+| Account | Claimed object or terminus | Logical structure |
+|---|---|---|
+| Theistic mysticism | personal God | encounter or communion between two terms |
+| Otto | the numinous or Holy | intentional awe before the wholly other |
+| Advaita | self as Brahman | identity-recognition, not encounter with another object |
+| Yoga | isolated consciousness (*puruṣa*) | discriminative release from nature |
+| Buddhism | Dharma, conditioned arising and cessation (*nirvāṇa*) | insight without a creator-object |
+| James | a wider “MORE” | cautious experiential excess, not a complete classical-theist profile |
+
+### 4. Holy, sacred and God
+
+✅ **Rudolf Otto:** the object of numinous experience is the Holy, apprehended as
+*mysterium tremendum et fascinans*—mystery that overwhelms and attracts. Its apprehension is
+**non-rational**, meaning irreducible to conceptual and moral judgement, not irrational.
+
+✅ **Friedrich Schleiermacher:** religion is rooted in the feeling of absolute dependence. The
+feeling is presented as irreducibly religious, though its occurrence does not prove a divine cause.
+
+✅ **Émile Durkheim:** “sacred” names a social classification opposed to the profane. It does not
+require a deity.
+
+✅ **Mircea Eliade:** a **hierophany** is a manifestation of the sacred that structures sacred
+space and time.
+
+```text
+OTTO'S HOLY          DURKHEIM'S SACRED        ELIADE'S HIEROPHANY
+phenomenological     social classification    manifestation in place/time
+quality of awe       sacred / profane          ordering a religious world
+```
+
+God can be the object of religion in theistic traditions, where God is treated as source and
+measure of holiness. God cannot be the universal definition of religious object, because Buddhism,
+Jainism and classical Mīmāṃsā provide religious orientations without a creator God. “Sacred” is a
+useful comparative genus only if it is not stretched to include every valued flag or institution;
+orientation toward liberation or ultimacy supplies a needed restriction.
+
+### 5. Three invalid leaps
+
+- **Intensity → truth:** overwhelming force does not prove the object.
+- **Traditional name → successful encounter:** a label does not verify its referent.
+- **Causal mediation → illusion:** explaining a mechanism does not yet show unreliability.
 
 ### Strongest objection, reply and residual
 
-**Objection:** There is no uninterpreted experience. If concepts shape every report, separating phenomenology from interpretation is artificial.
+**Objection:** There is no raw experience prior to interpretation, so the five-question model is
+artificial.
 
-**Reply:** The separation is analytical, not chronological. Reports arrive interpreted, but recurrent features such as unity, awe, passivity and transformation can still be compared across conflicting traditions.
+**Reply:** The distinctions are analytical, not chronological. Reports arrive interpreted, yet we
+can still ask separately about occurrence, phenomenology, attributed object and justificatory reach.
 
-**Residual:** Recurrent reported features establish family resemblance more readily than an identical metaphysical object.
+**Residual:** Comparison more readily establishes family resemblance among reports than a single
+common metaphysical object.
 
 ### UPSC application
 
-- **Syllabus use:** “Nature” asks what the state is like; “object” asks what it is directed toward or realises.
-- **PYQ linkage:** Every owned question tests at least two of the four layers.
-- **Trap:** “Subjective” means first-personal, not unreal.
-- **Answer use:** Name the layer in the introduction and state where your conclusion stops.
+- **2018 Q7(a):** compare Holy/sacred as generic terms and explain why God is a possible, not
+  universal, object.
+- **Syllabus use:** “Nature” asks what the state is like; “object” asks what it is of or toward.
+- **Trap:** Do not treat every religious experience as mystical or every object as a personal God.
+- **Answer line:** “Occurrence, interpretation and veridicality are distinct epistemic claims.”
 
 ### Revision notes
 
-1. Religious experience is a subject’s apparent contact with or response to an ultimate reality.
-2. Phenomenology asks what the state is like.
-3. Claimed object asks what seems given.
-4. Interpretation asks how a tradition names the event.
-5. Epistemic force asks what and whom it justifies.
-6. Psychological genuineness is not metaphysical veridicality.
-7. Ineffability limits adequate report, not all report.
-8. Subjective does not mean imaginary.
-9. Neural mediation is neither proof nor disproof.
-10. Intensity cannot substitute for an argument.
-11. The word “object” may mean an intentional or soteriological pole, not a finite thing.
+1. Religious experience is broader than mysticism.
+2. Nature, object, interpretation and warrant answer different questions.
+3. Sincerity does not establish veridicality.
+4. Doctrinal acceptance does not establish a common public object.
+5. Subjective means first-personal, not unreal.
+6. Otto’s Holy is phenomenological; Durkheim’s sacred is social.
+7. Eliade’s hierophany organises sacred space and time.
+8. Non-rational is not irrational.
+9. God is a theistic object, not the definition of all religion.
+10. Advaitic “object” is identity-recognition rather than an external entity.
+11. Neural or cultural mediation is not automatically a defeater.
+12. Public proof needs more than intensity or transformation.
 
 ### Local practice
 
-**MCQ 1: A**
+**MCQ 1**
 
-A report is sincere, life-changing and fully accepted by the subject’s tradition. What remains unestablished?
+A report is sincere, transformative and accepted by the subject’s tradition. What remains
+unestablished?
 
 A. Whether the claimed transcendent object exists and was encountered.
-B. Whether the subject underwent any psychological event at all.
-C. Whether the tradition possesses words for religious experience.
-D. Whether transformation can ever be observed by other people.
+B. Whether any psychological occurrence took place.
+C. Whether the tradition has concepts for the report.
+D. Whether changed conduct can be observed by others.
 
-- **A — Correct:** Sincerity, transformation and doctrinal fit do not yet establish metaphysical veridicality.
-- **B — Incorrect:** The premise already grants a genuine psychological occurrence.
+**MCQ 2**
+
+Which comparison is accurate?
+
+A. Otto and Durkheim both define the sacred as a social prohibition.
+B. Otto analyses numinous phenomenology, whereas Durkheim analyses a sacred–profane classification.
+C. Eliade treats every strong emotion as a hierophany.
+D. Schleiermacher infers a creator from cosmological dependence.
+
+**MCQ 3**
+
+Why can God not function as the universal definition of the object of religion?
+
+A. Personal God-language never occurs in worship.
+B. Sacred realities must always be impersonal.
+C. Some religious traditions orient practice and liberation without a creator God.
+D. The word “God” has no cognitive use.
+
+**MCQ 1 — Answer and explanation**
+**Correct answer: A**
+
+- **A — Correct:** Psychological occurrence, transformation and doctrinal recognition leave metaphysical veridicality open.
+- **B — Incorrect:** The premise already grants that the person underwent a sincere experience.
 - **C — Incorrect:** Traditional acceptance presupposes an available interpretive vocabulary.
-- **D — Incorrect:** Changed conduct can be publicly observed even if its metaphysical cause remains disputed.
+- **D — Incorrect:** Conduct may be publicly visible even when its alleged transcendent cause is disputed.
 
-**MCQ 2: B**
+**MCQ 2 — Answer and explanation**
+**Correct answer: B**
 
-Which inference most clearly confuses phenomenology with epistemic force?
+- **A — Incorrect:** Otto’s account is phenomenological rather than a sociological rule about prohibition.
+- **B — Correct:** The two accounts use near-neighbour vocabulary while analysing different structures.
+- **C — Incorrect:** A hierophany is a manifestation of the sacred, not any episode of heightened feeling.
+- **D — Incorrect:** Absolute dependence is presented as lived orientation rather than a cosmological inference.
 
-A. The report uses Christian vocabulary, so it has been interpreted.
-B. The state felt overwhelmingly authoritative, so its apparent object must be real.
-C. The experience produced stable compassion, so it had observable consequences.
-D. The subject described unity, so the report belongs to a unitive type.
+**MCQ 3 — Answer and explanation**
+**Correct answer: C**
 
-- **A — Incorrect:** This correctly identifies an interpretive layer without drawing a metaphysical conclusion.
-- **B — Correct:** Felt authority describes the experience; reality of the object is a further epistemic claim.
-- **C — Incorrect:** It infers only a publicly visible fruit from changed behaviour.
-- **D — Incorrect:** It performs a phenomenological classification rather than asserting truth.
-
-**Remediation cue:** For any claim, write P, O, I or E beside it: phenomenology, object, interpretation or epistemic force.
+- **A — Incorrect:** Address to a personal God is central in many theistic forms of prayer and devotion.
+- **B — Incorrect:** The sacred may be personal, impersonal or differently structured across traditions.
+- **C — Correct:** Buddhism, Jainism and Mīmāṃsā block a creator-God definition of religion.
+- **D — Incorrect:** The dispute concerns scope and object, not the blanket meaninglessness of God-talk.
 
 ---
 
-## Lesson 2 — William James I: The Four Marks, Correctly Graded
+## Lesson 2 — William James I: marks, grounds and authority
 
-Progress: 2/12 | Stage: Foundation | Subtopic: Defining and usual marks of mystical states
+Progress: 2/10 | Stage: Foundation | Subtopic: Why mystical states count as genuine expressions of personal religion
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Queried — exact learner PDF; canonical James dossier; Oxford Handbook discussion of mystical phenomenology.
-CA search: "official India mystical experience William James 2026"
-CA found: None with direct doctrinal relevance; the 2026 UPSC paper itself makes James current for examination.
+Book context: queried — canonical James sections, Clause 6 demand map and 2022/2026 verified PYQs.
+CA search: not performed — the task permits repository sources only.
+CA found: not applicable; the 2026 PYQ is an examination anchor, not current-affairs evidence.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual first — two plus two, not four equals
+### Visual: James’s two-plus-two structure
 
 ```text
-DEFINING MARKS: jointly entitle a state to be called mystical
-┌──────────────────────┬─────────────────────────────────┐
-│ INEFFABILITY         │ NOETIC QUALITY                  │
-│ cannot be adequately │ presents itself as insight into │
-│ conveyed             │ otherwise inaccessible depth    │
-└──────────────────────┴─────────────────────────────────┘
-                         ↓
-USUAL ACCOMPANIMENTS: frequent, not necessary
-┌──────────────────────┬─────────────────────────────────┐
-│ TRANSIENCY           │ PASSIVITY                       │
-│ commonly brief,      │ once begun, the subject feels   │
-│ though repeatable    │ grasped by a superior power     │
-└──────────────────────┴─────────────────────────────────┘
+DEFINING MARKS
+jointly entitle a state to be called mystical
+
+INEFFABILITY ---------------- NOETIC QUALITY
+not adequately transferable   presents itself as insight
+in words                       beyond discursive reasoning
+            |
+            v
+USUAL ACCOMPANIMENTS
+frequent, but not necessary
+
+TRANSIENCY ------------------ PASSIVITY
+commonly brief and recurrent   once begun, felt as received
 ```
 
-*The grading allows stable, disciplined Indian realisation to count as mystical even when it is neither brief nor wholly passive.*
+*The grading matters: the first pair identifies the class; the second pair commonly accompanies it.*
 
-### 1. Why James needs marks
+### 1. The two defining marks
 
-James studies reports, not a single creed. He therefore needs features that identify a mystical state without first deciding whether Christianity, Vedānta or another tradition interprets it correctly.
+✅ **Ineffability:** the quality must be directly experienced and cannot be adequately imparted in
+words. It does not mean that no comparison, report or concept is possible.
 
-✅ In *The Varieties of Religious Experience*, Lectures XVI–XVII, **ineffability** and **noetic quality** are the two marks that entitle a state to be called mystical. **Transiency** and **passivity** are less sharply marked but usually found.
+✅ **Noetic quality:** the state presents itself as knowledge-like insight into depths inaccessible
+to ordinary discursive intellect. It is a **noetic seeming**, not independently demonstrated truth.
 
-### 2. The defining pair
+The two features are compatible. Ineffability concerns complete transmission of qualitative
+character; noetic quality concerns how the state presents itself to the subject.
 
-**Ineffability:** The quality must be directly experienced and resists adequate transfer in words. Like a taste, it may be recognisable without being exhaustively communicable.
+### 2. The two usual marks
 
-**Noetic quality:** The state presents itself as insight — knowledge-like disclosure beyond ordinary discursive reasoning. This is a felt authority, not an independently proved conclusion.
+✅ **Transiency:** mystical states are commonly brief, though they may recur and develop.
 
-### 3. The usual pair
+✅ **Passivity:** voluntary preparation may occur, but once the state begins the person feels
+grasped or held by a superior power.
 
-**Transiency:** Mystical states are commonly brief, although they can recur and deepen.
+⚠️ James does not make brevity or passivity necessary. This permits comparison with stable
+Advaitic knowledge (*jñāna*) achieved through disciplined preparation.
 
-**Passivity:** Preparatory acts may be voluntary, but once the state begins the subject feels grasped or held by a superior power.
+### 3. Grounds for “genuine expression”
 
-### 4. Scope and importance
+| Ground | What it establishes | What it does not establish |
+|---|---|---|
+| recurring marks in testimony | a recognisable experiential type | a supernatural cause |
+| noetic seeming | why subjects interpret the state as disclosure | a determinate God |
+| durable fruits | importance for lived personal religion | metaphysical truth by itself |
+| rejection of medical materialism | origin alone cannot discredit value or truth | positive proof of revelation |
 
-The marks describe **mystical states**, not prayer, worship, conversion or every religious experience. Their grading also prevents a category error: Advaitic *jñāna* may be stable knowledge attained through discipline and still count as mystical because brevity and passivity are not necessary conditions.
+✅ **Medical materialism** is James’s name for dismissing a state merely because it has a
+physiological or pathological origin. A causal account is relevant, but it must show unreliability
+instead of assuming it.
+
+### 4. James’s three authority conclusions
+
+```text
+1. FOR THE SUBJECT
+well-developed mystical states may possess authority
+
+2. FOR THE OUTSIDER
+they impose no obligation of assent on one who has not had them
+
+3. AGAINST AN EXCLUSIVE VETO
+ordinary sensory-rational consciousness cannot simply rule out
+every alternative mode of awareness
+```
+
+The third conclusion is modest. It opens epistemic space; it does not validate every mystical
+theology.
+
+### 5. The exact 2026 verdict
+
+James can call mystical states genuine expressions of **personal religious life** because they form
+a recognisable experiential class, present themselves as disclosure, can reorganise life and
+cannot be refuted solely by causal origin. Yet their genuineness as lived religion is not equivalent
+to verified contact with a particular divine object.
 
 ### Strongest objection, reply and residual
 
-**Objection:** Ineffability and noetic quality conflict. A state cannot reveal knowledge while remaining unsayable.
+**Objection:** Ineffability blocks the identification of recurrent marks and makes James’s class
+self-defeating.
 
-**Reply:** They govern different matters. Noetic quality concerns how the content presents itself; ineffability concerns the inadequacy of transmitting its full quality.
+**Reply:** Partial descriptions, analogies, behaviour and recurrent structures remain available
+even when exhaustive transfer is impossible.
 
-**Residual:** If the content cannot be publicly specified, its authority remains difficult to test outside the subject.
+**Residual:** The less communicable the content, the weaker the outsider’s capacity to test its
+noetic authority.
 
 ### UPSC application
 
-- **2026 Q5(a):** Grounds for characterising mystical states as genuine religious expression.
-- **2022 Q7(c):** Nature and variety in James; marks answer only the “nature” half.
-- **Trap:** Never write “four necessary marks of religious experience.”
-- **Answer use:** Lead with “two defining plus two usual,” then explain why the grading matters.
+- **2026 Q5(a):** “grounds” requires marks, pragmatic fruits, medical-materialism control and all
+  three authority conclusions.
+- **2022 Q7(c):** the four marks answer the nature half, not the whole “nature and variety” demand.
+- **Trap:** Never write “four necessary marks of all religious experience.”
+- **Mnemonic:** **I–N define; T–P usually accompany.**
 
 ### Revision notes
 
-1. James’s marks concern mystical states.
-2. Ineffability is defining.
-3. Noetic quality is defining.
-4. Transiency is usual.
-5. Passivity is usual.
-6. Ineffability is not meaninglessness.
-7. Noetic presentation is not demonstrated knowledge.
-8. Voluntary preparation can precede passive onset.
-9. Mystical authority is strongest for the experiencer.
-10. The grading permits stable *jñāna* to remain mystical.
+1. James studies mystical states within personal religion.
+2. Ineffability and noetic quality are defining.
+3. Transiency and passivity are usual.
+4. Ineffability is compatible with partial report.
+5. Noetic presentation is not public demonstration.
+6. Preparation can be voluntary before passive onset.
+7. Medical materialism mistakes origin for refutation.
+8. Fruits concern lived authenticity and value.
+9. Authority is strongest for the subject.
+10. Outsiders are not compelled to assent.
+11. Ordinary consciousness has no automatic exclusive veto.
+12. Genuine religious expression is weaker than proof of a supernatural object.
 
 ### Local practice
 
-**MCQ 3: C**
+**MCQ 4**
 
-Which pair is definitional for James?
+Which statement most accurately represents James’s classification?
 
-A. Transiency and passivity
-B. Passivity and noetic quality
-C. Ineffability and noetic quality
-D. Ineffability and transiency
+A. All four marks are jointly necessary for every religious experience.
+B. Transiency alone distinguishes mystical from ordinary consciousness.
+C. Passivity and ineffability are the two defining marks.
+D. Ineffability and noetic quality define; transiency and passivity usually accompany.
 
-- **A — Incorrect:** Both are usual accompaniments rather than the classificatory pair.
-- **B — Incorrect:** It combines one usual mark with one defining mark.
-- **C — Correct:** These two together entitle a state to be called mystical.
-- **D — Incorrect:** Transiency is common but not required.
+**MCQ 5**
 
-**MCQ 4: D**
+What follows from James’s rejection of medical materialism?
 
-Why can stable Advaitic knowledge still be compared with Jamesian mysticism?
+A. A causal explanation cannot by itself settle the truth or value of an experience.
+B. Every pathological state is a revelation.
+C. Mystical testimony compels outsiders.
+D. Beneficial consequences prove a divine source.
 
-A. James treats every religious belief as mystical.
-B. Advaita defines liberation as a brief passive seizure.
-C. James makes passivity the only essential mark.
-D. Transiency and passivity are usual rather than defining marks.
+**MCQ 4 — Answer and explanation**
+**Correct answer: D**
 
-- **A — Incorrect:** James distinguishes several varieties of personal religion.
-- **B — Incorrect:** Advaita values established knowledge, not a merely episodic state.
-- **C — Incorrect:** Passivity belongs to the secondary pair.
-- **D — Correct:** A state can fail to be brief or passive while retaining the two defining marks.
+- **A — Incorrect:** James restricts the classificatory role to two marks and discusses mystical states, not every religious episode.
+- **B — Incorrect:** Brevity is a usual feature and cannot independently define the class.
+- **C — Incorrect:** Passivity belongs to the accompanying pair rather than the defining pair.
+- **D — Correct:** The graded two-plus-two structure is James’s precise account.
 
-**MCQ 5: A**
+**MCQ 5 — Answer and explanation**
+**Correct answer: A**
 
-Which statement handles ineffability most accurately?
-
-A. It denies exhaustive communication, not every meaningful description.
-B. It means the experience has no content even for its subject.
-C. It proves that the object lies beyond all possible criticism.
-D. It applies only to Otto’s numinous experience.
-
-- **A — Correct:** Mystics can report features while denying that words reproduce the whole quality.
-- **B — Incorrect:** James pairs ineffability with noetic content rather than emptiness.
-- **C — Incorrect:** A limit on expression does not create immunity from epistemic scrutiny.
-- **D — Incorrect:** James uses it as a defining mark of mystical states generally.
-
-**Remediation cue:** Memorise **I-N define; T-P usually accompany**.
+- **A — Correct:** A genetic or physiological story needs an added unreliability argument before it defeats the claim.
+- **B — Incorrect:** Rejecting premature dismissal does not authenticate pathology as disclosure.
+- **C — Incorrect:** James explicitly denies that mystical states impose authority on outsiders.
+- **D — Incorrect:** Good fruits support practical appraisal without deductively establishing a transcendent cause.
 
 ---
 
-## Lesson 3 — William James II: Varieties, Method, the “MORE” and Fruits
+## Lesson 3 — William James II and the problem of mystical variety
 
-Progress: 3/12 | Stage: Core | Subtopic: James’s empirical and pragmatic account of personal religion
+Progress: 3/10 | Stage: Core | Subtopic: Personal religion, conversion, fruits, Stace, Zaehner, Katz and Forman
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Queried — exact learner package; canonical James module; *Varieties* controls in the source ledger.
-CA search: "official 2026 wellbeing conversion spirituality India"
-CA found: No official event bears directly on James’s philosophy; current wellness material must not be treated as evidence for his metaphysics.
+Book context: queried — canonical James, typology and mediation modules plus the verified 2022 demand.
+CA search: not performed — no live or external source is permitted for this rebuild.
+CA found: not applicable; doctrinal comparison is repository-grounded.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual first — roots, varieties and fruits
+### Visual: James’s wider map of personal religion
 
 ```text
 PERSONAL RELIGION
-      ├── healthy-mindedness: harmony and affirmation
-      ├── sick soul: guilt, evil, finitude
-      ├── divided self ── conversion ──► unification
-      ├── saintliness: durable transformed conduct
-      └── mysticism: direct experiential pole
-
-ROOTS TEST REJECTED                    FRUITS TEST ACCEPTED
-physiology/pathology alone             courage, charity, integration
-cannot discredit truth or worth         and durable transformation
+      |
+      +--> healthy-mindedness: harmony and affirmation
+      |
+      +--> sick soul: evil, guilt, fragmentation
+      |
+      +--> divided self --conversion--> unification
+      |
+      +--> saintliness: durable moral-spiritual fruits
+      |
+      +--> mysticism: direct experiential pole
+                           |
+                           v
+                     relation to the "MORE"
 ```
 
-*James studies what religious life does to a person without pretending that beneficial effects prove its object.*
+*Nature and variety require more than listing the four mystical marks.*
 
-### 1. Empirical and personal
+### 1. James’s method and varieties
 
-James uses autobiographies, testimonies and case histories. Religion is personal before institutional: creeds and churches are secondary formations around lived experience.
+✅ James works empirically with autobiographies, testimonies and case histories. Religion is
+personal before institutional; churches and creeds crystallise around lived religious dispositions.
 
-### 2. Medical materialism
+- **Healthy-mindedness:** affirmative orientation that minimises or overcomes evil.
+- **Sick soul:** acute awareness of guilt, suffering, finitude and dividedness.
+- **Divided self:** conflicting centres of desire and judgement.
+- **Conversion:** a reorganisation that unifies the self’s practical orientation.
+- **Saintliness:** durable dispositions such as courage, charity and integration.
+- **Mysticism:** direct experience taken as contact with a wider reality.
 
-✅ “Medical materialism” is James’s term for discrediting an experience merely by identifying a physiological or pathological origin. An origin story does not by itself settle truth or value.
+James cautiously names a wider **“MORE”** connected with the self through the subconscious. It is
+not automatically the omnipotent, omniscient creator of classical theism.
 
-**Example with a limit:** Explaining that a mathematician reached an insight while exhausted does not refute the theorem. Yet the theorem can be checked independently; a mystical object often cannot. The analogy blocks genetic dismissal but does not establish parity of verification.
+### 2. The fruits test
 
-### 3. Fruits
+James uses “by their fruits ye shall know them” as a practical criterion. Observable transformation
+matters because a fleeting intensity may be self-deceptive.
 
-James adopts the scriptural maxim “by their fruits ye shall know them” as a practical test. Courage, integration, charity and stable moral transformation count in favour of authenticity.
+```text
+ROOTS ALONE                         FRUITS
+physiology, pathology,             enduring courage, charity,
+temperament, social origin         integration and orientation
+cannot settle truth/value          publicly assessable effects
+```
 
-⚠️ Fruits are not deductive proof. False beliefs can produce good conduct; true beliefs can be psychologically costly.
+⚠️ Fruits do not prove metaphysical truth. Useful illusions can transform, while truths may be
+psychologically difficult.
 
-### 4. Variety and the “MORE”
+### 3. Stace: two types and a common core
 
-- **Healthy-mindedness:** affirmative religion that minimises evil.
-- **Sick soul:** acute awareness of guilt, suffering and dividedness.
-- **Conversion:** reorganisation and unification of the divided self.
-- **Saintliness:** the durable moral and affective fruits.
-- **Mysticism:** the direct experiential pole.
+✅ **Extrovertive mysticism:** unity is perceived through sensory multiplicity—the One through the
+many.
 
-James speaks cautiously of a wider **“MORE”** connected with the self through the subconscious. He does not identify it straightforwardly with the God of classical theism.
+✅ **Introvertive mysticism:** sensory and conceptual content is excluded, leaving unitary,
+contentless consciousness.
+
+Stace identifies shared marks such as objectivity, blessedness, sacredness, paradoxicality and
+ineffability. He distinguishes experience from interpretation and argues for a cross-cultural
+common core.
+
+### 4. Zaehner: three types and preserved difference
+
+| Type | Structure |
+|---|---|
+| Nature mysticism | “all-in-one” unity with nature |
+| Monistic mysticism | isolation or identity of self with an impersonal absolute |
+| Theistic mysticism | communion with personal God while distinction remains |
+
+Zaehner rejects a simple common core and controversially ranks theistic mysticism highest. The
+ranking can be rejected while preserving his powerful logical distinction: **identity** and
+**relation** cannot both describe the same self–ultimate structure literally.
+
+### 5. Katz and Forman
+
+✅ **Steven Katz:** concepts, expectations and practices shape the experience itself; there are no
+wholly unmediated experiences.
+
+✅ **Robert Forman:** a **Pure Consciousness Event** challenges total constructivism because a
+contentless state seems to leave nothing determinate for concepts to shape.
+
+```text
+STACE                  KATZ                    FORMAN
+shared experiential    tradition shapes       contentless limit may
+core beneath language  experience itself       resist total mediation
+```
 
 ### Strongest objection, reply and residual
 
-**Objection:** Pragmatic fruits validate useful illusion as readily as truth.
+**Objection:** Common-core theories create sameness by stripping reports of precisely what makes
+them religious.
 
-**Reply:** James’s criterion assesses the quality and authenticity of religious life, not a deductive metaphysical proof.
+**Reply:** Recurrent phenomenological features are reported within traditions and need not be
+invented by the comparativist.
 
-**Residual:** The method can rank transformations but cannot adjudicate incompatible objects with equal fruits.
-
-### UPSC application
-
-- **2022 Q7(c):** Include both marks and varieties.
-- **2026 Q5(a):** Add method, personal authority, fruits and rejection of origin-based dismissal.
-- **Trap:** James adopts the biblical fruits maxim; he does not coin it.
-- **Answer use:** “Strongest as phenomenology and pragmatic assessment; limited as metaphysical proof.”
-
-### Revision notes
-
-1. James studies first-person documents.
-2. Personal religion precedes institution in his method.
-3. Medical materialism is a genetic fallacy about origin.
-4. Origin does not settle truth or worth.
-5. Fruits test durable transformation.
-6. Fruits support authenticity, not metaphysical certainty.
-7. Healthy-mindedness and sick soul are temperamental varieties.
-8. Conversion unifies the divided self.
-9. Saintliness names enduring fruits.
-10. The “MORE” is deliberately under-described.
-
-### Local practice
-
-**MCQ 6: B**
-
-What does James reject as “medical materialism”?
-
-A. Comparing religious reports across cultures
-B. Dismissing an experience solely through its physiological or pathological origin
-C. Testing a conversion by its durable effects
-D. Distinguishing personal religion from institutions
-
-- **A — Incorrect:** Comparative first-person evidence is central to James’s empirical method.
-- **B — Correct:** A causal origin cannot by itself decide truth or value.
-- **C — Incorrect:** Fruits are the test James retains.
-- **D — Incorrect:** The priority of personal religion is part of his framework.
-
-**MCQ 7: C**
-
-Which is the best limit on James’s fruits test?
-
-A. Moral transformation cannot be publicly observed.
-B. Conversion never changes conduct.
-C. Beneficial consequences can authenticate a life without proving the attributed object.
-D. The test applies only to institutional rituals.
-
-- **A — Incorrect:** Changed conduct is among the most publicly visible aspects of religion.
-- **B — Incorrect:** Reorganisation of conduct is central to James’s description.
-- **C — Correct:** Pragmatic value and metaphysical truth are distinct.
-- **D — Incorrect:** James primarily studies personal religion.
-
-**Remediation cue:** Write **roots do not refute; fruits do not prove**.
-
----
-
-## Lesson 4 — The Numinous, the Sacred and Whether God Must Be the Object
-
-Progress: 4/12 | Stage: Core | Subtopic: Otto, Schleiermacher, Durkheim, Eliade and the object of religion
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Queried — exact learner package; canonical sacred/holy module; Oxford phenomenology discussion.
-CA search: "site:pib.gov.in 2026 sacred heritage spirituality India official"
-CA found: Official cultural material concerns heritage and practice, not a philosophical proof of the sacred; used only as a reminder that public sacredness and private numinous awareness differ.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-### Visual first — four ways of locating religion’s object
-
-| Account | What “sacred/holy” means | Main philosophical level |
-|---|---|---|
-| Schleiermacher | Feeling of absolute dependence | Subject’s condition |
-| Otto | Numinous, wholly other, overwhelming and attracting | Phenomenological object-quality |
-| Durkheim | What a community sets apart from the profane | Social classification |
-| Eliade | What manifests and structures sacred space and time | Religious world-orientation |
-
-```text
-THE SACRED: comparative genus
-       ├── God: theistic paradigm and source of holiness
-       ├── Dharma / nirvāṇa: Buddhist soteriological pole
-       ├── Tīrthaṅkara / siddha: Jain object of veneration
-       └── apauruṣeya Veda: sanctity without a divine author
-```
-
-*God can be an object of religion without being the universal definition of that object.*
-
-### 1. Otto’s numinous
-
-✅ In *The Idea of the Holy* (1917), Rudolf Otto calls the non-rational core of holiness the **numinous**, experienced as *mysterium tremendum et fascinans*:
-
-- **Mysterium:** wholly other and incommensurable with ordinary categories.
-- **Tremendum:** awefulness, overpowering majesty and urgent energy.
-- **Fascinans:** attraction and fascination within the same state.
-
-The subject experiences **creature-feeling** — humility and nothingness before the wholly other.
-
-**Non-rational does not mean irrational.** It means not reducible to conceptual and moral judgement. Moral predicates such as goodness are later **schematisations** of the numinous datum.
-
-### 2. Schleiermacher’s background
-
-Schleiermacher identifies religion with the **feeling of absolute dependence**. Otto’s correction is object-directed: dependence describes my condition; the numinous describes how the holy appears as other than me.
-
-### 3. Holy is not identical with sacred
-
-✅ Otto’s holy is a phenomenological quality disclosed in awe. Durkheim’s sacred is a social classification defined through separation from the profane and protective prohibitions. Eliade’s sacred manifests in a **hierophany**, creating sacred space, time and orientation.
-
-### 4. Can God be the object?
-
-**Yes, within theism.** God is the intentional pole of prayer, worship and revelation and the source and measure of holiness.
-
-**No, as a generic definition of religion.** Buddhism, Jainism and Mīmāṃsā sustain sacred orientations without a creator God.
-
-⚠️ Best formula: **The sacred is the comparative genus; God is theism’s paradigm species.**
-
-Indian sacredness also includes *pavitra/śuddha* (purity), *maṅgala* (auspiciousness), *puṇya* (merit), *tīrtha* (crossing-place) and *kṣetra* (sacred field). This limits Otto’s tendency to centre dread.
-
-### Strongest objections, replies and residual
-
-**Objection 1:** “Sacred” is so broad that flags and nations qualify.
-
-**Reply:** Add a soteriological condition: the religiously sacred is related to diagnosing and overcoming the fundamental human predicament.
-
-**Objection 2:** Calling God a species of the sacred subordinates God.
-
-**Reply:** The ordering is conceptual for comparative definition, not ontological.
-
-**Residual:** A single generic category may still conceal deep differences between personal encounter, non-dual identity and non-theistic cessation.
+**Residual:** Shared features support family resemblance more securely than identical content or
+one metaphysical object.
 
 ### UPSC application
 
-- **2018 Q7(a):** The stem demands a graded answer, not yes/no.
-- **Trap:** Otto’s holy ≠ Durkheim’s sacred.
-- **Probable framing:** “Is the object of religion necessarily personal?”
-- **Answer use:** Give non-theistic counterexamples before the final qualified affirmation of God.
+- **2022 Q7(c):** write marks + healthy-minded/sick-soul/conversion/saintliness/mysticism + method
+  and evaluation.
+- **Comparative use:** Stace buys unity by separating experience from interpretation; Zaehner
+  preserves difference but adds a contestable ranking.
+- **Trap:** Do not merge Stace’s twofold typology with Zaehner’s threefold typology.
+- **Answer line:** “The classification may survive even when its hierarchy fails.”
 
 ### Revision notes
 
-1. Otto’s object is the numinous or holy.
-2. *Mysterium* means wholly other.
-3. *Tremendum* combines awe, majesty and overpoweringness.
-4. *Fascinans* is attraction within the same experience.
-5. Non-rational is not irrational.
-6. Rational and ethical concepts schematise the numinous.
-7. Schleiermacher begins from absolute dependence.
-8. Durkheim defines sacred socially against profane.
-9. Eliade uses hierophany and sacred space/time.
-10. God is possible as object but not necessary to define religion.
-11. Non-theistic religions justify the wider category.
-12. Indian sacredness often stresses purity and auspiciousness.
+1. James’s topic is personal religion in its varieties.
+2. Conversion unifies a divided self.
+3. Saintliness names enduring fruits rather than one intense episode.
+4. The “MORE” is deliberately less determinate than classical theism.
+5. Roots do not settle truth or value.
+6. Fruits are relevant but non-deductive.
+7. Stace distinguishes extrovertive and introvertive mysticism.
+8. Stace defends a common core beneath interpretation.
+9. Zaehner distinguishes nature, monistic and theistic mysticism.
+10. Identity and relation have different logical structures.
+11. Katz argues that tradition shapes experience itself.
+12. Forman’s Pure Consciousness Event pressures total constructivism.
 
 ### Local practice
 
-**MCQ 8: D**
+**MCQ 6**
 
-Which description captures Otto’s *mysterium tremendum et fascinans*?
+Which element is required to answer James’s “nature and variety” account adequately?
 
-A. A rational proof from moral order to a perfect lawgiver
-B. A social prohibition separating collective symbols from ordinary objects
-C. A feeling of dependence with no intentional object
-D. The wholly other experienced as overwhelming and attracting at once
+A. Only the metaphysical proof of the “MORE”.
+B. The four marks together with conversion, temperamental varieties and fruits.
+C. Only Stace’s introvertive mysticism.
+D. A rejection of all institutional religion as unreal.
 
-- **A — Incorrect:** Otto offers phenomenology rather than a moral proof.
-- **B — Incorrect:** Separation and prohibition belong to Durkheim’s account.
-- **C — Incorrect:** Otto adds an object-pole beyond Schleiermacher’s subject-centred dependence.
-- **D — Correct:** Mystery, dread and fascination form one numinous structure.
+**MCQ 7**
 
-**MCQ 9: A**
+What is the most defensible use of Zaehner’s scheme?
 
-What most sharply distinguishes Otto from Durkheim?
+A. Accept both classification and theological ranking without qualification.
+B. Replace the identity–relation distinction with one common core.
+C. Retain the threefold classification while treating the hierarchy as contestable.
+D. Equate nature mysticism with every ecological sentiment.
 
-A. Otto analyses a phenomenological quality; Durkheim analyses a social classification.
-B. Otto denies religion has an object; Durkheim proves a personal God.
-C. Otto studies only morality; Durkheim studies only mysticism.
-D. Otto defines the profane as divine; Durkheim defines the sacred as irrational.
+**MCQ 8**
 
-- **A — Correct:** Their shared vocabulary conceals different explanatory levels.
-- **B — Incorrect:** Otto is explicitly object-directed, while Durkheim’s definition needs no deity.
-- **C — Incorrect:** Neither contrast matches their projects.
-- **D — Incorrect:** The profane is the relational opposite of the sacred, and irrationality is not Otto’s claim.
+Which dispute is correctly stated?
 
-**MCQ 10: B**
+A. Katz defends unmediated common experience, while Stace denies comparison.
+B. Forman argues that every experience is propositionally structured.
+C. Zaehner and Stace use identical taxonomies.
+D. Katz stresses conceptual mediation, while Forman appeals to a contentless limiting case.
 
-Why can God not serve as the generic object of religion?
+**MCQ 9**
 
-A. Theistic traditions deny that God is holy.
-B. Recognised non-theistic religions orient life toward sacred and liberating realities without a creator God.
-C. Religious experience is always contentless.
-D. Durkheim establishes that all religious objects are unreal.
+Why can James’s fruits criterion not settle the truth of the claimed object?
 
-- **A — Incorrect:** Classical theism treats God as the source and measure of holiness.
-- **B — Correct:** Buddhism, Jainism and Mīmāṃsā are decisive counterexamples.
-- **C — Incorrect:** Mystical and devotional reports often have determinate intentional content.
-- **D — Incorrect:** A social account does not entail metaphysical non-existence.
+A. Beneficial transformation can occur under beliefs whose metaphysical interpretation remains disputed.
+B. Conduct is never observable.
+C. James rejects every practical consequence.
+D. Conversion has no relation to personal religion.
 
-**MCQ 11: C**
+**MCQ 6 — Answer and explanation**
+**Correct answer: B**
 
-How should the over-breadth objection to “the sacred” be answered?
+- **A — Incorrect:** James’s analysis does not provide a full proof of a determinate transcendent being.
+- **B — Correct:** The printed demand contains both the mystical marks and the wider varieties of personal religion.
+- **C — Incorrect:** Stace supplies a later comparative typology rather than James’s whole account.
+- **D — Incorrect:** James gives personal experience priority without claiming all institutions are unreal.
 
-A. Restrict religion to belief in one creator.
-B. Count only objects that produce fear.
-C. Add a soteriological relation to the diagnosis and overcoming of the human predicament.
-D. Treat every collective symbol as equally religious.
+**MCQ 7 — Answer and explanation**
+**Correct answer: C**
 
-- **A — Incorrect:** That repeats the exclusion the generic category was designed to avoid.
-- **B — Incorrect:** Indian purity and auspiciousness show that dread is not universal.
-- **C — Correct:** The added condition excludes merely admired or protected secular objects.
-- **D — Incorrect:** It concedes the objection rather than repairing the definition.
+- **A — Incorrect:** Zaehner’s confessional ranking requires criticism rather than automatic assent.
+- **B — Incorrect:** His philosophical value lies partly in preserving identity–relation difference.
+- **C — Correct:** The taxonomy can illuminate distinct structures even if its evaluative hierarchy is rejected.
+- **D — Incorrect:** Nature mysticism is a specific unity-report, not ordinary environmental concern.
 
-**Remediation cue:** Draw two columns: **Otto = how it appears; Durkheim = how society sets it apart**.
+**MCQ 8 — Answer and explanation**
+**Correct answer: D**
 
----
+- **A — Incorrect:** Katz is the constructivist critic of an unmediated common core.
+- **B — Incorrect:** Forman uses a putatively contentless event to limit conceptual mediation.
+- **C — Incorrect:** Stace has two principal types, whereas Zaehner has three.
+- **D — Correct:** The disagreement turns on whether any experience can escape conceptual formation.
 
-## Lesson 5 — Is Mysticism One or Many? Stace, Zaehner, Katz and Forman
+**MCQ 9 — Answer and explanation**
+**Correct answer: A**
 
-Progress: 5/12 | Stage: Core | Subtopic: Typology, common core, constructivism and contentless awareness
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Queried — Oxford Handbook chapter; exact learner package; advanced dossier on perennialism and constructivism.
-CA search: "2026 official meditation consciousness research India"
-CA found: Official wellness documents discuss practices and outcomes, not a common mystical core; no doctrinal current-affairs claim is imported.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-### Visual first — two disputes, not one merged taxonomy
-
-| Thinker | Classification | Larger claim | Main pressure |
-|---|---|---|---|
-| Stace | Extrovertive / introvertive | Common experiential core beneath interpretation | Difference may be subtracted too aggressively |
-| Zaehner | Nature / monistic / theistic | Irreducibly different types, ranked by him | Ranking appears confessionally loaded |
-| Katz | Tradition shapes the experience itself | No unmediated experience | Contentless states pressure universality |
-| Forman | Pure Consciousness Event | A contentless limit resists construction | Entry, memory and recognition may remain mediated |
-
-```text
-ONE CORE? ── Stace: yes, beneath interpretation
-    │
-    ├── Zaehner: no; preserve nature / monistic / theistic difference
-    ├── Katz: tradition shapes the experience itself
-    └── Forman: contentless awareness pressures total constructivism
-```
-
-### 1. Stace’s two types
-
-**Extrovertive mysticism:** Unity is perceived through the senses; plurality remains visible but the One shines through it.
-
-**Introvertive mysticism:** Sensory and conceptual content are excluded, leaving unitary, non-spatial and non-temporal consciousness.
-
-Stace identifies shared marks: objectivity or reality, blessedness, holiness, paradoxicality and ineffability. He distinguishes the experience from its interpretation and defends a perennial common core.
-
-### 2. Zaehner’s three types
-
-1. **Nature mysticism:** “all-in-one” unity with nature; some drug-induced states are controversially placed here.
-2. **Monistic mysticism:** isolation or identity of soul with an impersonal absolute.
-3. **Theistic mysticism:** loving union with a personal God while creature and creator remain distinct.
-
-Zaehner ranks theistic mysticism highest. The classification can be retained while the hierarchy is rejected. Its enduring insight is logical: identity and relation cannot be treated as merely different words.
-
-### 3. Katz and Forman
-
-✅ Steven Katz argues that there are no unmediated experiences. Language, expectations and disciplined practices shape what is experienced, not merely how it is later described.
-
-Robert Forman replies with the **Pure Consciousness Event**: if a state contains no sensory or conceptual content, there is nothing within it for doctrine to shape.
-
-⚠️ Constructivism is strongest for rich theistic and extrovertive reports and weakest at the contentless limit. Forman pressures a universal claim but does not prove that every tradition reaches one metaphysical object.
-
-### Example with a limit
-
-A radiologist sees patterns a novice misses because training shapes attention. Training need not invent anatomy. Likewise, religious formation can mediate perception without automatically fabricating it. The limit is that radiology has cross-observer tests that religious traditions may lack.
-
-### Strongest objections, replies and residual
-
-**Against Stace:** Remove enough doctrine and all experiences look alike.
-
-**Reply:** Recurring marks occur within reports, not only in a theorist’s abstraction.
-
-**Against Zaehner:** The hierarchy reflects his theological preference.
-
-**Reply:** Drop the ranking while preserving distinctions of structure.
-
-**Residual:** Family resemblance is easier to defend than identical content.
-
-### UPSC application
-
-- Use Stace/Zaehner to assess “variety.”
-- Use Katz/Forman for interpretation and public-discourse questions.
-- **Trap:** Never merge Stace and Zaehner into a fivefold scheme.
-- **Answer use:** “Stace buys unity by relocating difference; Zaehner preserves difference at the cost of hierarchy.”
-
-### Revision notes
-
-1. Stace distinguishes extrovertive and introvertive mysticism.
-2. Extrovertive unity appears through sensed multiplicity.
-3. Introvertive consciousness excludes sensory and conceptual content.
-4. Stace defends a common core.
-5. Zaehner distinguishes nature, monistic and theistic mysticism.
-6. Zaehner denies a common core and adds a ranking.
-7. Keep Zaehner’s classification but reject the hierarchy.
-8. Identity and relation differ logically.
-9. Katz denies unmediated experience.
-10. Forman’s PCE challenges Katz at the contentless limit.
-11. Mediation is not identical with fabrication.
-12. Family resemblance is a defensible residual thesis.
-
-### Local practice
-
-**MCQ 12: D**
-
-Which description belongs to Stace’s introvertive type?
-
-A. Loving communion preserving creature–creator difference
-B. Unity with nature through intensified sensory perception alone
-C. A socially created boundary between sacred and profane
-D. Exclusion of sensory and conceptual content, leaving unitary consciousness
-
-- **A — Incorrect:** Preserved personal relation fits theistic mysticism.
-- **B — Incorrect:** Unity through the senses describes the extrovertive type.
-- **C — Incorrect:** This is Durkheimian classification rather than mystical typology.
-- **D — Correct:** Introvertive mysticism turns inward beyond sensory multiplicity.
-
-**MCQ 13: A**
-
-What is the strongest defensible use of Zaehner?
-
-A. Retain the threefold classification while rejecting its confessional ranking.
-B. Treat his categories as identical with Stace’s two types.
-C. Accept theistic mysticism as objectively highest.
-D. Reject all classification because the author had religious commitments.
-
-- **A — Correct:** The logical differences survive even when the hierarchy does not.
-- **B — Incorrect:** The schemes answer opposed questions about a common core.
-- **C — Incorrect:** Structural difference does not establish superior truth or completeness.
-- **D — Incorrect:** That would repeat a genetic dismissal instead of evaluating the argument.
-
-**MCQ 14: B**
-
-Where is Katz’s constructivism under greatest pressure?
-
-A. Reports rich in personal and doctrinal content
-B. A purported Pure Consciousness Event without sensory or conceptual content
-C. Public liturgical worship governed by rules
-D. Conversion narratives interpreted after the event
-
-- **A — Incorrect:** Rich content supplies more material for conceptual formation.
-- **B — Correct:** Forman argues that a contentless state contains nothing for concepts to constitute.
-- **C — Incorrect:** Rule-governed worship strongly displays mediation.
-- **D — Incorrect:** Retrospective interpretation is compatible with Katz’s general position.
-
-**Remediation cue:** **Stace = two + core; Zaehner = three + no core; Katz = mediation; Forman = contentless limit.**
+- **A — Correct:** Practical benefit bears on authenticity and value without uniquely identifying the metaphysical cause.
+- **B — Incorrect:** Stable changes in action and character are available to public observation.
+- **C — Incorrect:** James makes pragmatic effects central to appraisal.
+- **D — Incorrect:** Conversion is one of his major forms of personal religious transformation.
 
 ---
 
-## Lesson 6 — Advaita: Immediate, Non-Dual and Self-Luminous Realisation
+## Lesson 4 — Indian structures: non-dual recognition, isolation, insight and devotion
 
-Progress: 6/12 | Stage: Core | Subtopic: *Anubhava*, *aparokṣānubhūti* and the identity structure
+Progress: 4/10 | Stage: Core | Subtopic: Advaita and the plurality of Indian religious experience
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Queried — exact learner PDF; Radhakrishnan, *Indian Philosophy*, Vol. II; canonical Advaita dossier.
-CA search: "official 2026 meditation Advaita consciousness India"
-CA found: Official material concerns practice and wellness; it does not verify Advaita’s metaphysical identity claim.
+Book context: queried — canonical Indian-comparison sections and Paper I Yoga benchmark for conceptual discipline.
+CA search: not performed — contemporary yoga or wellness material is excluded from the source base.
+CA found: not applicable; classical doctrine alone governs this lesson.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual first — not seeing Brahman, but removing mistaken separation
+### Visual: four different structures, not four names for one event
 
 ```text
-ORDINARY COGNITION
-knower ── knows ──► object
-        subject/object duality
-                 ↓ śravaṇa
-                 ↓ manana
-                 ↓ nididhyāsana
-LIBERATING RECOGNITION
-ātman = Brahman
-no independent knower confronting an external Brahman
+ADVAITA                 YOGA                 BUDDHISM              DEVOTION
+self = Brahman          purusha distinct     insight into          finite self before
+identity-recognition    from nature          impermanence,         personal Lord
+                        isolation            no-self, arising      relation + grace
+       |                    |                     |                     |
+       v                    v                     v                     v
+non-duality             kaivalya             cessation             communion/service
 ```
 
-*Advaita treats the culmination as identity-recognition, not an encounter between two independently existing terms.*
+*Indian experience cannot be reduced to “experience of Brahman.”*
 
-### 1. Plain-language intuition
+### 1. Immediate realisation
 
-In the “tenth man” story, a group counts nine people because each counter forgets himself. A teacher says, “You are the tenth.” The statement does not create a missing person; it removes ignorance about what was present all along.
+Indian accounts often use **direct realisation (*anubhava*)** or immediate knowledge
+(*aparokṣānubhūti*) to contrast lived fulfilment with merely verbal assent. The term does not
+guarantee that all schools report the same object.
 
-**Limit:** The story illustrates removal of ignorance. It does not prove that ātman is Brahman.
+### 2. Advaita Vedānta
 
-### 2. Technical account
+✅ The highest realisation is stable non-dual knowledge (*brahma-jñāna*): the self is not other than
+Brahman. The Upaniṣadic formula *aham brahmāsmi* expresses identity.
 
-✅ **Anubhava** means direct realisation; **aparokṣānubhūti** means immediate, non-mediated realisation. Advaita’s highest experience is **non-dual** (*nirvikalpa*): subject–object duality is sublated in the recognition expressed by *aham brahmāsmi* — “I am Brahman.”
+```text
+HEARING (sravana)
+        v
+REFLECTION (manana)
+        v
+CONTEMPLATIVE ASSIMILATION (nididhyasana)
+        v
+IGNORANCE REMOVED
+        v
+SELF RECOGNISED AS BRAHMAN
+```
 
-Key features:
+English-first control:
 
-1. **Identity, not relation:** Brahman is not an external object.
-2. **Self-luminosity:** consciousness is presupposed by every cognition and cannot be known through a second illuminating act.
-3. **Self-certification:** the realisation is claimed to disclose the self directly.
-4. **Beyond objectifying speech:** *avācya*; words return without exhausting Brahman.
-5. **Bliss:** *ānanda* names plenitude, not ordinary pleasure.
-6. **Stability:** *jñāna* is established knowledge, not merely transient ecstasy.
+- **non-dual recognition** (*aparokṣānubhūti*);
+- **self-luminosity** of consciousness;
+- sublation of subject–object difference;
+- stability as knowledge, not dependence on a passing trance;
+- bliss (*ānanda*) and freedom from limiting identification;
+- beyond adequate objectifying speech (*avācya*).
 
-⚠️ Do not call Brahman or Brahman-realisation *anirvacanīya*. In Advaita that technical term belongs to māyā and world-appearance as neither simply real nor unreal.
+⚠️ Do not call Brahman or the experience ***anirvacanīya***. In Advaita, *anirvacanīya* qualifies
+world-appearance or *māyā* as neither simply real nor unreal. Brahman is not another perceived object.
 
-### 3. Preparation and culmination
+### 3. Passing absorption and liberating knowledge
 
-- *Śravaṇa:* hearing the Upaniṣadic teaching.
-- *Manana:* rational reflection removing doubt.
-- *Nididhyāsana:* sustained contemplation removing habitual misidentification.
+A seedless or indeterminate absorption (*nirvikalpa samādhi*) may be discussed as a meditative
+state. It does not by itself guarantee stable liberating knowledge. Advaita’s central claim is
+removal of ignorance through understood identity, not the collection of unusual episodes.
 
-The experience is therefore disciplined and conceptually prepared, while its culmination is non-objective.
+**Tenth-person analogy:** an instruction does not create the missing tenth person; it removes an
+error about someone already present. Likewise, non-dual teaching is claimed to remove ignorance,
+not manufacture Brahman.
+
+### 4. Other Indian structures
+
+✅ **Yoga:** disciplined restraint culminates in discriminative isolation (*kaivalya*) of
+consciousness (*puruṣa*) from nature. Classical Yoga’s special Lord assists practice but is not the
+object of every yogic state or a Nyāya-style creator.
+
+✅ **Buddhism:** meditation yields insight into impermanence, no-permanent-self and conditioned
+arising, oriented to cessation (*nirvāṇa*), not encounter with a creator.
+
+✅ **Devotional traditions:** love, surrender, remembrance and worship preserve relation between
+devotee and personal Lord. Grace and address would be distorted if redescribed as Advaitic identity.
+
+### 5. Authority and discipline
+
+Indian traditions often present practice as repeatable under ethical, cognitive and contemplative
+conditions. This improves procedural articulation, but it is not identical to a neutral laboratory
+experiment:
+
+```text
+TRAINING + DISCIPLINE + GUIDANCE
+            |
+            v
+PREDICTED TRANSFORMATION
+            |
+            v
+tradition-sensitive confirmation
+            |
+            +--> public method claim
+            +--> not neutral proof of one metaphysical object
+```
 
 ### Strongest objection, reply and residual
 
-**Objection:** A contentless non-dual state cannot justify the determinate judgement “I am Brahman”; doctrine has supplied the conclusion.
+**Objection:** If Advaitic experience is without subject–object difference, it has no content by
+which it can be identified as knowledge of Brahman.
 
-**Reply:** Advaita says *śruti* functions as a means of knowledge that removes ignorance. Brahman is the self, not an inferred object read off from a bare state.
+**Reply:** Advaita treats consciousness as self-revealing and uses scripture and reasoning to
+remove misidentification; Brahman is the self, not an inferred external item.
 
-**Residual:** The reply establishes tradition-internal coherence more readily than public proof.
+**Residual:** The critic can still ask whether scriptural grammar determines the interpretation
+rather than independently verifies it.
 
 ### UPSC application
 
-- **2024 Q8(c):** Enumerate features and contrast each with a rival.
-- **2021 Q7(c):** Advaita is central but does not exhaust Vedānta.
-- **Trap:** Avoid “the subject perceives Brahman.”
-- **Answer use:** Contrast Advaitic identity with Otto’s encounter and theistic communion.
+- **2024 Q8(c):** list Advaita’s features with contrasts: identity, stability, self-luminosity,
+  non-objectivity, preparation and the terminology control.
+- **2021 Q7(c):** do not stop at Advaita; Vedāntic plurality belongs in Lesson 5.
+- **Trap:** Stable knowledge is not reducible to a transient *samādhi*.
+- **Answer line:** “Theistic mysticism retains two terms; Advaita claims the sublation of that
+  duality.”
 
 ### Revision notes
 
-1. *Anubhava* is direct realisation.
-2. *Aparokṣānubhūti* is immediate realisation.
-3. Advaita culminates in non-dual recognition.
-4. *Aham brahmāsmi* states identity.
-5. Brahman is not an external intentional object.
-6. Consciousness is self-luminous.
-7. The realisation is claimed self-certifying.
-8. *Avācya* marks limits of objectifying speech.
-9. *Ānanda* is not ordinary pleasure.
-10. *Śravaṇa–manana–nididhyāsana* prepare stable knowledge.
-11. *Anirvacanīya* technically qualifies māyā/world-appearance.
-12. The strongest residual concerns public criteria.
+1. Direct realisation does not imply one Indian object.
+2. Advaita’s structure is identity, not encounter.
+3. *Aham brahmāsmi* expresses self–Brahman non-difference.
+4. Hearing, reflection and contemplation prepare recognition.
+5. Liberating knowledge is stable.
+6. A passing absorption is not sufficient by itself.
+7. Brahman is beyond adequate objectifying speech.
+8. *Anirvacanīya* belongs to *māyā*/appearance, not Brahman.
+9. Yoga culminates in isolation of consciousness from nature.
+10. Buddhism does not make a creator the object of meditative insight.
+11. Devotion preserves relation and grace.
+12. Disciplined repeatability is not the same as neutral public verification.
 
 ### Local practice
 
-**MCQ 15: C**
+**MCQ 10**
 
-Which formulation best states Advaita’s highest religious experience?
+Which statement correctly characterises Advaitic religious experience?
 
-A. A purified subject perceives Brahman as a subtle object.
-B. A devotee preserves eternal difference in loving communion.
-C. Subject–object duality is sublated in recognition that the self is Brahman.
-D. Consciousness becomes isolated from matter as one among many selves.
+A. It is sensory perception of Brahman as a separate infinite object.
+B. It is stable recognition of self–Brahman non-difference that removes ignorance.
+C. It is necessarily a brief passive seizure.
+D. It makes *māyā* identical with Brahman.
 
-- **A — Incorrect:** Objectifying Brahman preserves the duality Advaita removes.
-- **B — Incorrect:** Preserved relation characterises theistic Vedānta.
-- **C — Correct:** Non-dual identity is the defining logical structure.
-- **D — Incorrect:** Isolation of plural consciousness belongs to Sāṃkhya-Yoga.
+**MCQ 11**
 
-**MCQ 16: D**
+Why is *anirvacanīya* an unsuitable label for Brahman-realisation?
 
-What is the correct use of *anirvacanīya* in Advaita?
+A. The term means personal devotion.
+B. It describes Yoga’s special Lord.
+C. In Advaita it technically characterises *māyā* or world-appearance, not Brahman.
+D. It is James’s word for ineffability.
 
-A. It names Brahman’s status as neither real nor unreal.
-B. It is James’s term for mystical ineffability.
-C. It describes the personal Lord as partly finite.
-D. It qualifies māyā and world-appearance as neither simply real nor unreal.
+**MCQ 12**
 
-- **A — Incorrect:** Brahman is the real; the neither-real-nor-unreal formula does not apply to it.
-- **B — Incorrect:** James’s vocabulary and Advaita’s technical category must not be merged.
-- **C — Incorrect:** The status of *saguṇa* Brahman is not defined by this formula.
-- **D — Correct:** The term belongs to the ontological status of appearance.
+Which contrast is most accurate?
 
-**Remediation cue:** Replace “experience of Brahman” with “recognition that ātman is Brahman.”
+A. Yoga and Advaita both teach merger into a creator God.
+B. Buddhism and Nyāya identify liberation with Brahman.
+C. Devotional traditions erase the devotee–Lord relation at liberation.
+D. Advaita claims identity, Yoga isolation and theistic devotion enduring relation.
+
+**MCQ 10 — Answer and explanation**
+**Correct answer: B**
+
+- **A — Incorrect:** Brahman is not encountered as an external object within ordinary subject–object cognition.
+- **B — Correct:** Advaita defines liberation through established non-dual knowledge that removes ignorance.
+- **C — Incorrect:** Transient passivity is neither necessary nor sufficient for stable Advaitic knowledge.
+- **D — Incorrect:** *Māyā* is dependent appearance and not numerically identical with Brahman.
+
+**MCQ 11 — Answer and explanation**
+**Correct answer: C**
+
+- **A — Incorrect:** Personal devotion is not the lexical or technical meaning of *anirvacanīya*.
+- **B — Incorrect:** Yoga describes its Lord as a special consciousness, not through this Advaitic status term.
+- **C — Correct:** The term marks the neither-real-nor-unreal status of appearance within Advaita.
+- **D — Incorrect:** James uses “ineffability,” a different concept and vocabulary.
+
+**MCQ 12 — Answer and explanation**
+**Correct answer: D**
+
+- **A — Incorrect:** Classical Yoga seeks discriminative isolation, and Advaita does not posit merger with a separate creator.
+- **B — Incorrect:** Buddhist cessation and Nyāya liberation use different ontologies from Advaitic Brahman.
+- **C — Incorrect:** Relational devotional systems preserve real dependence or distinction.
+- **D — Correct:** The three structures differ logically in identity, separation and relation.
 
 ---
 
-## Lesson 7 — Vedāntic Plurality, Radhakrishnan and the Wider Indian Field
+## Lesson 5 — Vedāntic plurality and Radhakrishnan’s integral experience
 
-Progress: 7/12 | Stage: Core | Subtopic: Identity, relation, isolation, insight and integral intuition
+Progress: 5/10 | Stage: Core | Subtopic: Three Vedāntas and the 2025 named-work demand
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Queried — exact learner package; Radhakrishnan, *Indian Philosophy*, Vol. II, relevant yogic and Vedāntic pages; canonical named-work controls.
-CA search: "site:ayush.gov.in 2026 yoga meditation consciousness official India"
-CA found: The official 2026 yoga handbook and protocol frame yoga and meditation as disciplined well-being practices; they do not adjudicate mystical veridicality.
+Book context: queried — canonical Vedāntic and Radhakrishnan modules, coverage rows R06-34 to R06-43 and 2021/2025 PYQs.
+CA search: not performed — only the permitted repository texts control this reconstruction.
+CA found: not applicable; no modern event is used to validate spiritual intuition.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual first — four Indian logical structures
-
-| Tradition | Structure | Claimed terminus | What must not be imported |
-|---|---|---|---|
-| Advaita | Identity-recognition | Self as Brahman | Two independent terms |
-| Viśiṣṭādvaita / devotion | Graced relation and communion | Personal Brahman | Advaitic dissolution of difference |
-| Yoga | Isolation through discriminative insight | *Puruṣa* in *kaivalya* | Creator-God as universal object |
-| Buddhism | Insight into conditioned arising and cessation | Dharma / *nirvāṇa* | Permanent self or creator |
+### Visual: the same scriptural field, three incompatible relation-structures
 
 ```text
-IDENTITY ── Advaita
-RELATION ── Viśiṣṭādvaita / Dvaita / devotion
-ISOLATION ── Yoga
-INSIGHT AND CESSATION ── Buddhism
+UPANISADIC / VEDANTIC QUEST
+          |
+          +--> ADVAITA
+          |    self is not other than Brahman
+          |    identity; difference ultimately sublated
+          |
+          +--> VISISTADVAITA
+          |    selves/world are real dependent modes or body of Brahman
+          |    qualified unity; devotion and grace remain
+          |
+          +--> DVAITA
+               soul and Visnu remain eternally distinct
+               dependence, service and grace
 ```
 
-*“Indian religious experience” is a family of different structures, not Advaita under several names.*
+*A common soteriological aim does not make identity, qualified dependence and duality literally identical.*
 
-### 1. Vedānta generally
+### 1. Vedāntic experience is not Advaita alone
 
-Vedānta treats religious experience as the culmination of a disciplined search for liberating knowledge of self, world and Brahman. Scripture, reasoning, ethical preparation, contemplation, devotion and grace play different roles across schools.
+| School | Nature of realisation | Claimed object / relation | Main pressure |
+|---|---|---|---|
+| Advaita | stable non-dual knowledge after hearing, reflection and contemplation | self not other than Brahman | how a non-differentiated state is identified as Brahman-knowledge |
+| Viśiṣṭādvaita | loving contemplation and communion aided by devotion and grace | selves/world are real dependent modes of personal Brahman | why defects in dependent reality do not compromise divine perfection |
+| Dvaita | God-directed knowledge and loving service | soul and Viṣṇu eternally distinct | how conflicting Vedāntic interpretations can all claim scriptural fulfilment |
 
-- **Advaita:** non-dual identity.
-- **Viśiṣṭādvaita:** selves and world are real dependent modes of personal Brahman; liberation preserves loving communion.
-- **Dvaita:** God and soul remain eternally different; experience is grace-enabled relation to Viṣṇu.
-
-The 2021 question says “Vedāntic tradition,” so Advaita alone is incomplete.
+The 2021 question says “Vedāntic tradition.” A complete answer must display this plurality rather
+than universalising one school.
 
 ### 2. Radhakrishnan in *The Hindu View of Life*
 
-✅ Radhakrishnan gives priority to direct, intuitive spiritual experience of the Real. Dogma, creed and ritual are secondary conceptual and institutional expressions.
-
-His **integral intuition**:
-
-- unites cognition, feeling and will;
-- is higher than merely discursive sense-and-reason divisions;
-- is claimed to be self-certifying and transformative;
-- supports a universal spiritual depth beneath doctrinal plurality.
-
-This is not a hunch. It is presented as disciplined and integral awareness.
-
-### 3. Nature and object
-
-For Radhakrishnan, the **nature** is immediate, holistic, intuitive and transformative. The **object** is the spiritual Real or Spirit, grasped through participation rather than external inspection.
-
-His inversion is decisive:
+✅ The 2025 question names *The Hindu View of Life*. Radhakrishnan contrasts religion as fixed creed
+or ceremony with lived vision (*darśana*) and direct experience (*anubhava*). Religious experience
+is an integrated response of the person—cognition, feeling and will—to central spiritual reality.
 
 ```text
-EXPERIENCE OF THE REAL
-        ↓ conceptual expression
-DOGMA / CREED
-        ↓ social embodiment
-RITUAL / INSTITUTION
+LIVED APPREHENSION
+intellect + feeling + will
+          |
+          v
+INITIAL SELF-CERTIFICATION
+(svatah-siddha for the subject)
+          |
+          v
+RATIONAL AND LIVED TESTING
+logic + fresh inquiry + consequences
+          |
+          v
+DOCTRINAL ARTICULATION
+personal Bhagavan / supra-personal Brahman
 ```
+
+### 3. Self-certifying yet fallible
+
+Radhakrishnan describes experience as self-certifying, but he does not equate private certainty
+with logical infallibility. The experience must be tested through thought, tradition freshly
+interpreted, disciplined life and consequences.
+
+⚠️ This is a crucial examiner distinction: immediate conviction may be psychologically basic for
+the subject while its interpretation remains corrigible.
+
+### 4. Nature and object
+
+- **Nature:** integrated, direct, transformative and prior to later creedal formulation.
+- **Object:** the central spiritual reality or supreme spirit that Radhakrishnan argues lies behind
+  diverse reports.
+- **Mediation:** temperament, history and culture shape God-pictures.
+- **Personal/absolute synthesis:** personal **Bhagavān** names reality in relation to devotees;
+  Brahman names reality considered beyond finite representation.
+
+The proposed continuity of object is Radhakrishnan’s philosophical inference, not a neutral fact
+already accepted by every tradition.
 
 ### Strongest objection, reply and residual
 
-**Objection:** Radhakrishnan universalises an Advaitic ideal and assimilates personal theism and Buddhism to it.
+**Strength:** religion is treated as lived, integrated and correctable rather than mere assent.
 
-**Reply:** The defender can say universality concerns depth and transformation, not identical doctrinal description.
+**Diversity objection:** personal communion, Advaitic identity and Buddhist no-self cannot all be
+the same literal content.
 
-**Residual:** If the common depth has no determinate content, it may support tolerance but not the truth of any specific tradition.
+**Reply:** descriptions may be partial, mediated and analogical responses to one spiritual depth.
+
+**Residual:** if the common object is specified only after revising participants’ claims, the
+account risks privileging an Advaitic synthesis and becoming difficult to test independently.
 
 ### UPSC application
 
-- **2021 Q7(c):** Present internal Vedāntic plurality.
-- **2025 Q8(a):** Stay faithful to *The Hindu View of Life*; separately discuss nature and object.
-- **Trap:** “Vedāntic” is wider than “Advaitic.”
-- **Answer use:** Use identity versus relation as the organising contrast, then evaluate Radhakrishnan’s universalism.
+- **2021 Q7(c):** present the three Vedāntas and evaluate their incompatible self–ultimate relations.
+- **2025 Q8(a):** use the named work’s sequence: lived experience → self-certification with
+  fallibility → object → mediation → personal/absolute synthesis → evaluation.
+- **Trap:** Do not say Radhakrishnan makes intuition infallible or that all schools literally teach
+  one object.
+- **Answer line:** “The continuity of spiritual object is an argued interpretation, not an
+  uninterpreted datum.”
 
 ### Revision notes
 
-1. Vedānta shares a soteriological aim but not one experience-structure.
-2. Advaita reports identity.
-3. Viśiṣṭādvaita reports dependent communion.
-4. Dvaita preserves eternal difference.
-5. Yoga culminates in isolated consciousness.
-6. Buddhism culminates in insight and cessation without creator or permanent self.
-7. Radhakrishnan privileges direct experience over creed.
-8. Integral intuition joins cognition, feeling and will.
-9. The object is the spiritual Real, not a finite item.
-10. Ritual and dogma are secondary expressions.
-11. Transformation is a major authenticity test.
-12. The assimilation objection remains serious.
+1. Vedānta contains competing theories of experience.
+2. Advaita teaches identity.
+3. Viśiṣṭādvaita teaches real dependent plurality within personal Brahman.
+4. Dvaita teaches eternal soul–God distinction.
+5. Shared liberation-language does not erase structural incompatibility.
+6. Radhakrishnan privileges lived *darśana/anubhava* over fixed creed.
+7. His experience integrates cognition, feeling and will.
+8. Self-certification does not mean immunity from error.
+9. Reason and lived testing remain necessary.
+10. Psychological background mediates descriptions.
+11. Bhagavān/Brahman is Radhakrishnan’s personal/absolute synthesis.
+12. His common-object inference remains contestable.
 
 ### Local practice
 
-**MCQ 17: A**
+**MCQ 13**
 
-Why is an Advaita-only answer insufficient for “Vedāntic tradition”?
+What is the chief defect in answering the 2021 Vedāntic-experience question only through Advaita?
 
-A. Viśiṣṭādvaita and Dvaita preserve a real relation between soul and personal Brahman.
-B. Advaita denies all direct realisation.
-C. Vedānta is exclusively a ritual tradition.
-D. Rāmānuja and Madhva accept Buddhist no-self.
+A. It ignores Viśiṣṭādvaita’s qualified dependence and Dvaita’s enduring distinction.
+B. It gives too much attention to Western naturalism.
+C. It treats prayer as petition.
+D. It distinguishes identity from relation.
 
-- **A — Correct:** Vedāntic plurality includes identity and enduring relation.
-- **B — Incorrect:** Direct non-dual realisation is central to Advaita.
-- **C — Incorrect:** Vedāntic schools combine scripture, reason, discipline, devotion and knowledge differently.
-- **D — Incorrect:** Both affirm real selves and reject Buddhist *anātman*.
+**MCQ 14**
 
-**MCQ 18: B**
+Which statement best represents Radhakrishnan’s epistemic position?
 
-What is Radhakrishnan’s central inversion?
+A. Spiritual intuition is infallible and beyond rational appraisal.
+B. Experience may feel self-certifying while its articulation remains fallible and testable.
+C. Every doctrinal disagreement proves that no experience occurred.
+D. Ceremonial conformity is the sole criterion of religious truth.
 
-A. Institutions create the experience that legitimates them.
-B. Direct spiritual experience is primary; creed and ritual are secondary expressions.
-C. Reason alone creates religious truth.
-D. Mystical states lack cognitive significance.
+**MCQ 13 — Answer and explanation**
+**Correct answer: A**
 
-- **A — Incorrect:** It reverses his priority of experience.
-- **B — Correct:** Lived intuition grounds later doctrinal and institutional forms.
-- **C — Incorrect:** Integral intuition exceeds discursive reason without simply rejecting it.
-- **D — Incorrect:** He presents intuition as a mode of knowing.
+- **A — Correct:** “Vedāntic” requires more than the non-dual school because rival Vedāntas preserve different relations.
+- **B — Incorrect:** The central omission concerns Indian internal plurality rather than excess Western material.
+- **C — Incorrect:** Prayer is not the focus of the 2021 Vedāntic demand.
+- **D — Incorrect:** Identity–relation discrimination improves rather than weakens the answer.
 
-**MCQ 19: C**
+**MCQ 14 — Answer and explanation**
+**Correct answer: B**
 
-Which sequence correctly matches Indian traditions and structures?
-
-A. Advaita—relation; Yoga—creator encounter; Buddhism—self as Brahman
-B. Advaita—isolation; devotion—cessation; Buddhism—personal communion
-C. Advaita—identity; Yoga—isolation; devotion—relation; Buddhism—insight and cessation
-D. Advaita—ritual efficacy; Yoga—non-dual identity; Buddhism—eternal soul
-
-- **A — Incorrect:** Each pairing imports another tradition’s logical form.
-- **B — Incorrect:** It confuses three distinct termini.
-- **C — Correct:** The four structures preserve the required Indian plurality.
-- **D — Incorrect:** Buddhism denies the permanent soul and Yoga is not Advaita.
-
-**Remediation cue:** Use four verbs: **Advaita identifies; Yoga isolates; devotion relates; Buddhism sees and ceases.**
+- **A — Incorrect:** Radhakrishnan explicitly preserves a role for logical and experiential testing.
+- **B — Correct:** His account combines first-person immediacy with corrigible interpretation.
+- **C — Incorrect:** Disagreement challenges object-identification without erasing the occurrence of every state.
+- **D — Incorrect:** He treats creed and ceremony as secondary to lived spiritual apprehension.
 
 ---
 
-## Lesson 8 — Mystical Experience and Revelation: Vehicle, Disclosure and Control
+## Lesson 6 — Prayer, worship, mystical experience and revelation
 
-Progress: 8/12 | Stage: Core | Subtopic: Relation, non-identity and significance in religious life
+Progress: 6/10 | Stage: Core | Subtopic: Religious practice and claimed disclosure
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Queried — exact learner package; canonical revelation bridge; local Hick material represented in the audited source trail.
-CA search: "official India revelation mystical experience public claim 2026"
-CA found: No directly relevant official current-affairs item; the distinction remains conceptual and tradition-sensitive.
+Book context: queried — canonical prayer/worship and mystical-revelation owner modules with 2020/2023 PYQs.
+CA search: not performed — the requested provenance boundary excludes live material.
+CA found: not applicable; practice is analysed philosophically rather than through news examples.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual first — four possible combinations
-
-| | Revelation claimed | No revelation claimed |
-|---|---|---|
-| Mystical state present | Experience received as divine disclosure | Unity or awe without a message-claim |
-| No mystical state | Truths received through prophet, text or tradition | Neither |
+### Visual: two pairs that overlap without becoming identical
 
 ```text
-MYSTICAL EXPERIENCE = mode of awareness
-REVELATION          = claimed disclosure
+PRAYER ---------------------------- WORSHIP
+address / communication             acknowledgement of supreme worth
+petition, confession, thanks        homage, ritual, praise, service
+             \                      /
+              \---- ADORATION -----/
 
-Possible relation: experience ──carries/interprets──> revelation
-Necessary identity: no
+MYSTICAL EXPERIENCE -------------- REVELATION
+mode of awareness, unity            claimed disclosure of divine
+or encounter                        reality, truth or will
+             \                      /
+              \-- may mediate -----/
 ```
 
-*Because the off-diagonal cases are possible, mystical experience and revelation cannot be identical.*
+*Overlap does not erase the differentia: prayer is address, worship is valuation; experience is a
+mode of awareness, revelation is an attributed disclosure.*
 
-### 1. Plain-language distinction
-
-Mystical experience is a **mode of awareness**. Revelation is a **claimed disclosure** of divine reality or truth. An experience may carry revelation like a vehicle carries cargo, but vehicle and cargo are not the same.
-
-### 2. Three relations
-
-1. **Experience as non-propositional revelation:** Presence or event is received as self-disclosure.
-2. **Experience interpreted propositionally:** Doctrinal claims articulate what the subject believes was encountered.
-3. **Revelation regulating experience:** Scripture and community provide categories and tests.
-
-Hick’s “experiencing-as” model makes the event religiously significant through reception. The word “as” also reveals interpretive mediation.
-
-### 3. Indian parallel
-
-In Advaita, *śruti* removes ignorance and guides inquiry; *aparokṣānubhūti* is the culminating recognition. Text and experience relate as instruction to insight, not simply messenger to message. Theistic Vedānta more readily treats experience as grace-enabled encounter.
-
-### 4. Significance in religious life
-
-- **Origin:** Foundational disclosures generate traditions.
-- **Renewal:** Later experience reanimates inherited doctrine.
-- **Appropriation:** Belief becomes lived conviction.
-- **Transformation:** Conversion, devotion and moral fruits follow.
-- **Risk:** Private certainty can override reason, community or morality.
-
-Hence traditions use discernment: coherence, moral fruits, scriptural or doctrinal fit, spiritual guidance and communal testing.
-
-### Strongest objection, reply and residual
-
-**Objection:** If revelation is merely an event interpreted as divine, projection cannot be distinguished from disclosure.
-
-**Reply:** Discernment can reject incoherent, destructive or tradition-incompatible claims.
-
-**Residual:** Discernment tests authenticity and responsibility more readily than the existence of the revealer.
-
-### UPSC application
-
-- **2023 Q8(c):** Two tasks — relation and significance.
-- **Trap:** Do not identify mystical experience and revelation.
-- **Boundary:** Faith’s reception of revelation belongs to the neighbouring topic; keep the cross-link bounded.
-- **Answer use:** Prove non-identity through the two off-diagonal cases.
-
-### Revision notes
-
-1. Mystical experience is a mode of awareness.
-2. Revelation is claimed disclosure.
-3. Experience may be a vehicle of revelation.
-4. Non-propositional revelation need not communicate sentences.
-5. Propositional revelation need not involve mystical union.
-6. Hick’s “experiencing-as” displays interpretation.
-7. Advaita relates *śruti* to realisation as instruction to insight.
-8. Revelation can originate and renew traditions.
-9. Mysticism can appropriate doctrine existentially.
-10. Private certainty creates a risk of unchecked authority.
-11. Discernment tests authenticity more readily than truth.
-
-### Local practice
-
-**MCQ 20: D**
-
-What best proves that mystical experience and revelation are not identical?
-
-A. All revelations are public and all mystical states solitary.
-B. Revelation is always propositional.
-C. Mysticism never produces doctrinal interpretation.
-D. A mystical state can occur without disclosure-claim, and revelation can be affirmed without a mystical state.
-
-- **A — Incorrect:** Neither category is fixed by social location.
-- **B — Incorrect:** Non-propositional revelation is a standard alternative.
-- **C — Incorrect:** Mystical reports are frequently interpreted doctrinally.
-- **D — Correct:** Each off-diagonal possibility refutes one direction of identity.
-
-**MCQ 21: A**
-
-What does Hick’s “experiencing-as” most clearly show?
-
-A. An event is received through an interpretive religious framework.
-B. Revelation is independent of all concepts.
-C. Every mystical report proves one common Real.
-D. Scripture becomes unnecessary after one experience.
-
-- **A — Correct:** The “as” marks the contribution of interpretation.
-- **B — Incorrect:** The model explicitly allows conceptual mediation.
-- **C — Incorrect:** It offers a framework, not a proof of pluralist metaphysics.
-- **D — Incorrect:** Traditions continue to regulate and interpret experience.
-
-**MCQ 22: B**
-
-Which is a religious significance of mystical revelation rather than a proof of its object?
-
-A. It makes every private command morally binding.
-B. It can renew inherited faith through lived transformation.
-C. It eliminates the need for communal discernment.
-D. It converts ineffability into public demonstration.
-
-- **A — Incorrect:** Private authority is a risk, not an automatic entitlement.
-- **B — Correct:** Renewal and appropriation concern religious life without proving metaphysical truth.
-- **C — Incorrect:** Strong claims increase the need for testing.
-- **D — Incorrect:** Transformation does not transfer first-person evidence intact.
-
-**MCQ 23: C**
-
-What is the most accurate Advaitic relation between scripture and realisation?
-
-A. Scripture creates Brahman as an intentional object.
-B. Realisation replaces all prior teaching as false.
-C. Scripture removes ignorance and prepares the recognition that the self is Brahman.
-D. Revelation is a divine voice heard during transient ecstasy.
-
-- **A — Incorrect:** Brahman is not produced or objectified by testimony.
-- **B — Incorrect:** The teaching is fulfilled rather than simply discarded.
-- **C — Correct:** Instruction functions like the tenth-man disclosure.
-- **D — Incorrect:** This imports a theistic and episodic model.
-
-**Remediation cue:** Remember **mode ≠ message; vehicle ≠ cargo**.
-
----
-
-## Lesson 9 — Prayer and Worship: Address, Worth and Religious Function
-
-Progress: 9/12 | Stage: Core | Subtopic: Petition, adoration, non-theistic worship and autonomy
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Queried — exact learner package and canonical prayer/worship module.
-CA search: "official India prayer worship philosophy 2026"
-CA found: No official current-affairs development bears directly on the conceptual distinction.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-### Visual first — overlap without identity
+### 1. Prayer and worship distinguished
 
 | Axis | Prayer | Worship |
 |---|---|---|
-| Essential act | Address or communication | Acknowledgement of supreme worth |
-| Usual direction | I–Thou | Creature or practitioner before the sacred |
-| Form | Verbal or silent; spontaneous or set | Ritual, embodied, often communal |
-| Presupposition | A hearer, especially for petition | A reality held supremely valuable |
-| Non-theistic availability | Petition is strained | Clearly available |
+| Essential act | address or communication | acknowledgement of supreme worth |
+| Typical forms | adoration, confession, thanksgiving, supplication | praise, offering, ritual service, communal homage |
+| Locus | can be private, silent or spontaneous | often embodied, corporate and regulated |
+| Presupposition | an addressee or intended presence; petition expects response | a reality or ideal of supreme value; response is not required |
+| Overlap | adoration | adoration |
+
+The familiar **ACTS** scheme lists adoration, confession, thanksgiving and supplication. It is a
+taxonomy of prayer, not a definition of all worship.
+
+### 2. Petitionary prayer under pressure
 
 ```text
-ADORATION = prayer as address + worship as praise
+God already knows the need
+        +
+God is perfectly good
+        +
+God is immutable
+        v
+Why petition?
 ```
 
-### 1. Forms of prayer
+✅ **Aquinas:** prayer need not change the divine will; it may be a secondary means through which
+an ordained good is received.
 
-The mnemonic **ACTS** gives adoration, confession, thanksgiving and supplication. Intercession and contemplative prayer extend the list. Wordless prayer remains prayer when directedness survives the loss of articulated request.
+✅ **Eleonore Stump:** petition can protect a friendship-like relationship by allowing the recipient
+to ask rather than be overwhelmed by unsolicited benefaction.
 
-### 2. The problem of petition
-
-1. An omniscient God already knows the need.
-2. A perfectly good God already wills the best.
-3. An immutable God cannot be changed.
-4. Petition therefore appears idle or manipulative.
-
-**Aquinas:** Prayer does not change God. God may ordain that some goods be obtained through prayer, making it a secondary cause.
-
-**Eleonore Stump:** Asking protects the friendship-like relation between giver and recipient.
-
-**Residual:** These replies explain value and participation better than they prove causal dependence of outcomes on petitions.
+⚠️ These replies explain relational or causal value. They do not prove that a particular outcome
+depends on a petition.
 
 ### 3. Worship and autonomy
 
-James Rachels argues that worship entails unconditional obedience, whereas moral agency requires retaining final judgement; therefore no being can be worthy of worship.
+✅ **James Rachels:** if worship entails unconditional obedience, it threatens moral autonomy.
 
-**Replies:** Worship can acknowledge worth without blind obedience. A perfectly good will would not command evil. Human autonomy is already relational rather than atomistically independent.
+**Reply:** worship may acknowledge unsurpassable worth without suspending moral judgement. A
+perfectly good being’s command would not demand evil.
 
-### 4. Indian deciding cases
+**Residual:** the reply depends on an account of goodness not reduced to bare command.
 
-- **Jainism:** A *vītarāga* Tīrthaṅkara cannot respond; *caitya-vandana* is worship without answered petition.
-- **Mīmāṃsā:** Ritual efficacy lies in *apūrva*, not a granting deity.
-- **Advaita:** *Upāsanā* of *saguṇa* Brahman is valid at the empirical level and transcended at the ultimate level.
-- **Buddhism:** *Pūjā* can be commemorative and dispositional, though devotional traditions complicate the picture.
+### 4. Indian and non-theistic cases
 
-### 5. Their place in religion
+- **Jainism:** the liberated passionless teacher (*vītarāga*) does not grant requests. Reverence
+  therefore displays worship without answered petition.
+- **Mīmāṃsā:** ritual efficacy operates through unseen potency (*apūrva*), not a deity who personally
+  grants every result.
+- **Advaita:** worshipful contemplation (*upāsanā*) of God with qualities is valid at the empirical
+  level and later transcended, not simply dismissed.
+- **Buddhism:** image-veneration may be commemorative and dispositional, cultivating the worshipper.
 
-Prayer is the **relational organ** of religion: dependence, trust, confession and hope become action. Worship is the **evaluative and communal organ**: it marks the ultimate as ultimate, forms community and disciplines desire.
+These cases show that a religion may survive without petition and that worship need not always
+presuppose a responsive creator.
+
+### 5. Mystical experience and revelation
+
+✅ **Mystical experience:** putative immediate awareness, unity or encounter with the ultimate.
+
+✅ **Revelation:** the claim that divine reality or truth has disclosed itself.
+
+| Direction | Example | Limit |
+|---|---|---|
+| experience → revelation-interpretation | a noetic or encountered presence is taken as divine disclosure | phenomenological force does not identify the revealer |
+| revelation → experience | scripture and practice guide contemplative attention | the context may shape the experience itself |
+| experience → community | testimony renews prayer, conversion or devotion | transformation does not confer automatic authority |
+
+A Buddhist insight may be mystical without a personal revealer. A prophetic proposition may be
+claimed as revelation without mystical union. Therefore the concepts overlap but are not coextensive.
+
+### 6. Significance in religious life
+
+Mystical experience can vivify inherited teaching, reorganise the self and deepen prayer or
+devotion. Revelation can provide content, continuity and communal norms. Rational, ethical and
+traditional tests are needed because a self-authorising experience could otherwise legitimise
+harmful claims.
+
+### Strongest objection, reply and residual
+
+**Objection:** If scripture shapes the experience and the experience then confirms scripture, the
+argument is circular.
+
+**Reply:** Practice-guided attention need not fabricate its object; coherence, comparative
+testimony and fruits can provide additional checks.
+
+**Residual:** Those checks assess authenticity more easily than divine origin.
 
 ### UPSC application
 
-- **2020 Q7(b):** Half on distinction, half on place.
-- **Trap:** Do not define both as “communication with God.”
-- **Answer use:** Non-theistic cases prove that worship is more universal than petition.
+- **2020 Q7(b):** answer both verbs—distinguish prayer/worship and determine their place.
+- **2023 Q8(c):** define both concepts, show both directions of relation, then explain significance
+  and limits.
+- **Trap:** Petition is a species of prayer, not the whole of prayer.
+- **Answer line:** “Experience may carry revelation, but revelation adds an interpretation of
+  source, content and authority.”
 
 ### Revision notes
 
-1. Prayer is address.
-2. Worship is acknowledgement of supreme worth.
-3. Adoration overlaps both.
-4. ACTS classifies major forms of prayer.
-5. Petition faces omniscience, goodness and immutability objections.
-6. Aquinas treats prayer as an ordained secondary cause.
-7. Stump stresses relational value.
-8. Rachels links worship to threatened autonomy.
-9. Worship need not entail blind obedience.
-10. Jain and Mīmāṃsā cases separate worship from petition.
-11. Prayer is relational; worship is evaluative and communal.
-12. A religion may lose petition more easily than worship broadly understood.
+1. Prayer is address; worship is acknowledgement of worth.
+2. Adoration overlaps both.
+3. Petition expects possible response.
+4. Worship need not expect intervention.
+5. ACTS lists four prayer forms.
+6. Aquinas treats prayer as a secondary means.
+7. Stump gives a relational defence of petition.
+8. Rachels links worship with a threat to autonomy.
+9. Jain and Mīmāṃsā cases separate worship from a responsive deity.
+10. Mystical experience and revelation are not coextensive.
+11. Scripture can shape contemplative experience.
+12. Religious significance is not automatic public authority.
 
 ### Local practice
 
-**MCQ 24: D**
+**MCQ 15**
 
-Which distinction is most defensible?
+What is the best essential distinction between prayer and worship?
 
-A. Prayer is always private; worship is always public.
-B. Prayer is rational; worship is emotional.
-C. Prayer requires ritual; worship requires speech.
-D. Prayer is address, while worship is acknowledgement of supreme worth.
+A. Prayer is always private, while worship is always public.
+B. Prayer requires words, while worship requires images.
+C. Prayer is address; worship acknowledges supreme worth.
+D. Prayer is theistic, while worship is necessarily non-theistic.
 
-- **A — Incorrect:** Both can be private or communal.
-- **B — Incorrect:** Neither practice is defined by a reason–emotion contrast.
-- **C — Incorrect:** Prayer can be silent and worship may be non-verbal.
-- **D — Correct:** The essential acts explain their different presuppositions.
+**MCQ 16**
 
-**MCQ 25: A**
+Which case most clearly demonstrates worship without expectation of answered petition?
 
-Which case most clearly establishes worship without answered petition?
+A. A supplicant asking an omniscient God for rain.
+B. A prophet claiming a divine message.
+C. An Advaitin identifying the self with Brahman.
+D. Jain reverence toward a liberated *vītarāga* who does not grant requests.
 
-A. Jain veneration of a passionless Tīrthaṅkara
-B. James’s divided self
-C. Stace’s introvertive state
-D. Swinburne’s principle of testimony
+**MCQ 17**
 
-- **A — Correct:** The revered being cannot intervene, yet worship remains meaningful.
-- **B — Incorrect:** Conversion psychology does not decide the prayer–worship distinction.
-- **C — Incorrect:** A mystical type is not a ritual test case.
-- **D — Incorrect:** Testimony concerns epistemic warrant.
+Why are mystical experience and revelation not identical?
 
-**Remediation cue:** Ask: **Is the act speaking to, or treating as supremely worth?**
+A. A mystical state may lack a personal revealer, while revelation may occur without mystical union.
+B. Revelation is always sensory, whereas mysticism is always verbal.
+C. Every mystical state is publicly binding.
+D. Revelation has no doctrinal content.
+
+**MCQ 18**
+
+What is the strongest residual problem after coherence and fruits are used to test claimed revelation?
+
+A. No experience can ever influence conduct.
+B. Authenticity may be assessed more successfully than divine origin.
+C. Scripture cannot shape attention.
+D. Prayer and worship become synonyms.
+
+**MCQ 15 — Answer and explanation**
+**Correct answer: C**
+
+- **A — Incorrect:** Prayer may be communal, and worship may also occur privately.
+- **B — Incorrect:** Wordless prayer and non-imagistic worship defeat this medium-based contrast.
+- **C — Correct:** Communicative directedness and ascription of worth supply the essential differentia.
+- **D — Incorrect:** Non-theistic reverence shows that worship is not necessarily tied to a creator deity.
+
+**MCQ 16 — Answer and explanation**
+**Correct answer: D**
+
+- **A — Incorrect:** Supplication explicitly seeks a response from a personal addressee.
+- **B — Incorrect:** A revelation-claim concerns disclosure rather than the defining act of worship.
+- **C — Incorrect:** Non-dual recognition is not by itself an instance of homage to a non-responsive exemplar.
+- **D — Correct:** Jain veneration honours perfected worth without treating the liberated teacher as request-granter.
+
+**MCQ 17 — Answer and explanation**
+**Correct answer: A**
+
+- **A — Correct:** The two concepts can overlap, but each has cases beyond the extension of the other.
+- **B — Incorrect:** Neither revelation nor mystical awareness is restricted to that proposed medium.
+- **C — Incorrect:** James’s authority limitation directly denies universal compulsion.
+- **D — Incorrect:** Revelation typically includes attributed disclosure of truth, will or reality.
+
+**MCQ 18 — Answer and explanation**
+**Correct answer: B**
+
+- **A — Incorrect:** Conversion and saintliness display observable influence on conduct.
+- **B — Correct:** Public criteria can filter reports without establishing their transcendent source.
+- **C — Incorrect:** Katz’s challenge presupposes that tradition and scripture can shape attention deeply.
+- **D — Incorrect:** The concepts retain their distinction regardless of revelation-testing.
 
 ---
 
-## Lesson 10 — Veridicality I: Credulity, Testimony and Naturalistic Defeaters
+## Lesson 7 — Veridicality: credulity, testimony, naturalism and disagreement
 
-Progress: 10/12 | Stage: Advanced | Subtopic: Prima facie warrant, explanation and epistemic defeat
+Progress: 7/10 | Stage: Core | Subtopic: What, if anything, experience justifies
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Queried — Oxford Handbook epistemic models; exact learner package; canonical veridicality dossier.
-CA search: "official 2026 meditation research neural wellbeing India"
-CA found: Official yoga materials discuss health and meditation outcomes; they provide no official finding that a transcendent object is verified or disproved.
+Book context: queried — canonical veridicality module, coverage rows R06-21 to R06-27 and epistemic controls.
+CA search: not performed — neuroscience and live research are outside the permitted source set.
+CA found: not applicable; only a general philosophical mechanism–truth distinction is used.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual first — the warrant ledger
+### Visual: a defeasible warrant ladder
 
 ```text
-CREDIT SIDE                         POSSIBLE DEFEATERS
-credulity: trust seeming            pathology / drugs / suggestion
-testimony: trust report             projection / wish-fulfilment
-noetic presentation                 neural and social mediation
-coherence and fruits                conflicting religious objects
-        │                                  │
-        └─────────── balanced ─────────────┘
-             prima facie, defeasible warrant
-             ≠ public demonstration
+IT SEEMS TO S THAT X IS PRESENT
+              |
+              v
+PRIMA FACIE CREDULITY
+accept unless a defeater appears
+              |
+       +------+------+
+       |             |
+       v             v
+SUBJECT'S WARRANT    TESTIMONIAL WEIGHT FOR HEARER
+       |             |
+       +------+------+
+              v
+DEFEATERS?
+unreliable subject / rival reports / incoherence /
+explaining-away mechanism / moral corruption
+              |
+              v
+ALL-THINGS-CONSIDERED VERDICT
 ```
 
-### 1. Principle of credulity
+*Religious experience can begin an argument without ending it.*
 
-Richard Swinburne argues that if it seems to a subject that X is present, then probably X is present, absent special reasons for doubt. The principle extends ordinary epistemic trust to religious seemings.
+### 1. Swinburne’s principle of credulity
 
-The **principle of testimony** gives a hearer some reason to trust another person’s report, again absent defeaters.
+✅ If it seems to a subject that an object is present, one should normally accept that it is
+present unless there are special reasons for doubt. This mirrors ordinary perceptual trust.
 
-### 2. Exact strength
+The principle offers **prima facie** warrant. It does not say that every seeming is true.
 
-The conclusion is **prima facie** — justified at first appearance — not **ultima facie**, justified after every objection is considered. A noetic state may rationally authorise the subject without compelling outsiders.
+### 2. Principle of testimony
+
+A hearer may also normally give some weight to another person’s report unless the witness is
+unreliable or strong counterevidence exists. First-person seeming and second-hand testimony are
+different epistemic positions:
+
+| Position | Immediate evidence | Typical strength |
+|---|---|---|
+| experiencer | seeming plus direct phenomenology | strongest but defeasible |
+| hearer | report, character, context and fruits | weaker testimonial warrant |
+| public inquiry | comparative reports and consequences | discussion without transferred access |
 
 ### 3. Naturalistic explanations
 
-- Freud: projection or wish-fulfilment.
-- Social formation: communal expectations shape reports.
-- Psychological conditions: deprivation, suggestion or pathology.
-- Neural mediation: the state has bodily correlates.
+Freudian projection, social formation and neural mediation may explain why a subject reports an
+experience. Their epistemic force depends on what is shown.
 
-⚠️ A cause is not automatically a defeater. The critic must show that the mechanism is unreliable or that it fully explains the seeming without the proposed object.
+```text
+CAUSE IDENTIFIED
+      |
+      +--> merely a mediation mechanism?
+      |       then truth remains open
+      |
+      +--> mechanism shown systematically unreliable?
+      |       then it is a defeater
+      |
+      +--> mechanism fully explains the seeming without the object?
+              possible explaining-away challenge
+```
 
-**Example with a limit:** Vision has neural causes and real objects. Therefore “neural” does not entail “illusory.” Yet ordinary vision has public correction methods that religious experience may lack.
+Calling every causally explained state false commits a genetic mistake. Conversely, invoking the
+genetic fallacy cannot protect a report whose production is independently shown unreliable.
 
-### 4. Transformation and verification
+### 4. Diversity as the serious defeater
 
-Jamesian fruits, coherence and freedom from obvious pathology can support authenticity. They do not prove the object. Good consequences can flow from false beliefs, and disruptive truth can produce distress.
+Religious reports identify incompatible objects and relations:
+
+- personal communion with God;
+- self–Brahman identity;
+- enduring soul–God distinction;
+- Buddhist no-permanent-self;
+- Yoga’s isolation of consciousness.
+
+Common moral fruits do not make these contents logically equivalent.
+
+### 5. Hick’s mediation proposal
+
+✅ Hick proposes that culturally shaped experiences may be responses to one ultimate Real.
+
+**Gain:** diversity need not entail that every report is fabricated.
+
+**Cost:** if the Real is beyond all specific predicates, it may become too indeterminate to support
+the concrete claims religions make. Reconciliation may occur by revising first-order claims rather
+than simply affirming them.
+
+### 6. A disciplined verdict
+
+Religious experience may confer defeasible justification on the subject and limited testimonial
+weight on others. It does not, without further argument, publicly establish its object. Diversity
+is often a stronger epistemic challenge than mere causal mediation.
 
 ### Strongest objection, reply and residual
 
-**Objection:** Credulity assumes the disputed analogy between sensory and religious experience.
+**Objection:** Applying credulity equally to incompatible experiences produces contradictory
+justified beliefs.
 
-**Reply:** Restricting default trust to sensory perception may be arbitrary, since memory and testimony also lack non-circular foundations.
+**Reply:** Initial warrant is defeasible; awareness of rival reports can lower confidence and
+require comparative inquiry.
 
-**Residual:** Religious diversity and weaker cross-checking may still justify a lower confidence level.
+**Residual:** No neutral criterion may be strong enough to adjudicate all mature practices.
 
 ### UPSC application
 
-- Use in 2019 public discourse, 2025 Radhakrishnan and 2026 James evaluation.
-- **Trap:** Do not claim neural correlation either proves or refutes transcendence.
-- **Answer use:** Rank diversity above bare neurology as a defeater.
+- **Object question:** always distinguish an experience of X from X’s independent existence.
+- **Public discourse:** testimony can supply limited reasons without reproducing first-person force.
+- **Trap:** “Caused by the brain” and “therefore false” are separate premises.
+- **Answer line:** “Causal explanation and epistemic defeat are not identical.”
 
 ### Revision notes
 
-1. Credulity gives initial trust to seemings.
-2. Testimony extends limited warrant to hearers.
-3. Prima facie is defeasible.
-4. Ultima facie means all-things-considered.
-5. Noetic force is experienced authority.
-6. Projection and wish-fulfilment are naturalistic explanations.
-7. Causal explanation differs from epistemic defeat.
-8. A defeater must show unreliability or explanatory sufficiency.
-9. Fruits support authenticity, not proof.
-10. Public cross-checking is weaker than in ordinary perception.
-11. Diversity is a stronger challenge than correlation alone.
+1. Credulity begins from a seeming.
+2. Its warrant is prima facie and defeasible.
+3. Testimony gives a hearer a different, weaker basis.
+4. Subject and outsider do not possess the same evidence.
+5. Mediation does not automatically explain away.
+6. Demonstrated unreliability is a genuine defeater.
+7. Diversity concerns incompatible object-claims.
+8. Similar fruits do not entail identical metaphysics.
+9. Hick proposes culturally mediated responses to one Real.
+10. An indeterminate Real may not support determinate doctrines.
+11. Religious experience can begin rather than complete a proof.
+12. A graded conclusion is stronger than total acceptance or dismissal.
 
 ### Local practice
 
-**MCQ 26: B**
+**MCQ 19**
 
-What does the principle of credulity initially support?
+What does the principle of credulity most plausibly provide?
 
-A. Public certainty that every reported object exists
-B. Defeasible warrant for the subject absent special reasons for doubt
-C. The impossibility of hallucination
-D. Equal truth of contradictory doctrines
+A. Infallible knowledge for every experiencer.
+B. Public proof binding on every rational person.
+C. Defeasible initial warrant for the subject absent special reasons for doubt.
+D. A rule that all conflicting reports are jointly true.
 
-- **A — Incorrect:** Initial warrant is not universal demonstration.
-- **B — Correct:** The presumption operates only until relevant defeaters appear.
-- **C — Incorrect:** The principle explicitly allows defeat.
-- **D — Incorrect:** Conflicting applications create the diversity problem.
+**MCQ 20**
 
-**MCQ 27: C**
+When does a causal account of religious experience function as an epistemic defeater?
 
-When does a neural explanation become an epistemic defeater?
+A. Whenever any neural process accompanies the experience.
+B. Whenever the experience has cultural vocabulary.
+C. Whenever the person later changes conduct.
+D. When the mechanism is shown to be unreliable or to explain away the seeming.
 
-A. Whenever a brain state accompanies the experience
-B. Whenever meditation alters attention
-C. When the mechanism is shown unreliable or fully explains the seeming without the proposed object
-D. Whenever the subject belongs to a religious tradition
+**MCQ 21**
 
-- **A — Incorrect:** Ordinary veridical perception also has neural correlates.
-- **B — Incorrect:** Altered attention establishes mediation rather than illusion.
-- **C — Correct:** The critic must connect cause to unreliability or explanatory exclusion.
-- **D — Incorrect:** Social membership alone does not decide truth.
+Why is religious diversity especially difficult for veridicality?
 
-**MCQ 28: D**
+A. Mature reports make incompatible claims about object and self–ultimate relation.
+B. Every tradition uses the same concepts.
+C. Diverse reports prove that no psychological events occurred.
+D. Diversity affects language but never content.
 
-What is the safest use of moral transformation?
+**MCQ 19 — Answer and explanation**
+**Correct answer: C**
 
-A. It demonstrates a personal God.
-B. It proves all doctrines behind the transformation.
-C. It eliminates the diversity objection.
-D. It is evidence of authenticity and value, not deductive proof of the object.
+- **A — Incorrect:** The principle remains open to hallucination, bias and counterevidence.
+- **B — Incorrect:** First-person seeming cannot be converted directly into universally compelling proof.
+- **C — Correct:** Credulity supplies a rebuttable starting point rather than an indefeasible conclusion.
+- **D — Incorrect:** Rival claims may generate defeat instead of collective truth.
 
-- **A — Incorrect:** Similar transformation occurs in non-theistic traditions.
-- **B — Incorrect:** One fruit cannot verify every associated proposition.
-- **C — Incorrect:** Conflicting traditions can produce comparable fruits.
-- **D — Correct:** This preserves the evidential relevance without overclaiming.
+**MCQ 20 — Answer and explanation**
+**Correct answer: D**
 
-**Remediation cue:** Complete the sentence: **A mechanism defeats only when…**
+- **A — Incorrect:** Ordinary veridical perception also has neural mediation.
+- **B — Incorrect:** Conceptual expression alone does not demonstrate fabrication.
+- **C — Incorrect:** Transformation concerns consequences rather than mechanism reliability.
+- **D — Correct:** A defeating explanation must undercut the process or render the proposed object explanatorily idle.
+
+**MCQ 21 — Answer and explanation**
+**Correct answer: A**
+
+- **A — Correct:** Personal encounter, non-dual identity and no-self cannot all be the same literal relation.
+- **B — Incorrect:** The problem arises precisely because traditions use divergent conceptual structures.
+- **C — Incorrect:** Conflict challenges interpretation and object, not the occurrence of every experience.
+- **D — Incorrect:** Katz and Zaehner both make content-level diversity philosophically important.
 
 ---
 
-## Lesson 11 — Veridicality II: Alston, Plural Experience and Hick’s Real
+## Lesson 8 — Alston and the public-discourse problem
 
-Progress: 11/12 | Stage: Advanced | Subtopic: Perceptual model, doxastic practices and diversity
+Progress: 8/10 | Stage: Core | Subtopic: Perceptual appearance, doxastic practice and graded intersubjectivity
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Queried — Oxford Handbook; exact learner package; advanced perceptual-model and plural-experience debates.
-CA search: "official India interfaith religious experience 2026"
-CA found: No official current-affairs source adjudicates incompatible mystical truth-claims; scholarly material is not relabelled as official news.
+Book context: queried — canonical Alston and public-discourse modules with coverage rows R06-23, R06-24 and R06-28 to R06-31.
+CA search: not performed — political or contemporary examples are not needed for this repository-only task.
+CA found: not applicable; the lesson remains a conceptual analysis.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual first — Alston’s argument and where it stops
+### Visual: from appearance to public discussion
 
 ```text
-1. Perception = something appearing to a subject
-        ↓
-2. Sensory content is not essential to that structure
-        ↓
-3. Some awareness of God can be M-perception
-        ↓
-4. M-beliefs arise within a socially established doxastic practice
-        ↓
-5. Sense, memory and induction also lack non-circular validation
-        ↓
-6. Engagement in the religious practice can be practically rational
-
-CONCLUSION: prima facie justification and rational participation
-NOT: proof that the practice is reliable
+M-PERCEPTION
+God seems directly presented
+       |
+       v
+M-BELIEF
+belief formed from mystical perception
+       |
+       v
+DOXASTIC PRACTICE
+socially established input-output and correction rules
+       |
+       v
+PRACTICAL RATIONALITY OF PARTICIPATION
+not proof that the practice is reliable
+       |
+       v
+PUBLIC DISCUSSION
+report + coherence + discernment + fruits + disciplined method
 ```
 
-### 1. Perceptual model
+### 1. Alston’s perceptual model
 
-✅ In *Perceiving God* (1991), William Alston argues that perception is an object’s **appearing** or presenting itself to a subject. Non-sensory presentation can therefore share perceptual structure. Beliefs generated through mystical perception are **M-beliefs**.
+✅ William Alston argues that some religious experience is perception-like: God appears or is
+presented non-sensorily to a subject. Perception is defined by the structure of appearing, not
+restricted to visual or auditory sensation.
+
+Beliefs formed from mystical perception are **M-beliefs**. They can possess prima facie
+justification.
 
 ### 2. Doxastic practices
 
-A **doxastic practice** is a socially established belief-forming practice with inputs, outputs and override procedures. Sense perception, memory and induction cannot be validated without using their own outputs. It would be asymmetrical to demand non-circular proof only from religious practice.
+A **doxastic practice** is a socially established belief-forming practice with:
 
-Alston defends the **practical rationality** of participation and **prima facie** justification of outputs, not proven reliability.
+- characteristic inputs;
+- characteristic belief outputs;
+- internal checks and overriders;
+- transmission and correction procedures.
 
-### 3. Diversity as the strongest objection
+Sense perception, memory and induction cannot be validated without using practices that already
+depend on them. Alston argues that the same demand for wholly external, non-circular proof cannot be
+selectively imposed only on Christian mystical practice.
 
-Christian, Advaitic, Buddhist and Islamic practices may each be established and internally coherent while producing incompatible claims. Alston’s response is that participants may rationally “sit tight” absent a neutral adjudicating ground. He concedes the discomfort.
-
-### 4. Hick’s reply and its price
-
-John Hick proposes culturally conditioned responses to one **Real an sich**. Personal God, non-dual Brahman and other ultimate forms are phenomenal manifestations through different lenses.
-
-**Price:** If the Real is beyond determinate description, it may be too thin to support the doctrines it is meant to reconcile. The theory can also become unfalsifiable.
-
-### Strongest objection, reply and residual
-
-**Objection:** Religious practices lack sensory perception’s prediction, public checking and convergence.
-
-**Reply:** They possess discernment, doctrinal tests, spiritual guidance and moral-fruit checks.
-
-**Residual:** Internal correction exists, but no shared cross-practice tribunal resolves incompatible objects.
-
-### UPSC application
-
-- Use Alston only at his actual strength.
-- Use Hick as a bounded reply to diversity, not as a full pluralism essay.
-- **Trap:** Alston does not prove reliability.
-- **Answer use:** “He shifts the burden without eliminating the diversity defeater.”
-
-### Revision notes
-
-1. Alston defines perception through appearing.
-2. M-perception is mystical perception.
-3. M-beliefs arise from such presentation.
-4. Doxastic practices are socially established belief-forming systems.
-5. No major practice receives non-circular external validation.
-6. Alston defends practical rationality.
-7. His justification is prima facie.
-8. Diversity is his strongest objection.
-9. “Sit tight” preserves rational participation, not common truth.
-10. Hick proposes one Real through cultural lenses.
-11. Indeterminacy is the price of Hick’s reconciliation.
-12. Internal override systems are weaker than cross-practice adjudication.
-
-### Local practice
-
-**MCQ 29: A**
-
-What does Alston actually defend?
-
-A. Practical rationality of engaging in an established religious doxastic practice
-B. A deductive proof that Christian mystical practice is reliable
-C. The impossibility of conflicting religious perceptions
-D. Ultima facie justification for every M-belief
-
-- **A — Correct:** His conclusion is intentionally modest and practice-relative.
-- **B — Incorrect:** Reliability is not demonstrated non-circularly.
-- **C — Incorrect:** Diversity is the objection he treats as most serious.
-- **D — Incorrect:** The warrant remains defeasible.
-
-**MCQ 30: B**
-
-What is the main cost of Hick’s appeal to the Real *an sich*?
-
-A. It denies all cultural mediation.
-B. An indescribable Real may be too indeterminate to ground specific religious claims.
-C. It turns every tradition into classical theism.
-D. It eliminates transformation from religion.
-
-- **A — Incorrect:** Cultural mediation is central to Hick’s proposal.
-- **B — Correct:** Reconciliation is purchased by thinning the object.
-- **C — Incorrect:** The model aims to include non-theistic traditions.
-- **D — Incorrect:** Soteriological transformation remains important.
-
-**Remediation cue:** Write **Alston: rational practice, not proven reliability; Hick: reconciliation, but indeterminacy.**
-
----
-
-## Lesson 12 — Public Discourse: Verification, Private Language and Transformation
-
-Progress: 12/12 | Stage: Advanced | Subtopic: How far first-person religious experience can become public reason
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Queried — exact learner package; canonical public-discourse module; Oxford epistemic discussion.
-CA search: "official India public discourse religion meditation 2026"
-CA found: No official current-affairs event directly tests the veridicality of religious experience; official wellness sources are a practice-context only.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-### Visual first — the ladder of publicity
+### 3. What Alston concludes
 
 ```text
-MORE PUBLIC
-  6. Argument about socially established practices
-  5. Disciplined repeatability: yoga, dhyāna, nididhyāsana
-  4. Observable moral and practical fruits
-  3. Traditional discernment and override rules
-  2. Coherence and comparative phenomenology
-  1. First-person report
-LESS PUBLIC
+NOT: mystical practice has been proved reliable
 
-PUBLICLY ASSESSABLE: description, coherence, practice, fruits
-NOT PUBLICLY TRANSFERABLE: the subject's felt evidential force
+YES: participation may be practically rational
+     and its outputs prima facie justified
+     absent sufficient defeating reasons
 ```
 
-### 1. The case against publicity
+The modest conclusion is philosophically stronger than the exaggerated one.
 
-- **Ineffability:** complete articulation is unavailable.
-- **Privileged access:** the subject alone undergoes the state.
-- **No shared correction:** there is no universally accepted cross-tradition checking procedure.
-- **Private-language concern:** a wholly private criterion cannot secure the distinction between seeming right and being right.
-- **Public reason:** private revelation cannot by itself justify coercive political decisions.
+### 4. Diversity objection
 
-### 2. The case for publicity
+Multiple incompatible mystical practices are socially established and internally supported.
+Practical rationality within each cannot show that they all track the same object. Alston permits a
+participant to “sit tight” absent neutral defeat, but the lack of adjudication remains uncomfortable.
 
-1. **Phenomenological description:** Comparative typologies use first-person reports.
-2. **Coherence:** Reports can be checked for internal consistency.
-3. **Discernment norms:** Traditions test experiences through teachers, texts and communal criteria.
-4. **Fruits:** Conduct and transformation are publicly observable.
-5. **Disciplined repeatability:** Yoga and contemplative paths offer stated preconditions and expected outcomes.
-6. **Doxastic-practice analysis:** Inputs, outputs and override systems can be publicly debated.
+### 5. How far public discourse can go
 
-The Indian “experiment” analogy has a limit: an untrained observer cannot immediately reproduce the result. It resembles expert perception more than an open laboratory test.
-
-### 3. Habermas and the public sphere
-
-A useful political bridge is the translation proviso: religious citizens may speak religiously in the informal public sphere, while reasons entering formal state decisions should become generally accessible. This is an analogy for degree, not proof of mystical claims.
-
-### 4. Verification and transformation
-
-Verification must be graded:
-
-| Test | What it can support | What it cannot establish alone |
+| Publicly assessable | What it can show | What it cannot transfer |
 |---|---|---|
-| Coherence | Intelligibility | Existence of object |
-| Discernment | Tradition-conformity | Cross-tradition truth |
-| Fruits | Authenticity and value | Metaphysical veridicality |
-| Repeatable discipline | Methodological seriousness | Neutral public replication |
-| Testimony | Hearer’s limited warrant | Transfer of first-person certainty |
+| phenomenological report | recurrent structures and differences | full first-person quality |
+| internal coherence | whether the account contradicts itself | truth of the transcendent object |
+| traditional discernment | whether the state meets inherited tests | independent proof of the tradition |
+| moral/practical fruits | observable consequences | unique metaphysical cause |
+| disciplined practice | stated procedures and repeatability claims | neutral experimental access |
+| testimony | limited reasons for a hearer | the subject’s immediate seeming |
+
+The 2019 “how far” stem therefore needs a graded answer:
+
+```text
+PUBLICLY DISCUSSABLE
+as data, description, testimony, practice and consequence
+                       |
+                       v
+NOT PUBLICLY TRANSFERABLE
+as the identical first-person evidence
+                       |
+                       v
+NOT AUTOMATIC PUBLIC PROOF
+of the claimed transcendent object
+```
+
+### 6. Ineffability and discourse
+
+Ineffability denies exhaustive transfer, not all articulation. Typologies, analogies, narratives,
+conduct and procedural conditions make discussion possible. A wholly private criterion remains
+problematic, but reports are rarely wholly private in that strict sense.
 
 ### Strongest objection, reply and residual
 
-**Objection:** All public criteria assess authenticity, not truth.
+**Objection:** Alston merely licenses every established practice, including incompatible or harmful
+ones.
 
-**Reply:** Correct. Public discussion is still substantial: it can compare, classify, criticise and regulate claims without proving their objects.
+**Reply:** Social establishment supplies no immunity. Internal incoherence, failed correction,
+moral corruption and external counterevidence can defeat a practice.
 
-**Residual:** The evidential force remains asymmetrical — strongest for the subject, weaker for the hearer, non-compulsory for the public.
+**Residual:** The parity argument still lacks a universally accepted neutral method for choosing
+among mature rival practices.
 
 ### UPSC application
 
-- **2019 Q7(c):** “How far” requires a degree and a line.
-- **2026 Q5(a):** James’s genuineness criteria remain personal and pragmatic.
-- **Trap:** Public discourse is not public proof.
-- **Answer use:** Conclude: “Publicly discussable and privately probative, but not publicly demonstrative.”
+- **2019 Q7(c):** structure as limits → six public criteria → authenticity/truth distinction →
+  graded conclusion.
+- **Alston use:** state “practical rationality and prima facie warrant,” never “proved reliability.”
+- **Trap:** Public discourse is not identical with public verification.
+- **Answer line:** “First-person force is non-transferable, but reports and consequences are
+  intersubjectively assessable.”
 
 ### Revision notes
 
-1. Ineffability limits full expression.
-2. Privileged access restricts transfer of warrant.
-3. Private-language concerns target wholly private criteria.
-4. Reports remain public data.
-5. Coherence is publicly assessable.
-6. Traditions possess discernment norms.
-7. Fruits are observable.
-8. Disciplined practices make a bounded replicability claim.
-9. Training dependence limits the laboratory analogy.
-10. Doxastic practices can be publicly analysed.
-11. Translation matters in formal political reason.
-12. Authenticity and truth are different.
-13. Religious experience is publicly discussable.
-14. Its strongest evidential force remains first-personal.
+1. Alston models some experience as non-sensory perception.
+2. M-beliefs arise from mystical perception.
+3. Appearance-structure need not be sensory.
+4. Doxastic practices have inputs, outputs and correction rules.
+5. All major belief practices face some circularity in validation.
+6. Alston defends practical rationality of engagement.
+7. He does not prove mystical practice reliable.
+8. Diversity is his strongest difficulty.
+9. Ineffability permits partial articulation.
+10. Coherence and fruits test authenticity better than truth.
+11. Disciplined practice is training-dependent.
+12. Public discussion can weigh testimony without inheriting direct access.
 
 ### Local practice
 
-**MCQ 31: C**
+**MCQ 22**
 
-Which conclusion best answers “how far” religious experience can enter public discourse?
+What is Alston’s carefully limited conclusion?
 
-A. It cannot be discussed because ineffability prohibits every report.
-B. It publicly proves its object whenever moral fruits are visible.
-C. It is publicly assessable as report, practice and transformation, but privately probative as evidence.
-D. It can enter only after every religious term is removed.
+A. Every religious seeming is ultima facie justified.
+B. Engagement in an established mystical practice may be practically rational absent defeaters.
+C. Christian mystical practice is non-circularly proved superior.
+D. Sensory perception is unreliable because it is circular.
 
-- **A — Incorrect:** Comparative phenomenology exists because partial report is possible.
-- **B — Incorrect:** Fruits establish authenticity more readily than metaphysical truth.
-- **C — Correct:** The graded conclusion preserves both publicity and evidential limitation.
-- **D — Incorrect:** Translation may be required in formal politics, not in every public discussion.
+**MCQ 23**
 
-**MCQ 32: D**
+Which item can enter public discourse without transferring the subject’s first-person evidence?
 
-What is the strongest limit on the claim that yoga makes religious experience publicly repeatable?
+A. The exact qualitative presence itself.
+B. An infallible intuition available to all.
+C. A report’s coherence, consequences and testimonial credibility.
+D. A compulsory metaphysical conclusion.
 
-A. Yoga has no stated practices.
-B. Every practitioner reports an identical object.
-C. Training prevents any experience from being real.
-D. Access depends on discipline and commitment, so replication is closer to expert perception than an open laboratory test.
+**MCQ 24**
 
-- **A — Incorrect:** Yogic paths explicitly present staged disciplines.
-- **B — Incorrect:** Indian traditions interpret goals differently.
-- **C — Incorrect:** Mediation by training does not entail fabrication.
-- **D — Correct:** The analogy gains methodological seriousness but loses unrestricted public accessibility.
+Why does ineffability not end public discussion?
 
-**MCQ 33: A**
+A. Ineffability means every report is literally complete.
+B. Mystical language has no experiential basis.
+C. Outsiders automatically share the same state.
+D. Partial descriptions, analogies, practices and fruits remain available.
 
-Which criterion most directly supplies public evidence without proving metaphysical truth?
+**MCQ 25**
 
-A. Observable moral fruits
-B. Felt certainty alone
-C. A claim of ineffability alone
-D. The absence of all interpretation
+What is the principal diversity pressure on Alston’s doxastic-practice approach?
 
-- **A — Correct:** Changed conduct is intersubjectively available while remaining metaphysically underdetermined.
-- **B — Incorrect:** Felt certainty is strongest only for the subject.
-- **C — Incorrect:** Ineffability marks a reporting limit rather than corroboration.
-- **D — Incorrect:** Uninterpreted access is disputed and not a public criterion.
+A. Incompatible established practices may each be internally rational without a neutral adjudicator.
+B. No religious practice has social transmission.
+C. Sense perception has no correction mechanisms.
+D. Mystical beliefs never arise within communities.
 
-**MCQ 34: B**
+**MCQ 22 — Answer and explanation**
+**Correct answer: B**
 
-What do private-language considerations challenge?
+- **A — Incorrect:** Prima facie warrant remains vulnerable to overriding reasons.
+- **B — Correct:** Alston’s parity argument supports rational participation rather than demonstrated reliability.
+- **C — Incorrect:** He acknowledges the absence of a neutral, non-circular superiority proof.
+- **D — Incorrect:** Circular dependence does not make ordinary perception irrational on his account.
 
-A. The occurrence of all first-person states
-B. A criterion whose correctness is wholly private and has no stable check
-C. The use of analogy in religious language
-D. Every form of contemplative discipline
+**MCQ 23 — Answer and explanation**
+**Correct answer: C**
 
-- **A — Incorrect:** The concern is criterion and rule-following, not whether experience occurs.
-- **B — Correct:** A wholly private standard cannot secure seeming right versus being right.
-- **C — Incorrect:** Analogy is a separate semantic question.
-- **D — Incorrect:** Disciplined practice can contain public norms and instruction.
+- **A — Incorrect:** The identical qualitative presence is precisely what testimony cannot hand over.
+- **B — Incorrect:** Public discussion begins because universal access is absent.
+- **C — Correct:** Shared reasons can assess a report’s structure and effects without duplicating it.
+- **D — Incorrect:** Discussion permits a graded verdict rather than compulsory assent.
 
-**Remediation cue:** Separate **public discussion, public assessment and public demonstration**.
+**MCQ 24 — Answer and explanation**
+**Correct answer: D**
+
+- **A — Incorrect:** Ineffability denies exhaustive, not merely partial, communication.
+- **B — Incorrect:** The concept arises from an experienced excess over expression.
+- **C — Incorrect:** Outsiders remain in a testimonial rather than immediate epistemic position.
+- **D — Correct:** Comparative phenomenology and public consequences survive the communication limit.
+
+**MCQ 25 — Answer and explanation**
+**Correct answer: A**
+
+- **A — Correct:** Equal internal rationality does not resolve contradictory object-claims across practices.
+- **B — Incorrect:** Doxastic practices are defined partly by social establishment and transmission.
+- **C — Incorrect:** Sense perception includes correction and overriding procedures.
+- **D — Incorrect:** Communities are central to the formation and checking of M-beliefs.
 
 ---
+
+## Lesson 9 — Indian–Western parity: nature, object, method and authority
+
+Progress: 9/10 | Stage: Synthesis | Subtopic: A comparative matrix without forced equivalence
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried — complete canonical owner, Clause 6 parity bench and all nine PYQ routes.
+CA search: not performed — synthesis is restricted to audited repository materials.
+CA found: not applicable; no external analogy controls the comparison.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Visual: the four-axis comparison rail
+
+```text
+NATURE
+encounter / awe / unity / identity / insight
+   |
+   v
+OBJECT
+God / Holy / MORE / Brahman / purusha / Dharma-nirvana
+   |
+   v
+METHOD
+grace / prayer / testimony / contemplation / disciplined meditation
+   |
+   v
+AUTHORITY
+subject-certainty / tradition-test / testimony / public assessment
+```
+
+### 1. Master comparison
+
+| Account | Nature | Object or terminus | Method | Authority limit |
+|---|---|---|---|---|
+| James | ineffable-noetic; often transient-passive | wider “MORE” | testimony and pragmatic study | subject-authority, not outsider compulsion |
+| Otto | numinous awe, creature-feeling | Holy/wholly other | apprehension later schematised | distinctiveness does not prove reality |
+| Schleiermacher | absolute dependence | Infinite/God | immediate feeling | dependence may be psychologically explained |
+| Stace | extrovertive or introvertive unity | common One/core | comparative phenomenology | interpretation may be inseparable |
+| Zaehner | nature, monistic or theistic | nature, impersonal absolute or personal God | differentiated typology | ranking is contestable |
+| Alston | perception-like presentation | God | established doxastic practice | practical rationality, not proved reliability |
+| Advaita | stable non-dual recognition | self as Brahman | hearing, reflection, contemplation | scripture may shape identification |
+| Viśiṣṭādvaita | communion and devotion | personal qualified Brahman | devotion and grace | retains real difference |
+| Dvaita | God-directed knowledge/service | Viṣṇu distinct from soul | scripture, devotion, grace | conflicts with identity accounts |
+| Yoga | concentrated discrimination | isolated consciousness | eightfold discipline and absorption | not a creator encounter |
+| Buddhism | insight into conditioned arising and cessation | Dharma/*nirvāṇa* | ethical-meditative path | no permanent-self or creator object |
+| Radhakrishnan | integrated intuition, self-certifying yet corrigible | supreme spirit/central Reality | whole-person practice plus rational testing | common-object inference is disputable |
+
+### 2. Five decisive comparative axes
+
+1. **Relation versus identity:** theistic communion preserves two terms; Advaita sublates the
+   duality.
+2. **Episode versus stable knowledge:** James’s transiency is usual; Advaitic knowledge is meant
+   to become established.
+3. **Grace versus disciplined method:** traditions weight gift, preparation and repeatable practice
+   differently.
+4. **Object versus terminus:** “object” works naturally for God or the Holy, less naturally for
+   self-recognition or cessation.
+5. **Authority:** direct seeming, tradition-sensitive confirmation, testimony and public criteria
+   yield different levels of warrant.
+
+### 3. Comparison without flattening
+
+```text
+SAFE COMPARISON
+same analytical question + different doctrinal answer
+
+UNSAFE COMPARISON
+different vocabulary = same experience = same object
+```
+
+The comparison should neither isolate traditions completely nor force them into one perennial
+scheme. Functional parallels may be real while metaphysical foundations remain different.
+
+### 4. Core conclusion
+
+The strongest general thesis is graded:
+
+- religious experience is credible as a recurrent, psychologically real and often transformative
+  dimension of religious life;
+- it may give defeasible warrant to the subject;
+- testimony and public criteria make it discussable;
+- incompatible object-claims and interpretation-dependence prevent automatic public proof;
+- Indian traditions broaden the category beyond encounter with a creator God.
+
+### Strongest objection, reply and residual
+
+**Objection:** A universal matrix imposes Western categories such as “object” and “experience” on
+Indian liberation traditions.
+
+**Reply:** The matrix uses questions rather than predetermined answers and explicitly allows
+identity, isolation and cessation to revise object-language.
+
+**Residual:** Translation across traditions remains interpretive and must be stated as such.
+
+### UPSC application
+
+- Use the matrix for any “Indian and Western” comparison.
+- Keep one Indian and one Western account in direct relation instead of producing parallel lists.
+- In a 15-marker, two well-analysed contrasts beat six unexplained names.
+- **Qualified verdict:** “Phenomenology travels more easily across traditions than metaphysical
+  object-claims.”
+
+### Revision notes
+
+1. Comparison needs fixed questions, not identical answers.
+2. James supplies graded marks and limited authority.
+3. Otto analyses the Holy as numinous.
+4. Stace seeks a common core.
+5. Zaehner protects structural difference.
+6. Alston supplies a perceptual-practice model.
+7. Advaita is identity-recognition.
+8. Viśiṣṭādvaita and Dvaita preserve relation.
+9. Yoga and Buddhism prevent creator-centred reduction.
+10. Radhakrishnan combines immediacy with fallible testing.
+11. Object-language must be qualified for non-dual and non-theistic accounts.
+12. Phenomenological similarity does not prove metaphysical identity.
+
+### Local practice
+
+**MCQ 26**
+
+Which contrast most directly separates theistic mysticism from Advaita?
+
+A. Both reject all disciplined preparation.
+B. Theistic mysticism preserves relation, whereas Advaita claims identity.
+C. Advaita depends on a responsive creator, whereas theism rejects one.
+D. Both make transiency necessary.
+
+**MCQ 27**
+
+Which general conclusion is best supported by the comparative matrix?
+
+A. Every tradition reports one identical object.
+B. Public discourse is impossible.
+C. Phenomenological comparison is easier to defend than a single metaphysical referent.
+D. Indian traditions contain no devotional experience.
+
+**MCQ 26 — Answer and explanation**
+**Correct answer: B**
+
+- **A — Incorrect:** Both contemplative and devotional traditions can include disciplined preparation.
+- **B — Correct:** Two-term communion and non-dual self-recognition have different logical forms.
+- **C — Incorrect:** The positions have been reversed and oversimplified.
+- **D — Incorrect:** James’s secondary mark cannot be universalised across these traditions.
+
+**MCQ 27 — Answer and explanation**
+**Correct answer: C**
+
+- **A — Incorrect:** The matrix foregrounds incompatible objects and self–ultimate relations.
+- **B — Incorrect:** Reports, methods and consequences remain available for intersubjective inquiry.
+- **C — Correct:** Family resemblance among structures requires less metaphysical commitment than one common Real.
+- **D — Incorrect:** Viśiṣṭādvaita, Dvaita and other devotional paths centre relation and worship.
+
+---
+
+## Lesson 10 — Answer conversion, traps and full PYQ readiness
+
+Progress: 10/10 | Stage: Core synthesis | Subtopic: Directive fidelity and complete retrieval
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+Book context: queried — full canonical owner, complete Clause 6 coverage map and exact 2018–2026 question ledgers.
+CA search: not performed — no source outside the permitted set enters final answer architecture.
+CA found: not applicable; examination conversion uses verified PYQs only.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Visual: the universal answer spine
+
+```text
+DIRECTIVE + PRINTED QUALIFIER
+          |
+          v
+DEFINE THE PRECISE RELATA
+          |
+          v
+EXPOUND NAMED ACCOUNT / TRADITION
+          |
+          v
+IDENTIFY OBJECT AND WARRANT
+          |
+          v
+STRONGEST OBJECTION -> REPLY -> RESIDUAL
+          |
+          v
+RETURN TO DIRECTIVE WITH A GRADED VERDICT
+```
+
+### 1. Directive decoder
+
+| Directive | Examiner is buying | Required structure |
+|---|---|---|
+| Do you agree? Discuss | explicit but graded position | grant, limit, conclude |
+| How far? Analyse | degree, not yes/no | barriers, public criteria, exact boundary |
+| Distinguish and determine place | two deliverables | differentia first, function second |
+| Explain in light of a tradition | tradition-internal plurality | categories, methods, rival schools |
+| Discuss nature and variety | both nouns | marks plus types/transformations |
+| Examine relation and expound significance | relation plus function | non-identity, interaction, religious role |
+| Discuss main features | organised feature-list | each feature contrasted with a rival |
+| Evaluate in a named work | textual fidelity before criticism | thesis, object, testing, objections, verdict |
+| On what grounds? Elaborate | criteria and their warrant | marks, fruits, authority conclusions, limit |
+
+### 2. Marks-sensitive frameworks
+
+**10 marks**
+
+```text
+definition -> four or five exact points -> one objection -> bounded verdict
+```
+
+**15 marks**
+
+```text
+nature/object distinction -> named doctrine -> example or comparison ->
+objection/reply -> directive-specific conclusion
+```
+
+**20 marks**
+
+```text
+conceptual frame -> multiple dimensions -> Indian/Western parity ->
+epistemic evaluation -> counterposition -> graded final judgement
+```
+
+### 3. Core answer frameworks
+
+**James**
+
+```text
+personal religion and method
+-> I-N defining / T-P usual
+-> varieties and fruits
+-> three authority conclusions
+-> genuine expression, not guaranteed object
+```
+
+**Advaita**
+
+```text
+immediate non-dual knowledge
+-> self-luminosity and identity
+-> hearing/reflection/contemplation
+-> stable knowledge, not trance alone
+-> content/interpretation objection
+```
+
+**Public discourse**
+
+```text
+ineffability + privileged access + no shared check
+-> reports + coherence + discernment + fruits + disciplined method + testimony
+-> authenticity publicly assessable
+-> first-person evidence not transferable
+-> no automatic public proof
+```
+
+**Radhakrishnan**
+
+```text
+named work and lived integral experience
+-> self-certifying yet fallible
+-> central spiritual reality
+-> mediated God-pictures
+-> Bhagavan/Brahman synthesis
+-> unity inference evaluated
+```
+
+### 4. High-risk traps
+
+1. Four equal Jamesian marks.
+2. Four marks applied to every religious experience.
+3. Ineffability equated with meaninglessness.
+4. Good fruits equated with metaphysical proof.
+5. Otto’s Holy equated with Durkheim’s sacred.
+6. Stace and Zaehner merged.
+7. Advaita reduced to a passing trance.
+8. Brahman described as a perceived external object.
+9. *Anirvacanīya* applied to Brahman rather than appearance.
+10. “Vedāntic” reduced to Advaita.
+11. Prayer and worship treated as synonyms.
+12. Mystical experience and revelation identified.
+13. Alston reported as proving reliability.
+14. Public discourse confused with public proof.
+15. Neural causation treated as automatic refutation.
+16. One common Real assumed rather than argued.
+
+### 5. Core completion checkpoint
+
+A learner is Core-ready when able to:
+
+- reproduce the five-question analytical gate;
+- grade James’s marks and state his three authority conclusions;
+- explain James’s varieties and fruits;
+- compare Otto, Stace, Zaehner and Katz/Forman;
+- state Advaita without objectifying Brahman;
+- compare three Vedāntas and reconstruct Radhakrishnan;
+- distinguish prayer/worship and experience/revelation;
+- apply credulity, naturalistic and diversity objections;
+- explain Alston’s limited conclusion;
+- draw the exact public-discourse boundary;
+- route all nine verified PYQs.
+
+### Strongest objection, reply and residual
+
+**Objection:** A reusable answer spine encourages formulaic scripts.
+
+**Reply:** The spine controls logical completeness; directive and named thinker determine the
+substantive content.
+
+**Residual:** A framework earns marks only when each box contains accurate, question-specific
+analysis rather than memorised headings.
+
+### UPSC application
+
+- Begin from the exact directive rather than a memorised thinker list.
+- Use the 10/15/20-mark structures to control depth, not to replace analysis.
+- For a named-work question, establish textual fidelity before comparative criticism.
+- End by stating what the experience establishes, for whom, and with which unresolved defeater.
+
+### Revision notes
+
+1. Read every directive and qualifier.
+2. Define the precise experience under discussion.
+3. Separate nature from object.
+4. Separate genuineness from veridicality.
+5. State named thinkers before criticism.
+6. Give Indian–Western parity where relevant.
+7. Use objection, reply and residual.
+8. Answer both halves of dual-demand questions.
+9. Match depth to marks.
+10. Conclude in degrees.
+11. Keep cross-topic material bounded.
+12. Stop when the printed demand has been answered.
+
+### Local practice
+
+**MCQ 28**
+
+A question asks “How far can religious experience be made a topic of public discourse?” Which
+structure best obeys the directive?
+
+A. A simple assertion that private experiences are true.
+B. A biography of William James.
+C. A list of mystical traditions without evaluation.
+D. Limits, intersubjective criteria, authenticity–truth distinction and a graded boundary.
+
+**MCQ 29**
+
+Which point is indispensable in a 2025 Radhakrishnan answer?
+
+A. His self-certifying experience is fallible and rationally tested within the named work.
+B. Stace’s entire typology replaces the named thinker.
+C. Every tradition literally accepts Brahman.
+D. The object is proved by private certainty alone.
+
+**MCQ 30**
+
+What is the safest final verdict for a general veridicality answer?
+
+A. Religious experience is worthless because it is mediated.
+B. It may defeasibly justify the subject and inform outsiders without automatically proving its object.
+C. Every sincere report is infallible.
+D. Conflicting reports have identical content.
+
+**MCQ 28 — Answer and explanation**
+**Correct answer: D**
+
+- **A — Incorrect:** A “how far” directive requires a measured boundary rather than flat assertion.
+- **B — Incorrect:** James may support one dimension but cannot substitute for the whole public-discourse analysis.
+- **C — Incorrect:** Unassessed examples do not identify the degree of public accessibility.
+- **D — Correct:** The structure directly resolves the printed issue of extent.
+
+**MCQ 29 — Answer and explanation**
+**Correct answer: A**
+
+- **A — Correct:** The conjunction of immediacy, fallibility and testing is central to the named-text evaluation.
+- **B — Incorrect:** Comparative material must remain subordinate to Radhakrishnan’s own account.
+- **C — Incorrect:** His unity proposal is an inference rather than a doctrine shared literally by all.
+- **D — Incorrect:** Private certainty is explicitly distinguished from logical and public warrant.
+
+**MCQ 30 — Answer and explanation**
+**Correct answer: B**
+
+- **A — Incorrect:** Mediation can coexist with veridicality and therefore needs an undercutting argument.
+- **B — Correct:** The verdict preserves experiential warrant while acknowledging testimony and defeaters.
+- **C — Incorrect:** Sincerity and immediacy do not eliminate error.
+- **D — Incorrect:** Diversity often concerns contradictory metaphysical structures.
+
+---
+
+## Core mastery checkpoint
+
+```text
+CAN YOU, WITHOUT PROMPTS:
+
+[ ] distinguish occurrence, nature, object, interpretation and warrant?
+[ ] state I-N defining and T-P usual?
+[ ] give James's three authority conclusions?
+[ ] compare Holy, sacred and God?
+[ ] contrast Stace, Zaehner, Katz and Forman?
+[ ] explain Advaita without objectifying Brahman?
+[ ] compare Advaita, Visistadvaita and Dvaita?
+[ ] present Radhakrishnan as self-certifying yet fallible?
+[ ] distinguish prayer/worship and experience/revelation?
+[ ] explain credulity, testimony, naturalism and diversity?
+[ ] state Alston's limited conclusion?
+[ ] give a graded answer on public discourse?
+[ ] route every verified 2018-2026 PYQ?
+
+If every box is secure, the Core is answer-complete.
+```
+
+# OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
+
+> **Entry condition:** Use this section only after the Core mastery checkpoint is secure. One
+> selective refinement is normally enough for a 15-marker; a 20-marker may use two only when they
+> serve the same evaluative axis.
+
+## Visual: safe Advanced deployment
+
+```text
+CORE ACCOUNT
+accurately stated
+      |
+      v
+CORE OBJECTION
+strongest pressure identified
+      |
+      v
+ONE ADVANCED REFINEMENT
+mediation / warrant / embodiment
+      |
+      v
+STATE ITS PRICE
+what is clarified, what remains unresolved
+      |
+      v
+RETURN TO THE PRINTED QUESTION
+```
+
+## A1. Mediation spectrum
+
+| Position | Claim | Gain | Cost |
+|---|---|---|---|
+| Strong perennialism | one experiential core beneath interpretations | explains recurring unity and transformation | risks manufacturing sameness by subtraction |
+| Family resemblance | overlapping features without identical content | permits comparison without one object | yields weaker metaphysical conclusions |
+| Constructivism | concepts and practice shape experience itself | takes doctrinal difference seriously | struggles with putatively contentless states |
+| Pure-consciousness limit | some state may lack differentiated content | pressures universal mediation | identification of the “contentless” state remains interpretive |
+
+**Safe use:** “A family-resemblance view preserves comparative phenomenology without assuming one
+literal metaphysical object.”
+
+## A2. Warrant levels
+
+```text
+PHENOMENOLOGICAL AUTHORITY
+"this is how it appeared"
+          |
+          v
+PERSONAL EPISTEMIC WARRANT
+"I may rationally believe it"
+          |
+          v
+TESTIMONIAL WARRANT
+"another may give my report some weight"
+          |
+          v
+PUBLICLY SHAREABLE REASON
+"coherence, method and fruits can be assessed"
+          |
+          v
+PUBLIC PROOF
+strongest and rarely established by experience alone
+```
+
+This ladder prevents a familiar equivocation: moving from certainty of occurrence to certainty of
+object without supplying the intermediate warrants.
+
+## A3. Reduction and non-reductive embodiment
+
+An experience may have neural, psychological and social conditions. A reductionist argues that
+these conditions explain the seeming without a transcendent object. A non-reductive account replies
+that every human awareness is embodied and causal mediation is compatible with disclosure.
+
+**Deployment rule:** mention this only to distinguish **mechanism** from **truth-condition**. Do not
+fill an answer with neuroscience vocabulary or empirical claims absent from the permitted sources.
+
+## Advanced traps
+
+- ❌ Common features prove one Real.
+  ✅ They may establish family resemblance while object-identity remains disputed.
+- ❌ Constructivism proves fabrication.
+  ✅ Conceptual mediation and falsity are distinct claims.
+- ❌ A neural correlate refutes transcendence.
+  ✅ Refutation needs an unreliability or explaining-away argument.
+- ❌ More advanced terminology repairs an incomplete Core answer.
+  ✅ Advanced use begins only after the named doctrine and directive are complete.
+
+## Advanced retrieval
+
+**Question 1:** Why is family resemblance weaker but safer than a strict common-core thesis?
+
+**Model answer:** It permits recurring phenomenological structures without claiming that personal
+communion, non-dual identity and Buddhist insight have one identical content or object.
+
+**Question 2:** What does the warrant ladder prevent?
+
+**Model answer:** It prevents movement from “the state occurred” to “its object is publicly proved”
+without separate arguments for interpretation, personal warrant, testimony and public accessibility.
+
+**Question 3:** When should embodiment material stop?
+
+**Model answer:** Stop after showing that causal mediation is not identical with epistemic defeat
+and identifying what further unreliability evidence a reductionist would need.
+
+## Advanced revision notes
+
+1. Advanced material follows complete Core exposition.
+2. Perennialism and constructivism answer different mediation questions.
+3. Family resemblance permits comparison without one object.
+4. A contentless limiting case pressures total conceptual construction.
+5. Phenomenological authority is weaker than public proof.
+6. Testimonial warrant differs from first-person warrant.
+7. Embodiment does not automatically entail reduction.
+8. Every refinement must state its unresolved cost.
+9. One integrated refinement is usually enough.
+10. Return explicitly to the directive.
+
+# BOUNDED EXPERT REFERENCE — USE SELECTIVELY
+
+> **Purpose:** This section supplies precision, not extra compulsory syllabus. Use one discriminator
+> only if the Core answer is already complete and the distinction can be explained in two or three
+> sentences.
+
+## Visual: Expert stop rule
+
+```text
+EXACT QUESTION
+      |
+      v
+CORE COMPLETE?
+  |          |
+ NO         YES
+  |          |
+return       v
+to Core   one discriminator
+             |
+             v
+        state consequence
+             |
+             v
+         STOP and conclude
+```
+
+## E1. Precision bench
+
+| Near-neighbour confusion | Expert discriminator | Why it matters | Stop boundary |
+|---|---|---|---|
+| James’s noetic quality and truth | noetic quality is knowledge-like seeming, not demonstrated knowledge | preserves phenomenology without begging veridicality | do not convert the answer into a full proof of God |
+| Swinburne and Alston | credulity starts from seemings; Alston argues from participation in a socially established doxastic practice | prevents two epistemic routes from being merged | one contrast is enough |
+| Stace and Forman | Stace offers introvertive common-core phenomenology; Forman uses contentlessness against total constructivism | similar vocabulary serves different arguments | do not claim that a PCE proves the One |
+| Advaita and theistic mysticism | identity removes two-term structure; communion preserves it | protects the central Indian–Western difference | do not imply that both are merely verbal variants |
+| Radhakrishnan and Hick | both mediate diversity through one ultimate, but Radhakrishnan’s named-work synthesis is rooted in integral intuition and Bhagavān/Brahman language | avoids importing a later pluralist framework as the named thinker’s own argument | detailed pluralism belongs elsewhere |
+| Public discourse and public reason | ordinary public discussion can assess reports broadly; formal political justification imposes a narrower accessibility demand | answers “how far” without overpoliticising the topic | do not let political theory displace epistemology |
+
+## E2. Deployment and omission rules
+
+### Use one Expert point when
+
+- the question is 15 or 20 marks and explicitly critical or comparative;
+- the Core answer is complete;
+- a likely conceptual merger needs repair;
+- the point can be translated into plain English;
+- its argumentative consequence is stated.
+
+### Omit Expert material when
+
+- the question is a direct 10-marker;
+- the named doctrine is still incomplete;
+- the term would be name-dropping;
+- it imports another syllabus owner’s full debate;
+- it delays the verdict.
+
+### Model of disciplined use
+
+```text
+Core:
+Both Swinburne and Alston defend prima facie religious warrant.
+
+Expert discriminator:
+Swinburne begins from a general rule about apparent presence;
+Alston begins from rational participation in an established practice.
+
+Return:
+Neither route by itself converts first-person warrant into public proof.
+```
+
+## Expert retrieval
+
+**Question 1:** Why are Swinburne and Alston not interchangeable?
+
+**Model answer:** Swinburne’s principle concerns the default credibility of a seeming, whereas
+Alston’s argument concerns rational engagement in a socially established belief-forming practice.
+
+**Question 2:** What must follow an identity–relation distinction?
+
+**Model answer:** State its consequence: an Advaitic and a theistic report cannot be assumed to
+describe one literal self–ultimate relation merely because both are transformative.
+
+**Question 3:** What is the final Expert stop signal?
+
+**Model answer:** Once the distinction has repaired one confusion and its consequence has been tied
+to the directive, conclude rather than opening another specialist debate.
+
+## Expert revision notes
+
+1. Expert material is never required for Core sufficiency.
+2. One discriminator is the default maximum.
+3. Noetic seeming is not demonstrated truth.
+4. Credulity and doxastic-practice arguments differ.
+5. Contentlessness does not prove a metaphysical One.
+6. Identity and relation must not be flattened.
+7. Radhakrishnan must be presented through his named-work argument.
+8. Public discussion is broader than formal political public reason.
+9. Explain every specialist term in plain English.
+10. Stop after the point changes the evaluation.
 
 # VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
 
-The verified ledgers assign exactly **nine primary-owned questions** to Religious Experience — one in every Philosophy Optional Paper II from 2018 through 2026. The wording below is preserved exactly; only an approach is supplied. No solved PYQ answer appears in this live edition.
+> **Boundary:** The wording and marks below come from the permitted verified PYQ Markdown. Each row
+> supplies demand and approach only; no held-PYQ model answer is reproduced.
 
-| # | Year and question | Marks | Exact wording | Directive and demand | Concise answer approach |
-|---:|---|---:|---|---|---|
-| 1 | 2018 Q7(a) | 20 | The terms ‘Sacred’ and ‘Holy’ have come to serve as generic names for the object of religion. Do you agree that one can have God as the object of religion? Discuss. | Explain the granted generic terms, then give a graded answer on God. | Distinguish Otto, Durkheim and Eliade; use non-theistic counterexamples; affirm God as theistic paradigm, not universal definition; answer over-breadth and subordination objections. |
-| 2 | 2019 Q7(c) | 15 | How far can religious experience be made a topic of public discourse? Analyse. | “How far” requires a degree, not yes/no. | Give privacy and ineffability objections; six intersubjective criteria; concede authenticity ≠ truth; conclude publicly discussable, privately probative. |
-| 3 | 2020 Q7(b) | 15 | Distinguish between prayer and worship and determine their place in religion. | Two equal tasks: distinction and function. | Prayer as address, worship as acknowledgement of worth; ACTS and overlap; petition problem; Jain/Mīmāṃsā cases; relational versus evaluative organs. |
-| 4 | 2021 Q7(c) | 15 | Explain the concept of religious experience in the light of Vedāntic tradition. | Use Vedānta’s own terms and preserve internal plurality. | Begin with disciplined *anubhava*; Advaita identity; Rāmānuja/Madhva relation; preparation and soteriological transformation; mediation objection. |
-| 5 | 2022 Q7(c) | 15 | Discuss the nature and variety of religious experiences as presented by William James. | Both “nature” and “variety” must be answered. | Two defining plus two usual marks; empirical-pragmatic method; healthy-mindedness, sick soul, conversion, saintliness and mysticism; “MORE”; personal authority and limit. |
-| 6 | 2023 Q8(c) | 15 | Examine the relation between mystical experience and revelation and expound their significance in the religious life. | Relation plus significance; do not identify the terms. | Vehicle/cargo distinction and four-cell grid; non-propositional disclosure; Advaita parallel; origin, renewal, appropriation and risk; discernment limit. |
-| 7 | 2024 Q8(c) | 15 | Discuss the main features of religious experience according to Advaita Vedānta. | Enumerate tradition-specific features and explain their logic. | Non-dual identity, self-luminosity, self-certification, speech-limit, bliss, stable knowledge and preparation; avoid *anirvacanīya* error; answer content objection. |
-| 8 | 2025 Q8(a) | 20 | Evaluate the nature and object of Religious Experience as explained by Radhakrishnan in ‘The Hindu View of Life’. | Fidelity to the named work; nature and object separately; evaluation required. | Integral intuition; experience before creed and ritual; spiritual Real; transformation and universality; Advaitic-assimilation and mediation objections; graded verdict. |
-| 9 | 2026 Q5(a) | 10 | On what grounds does William James characterize mystical states as a genuine expression of religious experience? Elaborate. | Preserve “grounds”: criteria plus warrant, within 150 words. | Two defining and two usual marks; personal documents; rejection of medical materialism; fruits; authority for subject but not outsiders; one bounded veridicality qualification. |
+| Year / Question | Marks | Exact wording | Demand and approach only |
+|---|---:|---|---|
+| 2018 Q7(a) | 20 | The terms ‘Sacred’ and ‘Holy’ have come to serve as generic names for the object of religion. Do you agree that one can have God as the object of religion? Discuss. | Distinguish Otto’s Holy, Durkheim’s sacred and Eliade’s manifestation; show why God is a valid theistic object but not a universal definition; use non-theistic cases and a graded verdict. |
+| 2019 Q7(c) | 15 | How far can religious experience be made a topic of public discourse? Analyse. | Structure as limits versus intersubjective criteria; separate authenticity, testimonial reason and truth; conclude with the exact extent of public accessibility. |
+| 2020 Q7(b) | 15 | Distinguish between prayer and worship and determine their place in religion. | Answer both tasks: address versus acknowledgement of worth, overlap in adoration, petition and autonomy problems, non-theistic cases, relational and communal functions. |
+| 2021 Q7(c) | 15 | Explain the concept of religious experience in the light of Vedāntic tradition. | Define direct realisation, compare Advaita identity, Viśiṣṭādvaita qualified dependence and Dvaita distinction, then evaluate mediation and rival interpretations. |
+| 2022 Q7(c) | 15 | Discuss the nature and variety of religious experiences as presented by William James. | Nature requires I–N defining and T–P usual; variety requires healthy-mindedness, sick soul, conversion, saintliness and mysticism; add method, fruits and limit. |
+| 2023 Q8(c) | 15 | Examine the relation between mystical experience and revelation and expound their significance in the religious life. | Define both, show experience-to-revelation and revelation-to-experience, establish non-identity, then explain personal and communal significance with checks. |
+| 2024 Q8(c) | 15 | Discuss the main features of religious experience according to Advaita Vedānta. | Explain immediate identity-recognition, self-luminosity, non-objectivity, preparation, stable knowledge and terminology; assess the content objection. |
+| 2025 Q8(a) | 20 | Evaluate the nature and object of Religious Experience as explained by Radhakrishnan in ‘The Hindu View of Life’. | Anchor the named work; present integrated experience, self-certification with fallibility, spiritual object, mediation and Bhagavān/Brahman synthesis before evaluating unity and public warrant. |
+| 2026 Q5(a) | 10 | On what grounds does William James characterize mystical states as a genuine expression of religious experience? Elaborate. | Give graded marks, noetic seeming, fruits, rejection of medical materialism and all three authority conclusions; distinguish genuine lived religion from proof of object. |
 
-## Bounded cross-links
+## Ownership summary
 
-- 2026 Q5(e), on religion reduced to reason alone, remains owned by Reason, Revelation and Faith; Religious Experience supplies only the experiential contrast.
-- 2026 Q7(b), on personal and impersonal notions of God in devotion, remains owned by Notions of God; prayer, worship and Advaitic *upāsanā* are supporting links only.
-- Full arguments from religious experience to God remain with Proofs for God.
-- Full pluralist theory remains with Religious Pluralism.
+```text
+2018 Sacred/Holy/God -------- Lesson 1
+2019 Public discourse ------- Lessons 7-8
+2020 Prayer/worship --------- Lesson 6
+2021 Vedantic experience ---- Lessons 4-5
+2022 James nature/variety --- Lessons 2-3
+2023 Mysticism/revelation --- Lesson 6
+2024 Advaita features ------- Lesson 4
+2025 Radhakrishnan ---------- Lesson 5
+2026 James grounds ---------- Lesson 2
+```
 
----
+Exactly nine primary-owned parts are covered—one in every paper from 2018 through 2026.
 
 # CUMULATIVE MCQS
 
-Correct options continue the file-wide A → B → C → D rotation.
+### Questions
 
-**MCQ 35: C**
+**MCQ 31**
 
-A report is ineffable, noetic and transformative, but the subject’s tradition supplies a detailed interpretation that conflicts with another tradition. What follows most securely?
+Consider the following statements:
 
-A. The first tradition’s object is proved because the marks are Jamesian.
-B. Both incompatible objects must exist in the same sense.
-C. The occurrence and authenticity may be supported while object and veridicality remain disputed.
-D. The experience did not occur because interpretation was involved.
+1. James treats ineffability and noetic quality as defining marks.
+2. James treats transiency and passivity as usual accompaniments.
+3. James holds mystical authority to be automatically binding on outsiders.
 
-- **A — Incorrect:** Jamesian phenomenology does not convert classification into proof.
-- **B — Incorrect:** Equal conviction cannot make contradictory claims jointly true in one sense.
-- **C — Correct:** The four-layer analysis preserves occurrence while suspending the stronger metaphysical inference.
-- **D — Incorrect:** Conceptual mediation is compatible with a genuine experience.
+Which statements are correct?
 
-**MCQ 36: D**
+A. 1 only
+B. 2 and 3 only
+C. 1 and 2 only
+D. 1, 2 and 3
 
-Which comparison best joins James and Advaita without flattening either?
+**MCQ 32**
 
-A. Both make every mystical state transient and passive.
-B. Both identify the object as a personal creator.
-C. Both treat doctrine as irrelevant to realisation.
-D. James’s defining marks can classify a stable Advaitic realisation, although Advaita understands its object as identity rather than a wider “MORE”.
+Which sequence best preserves the analysis of a religious report?
 
-- **A — Incorrect:** Transiency and passivity are only usual for James, while Advaita stresses stable knowledge.
-- **B — Incorrect:** Advaita’s Brahman is not straightforwardly a personal creator-object.
-- **C — Incorrect:** Advaita gives scripture and reflection a preparatory epistemic role.
-- **D — Correct:** The comparison uses James’s grading while preserving different object-structures.
+A. Object → proof → intensity → tradition
+B. Warrant → object → occurrence → nature
+C. Interpretation → public proof → occurrence → fruits
+D. Occurrence → phenomenology → claimed object → interpretation → warrant
 
-**MCQ 37: A**
+**MCQ 33**
 
-Which sequence gives an appropriately graded epistemic conclusion?
+Which pairing is correct?
 
-A. Experience → prima facie warrant → testing by defeaters → no automatic public proof
-B. Experience → intensity → metaphysical certainty → compulsory assent
-C. Neural correlate → fabrication → non-occurrence
-D. Moral fruit → one true doctrine → exclusion of rivals
+A. Otto—numinous Holy; Durkheim—sacred/profane social classification.
+B. Stace—three ranked types; Zaehner—two common-core types.
+C. Alston—non-circular proof of Christian mystical practice.
+D. Advaita—sensory encounter with an external Brahman.
 
-- **A — Correct:** It preserves initial trust, critical testing and the limit of transferability.
-- **B — Incorrect:** Felt force is not a deductive bridge to reality.
-- **C — Incorrect:** Mediation neither erases the episode nor proves illusion.
-- **D — Incorrect:** Comparable fruits can arise under incompatible interpretations.
+**MCQ 34**
 
-**MCQ 38: B**
+Which answer best distinguishes Vedāntic accounts?
 
-Why is the difference between identity and relation central?
+A. All three major schools erase self–God difference.
+B. Advaita teaches identity, Viśiṣṭādvaita qualified dependence and Dvaita enduring distinction.
+C. Viśiṣṭādvaita denies devotion after liberation because relation is unreal.
+D. Dvaita treats Brahman as the subject’s identical self.
 
-A. It proves Zaehner’s hierarchy.
-B. Advaita abolishes the two-term structure that theistic communion preserves.
-C. It shows that all traditions report the same content.
-D. It makes prayer and worship interchangeable.
+**MCQ 35**
 
-- **A — Incorrect:** Logical difference does not establish a ranking of spiritual worth.
-- **B — Correct:** One account recognises self as Brahman; the other retains worshipper and God.
-- **C — Incorrect:** The contrast is evidence against an easy identical-content thesis.
-- **D — Incorrect:** Prayer and worship turn on address and worth, not this metaphysical contrast.
+What is the soundest conclusion about naturalistic explanations?
 
-**MCQ 39: C**
+A. Any neural cause proves hallucination.
+B. Cultural formation is irrelevant to interpretation.
+C. A mechanism defeats the experience only when it undercuts reliability or explains away the seeming.
+D. Embodied experience can never disclose reality.
 
-Which combined verdict on naturalism and diversity is strongest?
+**MCQ 36**
 
-A. Neural correlation is decisive, while conflicting objects are irrelevant.
-B. Both prove that no religious experience occurs.
-C. Naturalism must show unreliability, whereas diversity directly challenges inference to a determinate common object.
-D. Diversity is resolved merely by noting that all experiences are intense.
+Which proposition best states the public-discourse conclusion?
 
-- **A — Incorrect:** Correlation needs a further epistemic argument, while diversity generates incompatible conclusions.
-- **B — Incorrect:** Both concern interpretation or warrant rather than occurrence as such.
-- **C — Correct:** It ranks the defeaters by the argumentative burden each must discharge.
-- **D — Incorrect:** Shared intensity cannot reconcile contradictory object-claims.
+A. First-person evidence is fully transferable through testimony.
+B. Ineffability makes every report meaningless.
+C. Observable fruits prove one metaphysical object.
+D. Reports and consequences are discussable, while immediate force and public proof remain limited.
 
-**MCQ 40: D**
+### Answers and explanations
 
-Which account makes worship more nearly universal than prayer?
+**MCQ 31 — Answer and explanation**
+**Correct answer: C**
 
-A. Every tradition believes in an interventionist creator.
-B. Prayer includes all ritual activity by definition.
-C. Worship is always a mystical state.
-D. Worship needs supreme value, while petition needs a responsive addressee.
+- **A — Incorrect:** It omits the equally correct second statement about the usual pair.
+- **B — Incorrect:** The third statement contradicts James’s outsider-authority limitation.
+- **C — Correct:** The option reproduces the precise two-plus-two grading.
+- **D — Incorrect:** Mystical states do not impose compulsory assent on non-experiencers.
 
-- **A — Incorrect:** Jainism, Buddhism and Mīmāṃsā provide counterexamples.
-- **B — Incorrect:** Ritual homage and communicative address remain conceptually separable.
-- **C — Incorrect:** Worship may be ordinary, corporate and embodied without mystical union.
-- **D — Correct:** The weaker presupposition explains survival of worship in non-theistic settings.
+**MCQ 32 — Answer and explanation**
+**Correct answer: D**
 
-**MCQ 41: A**
+- **A — Incorrect:** Proof cannot precede identification of the experience and its attributed object.
+- **B — Incorrect:** Warrant is evaluated after rather than before occurrence and content are analysed.
+- **C — Incorrect:** It inserts public proof prematurely and dislocates the basic sequence.
+- **D — Correct:** The order moves from what happened to what it may rationally establish.
 
-What links Radhakrishnan’s universalism with Hick’s plural mediation?
+**MCQ 33 — Answer and explanation**
+**Correct answer: A**
 
-A. Both seek unity beneath doctrinal diversity, and both face an indeterminacy or assimilation objection.
-B. Both deny that traditions shape experience.
-C. Both reduce religion to social classification.
-D. Both establish a personal God as the only object.
+- **A — Correct:** It preserves the phenomenological and sociological difference between the two terms.
+- **B — Incorrect:** The taxonomies are reversed and their philosophical aims differ.
+- **C — Incorrect:** Alston argues for practical rationality without non-circular reliability proof.
+- **D — Incorrect:** Advaita denies that Brahman is a separate sensory object.
 
-- **A — Correct:** Their conciliatory strength creates pressure about determinate difference.
-- **B — Incorrect:** Each acknowledges interpretive plurality, though in different frameworks.
-- **C — Incorrect:** Neither is a Durkheimian reduction.
-- **D — Incorrect:** Both seek a category wider than one personal-theistic description.
+**MCQ 34 — Answer and explanation**
+**Correct answer: B**
 
-**MCQ 42: B**
+- **A — Incorrect:** Only Advaita sublates ultimate difference in the required manner.
+- **B — Correct:** The triad captures the distinct self–ultimate relations of the three schools.
+- **C — Incorrect:** Viśiṣṭādvaita treats devotion and grace as grounded in real relation.
+- **D — Incorrect:** Dvaita preserves eternal distinction from Viṣṇu.
 
-Which is the best whole-topic conclusion?
+**MCQ 35 — Answer and explanation**
+**Correct answer: C**
 
-A. Religious experience is either public proof or meaningless privacy.
-B. It is a genuine field of phenomenology and practice that may give defeasible personal warrant without universally establishing its object.
-C. All experiences share an identical content hidden beneath doctrine.
-D. Naturalistic causes make philosophical analysis unnecessary.
+- **A — Incorrect:** Neural mediation is common to ordinary awareness and is not sufficient for defeat.
+- **B — Incorrect:** Cultural concepts can shape both report and possibly phenomenology.
+- **C — Correct:** Epistemic defeat requires an undercutting or explaining-away connection.
+- **D — Incorrect:** Embodiment and veridicality are compatible in principle.
 
-- **A — Incorrect:** The public-discourse ladder rejects the forced binary.
-- **B — Correct:** It integrates occurrence, interpretation, warrant and residual uncertainty.
-- **C — Incorrect:** Katz, Zaehner and Indian structural differences contest identity of content.
-- **D — Incorrect:** Causal accounts create rather than eliminate epistemic questions.
+**MCQ 36 — Answer and explanation**
+**Correct answer: D**
 
----
+- **A — Incorrect:** Testimony transmits a report rather than the identical direct seeming.
+- **B — Incorrect:** Partial description and comparison remain possible.
+- **C — Incorrect:** Fruits underdetermine the metaphysical explanation of transformation.
+- **D — Correct:** This graded position captures both intersubjective access and its boundary.
 
 # ORIGINAL 10-, 15- AND 20-MARK MAINS MODEL PRACTICE
 
 ## Original 10-marker
 
-**Question:** Why does the distinction between phenomenology and epistemic force matter in evaluating religious experience?
-**Answer in about 150 words.**
+**Question:** Why should psychological genuineness, doctrinal authenticity and metaphysical
+veridicality be distinguished in the study of religious experience? Answer in about 150 words.
 
 ### Model answer
 
-Phenomenology describes what a religious experience is like; epistemic force concerns what the experience justifies. The distinction matters because intensity, unity, awe and transformation can be genuine features of a state without establishing the reality of its claimed object.
+Religious experience combines a first-person event, a tradition-shaped interpretation and a
+claim about ultimate reality; these require different tests.
 
-William James illustrates the divide. Mystical states are ineffable and noetic, with transiency and passivity as usual accompaniments. Their noetic quality gives the experiencer a sense of insight, but James denies that this authority binds outsiders. Similarly, Otto’s *mysterium tremendum et fascinans* describes the holy as presented in awe; it does not prove that a numinous being exists.
+First, **psychological genuineness** asks whether the person sincerely underwent an unusual state.
+James’s case-based method treats such reports as legitimate data and rejects dismissal by origin
+alone. Second, **doctrinal authenticity** asks whether the state fits a tradition’s discernment
+norms—for example, whether an Advaitic report coheres with non-dual teaching or a devotional report
+with enduring God–self relation. Third, **metaphysical veridicality** asks whether Brahman, God or
+the Holy actually disclosed itself.
 
-Naturalistic explanation creates the reverse danger. A neural or psychological cause shows mediation but becomes a defeater only if it establishes unreliability or fully explains away the seeming. Moral fruits support authenticity, not metaphysical certainty.
-
-**Conclusion:** Religious experience may be psychologically genuine, doctrinally authentic and personally evidential while remaining publicly non-demonstrative. Separating the two levels prevents both credulous proof and reductive dismissal.
+The distinction prevents two errors. Intensity and transformation cannot by themselves prove the
+object; conversely, cultural or neural mediation cannot by itself make the occurrence unreal.
+Conflicting reports sharpen the point: sincere theistic communion and sincere non-dual identity
+cannot automatically establish the same literal relation. Therefore religious experience is best
+treated as genuine experiential evidence whose interpretation and metaphysical reach remain
+defeasible.
 
 ## Original 15-marker
 
-**Question:** “Mystical experience is neither one universal core nor a set of wholly incomparable episodes.” Discuss.
-**Answer in about 250 words.**
+**Question:** Compare James’s account of mystical experience with Advaita Vedānta. Does the
+comparison support a universal mystical essence? Answer in about 250 words.
 
 ### Model answer
 
-The statement rejects both strong perennialism and complete incommensurability. Mystical reports display recurrent formal features, yet their structures and objects can differ too deeply to be reduced to one identical content.
+James and Advaita both take immediate experience seriously, but they assign it different structures
+and epistemic roles.
 
-W. T. Stace offers the common-core case. Extrovertive mysticism perceives unity through sensory multiplicity; introvertive mysticism excludes sensory and conceptual content. Both display objectivity, blessedness, holiness, paradox and ineffability. By separating experience from interpretation, Stace explains how Christian, Advaitic and Buddhist descriptions may diverge while sharing experiential depth.
+James identifies **ineffability and noetic quality** as defining mystical marks, while transiency
+and passivity are usual accompaniments. His empirical method studies varied testimonies, conversion
+and fruits. Mystical states may authorise the subject, do not bind outsiders, and challenge the
+exclusive veto of ordinary consciousness. His “MORE” remains deliberately less determinate than a
+full theology.
 
-R. C. Zaehner protects difference through nature, monistic and theistic mysticism. His ranking of theistic experience is confessionally vulnerable, but the classification preserves a decisive logical distinction: Advaitic identity abolishes subject–object duality, while theistic communion retains two terms.
+Advaita, by contrast, presents liberating experience as immediate non-dual recognition
+(*aparokṣānubhūti*): the self is not other than Brahman. It is stable knowledge prepared by hearing,
+reflection and contemplation, not necessarily a brief passive episode. Brahman is not an external
+object; subject–object duality is sublated.
 
-Steven Katz deepens the objection by arguing that there are no unmediated experiences; tradition shapes what is experienced. Robert Forman’s Pure Consciousness Event pressures this thesis at the contentless limit, though preparation, recognition and memory may remain mediated.
+The comparison supports limited family resemblance: both stress directness, knowledge-like force,
+ineffability and transformation. It does not establish one universal mystical content. James’s
+framework is phenomenological and plural; Advaita makes a determinate identity claim. Theistic
+mysticism preserves relation, further resisting a single essence. Stace can defend a common core by
+separating experience from interpretation, but Katz replies that conceptual formation shapes the
+experience itself.
 
-A balanced view therefore distinguishes identical content from family resemblance. Recurrent phenomenological forms and transformations make comparison possible. Persistent differences of identity, relation, isolation and insight prevent a universal metaphysical reading.
-
-**Conclusion:** Mystical experience forms overlapping families. Stace secures comparison, Zaehner preserves logical difference, and Katz disciplines claims of neutrality. The common residue is formal and transformative, not a demonstrated single object.
+Thus a universal **phenomenological family** is defensible, while a universal metaphysical essence
+is not established. Similarity travels further than object-identity.
 
 ## Original 20-marker
 
-**Question:** Can religious experience provide rational grounds for belief in a transcendent reality? Critically evaluate with Indian and Western perspectives.
-**Answer in about 400 words.**
+**Question:** “Religious experience can be publicly assessed but not simply converted into public
+proof.” Critically examine with Indian and Western perspectives. Answer in about 300 words.
 
 ### Model answer
 
-Religious experience can provide prima facie and defeasible grounds for the experiencer, and weaker testimonial grounds for others, but it does not by itself establish a transcendent object publicly. The case depends on whether religious seeming is relevantly comparable to perception and whether major defeaters can be answered.
+The statement distinguishes public discussion from the transfer of first-person warrant.
 
-The positive Western case begins with William James. Mystical states present themselves as noetic and can transform conduct. James rejects “medical materialism,” since physiological origin does not settle truth, and tests religion by fruits. Yet he restricts mystical authority to the subject. Richard Swinburne’s principle of credulity strengthens the case: if it seems that X is present, probably X is, absent defeaters. Testimony gives hearers limited derivative warrant.
+The difficulty is substantial. James’s ineffability limits adequate articulation, mystical
+authority is strongest for the subject, and incompatible reports identify personal God, non-dual
+Brahman, isolated consciousness and Buddhist no-self. No outsider receives the original seeming
+through testimony.
 
-William Alston develops a perceptual model. On the theory of appearing, non-sensory presentation can share perceptual structure. M-beliefs arise within socially established doxastic practices. Since sense perception, memory and induction also lack non-circular validation, participation in mystical practice may be practically rational. This is not proof of reliability; the conclusion remains prima facie.
+Yet complete privacy is overstated. First, James, Otto, Stace and Zaehner construct public
+phenomenological typologies from reports. Second, coherence and background knowledge can test a
+claim. Third, traditions use discernment practices. Fourth, Jamesian fruits—stable compassion,
+integration or changed conduct—are observable. Fifth, Yoga, Buddhist meditation and Vedāntic
+contemplation present disciplined methods with stated conditions. These are training-dependent
+rather than neutral experiments, but they make procedures discussable. Sixth, testimony can give
+outsiders limited reasons.
 
-Indian traditions add disciplined and non-objective models. Advaita’s *aparokṣānubhūti* is not perception of Brahman as an external object but recognition that ātman is Brahman, prepared through *śravaṇa–manana–nididhyāsana*. Radhakrishnan describes integral intuition of the spiritual Real as primary, self-certifying and transformative, with dogma and ritual as secondary expressions. Yoga and contemplative traditions claim repeatable training, although access is commitment-dependent.
+Alston adds that mystical beliefs may arise within socially established doxastic practices. Since
+sense perception also resists wholly non-circular validation, participation may be practically
+rational and its outputs prima facie justified. However, incompatible practices leave no decisive
+neutral adjudicator. Swinburne’s credulity similarly supplies initial, defeasible warrant rather than
+proof.
 
-Three objections limit the inference. Naturalistic explanations invoke projection, pathology, suggestion and neural mediation. These become defeaters only when they show unreliability or explanatory exclusion; correlation alone is insufficient. Public cross-checking is also weaker than in sense perception, though traditions possess internal override rules. The deepest challenge is diversity: personal God, non-dual Brahman and Buddhist cessation are reported with comparable conviction. Hick’s one Real through cultural lenses reconciles them only by risking indeterminacy; Katz instead treats traditions as constitutive of different experiences.
+Naturalistic explanations matter only if they show unreliability or explain away the seeming;
+causal mediation alone is insufficient. Conversely, good fruits prove neither God nor Brahman.
 
-Transformation, coherence and disciplined practice therefore support authenticity and rational commitment. They do not compel one metaphysical interpretation. Advaita’s self-certification is powerful within its epistemic framework, while theistic perception retains an intentional relation; neither can simply absorb the other.
+Therefore religious experience is publicly assessable as report, testimony, disciplined practice
+and consequence. It may justify the subject and rationally interest the hearer, but its immediate
+force is not transferable and its transcendent object is not publicly established without further
+argument.
 
-**Conclusion:** Religious experience may rationally ground belief for a situated subject when it survives known defeaters. Testimony gives others some evidence, but diversity and limited cross-practice verification block universal proof. The decisive residual is not whether the experience occurred, but whether incompatible interpretations can be neutrally adjudicated.
+## Model-answer quality checklist
 
----
+| Requirement | 10-marker | 15-marker | 20-marker |
+|---|---:|---:|---:|
+| direct definition | yes | yes | yes |
+| named evidence | James + tradition tests | James, Advaita, Stace, Katz | James, Indian methods, Alston, Swinburne |
+| analysis | three achievements | similarity versus identity | assessability versus proof |
+| qualification | defeasible reach | family resemblance only | subject/hearer/public distinction |
+| directive return | final sentence | final paragraph | final paragraph |
 
 # REMEDIATION
 
-## Common-error repair table
+## Misconception repair table
 
-| Misconception | Repair |
-|---|---|
-| James gives four equal marks of all religious experience | Two defining plus two usual marks of mystical states |
-| Ineffability means meaninglessness | It limits exhaustive expression, not every report |
-| Noetic quality means proved knowledge | It is experienced insight with felt authority |
-| Otto’s holy equals Durkheim’s sacred | Phenomenological quality versus social classification |
-| Advaita perceives Brahman as an object | It recognises self as Brahman; the object-pole is sublated |
-| *Anirvacanīya* describes Brahman-realisation | It technically describes māyā/world-appearance |
-| Vedānta means Advaita alone | Viśiṣṭādvaita and Dvaita preserve relation and difference |
-| Mysticism equals revelation | One may mediate the other; either can occur without the other |
-| Prayer equals worship | Address versus acknowledgement of worth |
-| Neural correlation proves illusion | Mediation becomes defeat only with unreliability or explanatory exclusion |
-| Alston proves reliability | He defends practical rationality and prima facie justification |
-| Public discussion equals public proof | Description, coherence, fruits and practices are discussable; felt warrant is not transferable |
+| Misconception | Repair | Retrieval cue |
+|---|---|---|
+| All religious experience is mystical | Mysticism is one variety among awe, conversion, devotion, revelation and meditation | genus before species |
+| James gives four equal necessary marks | I–N define; T–P usually accompany | two plus two |
+| Ineffable means meaningless | inadequate transfer permits partial report | less than complete, more than silence |
+| Noetic means verified knowledge | it is knowledge-like presentation | seeming before proof |
+| Fruits prove the object | fruits test lived authenticity, not unique cause | transformation underdetermines metaphysics |
+| Holy and sacred are synonyms | Otto is phenomenological; Durkheim sociological | awe versus classification |
+| Stace and Zaehner agree | common core versus differentiated types | unity versus preserved difference |
+| Advaita perceives Brahman | it recognises self–Brahman identity | no second object |
+| *Anirvacanīya* describes Brahman | it describes *māyā*/appearance | term-location check |
+| Vedānta means Advaita | add Viśiṣṭādvaita and Dvaita | identity–dependence–difference |
+| Radhakrishnan rejects reason | self-certification remains fallible and tested | immediacy plus criticism |
+| Prayer equals worship | address versus worth; adoration overlaps | communicate versus honour |
+| Every prayer petitions | confession, thanks, praise and contemplation also count | ACTS |
+| Mysticism equals revelation | experience is mode; revelation is attributed disclosure | overlap without identity |
+| Brain cause proves illusion | mediation needs an unreliability bridge | mechanism is not verdict |
+| Alston proves reliability | he defends practical rationality and prima facie warrant | modest conclusion |
+| Public discourse equals proof | reports and fruits are assessable; direct force is not transferred | discussable, not demonstrated |
 
 ## Remedial MCQs
 
-**MCQ 43: C**
+**MCQ 37**
 
-A candidate writes, “James’s four necessary marks of religious experience are ineffability, noetic quality, transiency and passivity.” What is the complete correction?
+Which correction best repairs the statement “James’s four necessary marks define religious
+experience”?
 
-A. Only passivity is necessary, and the marks apply to conversion.
-B. All four are necessary, but only for institutional religion.
-C. Two are defining and two usual, and the set concerns mystical states rather than every religious experience.
-D. None of the four belongs to James.
+A. Two marks define mystical states, two usually accompany them, and mysticism is narrower than religious experience.
+B. All four marks define every act of worship.
+C. Only passivity matters.
+D. James denies varieties of religion.
 
-- **A — Incorrect:** Passivity is usual and conversion is a distinct variety.
-- **B — Incorrect:** Institutional religion is not the scope of the classification.
-- **C — Correct:** It repairs both the grading and the domain error.
-- **D — Incorrect:** All four are Jamesian, but their status differs.
+**MCQ 38**
 
-**MCQ 44: D**
+A student writes, “Advaitic experience is *anirvacanīya* because Brahman is neither real nor
+unreal.” What is the correct repair?
 
-How should “ineffable” be repaired when it has been used to mean “meaningless”?
+A. Replace Brahman with personal God but retain the definition.
+B. Apply *anirvacanīya* to *māyā*/world-appearance; describe Brahman-realisation as non-dual and beyond adequate objectifying speech.
+C. Replace the term with Durkheim’s sacred.
+D. Treat the experience as ordinary sensory perception.
 
-A. Replace it with “irrational.”
-B. Say that only the object, never the experience, is describable.
-C. Deny that mystics make any reports.
-D. Say that adequate transfer is limited while partial and analogical description remains possible.
+**MCQ 39**
 
-- **A — Incorrect:** Failure of exhaustive expression is not contradiction of reason.
-- **B — Incorrect:** Reports commonly describe phenomenological features while limiting adequacy.
-- **C — Incorrect:** The empirical literature consists precisely of such reports.
-- **D — Correct:** This keeps the communication limit without erasing content.
+Which sentence repairs an exaggerated presentation of Alston?
 
-**MCQ 45: A**
+A. Alston shows every mystical practice is true.
+B. Alston proves Christian experience through sense perception.
+C. Alston argues that participation may be rational and M-beliefs prima facie justified, while diversity remains a defeater.
+D. Alston denies all doxastic practices.
 
-What corrects the claim that Advaita is “a perception of Brahman”?
+**MCQ 40**
 
-A. It is non-objective recognition that self-luminous ātman is Brahman.
-B. It is inference to an unseen creator.
-C. It is emotional union preserving two terms.
-D. It is the isolation of one *puruṣa* from matter.
+Which conclusion best repairs the claim that good moral fruits verify a common transcendent object?
 
-- **A — Correct:** Identity replaces an external knower–known relation.
-- **B — Incorrect:** Inference to a creator resembles a proof, not liberating recognition.
-- **C — Incorrect:** Preserved communion belongs to theistic Vedānta.
-- **D — Incorrect:** *Kaivalya* is the Yoga structure.
+A. Fruits are irrelevant to every appraisal.
+B. Moral change proves the subject fabricated the experience.
+C. One good consequence establishes all doctrinal claims.
+D. Fruits support authenticity and significance but underdetermine the metaphysical explanation.
 
-**MCQ 46: B**
+**MCQ 37 — Answer and explanation**
+**Correct answer: A**
 
-What corrects “Alston proved mystical perception reliable”?
+- **A — Correct:** It repairs both the grading error and the genus–species error.
+- **B — Incorrect:** Worship is neither the target class nor uniformly mystical.
+- **C — Incorrect:** Passivity is a secondary accompaniment and cannot bear the classification alone.
+- **D — Incorrect:** James’s larger project explicitly studies diverse forms of personal religion.
 
-A. Alston abandons religious experience entirely.
-B. He defends rational engagement and prima facie M-beliefs without proving reliability.
-C. He proves only Buddhist practice reliable.
-D. He replaces perception with moral fruits.
+**MCQ 38 — Answer and explanation**
+**Correct answer: B**
 
-- **A — Incorrect:** His project is a defence of mystical perception.
-- **B — Correct:** The modest conclusion is the argument’s real strength.
-- **C — Incorrect:** His primary case is Christian Mystical Practice, but no practice receives a proof.
-- **D — Incorrect:** Doxastic practice rather than Jamesian pragmatism structures his case.
+- **A — Incorrect:** Changing the object does not repair the misuse of the Advaitic technical term.
+- **B — Correct:** It relocates the term accurately and preserves non-objective Brahman-realisation.
+- **C — Incorrect:** Durkheim’s sociological category addresses a different problem.
+- **D — Incorrect:** Advaita’s claim is immediate knowledge without ordinary subject–object perception.
 
-**MCQ 47: C**
+**MCQ 39 — Answer and explanation**
+**Correct answer: C**
 
-What repairs “A neural correlate shows that the experience is nothing but brain activity”?
+- **A — Incorrect:** Internal rationality across incompatible practices cannot make all outputs true.
+- **B — Incorrect:** The model is perception-like but non-sensory and not a proof by ordinary sight.
+- **C — Correct:** The sentence states Alston’s limited gain and unresolved cross-practice pressure.
+- **D — Incorrect:** His argument depends on the ubiquity and rational role of doxastic practices.
 
-A. Genuine experiences have no neural basis.
-B. Brain activity proves the divine object.
-C. Neural mediation requires a further unreliability or explaining-away argument before becoming a defeater.
-D. Neuroscience cannot be discussed philosophically.
+**MCQ 40 — Answer and explanation**
+**Correct answer: D**
 
-- **A — Incorrect:** The claim is unsupported and implausibly disembodies genuine perception.
-- **B — Incorrect:** A mechanism does not establish veridicality.
-- **C — Correct:** Causal account and truth-value must be argued separately.
-- **D — Incorrect:** Naturalistic explanation is relevant when handled with the proper burden.
+- **A — Incorrect:** James gives durable consequences a legitimate practical role.
+- **B — Incorrect:** Beneficial change neither proves fabrication nor rules it out.
+- **C — Incorrect:** Consequences cannot uniquely select among rival metaphysical interpretations.
+- **D — Correct:** The repair preserves evidential relevance while rejecting deductive overreach.
 
-**MCQ 48: D**
+## Seven-day remediation loop
 
-A script distinguishes prayer and worship accurately but omits their place in religion. What is the best diagnosis?
-
-A. The distinction automatically includes the second task.
-B. The answer should discuss only petitionary prayer.
-C. The omission is harmless because examples compensate.
-D. One of two separately marked deliverables remains unanswered.
-
-- **A — Incorrect:** Function requires additional analysis of relational and communal roles.
-- **B — Incorrect:** Petition is only one form of prayer.
-- **C — Incorrect:** Examples cannot replace an explicit response to the directive.
-- **D — Correct:** “Distinguish” and “determine” allocate separate work.
-
-## Writing remediation
-
-1. **If the answer lists names:** Rebuild it around nature → object → interpretation → warrant.
-2. **If the answer overclaims:** Replace “proves” with the exact level — authenticity, prima facie warrant, testimony or public demonstration.
-3. **If Indian material is generic:** Name the logical structure — identity, relation, isolation or insight.
-4. **If an objection has no reply:** Add the strongest available defence and state the unresolved remainder.
-5. **If a double directive is half-answered:** Divide the body visibly into the two printed tasks.
-
----
+| Day | Retrieval task | Success condition |
+|---:|---|---|
+| 1 | Draw the five-question analytical gate | all five boxes in order |
+| 2 | Reproduce James’s two-plus-two and authority triad | no flat-list error |
+| 3 | Compare Stace, Zaehner, Katz and Forman | one thesis and one limit each |
+| 4 | Draw Indian identity–isolation–insight–relation map | no common-object shortcut |
+| 5 | Write Vedānta and Radhakrishnan comparison | three schools plus fallibility |
+| 6 | Distinguish prayer/worship and experience/revelation | both differentia and overlap |
+| 7 | Write a 150-word public-discourse verdict | discussable versus proved boundary |
 
 # MASTER COMPARISON, CAUSAL AND ARGUMENT MAPS
 
-## Master thinker comparison
-
-| Thinker/school | Nature | Object | Epistemic claim | Main objection | Best reply / residual |
-|---|---|---|---|---|---|
-| James | Ineffable and noetic; usually transient and passive; transformative varieties | The “MORE” | Personal authority; fruits | Subjective force does not prove object | Authenticity and value, not public proof |
-| Otto | Numinous awe | Holy / wholly other | Phenomenological disclosure | Reified emotion | Intentional structure is real; existence remains open |
-| Schleiermacher | Absolute dependence | Infinite / ultimate dependence | Primacy of feeling | Too subject-centred | Otto supplies an object-pole |
-| Stace | Extrovertive / introvertive | The One | Common core | Difference removed as interpretation | Defend recurring marks, not identical doctrine |
-| Zaehner | Nature / monistic / theistic | Nature, impersonal absolute or personal God | Irreducible types | Confessional ranking | Keep classification, drop hierarchy |
-| Katz | Tradition-shaped experience | Tradition-specific | No unmediated access | Over-totalises mediation | Strongest for content-rich reports |
-| Forman | Pure Consciousness Event | Minimal/contentless awareness | Limit on constructivism | Entry and recall remain mediated | Pressures universality, not all mediation |
-| Advaita | Stable non-dual recognition | Brahman as self | Self-luminous, self-certifying | Content/criterion problem | Scripture removes ignorance; public proof remains limited |
-| Radhakrishnan | Integral intuition | Spiritual Real | Primary and self-certifying | Advaitic assimilation | Claim common depth, not identical description |
-| Alston | Perception-like appearing | God presented | Prima facie M-beliefs; practical rationality | Rival practices conflict | Internal overrides exist; diversity remains |
-
-## Argument map — from experience to warrant
+## Continuous master flow
 
 ```text
-SEEMING OF X
-   ├── credulity: trust unless defeated
-   ├── noetic presentation
-   ├── testimony to hearer
-   ├── coherence / fruits / disciplined practice
-   │
-   └── defeaters
-        ├── unreliable conditions
-        ├── projection / wish-fulfilment
-        ├── neural or social explaining-away account
-        ├── weak cross-checking
-        └── incompatible religious objects
-
-SAFE RESULT
-subject: possible prima facie warrant
-hearer: limited testimonial weight
-public: discussion and assessment, not demonstration
+RELIGIOUS EXPERIENCE: NATURE AND OBJECT
+|
++-- 1. DEFINE THE GENUS
+|      apparent contact with / response to / identity with the sacred or ultimate
+|      varieties: mystical, numinous, conversion, revelatory, devotional, meditative
+|
++-- 2. APPLY THE FIVE-QUESTION GATE
+|      occurrence -> phenomenology -> claimed object -> interpretation -> warrant
+|      genuineness != doctrinal authenticity != metaphysical veridicality
+|
++-- 3. WESTERN NATURE ACCOUNTS
+|      James:
+|        I-N defining; T-P usual
+|        personal religion: healthy-minded / sick soul / divided self / conversion / saintliness
+|        fruits + rejection of medical materialism
+|        authority: subject yes / outsider no compulsion / no exclusive ordinary veto
+|      Otto: Holy = mysterium tremendum et fascinans
+|      Schleiermacher: absolute dependence
+|
++-- 4. MYSTICAL VARIETY
+|      Stace: extrovertive / introvertive + common core
+|      Zaehner: nature / monistic / theistic + contested ranking
+|      Katz: conceptual construction
+|      Forman: Pure Consciousness Event as limiting challenge
+|
++-- 5. INDIAN STRUCTURES
+|      Advaita: stable self-Brahman identity; sravana-manana-nididhyasana
+|               no external Brahman-object; anirvacaniya belongs to maya
+|      Visistadvaita: real dependent selves/world; personal Brahman; devotion/grace
+|      Dvaita: eternal soul-Visnu distinction; service/grace
+|      Yoga: purusha isolation; disciplined samadhi route
+|      Buddhism: impermanence, no-self, conditioned arising, nirvana
+|
++-- 6. RADHAKRISHNAN
+|      The Hindu View of Life
+|      integral darsana/anubhava -> self-certifying yet fallible
+|      reason + fresh inquiry + lived test
+|      central spiritual reality; mediated God-pictures
+|      Bhagavan in relation / Brahman in itself: argued synthesis
+|
++-- 7. PRACTICE AND DISCLOSURE
+|      prayer = address; worship = supreme worth; adoration overlaps
+|      petition problem -> Aquinas / Stump
+|      autonomy problem -> Rachels / worth-based reply
+|      Jain, Mimamsa, Buddhist cases: worship without responsive creator
+|      mystical experience != revelation
+|      experience may carry disclosure; revelation may guide experience
+|
++-- 8. VERIDICALITY
+|      Swinburne credulity -> subject prima facie warrant
+|      testimony -> weaker hearer warrant
+|      naturalism -> defeat only with unreliability/explaining-away bridge
+|      diversity -> incompatible object and relation claims
+|      Hick -> one Real through lenses; cost = indeterminacy/revision
+|
++-- 9. ALSTON AND PUBLIC DISCOURSE
+|      M-perception -> M-belief -> doxastic practice
+|      practical rationality, not proved reliability
+|      public criteria: report, coherence, discernment, fruits, trained method, testimony
+|      result: discussable and assessable, not identical first-person access or automatic proof
+|
++-- 10. ANSWER VERDICT
+       religious experience is recurrent, meaningful and often transformative
+       -> may defeasibly justify the subject
+       -> can give outsiders limited reasons
+       -> cannot by itself establish one public metaphysical object
+       -> Indian accounts widen "object" beyond creator encounter
 ```
 
-## Indian–Western parity map
-
-| Axis | Western emphasis | Indian emphasis | Examination payoff |
-|---|---|---|---|
-| Structure | Encounter, union or numinous otherness | Identity, isolation, relation or insight | Do not reduce difference to vocabulary |
-| Duration | Jamesian transiency is common | *Jñāna* may be stable | Grading James’s marks matters |
-| Method | Grace, contemplation, personal testimony | Staged discipline and scriptural reflection | Supports bounded repeatability |
-| Authority | Personal authority with limited transfer | Self-certification plus guru/*śruti* tests | Both face public criteria |
-| Object | God, Holy, “MORE” | Brahman, *puruṣa*, personal Lord, *nirvāṇa* | “Sacred” is wider than “God” |
-| Practice | Prayer and liturgy | *Upāsanā*, *pūjā*, *japa*, *dhyāna* | Worship can survive without petition |
-
-## Objection–reply map
+## Argument map: veridicality
 
 ```text
-INEFFABILITY → no meaningful claim?
-    reply: limits completeness, not every report
-
-NATURALISTIC CAUSE → illusion?
-    reply: show unreliability or explanatory exclusion
-
-DIVERSITY → no common object?
-    reply: mediation / family resemblance
-    residual: determinate conflict remains
-
-CONSTRUCTIVISM → tradition fabricates?
-    reply: mediation is compatible with objectivity
-    residual: no neutral access
-
-PRIVATE CERTAINTY → public authority?
-    reply: public criteria test authenticity
-    residual: first-person warrant does not transfer intact
+FOR WARRANT                         AGAINST / DEFEATERS
+seeming is normally trusted         hallucination or unreliable conditions
+testimony has default weight        incompatible testimony
+stable fruits matter                useful illusion is possible
+disciplined practice                training and doctrine shape results
+recurring phenomenology             recurrence underdetermines object
+          \                          /
+           \                        /
+            +---- GRADED VERDICT --+
+            prima facie for subject
+            testimonial weight for hearer
+            no experience-alone public proof
 ```
 
----
+## Comparison: Holy, sacred and God
+
+| Term | Primary question | Can be non-theistic? | Main caution |
+|---|---|---:|---|
+| Holy/numinous | what distinctive awe is like | potentially, as phenomenological category | distinctiveness does not prove object |
+| Sacred | what is set apart from profane life | yes | may become over-inclusive |
+| God | whether a personal or ultimate divine reality is encountered | no, if defined personally | cannot define all religion |
+
+## Retrieval tree for any answer
+
+```text
+WHO / WHICH TRADITION?
+      |
+      +--> NATURE: what is the structure?
+      |
+      +--> OBJECT: what seems given or realised?
+      |
+      +--> METHOD: grace, testimony, devotion, discipline?
+      |
+      +--> WARRANT: subject, hearer, public?
+      |
+      +--> OBJECTION: naturalism, diversity, mediation, ineffability?
+      |
+      +--> VERDICT: what survives, for whom, and how far?
+```
 
 # COMPLETE CONSOLIDATED REGISTER NOTES
 
-## Register 1 — The analytical frame
+## A. Analytical grammar
 
-1. Religious experience is apparent awareness of or response to an ultimate reality.
-2. Phenomenology asks what the state is like.
-3. Claimed object asks what seems present.
-4. Interpretation asks how tradition names it.
-5. Epistemic force asks what and whom it justifies.
-6. Psychological genuineness, doctrinal authenticity and metaphysical veridicality differ.
-7. Intensity does not entail truth.
-8. Naming does not entail meeting.
-9. Mediation does not entail fabrication.
-10. “Object” may be intentional or soteriological, not a finite inspected thing.
+- Religious experience: apparent contact with, response to or identity with sacred/ultimate reality.
+- Genus includes mystical, numinous, conversion, revelatory, devotional and meditative forms.
+- Five questions: occurrence → nature → object → interpretation → warrant.
+- Three achievements: psychological genuineness, doctrinal authenticity, metaphysical veridicality.
+- Subjective = first-personal, not unreal.
+- Mediation = causal/conceptual condition, not automatic falsity.
 
-## Register 2 — James
+## B. James
 
-1. The marks apply to mystical states.
-2. Ineffability and noetic quality are defining.
-3. Transiency and passivity are usual.
-4. Noetic quality is experienced insight, not demonstrated knowledge.
-5. Mystical authority binds the subject more than outsiders.
-6. James studies first-person documents.
-7. Medical materialism wrongly dismisses by origin.
-8. Fruits assess durable transformation.
-9. Healthy-mindedness and sick soul are different temperaments.
-10. Conversion unifies the divided self.
-11. Saintliness names durable fruits.
-12. The “MORE” is deliberately under-described.
+- Method: empirical study of personal documents and varied temperaments.
+- Defining marks: ineffability + noetic quality.
+- Usual marks: transiency + passivity.
+- Wider varieties: healthy-mindedness, sick soul, divided self, conversion, saintliness, mysticism.
+- “MORE”: wider reality, less determinate than classical theism.
+- Medical materialism: origin alone cannot discredit.
+- Fruits: enduring transformation; evidentially relevant but non-deductive.
+- Authority conclusions:
+  1. authority for subject;
+  2. no compulsory outsider assent;
+  3. ordinary consciousness has no exclusive veto.
+- 2026 formula: genuine lived religious expression, not guaranteed divine contact.
 
-## Register 3 — Otto and the object
+## C. Holy, sacred and mystical typology
 
-1. The numinous is the non-rational core of the holy.
-2. *Mysterium* is the wholly other.
-3. *Tremendum* is awe, majesty and overpoweringness.
-4. *Fascinans* is attraction.
-5. Creature-feeling combines humility, dread and fascination.
-6. Non-rational does not mean irrational.
-7. Moral concepts schematise the prior datum.
-8. Schleiermacher stresses absolute dependence.
-9. Otto’s holy is phenomenological.
-10. Durkheim’s sacred is social.
-11. Eliade’s hierophany structures space and time.
-12. Sacred is the genus; God is theistic paradigm.
+- Otto: numinous Holy = *mysterium tremendum et fascinans*; non-rational, not irrational.
+- Schleiermacher: feeling of absolute dependence.
+- Durkheim: sacred/profane social classification.
+- Eliade: hierophany structures sacred space/time.
+- Stace: extrovertive and introvertive; common core.
+- Zaehner: nature, monistic, theistic; classification useful, ranking disputed.
+- Katz: experience itself is tradition-shaped.
+- Forman: contentless Pure Consciousness Event pressures total constructivism.
 
-## Register 4 — Typology and mediation
+## D. Indian structures
 
-1. Stace: extrovertive and introvertive.
-2. Stace defends a common core beneath interpretation.
-3. Zaehner: nature, monistic and theistic.
-4. Zaehner denies one core and adds a contested ranking.
-5. Keep classification; drop hierarchy.
-6. Identity and relation differ logically.
-7. Katz says there are no unmediated experiences.
-8. Forman’s PCE attacks the contentless limit.
-9. Constructivism is strongest for rich content.
-10. Family resemblance is safer than identical content.
+- Direct realisation (*anubhava*) does not imply one shared object.
+- Advaita:
+  - immediate non-dual recognition (*aparokṣānubhūti*);
+  - self = Brahman;
+  - stable knowledge after hearing, reflection, contemplation;
+  - Brahman not an external object;
+  - *anirvacanīya* applies to *māyā*/appearance.
+- Yoga: discrimination and isolation (*kaivalya*) of consciousness from nature.
+- Buddhism: insight into impermanence, no-self and conditioned arising; cessation (*nirvāṇa*).
+- Devotion: enduring relation, surrender, service and grace.
 
-## Register 5 — Advaita and Indian plurality
+## E. Vedānta and Radhakrishnan
 
-1. *Anubhava* is direct realisation.
-2. *Aparokṣānubhūti* is immediate realisation.
-3. *Aham brahmāsmi* expresses identity.
-4. Brahman is not an external object.
-5. Consciousness is self-luminous.
-6. *Śravaṇa–manana–nididhyāsana* prepare stable knowledge.
-7. *Anirvacanīya* belongs to māyā/world-appearance.
-8. Viśiṣṭādvaita preserves dependent communion.
-9. Dvaita preserves eternal difference.
-10. Yoga culminates in *kaivalya*.
-11. Buddhism culminates in insight and cessation without creator or permanent self.
-12. Indian experience is plural in structure.
+- Advaita: identity.
+- Viśiṣṭādvaita: real dependent modes/body of personal Brahman; devotion/grace.
+- Dvaita: eternal soul–Viṣṇu distinction; service/grace.
+- Radhakrishnan, *The Hindu View of Life*:
+  - lived *darśana/anubhava* before fixed creed;
+  - integrated cognition, feeling and will;
+  - self-certifying for subject yet fallible;
+  - reason, inquiry and life test interpretation;
+  - central spiritual reality behind mediated descriptions;
+  - Bhagavān relationally, Brahman beyond finite representation;
+  - common-object claim is argued and contestable.
 
-## Register 6 — Radhakrishnan
+## F. Prayer, worship and revelation
 
-1. *The Hindu View of Life* is the named 2025 work.
-2. Direct spiritual experience precedes dogma and ritual.
-3. Integral intuition joins cognition, feeling and will.
-4. The object is the spiritual Real.
-5. Experience is claimed self-certifying.
-6. Transformation supports authenticity.
-7. Universality supports tolerance.
-8. The assimilation objection charges an Advaitic bias.
-9. Common depth is weaker than identical content.
-10. Strongest as an experiential philosophy, weaker as public epistemology.
+- Prayer = address; worship = acknowledgement of supreme worth.
+- Adoration overlaps.
+- ACTS: adoration, confession, thanksgiving, supplication.
+- Petition problem: omniscience + goodness + immutability.
+- Aquinas: prayer as ordained secondary means.
+- Stump: relational/friendship value.
+- Rachels: unconditional worship threatens autonomy.
+- Jainism: reverence to non-granting *vītarāga*.
+- Mīmāṃsā: ritual efficacy through *apūrva*.
+- Mystical experience = mode of awareness; revelation = claimed disclosure.
+- Neither entails the other universally.
 
-## Register 7 — Revelation, prayer and worship
+## G. Veridicality
 
-1. Mystical experience is a mode; revelation is disclosure.
-2. Experience may be a vehicle of non-propositional revelation.
-3. Either can occur without the other.
-4. Revelation can originate and renew tradition.
-5. Private disclosure requires discernment.
-6. Prayer is address.
-7. Worship is acknowledgement of supreme worth.
-8. ACTS: adoration, confession, thanksgiving, supplication.
-9. Aquinas makes prayer an ordained secondary cause.
-10. Stump gives a relational defence.
-11. Rachels raises moral autonomy against worship.
-12. Jain and Mīmāṃsā cases show worship without answered petition.
+- Swinburne: principle of credulity gives defeasible starting warrant.
+- Testimony gives limited hearer warrant.
+- Naturalistic account must show unreliability or explaining-away force.
+- Diversity is the major defeater: personal God, identity, distinction and no-self conflict.
+- Hick: one Real through cultural lenses; objection—indeterminacy and revision.
+- Safe verdict: personally significant and prima facie justified, publicly inconclusive by itself.
 
-## Register 8 — Warrant and public discourse
+## H. Alston and public discourse
 
-1. Credulity trusts seemings absent defeaters.
-2. Testimony gives hearers limited weight.
-3. Warrant is prima facie, not automatic.
-4. Naturalistic origin is not sufficient for defeat.
-5. The mechanism must be unreliable or explaining-away.
-6. Diversity is the strongest cross-tradition defeater.
-7. Alston defends practical rationality, not proven reliability.
-8. Doxastic practices include override procedures.
-9. Hick’s Real reconciles at the cost of indeterminacy.
-10. Reports, coherence, fruits and practices are publicly discussable.
-11. Discernment tests authenticity more readily than truth.
-12. The subject’s felt evidence does not transfer intact.
-13. Final formula: publicly discussable, privately probative, not publicly demonstrative.
+- M-perception: non-sensory appearance of God.
+- M-belief: belief produced by mystical perception.
+- Doxastic practice: socially established belief-forming system with checks.
+- Conclusion: practical rationality and prima facie warrant, not proven reliability.
+- Diversity remains unresolved.
+- Public criteria:
+  1. phenomenological report;
+  2. coherence;
+  3. traditional discernment;
+  4. fruits;
+  5. trained practice;
+  6. testimony.
+- Public discourse is possible as assessment, not transfer of immediate evidence.
 
----
+## I. Examiner traps
+
+- Never flatten James’s two-plus-two.
+- Never apply the marks to every religious experience.
+- Never infer truth from intensity, ineffability or fruits alone.
+- Never merge Otto and Durkheim.
+- Never merge Stace and Zaehner.
+- Never objectify Brahman.
+- Never call Brahman *anirvacanīya*.
+- Never reduce Vedānta to Advaita.
+- Never equate prayer and worship.
+- Never equate mysticism and revelation.
+- Never report Alston as proof.
+- Never equate discussability with public demonstration.
+
+## J. Answer-writing register
+
+```text
+INTRO
+define exact experience and analytical axis
+
+BODY 1
+state named thinker/tradition accurately
+
+BODY 2
+identify nature, object, method and authority
+
+BODY 3
+strong objection -> reply -> residual
+
+COMPARISON
+one Indian-Western or intra-Indian discriminator
+
+CONCLUSION
+state what survives, for whom, and how far
+```
+
+### Rapid one-line judgements
+
+- James is strongest as a phenomenology of personal religion and weaker as proof of object.
+- Otto identifies distinctive awe but does not establish the Holy’s independent reality.
+- Stace preserves cross-cultural unity at the risk of abstracting difference.
+- Zaehner preserves identity–relation difference at the cost of a disputed hierarchy.
+- Advaita turns “object” into non-dual self-recognition.
+- Radhakrishnan makes experience immediate but not immune from rational criticism.
+- Swinburne starts warrant; diversity can defeat it.
+- Alston defends rational participation, not verified reliability.
+- Public discourse reaches reports, practices and consequences—not transferred first-person force.
 
 # COVERAGE MATRIX
 
-| Required coverage | Main location | Objection/reply evidence | Practice/PYQ evidence |
-|---|---|---|---|
-| Nature and object | Lessons 1, 4 | Four-layer and generic-object analyses | MCQs 1–2, 8–11; 2018 |
-| Religious experience varieties | Lessons 1, 3 | Classification without metaphysical overreach | MCQs 6–7; 2022 |
-| James’s marks | Lesson 2 | Ineffability/noetic objection and reply | MCQs 3–5, 43–44; 2026 |
-| James’s method and fruits | Lesson 3 | Pragmatic value versus truth | MCQs 6–7, 35; 2022/2026 |
-| Numinous/non-mystical experience | Lesson 4 | Psychology objection; Indian limit | MCQs 8–9; 2018 |
-| Sacred/holy and God | Lesson 4 | Over-breadth and subordination replies | MCQs 9–11; 2018 |
-| Stace and Zaehner | Lesson 5 | Common core versus logical difference | MCQs 12–13; original 15-marker |
-| Interpretation and constructivism | Lesson 5 | Katz versus Forman; mediation ≠ fabrication | MCQ 14; cumulative 35 |
-| Advaita specifically | Lesson 6 | Content/criterion objection | MCQs 15–16, 45; 2024 |
-| Vedāntic experience generally | Lesson 7 | Identity versus relation | MCQs 17, 19, 38; 2021 |
-| Radhakrishnan | Lesson 7 | Assimilation objection and bounded reply | MCQ 18, 41; 2025 |
-| Wider Indian comparison | Lesson 7 | Four structures and controls | MCQ 19; master parity map |
-| Mysticism and revelation | Lesson 8 | Projection, discernment and residual | MCQs 20–23; 2023 |
-| Prayer versus worship | Lesson 9 | Petition and autonomy objections | MCQs 24–25, 40, 48; 2020 |
-| Credulity and testimony | Lesson 10 | Analogy objection and reply | MCQs 26–28, 37; original 20-marker |
-| Naturalistic explanations | Lesson 10 | Unreliability burden | MCQs 27, 39, 47 |
-| Verification and transformation | Lessons 3, 10, 12 | Authenticity versus truth | MCQs 28, 33 |
-| Alston’s perceptual model | Lesson 11 | Diversity and weak cross-checking | MCQs 29, 46 |
-| Plural experience and Hick | Lesson 11 | Indeterminacy and unfalsifiability | MCQs 30, 41 |
-| Public discourse/private language | Lesson 12 | Six public criteria and transfer limit | MCQs 31–34; 2019 |
-| Exact nine owned PYQs | Final PYQ index | Exact directives and bounded routes | Nine-row approach-only table |
-| Local practice variation | Lessons 1–12 | Misconception-sensitive questions | Counts: 2, 3, 2, 4, 3, 2, 3, 4, 2, 3, 2, 4 |
-| Cumulative/remedial practice | Final MCQ and remediation sections | Integration and error repair | MCQs 35–48 |
-| Original solved Mains | Final Mains section | 10-, 15- and 20-mark complete models | Three original answers |
-| Consolidated revision | Maps and register notes | Eight retrieval registers | Final maps and notes |
-
----
+| Core obligation | Primary location | Practice / PYQ proof |
+|---|---|---|
+| Nature, object, interpretation, warrant | Lesson 1 | MCQs 1–3, 32 |
+| Psychological/doctrinal/metaphysical distinction | Lesson 1 | Original 10-marker |
+| Varieties of religious experience | Lessons 1, 3 | MCQ 6, 2022 route |
+| James’s graded marks | Lesson 2 | MCQs 4, 31, 37 |
+| James’s method, medical materialism and fruits | Lessons 2–3 | MCQs 5, 9 |
+| James’s three authority conclusions | Lesson 2 | 2026 route |
+| Healthy-mindedness, sick soul, divided self, conversion, saintliness | Lesson 3 | 2022 route |
+| Otto and Schleiermacher | Lessons 1, 9 | MCQ 2 |
+| Sacred/Holy/God object problem | Lesson 1 | 2018 route, MCQ 33 |
+| Stace, Zaehner, Katz, Forman | Lesson 3 | MCQs 7–8 |
+| Advaita features and terminology | Lesson 4 | MCQs 10–12, 38; 2024 route |
+| Yoga, Buddhism and devotion | Lesson 4 | MCQ 12 |
+| Three Vedāntas | Lesson 5 | MCQs 13, 34; 2021 route |
+| Radhakrishnan named-work account | Lesson 5 | MCQs 14, 29; 2025 route |
+| Prayer versus worship | Lesson 6 | MCQs 15–16; 2020 route |
+| Petition, autonomy and non-theistic homage | Lesson 6 | MCQ 16 |
+| Mystical experience and revelation | Lesson 6 | MCQs 17–18; 2023 route |
+| Credulity and testimony | Lesson 7 | MCQ 19 |
+| Naturalistic explanation | Lesson 7 | MCQs 20, 35 |
+| Diversity and Hick | Lesson 7 | MCQ 21 |
+| Alston’s perceptual model and doxastic practice | Lesson 8 | MCQs 22, 25, 39 |
+| Ineffability and public articulation | Lesson 8 | MCQ 24 |
+| Public discourse boundary | Lesson 8 | MCQs 23, 28, 36; 2019 route |
+| Indian–Western parity | Lesson 9 | MCQs 26–27; original 15-marker |
+| Directive decoding and mark-sensitive frameworks | Lesson 10 | MCQs 28–30 |
+| All nine owned PYQs, 2018–2026 | Verified PYQ section | exact wording and approach table |
+| Complete MCQs with explanations | Every lesson, cumulative, remediation | MCQs 1–40 |
+| Original 10/15/20-mark solved practice | Mains section | three model answers |
+| Optional Advanced deployment | A1–A3 | three retrieval checks |
+| Bounded Expert reference and stop rules | E1–E2 | three retrieval checks |
+| Consolidated revision | Maps and register notes | Sections A–J |
 
 # SOURCE LEDGER
 
@@ -2168,54 +2912,75 @@ PRIVATE CERTAINTY → public authority?
 
 | Category | Status | Evidence or reason |
 |---|---|---|
-| Canonical Markdown | checked | `upsc-ai-kit\knowledge\Philosophy\paper-2\philosophy-of-religion\Religious-Experience.md` read fully before drafting and reread after generation for doctrine, terminology, boundaries and nine-year routing |
-| Final learner package | checked | Exact mandated `notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\06-Religious-Experience\01-Complete-Learning-Session\Complete-Learning-Session.pdf`, 91 pages, audited for sequencing, visuals, doctrine and gaps |
-| Layered/complete session | not available | No separate permitted Topic 06 layered Markdown exists outside excluded prior artifacts; completeness was audited through the exact mandated 91-page complete session |
-| Solved workbook | checked | Exact mandated `notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\06-Religious-Experience\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf`, 33 pages, audited for misconception patterns and answer architecture |
-| Advanced dossier | checked | `upsc-ai-kit\knowledge\Philosophy\_advanced\Philosophy-of-Religion-Dossier.md` §6 checked for perceptual-model, constructivist, perennialist, neuro-reduction and non-dual refinements |
-| OCR books | checked | `books\philosphy_books\The Oxford Handbook of Philosophy of Religion.pdf` PDF pp. 150–179 and `Indian Philosophy Vol. 2 by Radhakrishnan.pdf` PDF pp. 370–445 audited for mystical phenomenology, epistemic models and Indian disciplined experience |
-| PYQs through 2026 | checked | `_PYQ-PhilosophyOfReligion-2018-2025.md` and `_PYQ-PhilosophyOfReligion-2026-Supplement.md` read fully; exactly nine owned questions verified, including 2026 Q5(a) |
-| Official live sources | checked | UPSC official-paper status was checked; 2026 wording remains controlled by the repository’s official-OCR supplement. Ministry of Ayush 2026 yoga materials were checked only as an official practice context and not used as proof of religious veridicality |
+| Canonical Markdown | checked | `upsc-ai-kit\knowledge\Philosophy\paper-2\philosophy-of-religion\Religious-Experience.md` was read for doctrine, terminology, boundaries, traps and answer architecture. |
+| Final learner package | not relevant | Excluded by the user’s provenance rule; no content, structure or prose from that source category was consulted or retained. |
+| Layered/complete session | checked | Nyāya–Vaiśeṣika, Yoga, Mīmāṃsā and certified Notions of God live sessions were consulted only for learner-first pedagogy, visual sequencing and tier discipline. |
+| Solved workbook | not relevant | Excluded by the user’s provenance rule; practice was independently written from canonical doctrine and verified question demands. |
+| Advanced dossier | checked | `upsc-ai-kit\knowledge\Philosophy\_advanced\Philosophy-of-Religion-Dossier.md` §6 was used only for optional mediation, warrant and embodiment refinements. |
+| OCR books | not relevant | The user limited this rebuild to permitted repository Markdown and named benchmark sessions, so no OCR book was consulted. |
+| PYQs through 2026 | checked | `_PYQ-PhilosophyOfReligion-2018-2025.md` and `_PYQ-PhilosophyOfReligion-2026-Supplement.md` controlled exact wording, marks, ownership and demand. |
+| Official live sources | not relevant | Live sources were outside the permitted provenance set and were not used for doctrine, examples or current-affairs anchors. |
 
-## Detailed source use
+## Detailed permitted-source record
 
-| Source | Material used | Boundary observed |
+### Substantive Core sources
+
+- `upsc-ai-kit\knowledge\Philosophy\paper-2\philosophy-of-religion\Religious-Experience.md`
+- `upsc-ai-kit\knowledge\Philosophy\paper-2\_PYQ-PhilosophyOfReligion-2018-2025.md`
+- `upsc-ai-kit\knowledge\Philosophy\paper-2\_PYQ-PhilosophyOfReligion-2026-Supplement.md`
+- `philosophy-coverage\Philosophy-of-Religion.md`, Clause 6
+
+### Optional Advanced source
+
+- `upsc-ai-kit\knowledge\Philosophy\_advanced\Philosophy-of-Religion-Dossier.md`, §6
+
+### Pedagogy-only benchmarks
+
+- `live_sessions\Philosophy-Optional\01-Nyaya-Vaisesika\Learning-Session-Live-Edition.md`
+- `live_sessions\Philosophy-Optional\06-Yoga\Learning-Session-Live-Edition.md`
+- `live_sessions\Philosophy-Optional\07-Mimamsa\Learning-Session-Live-Edition.md`
+- `live_sessions\Philosophy-of-Religion\01-Notions-of-God\Learning-Session-Live-Edition.md`
+
+These benchmark files supplied no Topic 06 doctrine or copied prose. They informed visual-first
+sequencing, dependency-led lessons, Core sufficiency, selective enrichment and explicit stop rules.
+
+## Tier decisions
+
+| Material | Tier decision | Reason |
 |---|---|---|
-| Canonical Topic 06 Markdown | Complete doctrine, advanced modules, traps, factual controls, answer architecture and ownership | Canonical distinctions control all conflicts |
-| Exact complete learner PDF | Eighteen-source-session depth, visuals, examples, objections, directive logic and register synthesis | Used only through the mandated learner path; source-package scaffolding was not copied into lesson structure |
-| Exact solved workbook PDF | Thirty-two diagnostic misconception patterns, eight historical PYQ demands and six original-answer architectures | PYQ solutions were not reproduced; the live file keeps all nine PYQs approach-only |
-| Advanced dossier | Four second-order contrasts | Integrated only after the core doctrines they evaluate |
-| Oxford Handbook | Definition, phenomenology, ineffability and epistemic models | Scholarly analysis is not labelled official current affairs |
-| Radhakrishnan, *Indian Philosophy*, Vol. II | Yogic, Vedāntic and intuitive-experience context | The named 2025 work remains *The Hindu View of Life* |
-| Two PYQ ledgers | Exact wording, marks, primary ownership and 2026 route | Cross-links remain bounded and never create duplicate ownership |
-| Official live checks | UPSC availability check and 2026 Ayush yoga materials | No wellness statement is treated as evidence for a transcendent object |
+| Four/five analytical distinctions and experience varieties | Core | syllabus nature/object grammar and recurring PYQ dependence |
+| James’s marks, wider varieties and authority conclusions | Core | directly owned by 2022 and 2026 PYQs |
+| Sacred/Holy/God distinctions | Core | directly owned by 2018 PYQ |
+| Public discourse criteria | Core | directly owned by 2019 PYQ |
+| Prayer/worship philosophy | Core | directly owned by 2020 PYQ |
+| Three Vedāntas | Core | directly owned by 2021 PYQ |
+| Mystical experience/revelation | Core | directly owned by 2023 PYQ |
+| Advaita terminology and stable knowledge | Core | directly owned by 2024 PYQ |
+| Radhakrishnan’s named-work structure | Core | directly owned by 2025 PYQ |
+| Stace, Zaehner, Katz, Forman | Core | needed to evaluate nature, variety, mediation and conflicting object-claims |
+| Credulity, naturalism, diversity and Alston | Core | required for object, warrant and public-discourse ownership |
+| Mediation spectrum, warrant ladder and embodiment refinement | Optional Advanced | useful second-order evaluation after Core completeness |
+| Swinburne/Alston and Stace/Forman precision distinctions | Bounded Expert | discriminators only; never prerequisites |
 
-## Gap audit closed
+## Provenance and rewrite statement
 
-| Gap identified | Repair in this edition |
-|---|---|
-| Learner package ended with eight owned questions | Added exact 2026 Q5(a), retained Religious Experience ownership and updated the continuous nine-year record |
-| Four analytical layers could remain a package preface rather than a learning dependency | Made them Lesson 1 and the organising method for every later doctrine |
-| James’s four marks were vulnerable to flat-list recall | Dedicated Lesson 2 teaches the two-plus-two grading and its Advaita payoff |
-| James’s wider varieties could be eclipsed by mysticism | Dedicated Lesson 3 covers healthy-mindedness, sick soul, conversion, saintliness, “MORE” and fruits |
-| Sacred, holy and God could be reduced to terminology | Lesson 4 reconstructs four accounts, non-theistic cases and both major objections |
-| Typologies and mediation could be treated as optional enrichment | Lesson 5 teaches Stace, Zaehner, Katz and Forman as core evaluative apparatus |
-| Advaita could be objectified or mislabeled *anirvacanīya* | Lesson 6 supplies the identity structure, preparation, correct terminology and content objection |
-| “Vedāntic” could be collapsed into Advaita | Lesson 7 gives Viśiṣṭādvaita, Dvaita, Radhakrishnan and four Indian structures |
-| Mysticism and revelation could be identified | Lesson 8 proves non-identity and separately answers religious significance |
-| Prayer and worship could be treated as synonyms | Lesson 9 gives essential acts, philosophical problems and decisive non-theistic cases |
-| Naturalism could be overstated as automatic refutation | Lesson 10 states the unreliability and explaining-away burden |
-| Alston could be overstated as proof | Lesson 11 fixes the conclusion at practical rationality and prima facie warrant |
-| Public discourse could be answered yes/no | Lesson 12 builds a ladder and draws the authenticity/truth boundary |
+- The prior destination acknowledged prohibited package sources.
+- The file was therefore replaced rather than cleaned by ledger deletion.
+- Teaching, practice, model answers, maps, register notes and source ledger were independently
+  reconstructed from the permitted sources listed above.
+- No prior package-derived prose was intentionally retained.
+- No learner-v2 artifact, package PDF, solved workbook, generated package or prohibited notes area
+  was consulted.
+- No live web or OCR source was used.
 
-## Verification record
+## Verification discipline
 
-- ✅ All four governing authorities were read before drafting and reread after generation.
-- ✅ The canonical Topic 06 file and both PYQ ledgers through 2026 were read before drafting and reread after generation.
-- ✅ Both exact mandatory learner PDFs were audited across all 124 pages; no prohibited prior learner artifact was used or named in the lesson text.
-- ✅ Exactly nine primary-owned PYQs are included, one from every year 2018–2026, with 2026 Q5(a) retained here and only bounded cross-links elsewhere.
-- ✅ Every local, cumulative and remedial MCQ was semantically reviewed for one best key, plausible distractors and four option-specific explanations.
-- ✅ Correct answers rotate continuously A → B → C → D across all 48 MCQs.
-- ✅ Every lesson contains progress, pre-teach evidence, a meaningful visual, full doctrine, example limits, objection/reply/residual, UPSC use, 8–15 revision points and 2–4 local MCQs.
-- ✅ Official-live status is stated narrowly; scholarly sources are never described as official current-affairs sources.
-- ✅ Topic 06 remains quarantined behind Topic 05: no index, instruction, other topic, staging, commit or push was changed.
+- ✅ Core covers all 49 Clause 6 demand rows through the grouped lessons and matrices.
+- ✅ All nine primary-owned PYQs from 2018–2026 are routed with exact wording and approach only.
+- ✅ Every lesson contains progress, pre-teach provenance, a visual, doctrine, objection/reply,
+  UPSC application, revision and answer-separated MCQs.
+- ✅ Forty MCQs follow continuous A → B → C → D key rotation and include four option explanations.
+- ✅ Optional Advanced material follows the Core checkpoint.
+- ✅ Expert reference contains deployment and omission rules and is never required for Core answers.
+- ✅ Final consolidated register notes are the final substantive revision block before coverage and
+  provenance records.
