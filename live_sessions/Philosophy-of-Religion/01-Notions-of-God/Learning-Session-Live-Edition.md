@@ -9,27 +9,57 @@
 > objection, and converted into UPSC-ready application. Existence-proofs, the full problem of evil,
 > religious language and liberation enter only where they clarify this syllabus owner.
 
+## How the three learning tiers work
+
+```text
+MUST-NEEDED / CORE
+Complete syllabus + every verified PYQ demand
+        |
+        | independently sufficient for a strong answer
+        v
+OPTIONAL ADVANCED
+One selective refinement for sharper evaluation
+        |
+        | never required to understand the Core
+        v
+BOUNDED EXPERT REFERENCE
+Specialist debate for discriminating use only
+```
+
+1. **Must-Needed/Core** contains every doctrine, distinction, criticism and application required by
+   the printed syllabus or a verified PYQ. It is independently answer-complete.
+2. **Optional Advanced** adds controlled second-order debate after Core is complete. Use at most one
+   advanced move in a 15-marker and one or two in a 20-marker.
+3. **Bounded Expert Reference** identifies specialist refinements that can improve judgement but are
+   never prerequisites for a complete answer.
+4. **Promotion rule:** if the syllabus or a verified PYQ directly requires an Advanced or Expert
+   point, that point becomes Must-Needed/Core regardless of its source folder.
+
 ## Dependency-led roadmap
 
-| Stage | Lesson | Learning dependency |
-|---|---:|---|
-| Foundation | 1 | What a “notion of God” contains: nature, roles, predicates and relations |
-| Foundation | 2 | Western relation-models: classical theism, deism, pantheism and panentheism |
-| Foundation | 3 | The classical attribute package and why the attributes must be jointly coherent |
-| Core | 4 | Omnipotence, omniscience, free will, eternity, immutability and simplicity under pressure |
-| Core | 5 | Spinoza: one substance, attributes, modes and necessary immanence |
-| Core | 6 | Śaṅkara: nirguṇa Brahman, saguṇa Īśvara, world-appearance and qualified theism |
-| Core | 7 | Rāmānuja: personal Brahman, body–self unity, real plurality, devotion and grace |
-| Core | 8 | Nyāya Īśvara and Indian non-creator alternatives |
-| Advanced | 9 | Hindu divine plurality, Madhva, Śaiva and Śākta notions |
-| Advanced | 10 | God–world–person master matrix, immanence/transcendence and physical manifestation |
-| Advanced | 11 | Personal and impersonal ultimacy in the context of devotion |
-| Advanced | 12 | Comparative judgement, directive decoding and complete PYQ readiness |
+| Tier | Stage | Lesson | Learning dependency |
+|---|---|---:|---|
+| Must-Needed | Foundation | 1 | What a “notion of God” contains: nature, roles, predicates and relations |
+| Must-Needed | Foundation | 2 | Western relation-models: classical theism, deism, pantheism and panentheism |
+| Must-Needed | Foundation | 3 | The classical attribute package and why the attributes must be jointly coherent |
+| Must-Needed | Core | 4 | Omnipotence, omniscience, free will, eternity, immutability and simplicity under pressure |
+| Must-Needed | Core | 5 | Spinoza: one substance, attributes, modes and necessary immanence |
+| Must-Needed | Core | 6 | Śaṅkara: nirguṇa Brahman, saguṇa Īśvara, world-appearance and qualified theism |
+| Must-Needed | Core | 7 | Rāmānuja: personal Brahman, body–self unity, real plurality, devotion and grace |
+| Must-Needed | Core | 8 | Nyāya Īśvara and Indian non-creator alternatives |
+| Must-Needed | Core | 9 | Hindu divine plurality, Madhva, Śaiva and Śākta notions |
+| Must-Needed | Core | 10 | God–world–person master matrix, immanence/transcendence and physical manifestation |
+| Must-Needed | Core | 11 | Personal and impersonal ultimacy in the context of devotion |
+| Must-Needed | Core synthesis | 12 | Comparative judgement, directive decoding and complete PYQ readiness |
 
 The order is deliberate. A learner first acquires the conceptual grammar, then studies models and
-attributes, then meets the named systems, and only afterward attempts cross-system judgement.
+attributes, then meets the named systems, and only afterward attempts cross-system judgement. Lessons
+1–12 together form the complete Must-Needed/Core route; no later enrichment is required to answer the
+verified questions.
 
 ---
+
+# MUST-NEEDED / CORE LEARNING SESSION
 
 ## Lesson 1 — What does a notion of God actually contain?
 
@@ -1567,7 +1597,7 @@ lost if *kāryāt* replaces the attributes and God–world–person relations.
 
 ## Lesson 9 — Hindu plurality and additional personal theisms
 
-Progress: 9/12 | Stage: Advanced | Subtopic: Polytheism, henotheism, monism, Madhva, Śaiva and Śākta notions
+Progress: 9/12 | Stage: Core | Subtopic: Polytheism, henotheism, monism, Madhva, Śaiva and Śākta notions
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — Radhakrishnan Vol. II and the canonical Indian parity dossier.
@@ -1755,7 +1785,7 @@ flat no. Reuse the criterion “plurality of ultimates versus plurality of names
 
 ## Lesson 10 — God, world and person: the master relation matrix
 
-Progress: 10/12 | Stage: Advanced | Subtopic: Identity, appearance, embodiment, dependence, causation and manifestation
+Progress: 10/12 | Stage: Core | Subtopic: Identity, appearance, embodiment, dependence, causation and manifestation
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — all five OCR book controls for relation-types and the canonical God–world–human matrix.
@@ -1959,7 +1989,7 @@ self-relation or devotion—is applied to every system.
 
 ## Lesson 11 — Personal and impersonal ultimacy in the context of devotion
 
-Progress: 11/12 | Stage: Advanced | Subtopic: I–Thou relation, bhakti, provisional devotion and impersonal religious practice
+Progress: 11/12 | Stage: Core | Subtopic: I–Thou relation, bhakti, provisional devotion and impersonal religious practice
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — Hick on personal/non-personal ultimacy and Vedāntic book evidence on bhakti, surrender and knowledge.
@@ -2161,10 +2191,10 @@ Who prays? To whom? Can the object know, respond and save? Does the relation sur
 
 ## Lesson 12 — Comparative judgement and answer construction
 
-Progress: 12/12 | Stage: Advanced | Subtopic: Argument-led comparison, directive decoding, objections, replies and graded verdicts
+Progress: 12/12 | Stage: Core synthesis | Subtopic: Argument-led comparison, directive decoding, objections, replies and graded verdicts
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried — all canonical, package, advanced and OCR evidence used for cross-system verification.
+Book context: queried — canonical Core, verified PYQ and OCR evidence used for cross-system verification.
 CA search: "official interreligious dialogue remaining rooted in respective traditions June 2026"
 CA found: 📰 Fact — Vatican communiqué, 24 June 2026, states that dialogue and cooperation can coexist with remaining rooted in respective religious traditions.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -2338,6 +2368,21 @@ D. A model should be judged by stated criteria, with its explanatory gain and re
 
 **Mains bridge:** Before leaving an answer, underline mentally: exact term defined, doctrine
 reconstructed, comparison constant stated, objection answered, residual admitted, directive obeyed.
+
+## Must-Needed completion checkpoint
+
+At this point you can answer every verified 2018–2026 question owned by this syllabus clause without
+using optional material. You should be able to:
+
+- define a God-concept through nature, attributes, roles and relations;
+- compare Western and Indian models under one constant;
+- reconstruct the major attribute criticisms and controlled replies;
+- explain Spinoza, Advaita, Viśiṣṭādvaita and Nyāya without merging their metaphysics;
+- handle Hindu plurality, physical manifestation and devotion qualifiers;
+- produce a graded verdict that states both the surviving claim and its cost.
+
+Optional Advanced and bounded Expert material must be added only after this complete Core architecture
+is secure.
 
 # VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
 
@@ -2938,9 +2983,9 @@ Does "manifestation" mean a finite body?
 | Category | Status | Evidence or reason |
 |---|---|---|
 | Canonical Markdown | checked | `upsc-ai-kit\knowledge\Philosophy\paper-2\philosophy-of-religion\Notions-of-God.md` audited in full for syllabus, doctrine, traps and 2018–2024 routing. |
-| Final learner package | checked | `notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\01-Notions-of-God\01-Complete-Learning-Session\Complete-Learning-Session.pdf` audited across all 129 pages. |
-| Layered/complete session | checked | `upsc-ai-kit\knowledge\Philosophy\Philosophy-of-Religion\learning-sessions\Notions-of-God\Notions-of-God_Uncompressed-Complete-Learning-Session_2026-08-22.md`; Nyāya and Vedānta complete sessions also checked for parity. |
-| Solved workbook | checked | `notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\01-Notions-of-God\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf` audited across all 51 pages. |
+| Final learner package | not relevant | Permanently excluded from live-session work by the governing source-exclusion rule. |
+| Layered/complete session | not relevant | The current baseline and the three approved Philosophy live sessions provide the required teaching calibration; no derived complete session was used as content authority. |
+| Solved workbook | not relevant | Permanently excluded from live-session work by the governing source-exclusion rule. |
 | Advanced dossier | checked | `upsc-ai-kit\knowledge\Philosophy\_advanced\Philosophy-of-Religion-Dossier.md`, §1, checked for perfect-being, open-theist, process and Vedāntic refinements. |
 | OCR books | checked | John Hick pp. 16–23, 51–53, 126–130, 146–147; Oxford Handbook pp. 27–33, 79–85, 203–216, 439–445; Chatterjee–Datta pp. 171–180, 274–285, 301–307, 322–328; C. D. Sharma pp. 248–280, 337–365; Radhakrishnan Vol. II pp. 447–452, 547–587, 694–722, 751–768. |
 | PYQs through 2026 | checked | `upsc-ai-kit\knowledge\Philosophy\paper-2\_PYQ-PhilosophyOfReligion-2018-2025.md` and `_PYQ-PhilosophyOfReligion-2026-Supplement.md`; 2026 wording controlled by official Paper II OCR. |
@@ -2957,11 +3002,8 @@ Does "manifestation" mean a finite body?
 - `upsc-ai-kit\knowledge\Philosophy\paper-2\philosophy-of-religion\Notions-of-God.md`
 - `upsc-ai-kit\knowledge\Philosophy\paper-2\_PYQ-PhilosophyOfReligion-2018-2025.md`
 - `upsc-ai-kit\knowledge\Philosophy\paper-2\_PYQ-PhilosophyOfReligion-2026-Supplement.md`
-- `upsc-ai-kit\knowledge\Philosophy\Philosophy-of-Religion\learning-sessions\Notions-of-God\Notions-of-God_Uncompressed-Complete-Learning-Session_2026-08-22.md`
-- `upsc-ai-kit\knowledge\Philosophy\Philosophy-of-Religion\learning-sessions\Notions-of-God\Notions-of-God_Solved-Practice-Workbook_2026-08-22.md`
-- `upsc-ai-kit\knowledge\Philosophy\Indian-Philosophy\learning-sessions\Nyaya-Vaisesika\Nyaya-Vaisesika_Layered-Complete-Learning-Session_2026-08-18.md`
-- `upsc-ai-kit\knowledge\Philosophy\Indian-Philosophy\learning-sessions\Schools-of-Vedanta\Schools-of-Vedanta_Layered-Complete-Learning-Session_2026-08-18.md`
 - `upsc-ai-kit\knowledge\Philosophy\_advanced\Philosophy-of-Religion-Dossier.md`
+- `philosophy-coverage\Philosophy-of-Religion.md`
 
 ### OCR-searchable book controls
 
@@ -2980,7 +3022,7 @@ Does "manifestation" mean a finite body?
 ## Verification discipline
 
 - ✅ **Canonical doctrine/fact:** doctrinal statements directly grounded in the audited topic,
-  packages, PYQ ledgers or standard book controls.
+  PYQ ledgers or standard book controls.
 - ⚠️ **Analytical inference:** comparisons, costs, residuals and model judgements explicitly marked
   as evaluative where first introduced.
 - 📰 **Official live context:** the 2026 communiqué is used only to illustrate contemporary need
