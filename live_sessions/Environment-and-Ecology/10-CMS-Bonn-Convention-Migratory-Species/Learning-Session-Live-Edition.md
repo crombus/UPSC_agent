@@ -20,7 +20,7 @@ Basic is completed in Lessons 1–4; Lessons 5–6 deepen, rather than substitut
 Progress: 1 / 6 | Stage: Foundation | Subtopic: Migration, range and the weakest link
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-📚 Book context: no distinct book treatment is needed for the treaty definition and migration logic.
+📚 Book context: Queried — *The Recitals, March 2026*, PDF pp. 94–95 supplies a current COP15/CMS context; the Convention and official CMS materials control treaty definitions and duties.
 🔍 CA search: "site:cms.int COP15 March June 2026 migratory species ecological connectivity"
 📰 CA found: CMS COP15, Campo Grande, 23–29 March 2026; revised appendices notice, 27 June 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -101,7 +101,7 @@ Imagine protecting a traveller's destination but leaving the only safe rest stop
 Progress: 2 / 6 | Stage: Core | Subtopic: Appendix I protection and Appendix II cooperation
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-📚 Book context: no distinct book treatment is needed; treaty provisions govern appendix duties.
+📚 Book context: Queried — *The Recitals, March 2026*, PDF pp. 94–95 supplies COP15 context; treaty provisions govern appendix duties.
 🔍 CA search: "site:cms.int/news/2026012-revised-cms-appendices COP15 June 2026 Appendix I II"
 📰 CA found: CMS notification on revised COP15 appendices, effective 27 June 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -211,7 +211,7 @@ provisions.
 Progress: 3 / 6 | Stage: Core | Subtopic: Agreements, MOUs, institutions and India's role
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-📚 Book context: no distinct book treatment is needed for the institutional distinctions.
+📚 Book context: Queried — *The Recitals, March 2026*, PDF pp. 94–95 supplies COP15 context; official CMS instruments control the institutional distinctions.
 🔍 CA search: "site:cms.int/document/flyways-decision-15152 India Central Asian Flyway Coordination Unit 2026"
 📰 CA found: COP15 Decision 15.152 asks CAF range states to support a Coordination Unit in India by end-2026; this is a request/target, not verification of completion.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -393,7 +393,7 @@ The Central Asian Flyway (CAF) is an ecological network of routes, **not** itsel
 Progress: 4 / 6 | Stage: Core | Subtopic: Corridors, habitat, threats and overlapping conventions
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-📚 Book context: no distinct book treatment is needed for route-and-threat matching.
+📚 Book context: Queried — *The Recitals, March 2026*, PDF pp. 94–95 supplies COP15 context; official CMS and species evidence control route-and-threat matching.
 🔍 CA search: "site:cms.int 2026 COP15 flyways threats habitat loss bycatch power lines Central Asian Flyway"
 📰 CA found: COP15 (March 2026) prioritised ecological connectivity, illegal take, bycatch and infrastructure threats; June revised appendices entered into force.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -461,7 +461,7 @@ Return now to the unanswered **2026 Prelims GS-I Q27** and apply the route, thre
 Progress: 5 / 6 | Stage: Advanced | Subtopic: Weakest-link critique and Great Indian Bustard contrast
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-📚 Book context: no distinct book treatment is needed for the jurisdictional diagnosis.
+📚 Book context: Queried — *The Recitals, March 2026*, PDF pp. 94–95 supplies COP15 context; official and species-specific evidence controls the jurisdictional diagnosis.
 🔍 CA search: "site:cms.int 2026 great Indian bustard collision power lines flyway COP15"
 📰 CA found: June 2026 CMS revised appendices require a fresh listing check; a CMS post-COP15 report describes the March bustard action plan. No new Indian court order verified.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -522,7 +522,7 @@ Population is declining
 Progress: 6 / 6 | Stage: Advanced | Subtopic: Evidence quality and institutional evaluation
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-📚 Book context: no distinct book treatment is needed for the evidence-and-outcomes framework.
+📚 Book context: Queried — *The Recitals, March 2026*, PDF pp. 94–95 supplies COP15 context; official reports and measured outcomes control institutional evaluation.
 🔍 CA search: "site:cms.int 2026 State of the World's Migratory Species interim report COP15 flyways India 2026"
 📰 CA found: June 2026 revised CMS appendices confirm listings may change; the earlier COP15 summary (March 2026) reports an interim global status assessment.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -725,7 +725,7 @@ Cross-border cyclical and predictable migration (CMS Art. I)
 | Resolution 12.28 (Rev.COP15): Concerted Action purpose, seven criteria, actors, reporting and closure | Lesson 3 process flow, criteria, status discipline, revisions and register |
 | Revised appendices effective 27 June 2026 and India National Report 2025 | Lesson 3 current species-status table and domestic implementation chain; register |
 | Cross-topic evidence: IUCN/GIB risk, Ramsar wetland boundary, Wildlife (Protection) Act implementation, CITES trade boundary | Lessons 3–5; convention comparison, domestic chain, GIB diagnosis and register |
-| Book context | Treaty-specific doctrine is taught from the Convention and official CMS materials; no separate book-derived passage is required. |
+| Book context | `books\current affairs vajiram\The_Recitals_March2026_6ae82ffdc4.pdf`, PDF pp. 94–95, was audited for its COP15/CMS current context; treaty-specific doctrine remains controlled by the Convention and official CMS materials. |
 | Exact 2018–2026 PYQ treatment | 2026 Prelims Set A Q27 appears as an answer-neutral complete first attempt before Lesson 1 and returns after Lesson 4. No additional exact CMS-specific question is displayed for 2018–2025. |
 
 # SOURCE LEDGER
@@ -739,8 +739,8 @@ Cross-border cyclical and predictable migration (CMS Art. I)
 | Layered/complete session | not available | No eligible Topic 10 layered session is available; the mandatory benchmark live editions provide pedagogical style only. |
 | Solved workbook | not relevant | Permanently excluded from all live-session work under governing source-exclusion rule. |
 | Advanced dossier | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\10_CMS-Bonn-Convention-Migratory-Species.md` §§1–13 support the weakest-link, instrument-weight and evidence-limit analysis. |
-| OCR books | not available | No topic-specific CMS book evidence is available; the Convention and official CMS materials provide the necessary subject evidence. |
-| PYQs through 2026 | checked | `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2026.md` routes Q27 to Basic 10; `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\knowledge-export\Prelims PYQ\2026-GS1-Set A.md` preserves its English stem, statements and choices. The 2018–2025 routing ledgers contain no additional direct CMS question. |
+| OCR books | checked | `books\current affairs vajiram\The_Recitals_March2026_6ae82ffdc4.pdf`, PDF pp. 94–95, was audited for COP15/CMS current context. The Convention and official CMS materials remain controlling for treaty doctrine. |
+| PYQs through 2026 | checked | `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2026.md` routes Q27 to Basic 10. The exact stem, statements and choices were verified against the official local paper `books\prelima_question_paper_answers\2026-GS1-Set A.pdf`, Q27; `books\prelima_question_paper_answers\Ans-2026-GS1-Provisional.pdf` is separately treated as a **provisional** key and supplies no answer inside this session. The 2018–2025 routing ledgers contain no additional direct CMS question. |
 | Official live sources | checked | One CMS COP15 2026 decision-cycle linkage plus Convention Articles VII–XI, Resolution 12.28 (Rev.COP15), revised appendices effective 27 June 2026 and India's 2025 CMS National Report support governance, Concerted Action, India's implementation chain and species-status teaching. |
 
 ## Cross-topic evidence used
