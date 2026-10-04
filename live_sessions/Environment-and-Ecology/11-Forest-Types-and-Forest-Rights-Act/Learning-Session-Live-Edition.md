@@ -112,7 +112,7 @@ Attempt all seven now. Their concepts are taught later, without printing an obje
 | Core | 4. The complete bundle of forest rights | How do IFR, community rights, habitat rights and CFR differ? |
 | Core | 5. From claim to title | What do the Gram Sabha, Forest Rights Committee, SDLC and DLC actually do? |
 | Core | 6. Evidence, safeguards and development facilities | What can prove a claim, what cannot, and when is eviction barred? |
-| Advanced | 7. Rights and conservation | How can Section 5 stewardship coexist with protected areas and critical wildlife habitat? |
+| Core | 7. Rights and conservation | How can Section 5 stewardship coexist with protected areas and critical wildlife habitat? |
 | Advanced | 8. Implementation and the wider forest-law interface | Why can a progressive statute produce uneven outcomes, and how do diversion law and FRA interact? |
 
 The eight lessons move from classification and the complete statutory foundation to advanced conservation, implementation and forest-law coordination. Lesson 8 uses the Ministry of Tribal Affairs’ **June 2026 FRA Monthly Progress Report** to demonstrate careful output-versus-outcome analysis.
@@ -164,7 +164,7 @@ The first UPSC trap is linguistic: the word **forest** appears in several system
 
 1. An **ecological forest type** describes vegetation shaped mainly by climate, altitude, soils and disturbance. “Tropical moist deciduous” belongs here.
 2. A **legal forest category** follows notification or government records. Under the Indian Forest Act, 1927, the classic distinction is Reserved Forest, Protected Forest and Village Forest. “Unclassed forest” is commonly used in official forest statistics for recorded forest area not placed in the reserved or protected classes.
-3. A **forest-cover class** is a remote-sensing measurement. Forest Survey of India uses canopy-density thresholds: Very Dense Forest (70% and above), Moderately Dense Forest (40% to below 70%) and Open Forest (10% to below 40%). **Scrub is poorly stocked forest land with canopy density below 10%**; it is mapped separately and is not part of forest cover. FSI’s general forest-cover definition covers land of at least one hectare with tree-canopy density **10% and above**, irrespective of ownership and legal status.
+3. A **forest-cover class** is a remote-sensing measurement. Forest Survey of India uses canopy-density thresholds: Very Dense Forest (70% and above), Moderately Dense Forest (40% to below 70%) and Open Forest (10% to below 40%). **Scrub is poorly stocked forest land with canopy density below 10%**; it is mapped separately and is not part of forest cover. FSI’s current methodology excludes patches below one hectare and canopy density below 10%; the operational threshold is therefore **at least one hectare** with **at least 10%** tree-canopy density, irrespective of ownership and legal status.
 4. A **rights category** identifies legally recognised entitlements under the Forest Rights Act (FRA), 2006. Individual Forest Rights, community-use rights and Community Forest Resource rights do not describe rainfall or canopy density.
 
 ### Why the distinctions matter
@@ -244,7 +244,7 @@ The mnemonic “everything prohibited unless permitted” versus “everything p
 
 ### Concept check
 
-**Question:** A one-hectare orchard has canopy above 70% but lies outside recorded forest land. What may be said safely, and what may not be inferred?
+**Question:** A 1.2-hectare orchard has canopy above 70% but lies outside recorded forest land. What may be said safely, and what may not be inferred?
 
 <details><summary>Open worked answer only after your first attempt</summary>
 
@@ -254,7 +254,7 @@ The mnemonic “everything prohibited unless permitted” versus “everything p
 
 </details>
 
-**Original Mains application (10 marks, 150 words):** Explain why forest cover, recorded forest area and forest rights cannot be used interchangeably. **Model (112 words):** Forest cover is a canopy measurement: FSI maps land of at least one hectare with canopy density 10% and above, irrespective of ownership or legal status. It can therefore include a plantation or orchard. Recorded forest area, by contrast, is land entered or notified as forest in official records; a degraded reserved forest may remain legally recorded despite low canopy. Forest rights answer a third question—who holds recognised habitation, livelihood or management entitlements under the FRA. A community forest resource title may exist over notified forest without changing its ecological type or making it saleable private property. Sound policy must compare these layers rather than infer tenure or biodiversity from canopy alone. **Scoring focus (10):** forest-cover definition 3; recorded-area distinction with example 3; FRA tenure distinction 2; category-error conclusion 2.
+**Original Mains application (10 marks, 150 words):** Explain why forest cover, recorded forest area and forest rights cannot be used interchangeably. **Model (112 words):** Forest cover is a canopy measurement: FSI maps land of at least one hectare with canopy density of at least 10%, irrespective of ownership or legal status. It can therefore include a plantation or orchard. Recorded forest area, by contrast, is land entered or notified as forest in official records; a degraded reserved forest may remain legally recorded despite low canopy. Forest rights answer a third question—who holds recognised habitation, livelihood or management entitlements under the FRA. A community forest resource title may exist over notified forest without changing its ecological type or making it saleable private property. Sound policy must compare these layers rather than infer tenure or biodiversity from canopy alone. **Scoring focus (10):** forest-cover definition 3; recorded-area distinction with example 3; FRA tenure distinction 2; category-error conclusion 2.
 
 ## Lesson 2 — Reading India’s forest map as climate plus altitude
 
@@ -769,7 +769,7 @@ The **District Level Committee** is the final authority to approve the record of
 
 The Rules provide a **60-day window** for a petition against the Gram Sabha resolution to the SDLC and another **60-day window** for a petition against the SDLC decision to the DLC. Delay may be entertained where sufficient reasons are recorded; the window should therefore be communicated with the order rather than hidden from the claimant.
 
-An FRC member must not participate in verification of a claim submitted by that member or the member’s family. This claimant-recusal safeguard protects the credibility of community-led fact-finding without displacing the Gram Sabha’s institutional role.
+Under Rule 3(3), an FRC member who is also an **individual forest-right claimant** must disclose that fact and must not participate when that member’s own claim is verified. The rule does not create a general family-claim recusal. This safeguard protects the credibility of community-led fact-finding without displacing the Gram Sabha’s institutional role.
 
 | Body | Core role | Frequent exam error |
 |---|---|---|
@@ -802,7 +802,7 @@ An IFR claim needs the area actually occupied; a CFR claim needs the customary c
 9. A person aggrieved by SDLC may petition the DLC.
 10. Reasonable opportunity to present the case is a due-process safeguard.
 11. Each petition stage ordinarily carries a 60-day window, subject to reasoned acceptance of sufficient delay.
-12. An FRC member should recuse from verification of that member’s or family’s claim.
+12. An FRC member claiming an individual forest right must recuse when that member’s own claim is verified.
 13. Hamlet-level institutional design can protect smaller forest settlements.
 14. IFR mapping and CFR mapping answer different spatial questions.
 15. State Level Monitoring Committee monitors implementation; it is not the ordinary final title authority.
@@ -937,11 +937,11 @@ A rejection should identify the claim, evidence considered and reason. A mass re
 
 **Original Mains application (15 marks, 250 words):** Analyse how evidentiary design determines whether FRA corrects or reproduces historical injustice. **Model (149 words):** FRA addresses rights that state forest settlement often failed to record. Requiring one modern title deed would therefore reproduce the original exclusion. The Rules permit a basket of evidence—government records, physical attributes such as fields or sacred sites, community-use patterns, maps and statements of elders—tested through field verification and Gram Sabha resolution. This does not mean every assertion must succeed: the claimant must establish eligibility, the pre-2005 connection and the nature and extent of the right, while committees must address overlapping claims. Section 4(5) makes timing crucial by barring eviction until recognition and verification are complete. Administrative justice further requires individual reasons and a real SDLC/DLC appeal; a formulaic rejection converts formal review into fiction. The balanced approach is neither document monopoly nor assertion alone, but plural evidence, transparent mapping, reasoned orders and hearing. Such procedure protects genuine claimants while preserving credibility of forest governance. **Scoring focus (15):** historical-record problem 3; evidence basket 4; verification and competing-claim safeguards 3; Section 4(5) sequencing 2; reasons/appeal reform 3.
 
-> **OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER:** Lessons 7–8 add conservation, implementation and cross-statute analysis only after the complete Basic statutory foundation above.
+> **Core-to-application transition:** Lesson 7 completes the core FRA architecture through Section 5, protected-area coverage and Critical Wildlife Habitat safeguards. Lesson 8 then adds advanced implementation and cross-statute analysis.
 
-## Lesson 7 — Advanced: rights can be a conservation institution
+## Lesson 7 — Core: rights can be a conservation institution
 
-Progress: 7 / 8 | Stage: Advanced | Subtopic: Section 5 duties, protected areas and critical wildlife habitat
+Progress: 7 / 8 | Stage: Core | Subtopic: Section 5 duties, protected areas and critical wildlife habitat
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 📚 Book context: protected areas, Section 5 and Critical Wildlife Habitat safeguards.
@@ -1004,16 +1004,18 @@ Forest rights can exist in National Parks and Sanctuaries, subject to the statut
 
 ### Critical Wildlife Habitat (CWH)
 
-FRA defines Critical Wildlife Habitat as an area within National Parks and Sanctuaries required to be kept inviolate for wildlife conservation. Modification or resettlement of recognised rights in such an area requires a demanding process, including:
+FRA defines Critical Wildlife Habitat as an area within a National Park or Sanctuary that is specifically and clearly established, case by case, on scientific and objective criteria as necessary to keep inviolate for wildlife conservation. The Central Government ministry dealing with environment determines and notifies it only after an **open consultation process** through an Expert Committee that includes experts from the locality and a representative of the Ministry of Tribal Affairs.
+
+Modification or resettlement of recognised rights under Section 4(2) then requires a separate demanding sequence:
 
 1. completion of recognition and vesting of rights;
-2. scientific and objective determination, case by case, that human presence or activities cause irreversible damage and threaten species/habitat;
-3. a finding that reasonable coexistence options are unavailable;
+2. scientific and objective determination, through the required expert consultation, that rights-holders’ presence or activities cause irreversible damage and threaten species or habitat;
+3. a State Government finding that reasonable coexistence options are unavailable;
 4. preparation of a resettlement or alternatives package securing livelihood;
 5. free informed consent of the concerned Gram Sabhas in writing;
 6. no displacement until promised facilities and land allocation are complete.
 
-The Central Government’s Ministry dealing with environment notifies CWH through the statutory conservation process, but **PVTG habitat rights** are a different FRA right processed through the FRA claims architecture. This distinction resolves the 2018 PYQ’s institutional trap.
+If rights-holders are relocated for wildlife conservation, the vacated CWH **cannot subsequently be diverted by the State Government, Central Government or another entity for other uses**. **PVTG habitat rights** remain a different FRA right processed through the FRA claims architecture. This distinction resolves the 2018 PYQ’s institutional trap.
 
 ### Relocation and “voluntariness”
 
@@ -1040,14 +1042,14 @@ Consent is weakened if a community’s underlying rights have not been settled o
 4. CFR can align authority, future benefits and stewardship incentives.
 5. A CFR title alone does not prove ecological improvement.
 6. Protected-area status does not automatically extinguish FRA claims.
-7. CWH exists only within National Parks and Sanctuaries.
+7. CWH exists only within National Parks and Sanctuaries and is notified by the Union environment ministry after an open Expert Committee process with local experts and a MoTA representative.
 8. Rights recognition and vesting must be completed before CWH relocation.
-9. The damage finding must be scientific, objective and case-specific.
+9. The irreversible-damage finding must be scientific, objective, case-specific and expert-informed.
 10. Reasonable coexistence must be examined and found unavailable.
 11. A secure livelihood/resettlement package is mandatory.
 12. Written free informed Gram Sabha consent is required.
 13. Displacement cannot precede completion of facilities and land allocation.
-14. PVTG habitat rights and Critical Wildlife Habitat are different legal concepts.
+14. A vacated CWH cannot later be diverted for another use; PVTG habitat rights remain legally distinct.
 15. Community conservation must address internal equity and external commercial pressure.
 
 **Next question:** if the legal design is so detailed, why do outcomes remain uneven?
@@ -1072,8 +1074,8 @@ Progress: 8 / 8 | Stage: Advanced | Subtopic: Claims, outcomes, the 2023 amendme
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 📚 Book context: implementation stages and the June 2026 Ministry of Tribal Affairs Monthly Progress Report.
-🔍 CA search: "site:tribal.nic.in downloads FRA MPR June 2026 claims titles"
-📰 CA found: Ministry of Tribal Affairs, June 2026 FRA Monthly Progress Report; use as a dated administrative snapshot, not proof of ecological or livelihood outcomes.
+🔍 CA search: "site:tribal.gov.in FRA MPR June 2026; 31 August 2026 MoTA Gram Sabha consent Stage-II forest clearance; Supreme Court forest definition September 2026"
+📰 CA found: Ministry of Tribal Affairs, June 2026 FRA Monthly Progress Report; the reported 31 August 2026 MoTA Stage-II consent communication; and September 2026 reporting on the pending forest-definition case. Each is used with its distinct evidentiary status.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual — implementation is a pipeline, not one number
@@ -1137,7 +1139,7 @@ The forest department retains statutory conservation duties and technical capaci
 
 ### Advanced legal overlay: the 2023 amendment and current judicial position
 
-The **Forest (Conservation) Amendment Act, 2023** renamed the 1980 law as the **Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980** and stated its principal applicability through land notified as forest under law and land recorded as forest in government records on or after **25 October 1980**. Its relevant exemption thresholds must be kept exact:
+The **Forest (Conservation) Amendment Act, 2023** renamed the 1980 law as the **Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980** and stated its principal applicability through land notified as forest under law and land recorded as forest in government records on or after **25 October 1980**. Section 1A also contains an important proviso: the recorded-forest limb does not apply to land changed from forest use to non-forest use **on or before 12 December 1996** pursuant to an order issued by an authority authorised by a State Government or Union Territory Administration. Its relevant exemption thresholds must also be kept exact:
 
 - forest land alongside a government-maintained rail line or public road that provides access to a habitation, or provides a rail or roadside amenity: **up to 0.10 hectare in each case**;
 - forest land within **100 kilometres** of an international border, Line of Control or Line of Actual Control proposed for a **strategic linear project of national importance and concerning national security**: no separate hectare ceiling is stated in this limb;
@@ -1159,13 +1161,25 @@ and the constitutional proceedings
 
 The order also required prior Supreme Court permission before final approval of government or authority proposals for zoos and safaris in forest areas outside protected areas, until the coordinate Bench’s final judgment governed that field. On **15 July 2026**, the Court used that interim mechanism to permit the Kukrail Night Safari and Zoological Park subject to Central Empowered Committee safeguards and all other statutory approvals; it expressly said the permission did not dispense with, dilute or override any other clearance.
 
-At the **16 September 2026** hearing, the Court stated that it would confine the main case to the constitutional validity of the 2023 definition of “forest.” Individual parcel disputes were left to the High Courts, while States and Union Territories that had not constituted expert panels were directed to do so and complete the Rule 16(1) consolidated record exercise.
+Contemporaneous reports of the **16 September 2026 oral hearing** said that the Bench intended to confine the main case to the constitutional validity of the 2023 definition of “forest,” leave parcel-specific disputes to High Courts and press unfinished Rule 16(1) expert-panel work. No publicly located written Supreme Court order records those propositions for that date, so they are **reported oral observations, not independently operative directions**.
 
-**Position on 3 October 2026:** the constitutional challenge remained pending; no final merits judgment had displaced the 19 February 2024 interim framework. Do not say that the amendment was finally struck down, that Section 1A was formally suspended, or that the interim order permanently settled every parcel and exemption dispute.
+**Docket-confirmed position through 3 October 2026:** no final merits judgment had displaced the 19 February 2024 interim framework. Do not say that the amendment was finally struck down, that Section 1A was formally suspended, or that reported oral observations permanently settled parcel, panel or exemption disputes.
 
 ### FRA and diversion-law coordination
 
 Forest-diversion approval, compensatory-afforestation obligations and FRA recognition answer different legal questions. A project approval under the 1980 forest-conservation law does not itself determine whether IFR, community, habitat or CFR claims exist. Conversely, an FRA title does not remove the need for forest-diversion approval where the diversion law applies.
+
+### Consent, consultation and clearance: use the correct legal verb
+
+| Instrument and trigger | Required community role | Exact boundary |
+|---|---|---|
+| **FRA Section 3(2)** — listed government-managed community facilities on less than one hectare in each case | **Gram Sabha recommendation** is a statutory condition | It is not a general consent clause for mining, dams or every diversion proposal |
+| **FRA Section 4(2)(e)** — proposed resettlement from a notified CWH | **Free informed consent in writing** of the concerned Gram Sabhas to both resettlement and the package | It operates only within the complete CWH sequence; consent alone is insufficient |
+| **PESA Section 4(i)** — land acquisition and resettlement/rehabilitation in Scheduled Areas | Gram Sabha or the appropriate-level Panchayat must be **consulted** | The central text uses “consulted,” not a universal consent or veto formula |
+| **PESA Section 4(m)(ii)** — governance of minor forest produce in Scheduled Areas | State Panchayat law must endow the appropriate Panchayat and Gram Sabha with **ownership of minor forest produce** | This reinforces the livelihood-governance layer; it is not itself project-clearance consent |
+| **MoEFCC executive clearance framework** | Earlier clearance circulars required a district-level FRA-compliance record, including concerned Gram Sabha resolutions/NOC where prescribed. Under Rule 11(7) of the 2023 Rules, the State/UT issues the diversion order only after Central final approval and compliance with other applicable laws, expressly including settlement of FRA rights | Executive sequencing and documentary requirements are distinct from the bare FRA; the applicable circular, approval conditions and project date must be checked |
+
+On **31 August 2026**, an official MoTA communication, quoted in contemporaneous reporting, took the position that the FRA and its Rules contain no provision requiring Gram Sabha consent for **Stage-II forest clearance** and that this issue did not fall within MoTA’s purview. That is a contested executive position, not an amendment of FRA, PESA or the 2023 forest-conservation Rules and not a judicial ruling. It does not erase Section 3(2) recommendation, Section 4(2)(e) written consent, PESA consultation/MFP ownership, Section 4(5) sequencing or Rule 11(7)’s requirement that FRA rights be settled before the State/UT diversion order.
 
 The operational sequence is:
 
@@ -1178,7 +1192,7 @@ identify land/status and diversion-law applicability
            existing community use or unresolved claims
 ```
 
-The precise claim is therefore **cross-compliance**, not that every forest-law exemption automatically extinguishes FRA or that one uniform consent formula governs every project. Where eviction or removal is involved, Section 4(5) remains the central sequencing safeguard.
+The precise claim is therefore **cross-compliance**, not that every forest-law exemption automatically extinguishes FRA or that one uniform consent formula governs every project. Where eviction or removal is involved, Section 4(5) remains the central sequencing safeguard; in Scheduled Areas, the distinct PESA duties must also be identified.
 
 ### Using the June 2026 report safely
 
@@ -1205,9 +1219,9 @@ The precise claim is therefore **cross-compliance**, not that every forest-law e
 10. Forest departments and Gram Sabhas can have coordinated rather than mutually exclusive roles.
 11. Administrative outputs are not livelihood, equity or ecological outcomes; national averages conceal state, district, claimant-category and right-category variation.
 12. Reform must target the precise stage—access, evidence, reasons, appeal, title quality or post-title operation—where the pipeline fails.
-13. The 2023 law contains distinct 0.10-hectare, 100-kilometre, 10-hectare and 5-hectare limbs; their wording and conditions must not be merged.
-14. The 19 February 2024 interim order keeps *Godavarman* principles operative pending Rule 16 completion and the constitutional proceedings; as of 3 October 2026, no final merits judgment had displaced it.
-15. The 15 July 2026 zoo/safari order preserved other clearances; the 16 September 2026 hearing kept the definition challenge pending. Diversion approval, FRA rights determination and compensatory restoration remain distinct tracks.
+13. Consent vocabulary is instrument-specific: FRA Section 3(2) recommendation; FRA Section 4(2)(e) written consent; PESA Section 4(i) consultation; PESA Section 4(m)(ii) MFP ownership; and executive forest-clearance/FRA-compliance documentation.
+14. Section 1A includes the authorised-conversion proviso through 12 December 1996, while the 0.10-hectare, 100-kilometre, 10-hectare and 5-hectare exemption limbs remain distinct.
+15. The 19 February 2024 interim order and 15 July 2026 zoo/safari order are official written controls. The 16 September 2026 propositions remain reported oral observations; through 3 October no final merits judgment had displaced the interim framework.
 
 **Transition to synthesis:** the topic is mastered only when forest classification, rights content, procedure, conservation and implementation indicators remain distinct but connected.
 
@@ -1238,7 +1252,7 @@ Every exact objective PYQ appears once in the opening neutral docket, before all
 | 2021 | Supporting institutional linkage | Prelims GS-I, Q84 | The displayed question asks which Union ministry is the national nodal agency for effective FRA implementation. Study approach: separate FRA implementation responsibility from forest and wildlife functions. | 3, 5 |
 | 2022 | Direct | Prelims GS-I, Q50 | The displayed question asks what the “Miyawaki method” is well known for. Study approach: distinguish the planting technique from mature native-forest equivalence. | 2 |
 | 2023 | Direct | Prelims GS-I, Set A, Q3 | The displayed question asks how many among jackfruit, mahua and teak are deciduous. Study approach: classify each species independently. | 2 |
-| 2023 | Direct | GS-I, Q15 — 15 marks, 250 words | “Identify and discuss the factors responsible for diversity of natural vegetation in India. Assess the significance of wildlife sanctuaries in rain forest regions of India.” Study approach: combine climatic, edaphic, relief and disturbance controls with the ecological role and governance limits of sanctuaries in rainforest landscapes. | 2, 7 |
+| 2023 | Cross-owned supporting demand (routed to Topic 06) | GS-I, Q15 — 15 marks, 250 words | “Identify and discuss the factors responsible for diversity of natural vegetation in India. Assess the significance of wildlife sanctuaries in rain forest regions of India.” Study approach: use Topic 11 for vegetation controls and Topic 06 for the protected-area owner; combine climatic, edaphic, relief and disturbance controls with the ecological role and governance limits of sanctuaries in rainforest landscapes. | 2, 7 |
 | 2024 | Direct | Prelims GS-I, Set A, Q30 | The displayed question asks how many among cashew, papaya and red sanders are actually native to India. Study approach: separate cultivated familiarity from biogeographic nativeness. | 2 |
 | 2025 | Supporting forest-rights linkage | GS-I, Q20 — 15 marks, 250 words | “Does tribal development in India centre around two axes, those of displacement and of rehabilitation? Give your opinion.” Study approach: use FRA recognition, Section 3(1)(m), Section 4(5), participation and livelihood continuity while retaining the wider tribal-development frame. | 3, 4, 6, 7 |
 | 2026 | Supporting forest-governance linkage | GS-II, Q6 — 10 marks, 150 words | “Does India's tribal development policy reflect the aspirations for a socially grounded and equity-based governance? Justify your answer.” Study approach: use Gram Sabha authority, tenure and livelihood rights, evidence-sensitive adjudication and accountable delivery within the wider tribal-governance frame. | 4, 5, 6, 8 |
@@ -1249,7 +1263,7 @@ Every exact objective PYQ appears once in the opening neutral docket, before all
 - For **2019 Q33**, revisit the printed sequence only after distinguishing percentage cover from absolute area and fixing the report vintage.
 - For **2019 Q55**, apply the exact MFP definition and separate it from the Indian Forest Act proposition; no answer key is reproduced.
 - For **2020 Q17**, use the Lesson 1 five-dimension matrix and add the Lesson 8 governance qualification.
-- For **2021 Q84**, return to the opening-docket attempt after the nodal-ministry teaching; Social Justice owns the wider institutional framing.
+- For **2021 Q84**, return to the opening-docket attempt after the nodal-ministry teaching; keep the wider tribal-governance context separate from the question’s narrow institutional demand.
 - For **2022 Q50** and **2024 Q30**, return to the displayed options only after the Lesson 2 planting-method and biogeographic-origin teaching.
 - For **2023 GS-I Q15**, use the complete six-group classification, mountain transitions and rainforest-sanctuary significance without converting the answer into a forest-type list.
 - For **2025 GS-I Q20** and **2026 GS-II Q6**, keep the FRA material bounded: it supplies a rights-and-governance dimension but does not replace the wider tribal-society, welfare and constitutional architecture.
@@ -1338,7 +1352,7 @@ Conflict intensifies when institutions fail: claims remain unsettled before relo
 
 The answer is neither “people always conserve” nor “inviolate forests require rights removal.” Joint ecological monitoring, enforceable community rules, state technical support, action against external extraction and transparent CWH decisions can distinguish remediable governance failures from rare cases requiring relocation. The ecological choice becomes credible only after the rights-and-evidence process is complete.
 
-**Quantified rubric (20):** FRA conservation architecture 5; incentive mechanism and named livelihood evidence 3; institutional-failure diagnosis 4; CWH sequence 4; counterpositions and qualified reform verdict 4.
+**Quantified rubric (20):** FRA conservation architecture 5; incentive mechanism and livelihood qualification 3; institutional-failure diagnosis 4; CWH sequence 4; counterpositions and qualified reform verdict 4.
 
 </details>
 
@@ -1430,7 +1444,7 @@ usable title, livelihood, equity and forest condition—not count alone
 - **Legal class:** Reserved/Protected/Village/Unclassed or another notified/recorded status.
 - **Canopy class:** Very Dense ≥70%; Moderately Dense 40–<70%; Open 10–<40%; Scrub is poorly stocked forest land below 10% canopy and is excluded from forest cover.
 - **Rights layer:** IFR, community-use, habitat and CFR rights.
-- FSI forest cover is land ≥1 hectare with tree-canopy density 10% and above, irrespective of ownership/legal status.
+- FSI forest cover uses a minimum mapping unit of one hectare and includes canopy density from 10% upward, irrespective of ownership/legal status.
 - Never infer tenure or naturalness from forest cover.
 
 ## Indian forest-type recall
@@ -1488,7 +1502,7 @@ usable title, livelihood, equity and forest condition—not count alone
 - SDLC scrutinises and hears petition against Gram Sabha resolution.
 - DLC gives the final decision and hears petition against SDLC.
 - Petition windows are ordinarily 60 days at each stage, with reasoned treatment of sufficient delay.
-- An FRC member must not verify that member’s or family’s claim.
+- An FRC member claiming an individual forest right must not participate when that member’s own claim is verified.
 - State Level Monitoring Committee monitors; it is not the ordinary final title body.
 - Maps and precise right descriptions are essential.
 
@@ -1509,8 +1523,8 @@ usable title, livelihood, equity and forest condition—not count alone
 - CFR can align authority with a future livelihood stake.
 - Conservation benefit is conditional, not automatic.
 - Protected-area status does not by itself cancel FRA.
-- CWH: National Park/Sanctuary area required inviolate for wildlife.
-- Before relocation: complete rights, scientific irreversible-damage finding, no reasonable coexistence, livelihood package, written free informed consent, completed facilities/land.
+- CWH: National Park/Sanctuary area required inviolate for wildlife, notified by the Union environment ministry after an open Expert Committee process including local experts and a MoTA representative.
+- Before relocation: complete rights, scientific irreversible-damage finding, no reasonable coexistence, livelihood package, written free informed consent and completed facilities/land; a vacated CWH cannot later be diverted to another use.
 - PVTG habitat right ≠ Critical Wildlife Habitat.
 
 ## Implementation judgement
@@ -1521,10 +1535,13 @@ usable title, livelihood, equity and forest condition—not count alone
 - Title output ≠ livelihood, equity or ecological outcome.
 - Stage-wise reform: awareness → evidence → reasons/appeal → correct map/title → post-title support.
 - June 2026 MoTA MPR is a dated administrative snapshot, not an outcome evaluation.
-- 2023 amendment: 0.10 ha in each rail/public-road access or amenity case; strategic linear projects within 100 km of border/LoC/LAC; security infrastructure up to 10 ha; and defence projects, paramilitary camps or public utility projects specified by the Central Government up to 5 ha in Central-notified LWE-affected areas, subject to Central terms including compensatory planting.
+- PESA Section 4(i) requires consultation before Scheduled-Area acquisition and resettlement/rehabilitation; Section 4(m)(ii) requires MFP ownership to be endowed in the appropriate Panchayat and Gram Sabha.
+- Forest-clearance consent is not one rule: FRA Section 3(2) uses recommendation, CWH uses written consent, PESA uses consultation/MFP ownership, and executive clearance instruments govern FRA-compliance records and sequencing.
+- The reported 31 August 2026 MoTA position denies an FRA/Rules consent clause for Stage-II clearance; it is contested executive interpretation and does not amend the statutes or Rule 11(7).
+- 2023 amendment: the recorded-forest limb includes the authorised-conversion proviso through 12 December 1996; separate exemptions cover 0.10 ha in each rail/public-road access or amenity case, strategic linear projects within 100 km of border/LoC/LAC, security infrastructure up to 10 ha, and specified defence/paramilitary/public-utility projects up to 5 ha in Central-notified LWE-affected areas.
 - 19 February 2024 Supreme Court interim position: *Godavarman* principles continue pending Rule 16 completion and the constitutional proceedings; the order also created a prior-permission control for specified zoo/safari proposals outside protected areas.
 - 15 July 2026: conditional Kukrail zoo/night-safari permission preserved every other statutory clearance and required CEC monitoring.
-- 16 September–3 October 2026 status: the Court confined the main controversy to the constitutional validity of the 2023 forest definition, sent parcel-specific disputes to High Courts, required unfinished Rule 16 expert-panel work to continue, and had not delivered a final merits judgment.
+- 16 September–3 October 2026 status: reports attributed a proposed constitutional-validity-only scope, High Court routing and expert-panel observations to the oral hearing, but no public written order was located for those propositions; the official docket showed no final merits judgment displacing the 2024 interim framework.
 - Forest-diversion approval, FRA rights determination and compensatory restoration require cross-compliance; none substitutes for the others.
 
 ## PYQ routes and examiner traps
@@ -1556,18 +1573,19 @@ usable title, livelihood, equity and forest condition—not count alone
 | PVTG habitat rights | Lessons 4, 7 | 2018 PYQ route |
 | Gram Sabha/FRC/SDLC/DLC process | Lesson 5 | Final 15-marker |
 | Rule 13 evidence families, more-than-one-evidence determination, reasons and 60-day appeals | Lessons 5, 6 | Lesson 6 model; final 15-marker |
-| FRC claimant/family recusal | Lesson 5 | Register notes; process safeguards |
+| FRC member recusal from that member’s own individual claim | Lesson 5 | Register notes; process safeguards |
 | Section 4(5) | Lesson 6 | Cumulative B; register notes |
 | Section 3(2) facilities | Lesson 6 | Revision and register notes |
 | Section 5 conservation authority | Lesson 7 | Final 15/20 practice |
-| CWH six-condition sequence | Lesson 7 | Cumulative B; final 20-marker |
+| CWH notification architecture, six-condition relocation sequence and no-later-diversion proviso | Lesson 7 | Cumulative B; final 20-marker |
 | Rights/conservation objections and replies | Lesson 7 | Master legal chain |
 | Implementation stages and June 2026 linkage | Lesson 8 | Cumulative C; Lesson 8 model |
-| Exact 2023 forest-law exemption limbs and 19 February 2024 interim order | Lesson 8 | Register notes; master legal analysis |
-| 15 July and 16 September 2026 developments; pending status through 3 October 2026 | Lesson 8 | Revision notes; register notes; verification ledger |
+| FRA/PESA/forest-clearance recommendation, consent, consultation, MFP-ownership and Rule 11(7) distinctions; 31 August 2026 MoTA position | Lesson 8 | Revision notes; register notes; consent matrix |
+| Section 1A authorised-conversion proviso, exact 2023 exemption limbs and 19 February 2024 interim order | Lesson 8 | Register notes; master legal analysis |
+| 15 July written order, reported 16 September oral observations and docket-confirmed pending status through 3 October 2026 | Lesson 8 | Revision notes; register notes; verification ledger |
 | FRA/diversion and compensatory-restoration coordination | Lesson 8 | Cross-compliance check; register notes |
 | Output versus outcome distinction | Lesson 8 | Register notes; final answer spine |
-| Direct PYQs through 2024, including exact 2023 GS-I Q15, plus exact supporting 2025 and 2026 demands | Opening neutral objective docket; Lessons 1–4; PYQ linkage section | Every exact objective stem precedes all decisive clues; Mains attempts and chronological approaches remain integrated |
+| Direct PYQs through 2024, cross-owned exact 2023 GS-I Q15 routed to Topic 06, plus exact supporting 2025 and 2026 demands | Opening neutral objective docket; Lessons 1–4; PYQ linkage section | Every exact objective stem precedes all decisive clues; Mains attempts and chronological approaches remain integrated |
 | Original lesson-local Mains models and unique rubrics | Every lesson | Final original 10/15/20 set |
 
 # SOURCE LEDGER
@@ -1576,23 +1594,24 @@ usable title, livelihood, equity and forest condition—not count alone
 
 | Category | Status | Evidence or reason |
 |---|---|---|
-| Canonical Markdown | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\11_Forest-Types-and-Forest-Rights-Act.md` read completely before the Advanced owner |
-| Final learner package | not relevant | The governing excluded final-package tree and learner-v2 artifacts were not used |
-| Layered/complete session | checked | `learning_package_final\MANIFEST.json` confirms permitted Topic 11; `learning_package_final\Environment-and-Ecology\Subject-wide-Syllabus\11-Forest-Types-and-Forest-Rights-Act\Learning-Session.md` was used only as a bounded, non-authoritative completeness check |
+| Canonical Markdown | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\11_Forest-Types-and-Forest-Rights-Act.md` read completely before the Advanced owner; its unrelated appended globalisation contamination at source lines 272–310 was quarantined and not treated as Topic 11 evidence |
+| Final learner package | not relevant | The governing excluded final-package tree and direct learner-v2 paths were not read or used |
+| Layered/complete session | not available | No eligible layered Topic 11 session was used; learner-v2-derived and final-package artifacts are excluded regardless of whether their dependency is direct or indirect |
 | Solved workbook | not relevant | Excluded package/workbook artifacts were not used |
 | Advanced dossier | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\11_Forest-Types-and-Forest-Rights-Act.md`; relevant cross-checks from Basic Topics 06 and 12 |
-| OCR books | checked | Reproducible local files checked: `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent-ocr-backups\2026-07-20\Indian & World Geography - Husain, Majid_Compressed.pdf` and `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent-ocr-backups\2026-07-20\GC Leong - Certificate Physical and human Geography.pdf`; OCR was limited/weak for this exact legal topic, so statutory claims were not derived from them |
-| PYQs through 2026 | checked | Repository ledgers `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2018-2023.md`, `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2024-2025.md`, `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`, `upsc-ai-kit\knowledge\_PYQ-GS2-2026.md`; reproducible local controls include `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\more_previous_papers\QP-CSM-23-GENERAL-STUDIES-PAPER-I-180923.pdf` p.3/Q15, `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\mains\UPSC Mains 2025 GS Paper 1.pdf` p.4/Q20, and `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\new_papers\QP-CSM-26-010926-GENERAL-STUDIES-PAPER - II.pdf` p.3/Q6, in addition to the listed official-paper controls for 2019, 2022 and 2024. The 2021, 2025 and 2026 questions are supporting institutional or tribal-governance links rather than direct Topic 11 ownership |
-| Official live sources | checked | India Code FRA: `https://www.indiacode.nic.in/bitstream/123456789/2076/1/A200633.pdf`; MoTA Rules: `https://tribal.nic.in/FRA/data/FRARules.pdf`; FSI forest-type chapter: `https://fsi.nic.in/isfr19/vol1/chapter4.pdf`; ISFR 2017 state profiles: `https://fsi.nic.in/isfr2017/chattisgarh-isfr-2017.pdf`, `https://fsi.nic.in/isfr2017/madhya-pradesh-isfr-2017.pdf`, `https://fsi.nic.in/isfr2017/maharashtra-isfr-2017.pdf`, `https://fsi.nic.in/isfr2017/odisha-isfr-2017.pdf`; 2023 amending Act: `https://forestsclearance.nic.in/writereaddata/ACT/FCAmendment2023.pdf`; Supreme Court order dated 19 February 2024: `https://api.sci.gov.in/supremecourt/2023/40155/40155_2023_1_22_50541_Order_19-Feb-2024.pdf`; Supreme Court order dated 15 July 2026: `https://api.sci.gov.in/supremecourt/2023/40155/40155_2023_1_42_72104_Order_15-Jul-2026.pdf`; 16 September 2026 hearing status: `https://www.etvbharat.com/en/bharat/sc-to-test-forest-definition-under-conservation-act-leaves-land-disputes-to-hcs-enn26091605494`; Baiga habitat-right evidence: `http://hpforest.gov.in/storage/files/1/FRA%202006/Publications.pdf`; MoTA June 2026 FRA MPR: `https://tribal.gov.in/downloads/FRA/MPR/2026/(A)%20MPR%20June%202026.pdf`, especially summary/statewise claims and titles on PDF pp. 2–4 and individual/community title annexures on PDF pp. 7–9 |
+| OCR books | checked | `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent-ocr-backups\2026-07-20\Indian & World Geography - Husain, Majid_Compressed.pdf`, PDF pp. 148–151 (rainforest, tropical seasonal forest, dry vegetation and mangroves) and pp. 365–366 (Indian mangrove distribution), supplied bounded ecological context. `GC Leong - Certificate Physical and human Geography.pdf` produced no reliable searchable Topic 11 passage and was not used for a claim. Statutory or legal claims were derived only from official texts |
+| PYQs through 2026 | checked | Repository ledgers `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2018-2023.md`, `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2024-2025.md`, `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2018-2023.md`, `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md`, `upsc-ai-kit\knowledge\_PYQ-GS2-2026.md`; reproducible local controls include `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\more_previous_papers\QP-CSM-23-GENERAL-STUDIES-PAPER-I-180923.pdf` p.3/Q15, `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\mains\UPSC Mains 2025 GS Paper 1.pdf` p.4/Q20, and `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\new_papers\QP-CSM-26-010926-GENERAL-STUDIES-PAPER - II.pdf` p.3/Q6, in addition to the listed official-paper controls for 2019, 2022 and 2024. The 2023 GS-I Q15 demand is cross-owned and routed to Topic 06; the 2021, 2025 and 2026 questions are supporting institutional or tribal-governance links rather than direct Topic 11 ownership |
+| Official live sources | checked | India Code FRA: `https://www.indiacode.nic.in/bitstream/123456789/2076/1/A200633.pdf`; MoTA Act/Rules compilation: `https://tribal.gov.in/downloads/FRA/FRAActnRulesBook.pdf`; official PESA PDF listed by MoPR: `https://cdnbbsr.s3waas.gov.in/s316026d60ff9b54410b3435b403afd226/uploads/2023/02/2023020684.pdf`; 2015 MoTA FRA–PESA MFP clarification: `https://tribal.gov.in/downloads/FRA/Minor%20Forest%20Produce/MFP-5%20Inter%20relationship%20between%20FRA%20and%20PESA%20with%20reference%20to%20MFP%20dated%2013.02.2015.pdf`; 2023 Rules: `https://forestsclearance.nic.in/writereaddata/Rules/VanSanrakshanEvamSamvardhanRules2023.pdf`; 26 February 2019 FRA-compliance circular: `https://forestsclearance.nic.in/writereaddata/public_display/schemes/1191986937$26_2_19_FRA%20reg.pdf`; FSI forest-cover and type chapters: `https://fsi.nic.in/isfr19/vol1/chapter2.pdf` and `https://fsi.nic.in/isfr19/vol1/chapter4.pdf`; ISFR 2017 state profiles: `https://fsi.nic.in/isfr2017/chattisgarh-isfr-2017.pdf`, `https://fsi.nic.in/isfr2017/madhya-pradesh-isfr-2017.pdf`, `https://fsi.nic.in/isfr2017/maharashtra-isfr-2017.pdf`, `https://fsi.nic.in/isfr2017/odisha-isfr-2017.pdf`; 2023 amendment/current Act control: India Code plus Gazette commencement notice `https://forestsclearance.nic.in/writereaddata/ACT/FCAmendment2023.pdf`; Supreme Court written orders dated 19 February 2024 and 15 July 2026: `https://api.sci.gov.in/supremecourt/2023/40155/40155_2023_1_22_50541_Order_19-Feb-2024.pdf` and `https://api.sci.gov.in/supremecourt/2023/40155/40155_2023_1_42_72104_Order_15-Jul-2026.pdf`; official Parliamentary Committee press release on its 2026 NHPC report: `https://dspstg.sansad.in/getFile/app/lsscommittee/Public%20Undertakings/pr_files/Press%20Release%20on%2031st%20Report%20-%20NHPC%20(English)%20(1).pdf?source=app`; the 31 August 2026 MoTA communication and 16 September oral hearing were available through contemporaneous reporting, including `https://www.thehindu.com/news/national/no-provision-in-forest-rights-act-to-obtain-gram-sabha-consent-for-projects-tribal-affairs-ministry-says/article71435768.ece` and `https://www.etvbharat.com/en/bharat/sc-to-test-forest-definition-under-conservation-act-leaves-land-disputes-to-hcs-enn26091605494`, and are expressly labelled reported rather than primary written legal controls; Baiga habitat-right evidence: `http://hpforest.gov.in/storage/files/1/FRA%202006/Publications.pdf`; MoTA June 2026 FRA MPR: `https://tribal.gov.in/downloads/FRA/MPR/2026/(A)%20MPR%20June%202026.pdf`, PDF pp. 2–4 and 7–9 |
 
 ## Verification notes
 
 - **Primary statute:** Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act, 2006, especially Sections 2–5.
 - **Rules:** Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Rules, 2008 as amended in 2012, through the Ministry of Tribal Affairs official compilation.
 - **Forest classification:** the official FSI forest-type chapter controls six major groups and 16 forest type groups; it separates Moist Tropical from Dry Tropical, includes Tropical Dry Evergreen, and keeps Sub-Alpine Forests separate from Alpine Scrub.
-- **Rules evidence and process:** Rule 13 evidence families, determination using more than one evidence, 60-day petition windows and FRC claimant/family recusal were checked against the official MoTA Rules PDF.
-- **Advanced chronology:** the exact 2023 amendment, the Supreme Court’s 19 February 2024 interim direction, the 15 July 2026 implementation order and the pending position through 3 October 2026 are taught after the complete Basic statutory sequence and are not counted as extra current-affairs anchors.
+- **Rules evidence and process:** Rule 3(3) recusal is limited to an FRC member’s own individual claim; Rule 13 evidence families, determination using more than one item of evidence and 60-day petition windows were checked against the official MoTA compilation.
+- **Source quarantine:** the unrelated globalisation block appended at Basic source lines 272–310 was treated as canonical contamination and excluded; no claim or coverage requirement was derived from it.
+- **Advanced chronology:** the exact 2023 amendment/current Act, the Supreme Court’s 19 February 2024 interim direction, the 15 July 2026 implementation order and docket-confirmed pending position through 3 October 2026 are distinguished from reported oral observations.
 - **Current status date:** 30 June 2026 for `https://tribal.gov.in/downloads/FRA/MPR/2026/(A)%20MPR%20June%202026.pdf`; the implementation-output discussion is grounded in PDF pp. 2–4 and 7–9. No later national total is asserted.
 - **PYQ neutrality:** no answer letter, truth marking or option elimination has been supplied for displayed objective questions.
 - **Uncertainty control:** national administrative totals are deliberately not reproduced because the scanned June report and different official summaries require exact table-level reconciliation; the teaching uses only the defensible output-versus-outcome inference.
-- **Source exclusions honoured:** excluded final-package and learner-v2 artifacts were not read, searched, cited or used; the separately permitted `learning_package_final\` Topic 11 session was consulted only as a non-authoritative bounded check.
+- **Source exclusions honoured:** no artifact under excluded final-package or learner-v2 paths, including an indirect learner-v2-derived copy, supplies any claim, coverage decision or completeness check in this edition.
