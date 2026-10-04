@@ -82,7 +82,8 @@ Progress: 1/8 | Stage: Foundation | Subtopic: Reservoirs, fluxes, the water cycl
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Hydrological-cycle exchange, evapotranspiration, infiltration, groundwater and runoff are available in the geography text.
-Current linkage: None used; this lesson establishes the static accounting framework.
+CA search: "Between 4 April 2026 and 4 October 2026, was there a directly relevant official Indian or major scientific current-affairs development specifically about the water cycle as a carrier of nutrient runoff, infiltration, groundwater and pond or lake nutrient loading?"
+CA found: "Nutrient pollution is one of the greatest emerging threats to urban freshwater ecosystems; Delhi's Hauz Khas Lake exemplifies this" — Down To Earth, 4 August 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ```text
@@ -170,7 +171,8 @@ Progress: 2/8 | Stage: Core | Subtopic: Carbon cycle and changing carbon balance
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Carbon storage, producer uptake and the ecosystem food-chain setting are available; no separate book statistic is required.
-Current linkage: None used; the carbon budget is taught as a static mechanism.
+CA search: "India mangrove carbon forest carbon sink source 2026 official April May June July August September site:pib.gov.in OR site:moef.gov.in"
+CA found: None directly tied to the lesson's stock–flux and sink–source mechanism in the last six months.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ```text
@@ -238,7 +240,8 @@ Progress: 3/8 | Stage: Core | Subtopic: Nitrogen transformations, organisms and 
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: The ecosystem food-chain setting is available; the complete transformation sequence comes from the Core ecology material.
-Current linkage: None used; the lesson focuses on stable nitrogen-cycle distinctions.
+CA search: "site:pib.gov.in OR site:fert.gov.in OR site:icar.gov.in nitrogen fixation nitrification ammonia nitrate leaching nitrous oxide agriculture India April 2026 September 2026"
+CA found: "ICAR-NBAIM, Mau, Uttar Pradesh Launches 'Khet Bachao Abhiyan' with Focus on Biofertilizers and Sustainable Soil Health Management" — ICAR, 1 June 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ```text
@@ -259,7 +262,7 @@ organic N <── decomposers <── dead matter <── food web
 
 *Biological and industrial fixation chiefly supply reduced nitrogen; lightning chiefly creates oxidised nitrogen that can reach land in precipitation.*
 
-N₂ has a strong bond; plants generally cannot simply take atmospheric N₂ into their tissues. **Biological fixation** reduces N₂ to ammonia through rhizobial partners in legume nodules, free-living bacteria such as *Azotobacter* and some cyanobacteria. Industrial Haber–Bosch manufacture also reduces N₂ to ammonia. **Lightning fixation follows a different route:** high temperature enables N₂ and O₂ to form nitrogen oxides, which are oxidised and delivered mainly as nitrate in precipitation. Chickpea nodules can contain *Mesorhizobium* species; *Rhizobium* is a familiar textbook genus but not every legume's exact partner. Say "nitrogen-fixing plant" as shorthand for a plant–microbe association where appropriate; a legume does not independently perform bacterial fixation.
+N₂ has a strong bond; plants generally cannot simply take atmospheric N₂ into their tissues. **Biological fixation** reduces N₂ to ammonia through rhizobial partners in legume nodules, free-living bacteria such as *Azotobacter* and some cyanobacteria. Industrial Haber–Bosch manufacture also reduces N₂ to ammonia. **Lightning fixation follows a different route:** high temperature enables N₂ and O₂ to form nitrogen oxides, which are oxidised and delivered mainly as nitrate in precipitation. *Rhizobium* is a familiar textbook example, but partner identity and performance vary among legumes and conditions. Say "nitrogen-fixing plant" as shorthand for a plant–microbe association where appropriate; a legume does not independently perform bacterial fixation.
 
 1. ✅ **Assimilation:** roots take up ammonium or nitrate and incorporate N into proteins and other organic matter; animals obtain organic nitrogen through food. **Ammonification:** decomposers turn organic nitrogen into ammonium. The decomposer step is not denitrification.
 2. ✅ **Nitrification** is aerobic oxidation: ammonium to nitrite (traditionally exemplified by *Nitrosomonas*) and nitrite to nitrate (*Nitrobacter* as a textbook example). **Denitrification** under low-oxygen conditions can reduce nitrate through intermediate gases to N₂, with possible N₂O release; *Pseudomonas* is a textbook example, not the only responsible genus. Nitrification and denitrification run in different directions.
@@ -277,7 +280,7 @@ N₂ has a strong bond; plants generally cannot simply take atmospheric N₂ int
 
 In an Indian chickpea field, nodule bacteria can increase biologically available N. A nearby irrigated field may instead receive manufactured fertiliser. Both supply N; their amounts and leakage depend on conditions, so the example proves a mechanism, not a universal fertiliser saving. ⚠️ **Inference:** soil testing, dose and timing can reduce nutrient escape while preserving agronomic use.
 
-**Aquaculture application.** A recirculating aquaculture **biofilter** provides surfaces for nitrifying microbes to convert dissolved ammonia through nitrite towards nitrate; physical removal of uneaten feed is a separate mechanical-filtration function, and a biofilter does not automatically supply phosphate. **UPSC trap:** fixation is not the conversion of nitrate back to N₂; that is denitrification. **Mini recap:** fixation makes N usable, ammonification recovers organic N, nitrification oxidises, assimilation builds biomass, denitrification can restore atmospheric N₂. Revision: write the chemical species over every arrow; do not equate fertiliser, plant and microbe.
+**Aquaculture application.** In a recirculating aquaculture system, "biofilter" may refer broadly to the biological treatment stage within the treatment train and narrowly to the microbial unit itself. At system level, biofiltration contributes to treating wastes arising from fish and uneaten feed; at component level, mechanical filtration directly captures feed particles and other suspended solids, while attached nitrifying microbes convert dissolved ammonia through nitrite towards nitrate. Phosphorus management is a separate nutrient-control question rather than a consequence of nitrification. **UPSC trap:** fixation is not the conversion of nitrate back to N₂; that is denitrification. **Mini recap:** fixation makes N usable, ammonification recovers organic N, nitrification oxidises, assimilation builds biomass, denitrification can restore atmospheric N₂. Revision: write the chemical species over every arrow; distinguish the whole treatment train from each component.
 
 ### Revision notes
 
@@ -324,7 +327,8 @@ Progress: 4/8 | Stage: Core | Subtopic: Phosphorus and contrasting sulphur pathw
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: The ecology text supplies nutrient, biomass and decomposition context; cycle-specific distinctions come from the Core material.
-Current linkage: None used; the comparison rests on enduring reservoir and pathway differences.
+CA search: "Between 4 April 2026 and 4 October 2026, was there a directly relevant official Indian current-affairs development specifically about phosphorus cycling, phosphate fertiliser stewardship, sulphur emissions or acid deposition?"
+CA found: "Cabinet approves Nutrient Based Subsidy rates for Kharif Season 2026 on phosphatic and potassic fertilisers" — PIB, 8 April 2026; the Department of Fertilizers notification is dated 9 April 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ```text
@@ -407,7 +411,8 @@ Progress: 5/8 | Stage: Core | Subtopic: Eutrophication and India-specific contro
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: The geography text defines natural lake enrichment and ageing; the Core material supplies the cultural-eutrophication mechanism.
-Current linkage: None used; no dated local event is needed to explain the mechanism.
+CA search: "Between 4 April 2026 and 4 October 2026, was there a directly relevant authoritative Indian current-affairs report about eutrophication, nutrient-driven algal blooms, BOD or dissolved oxygen in an Indian lake, pond or river?"
+CA found: "Nutrient pollution is one of the greatest emerging threats to urban freshwater ecosystems; Delhi's Hauz Khas Lake exemplifies this" — Down To Earth, 4 August 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ```text
@@ -479,42 +484,50 @@ Progress: 6/8 | Stage: Core | Subtopic: Trophic levels; pyramids of numbers and 
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Food-chain and summer population-pyramid examples for grassland and temperate forest are available in the biogeography chapter.
-Current linkage: None used; pyramid shape is a static measurement question.
+CA search: "Between 4 April 2026 and 4 October 2026, was there a directly relevant authoritative current-affairs development specifically about ecological pyramids of numbers or biomass, standing crop, or phytoplankton turnover in India?"
+CA found: None in the last six months.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+```text
+SAME FOOD WEB, DIFFERENT MEASURES
+
+individuals per area/volume at a stated time ──> pyramid of numbers
+dry living mass per area/volume at that time ──> pyramid of biomass
+new biomass per area/volume per unit time ─────> productivity
+
+Shape can differ because size and replacement rate differ.
+```
 
 | Setting and measure | Producer base | Next level | Why the drawn shape differs |
 |---|---|---|---|
 | Grassland **numbers** | Many grasses | Fewer grazers | Individual counts tend to taper upward |
 | One large tree **numbers** | One producer | Many herbivorous insects | The first consumer level can outnumber its producer |
-| Parasitic chain **numbers** | Few hosts | Many parasites, sometimes still more hyperparasites | Count can become strongly inverted above the host level |
 | Terrestrial **biomass** | Often substantial plant standing mass | Usually less herbivore mass | Long-lived plant tissue accumulates |
 | Aquatic **biomass** | Small standing phytoplankton mass | Sometimes larger zooplankton mass | Rapid producer replacement supports consumers over time |
 
 *Shape depends on what is measured and on the organisms' sizes and turnover.*
 
-A **trophic level** groups organisms by feeding position: primary producers use sunlight, primary consumers eat producers, and higher consumers feed above them. **Decomposers** act on material from multiple levels, so a single vertical ladder is a simplification of a food web. A pyramid of **numbers** counts individuals at a chosen time, while a pyramid of **biomass** measures their total living mass (often reported as dry mass per area). Neither is automatically a rate.
+A **trophic level** groups organisms by feeding position: primary producers use sunlight, primary consumers eat producers, and higher consumers feed above them. **Decomposers** act on material from multiple levels, so a single vertical ladder is a simplification of a food web. A pyramid of **numbers** counts individuals per stated area or volume at a chosen time, while a pyramid of **biomass** measures their total living mass, commonly as dry mass per area or volume at that time. Neither is automatically a rate.
 
 1. ✅ A single banyan tree can host many insects. The apparent inversion is in **individual counts**: one large producer need not weigh less than its insects. For a grassland, many small plants can form an upright numbers pyramid. The word "forest" alone does not tell you the number pyramid's exact shape unless the counting unit and habitat are stated.
-2. ✅ A **parasitic food chain** creates another number-pyramid exception. One tree or animal may support many herbivores or parasites, and each host can support several parasites; hyperparasites may add another numerous level. The inversion concerns organism count, not greater biomass or energy at the parasite level.
-3. ✅ In a pond or marine food web, phytoplankton may have little **standing biomass** but reproduce rapidly; sustained production over time can support a larger instant zooplankton standing mass. A farmer harvesting crops repeatedly offers an analogy for small stock but large annual output. The analogy stops where harvesting by people differs from continuous grazing and mortality in aquatic webs.
-4. ⚠️ An inverted biomass pyramid by itself is not evidence of an unhealthy ecosystem. Conversely, it also does not prove a healthy one; nutrient pollution can alter species and oxygen conditions independently of shape. **Standing crop** is a stock, **productivity** is biomass produced per time, and neither equals the number of individuals.
+2. ✅ In a pond or marine food web, phytoplankton may have little **standing biomass** but reproduce rapidly; sustained production over time can support a larger instant zooplankton standing mass. A farmer harvesting crops repeatedly offers an analogy for small stock but large annual output. The analogy stops where harvesting by people differs from continuous grazing and mortality in aquatic webs.
+3. ⚠️ An inverted biomass pyramid by itself is not evidence of an unhealthy ecosystem. Conversely, it also does not prove a healthy one; nutrient pollution can alter species and oxygen conditions independently of shape. **Standing crop** is a stock, **productivity** is biomass produced per unit time, and neither equals the number of individuals.
 
-**UPSC application.** State the units before choosing "inverted": individuals versus mass per area versus energy per area per time. Compare the **same** trophic levels over a defined period and area. **Mini recap:** count tells how many, biomass how much mass, productivity how fast new mass appears. Revision: tree–insects tests count; phytoplankton–zooplankton tests standing mass and turnover; decomposers and omnivores make pyramids incomplete descriptions of real food webs.
+**UPSC application.** State the units before choosing "inverted": individuals per area or volume at a stated time versus dry mass per area or volume at that time versus energy per area per time. Compare the **same** trophic levels using matched spatial units and sampling time. **Mini recap:** count tells how many, biomass how much mass, productivity how fast new mass appears. Revision: tree–insects tests count; phytoplankton–zooplankton tests standing mass and turnover; decomposers and omnivores make pyramids incomplete descriptions of real food webs.
 
 ### Revision notes
 
 1. A trophic level groups organisms by feeding position, not by species name alone.
 2. A pyramid of numbers counts individuals at successive trophic levels.
-3. A pyramid of biomass totals standing living mass, commonly dry mass per unit area.
+3. A pyramid of biomass totals standing living mass, commonly dry mass per unit area or volume at the sampling time.
 4. Grassland number pyramids are commonly upright because numerous plants support fewer grazers.
 5. A single tree can support many insects, inverting the producer-to-herbivore number relation.
-6. Parasitic chains may be more strongly inverted because one host can support many parasites and hyperparasites.
-7. A number inversion does not prove a biomass inversion.
-8. Terrestrial biomass pyramids are commonly upright where long-lived plant tissue accumulates.
-9. Aquatic biomass pyramids may invert because phytoplankton standing stock is small but rapidly replaced.
-10. Standing crop is a stock; productivity is production per unit time.
-11. Decomposers draw from several trophic levels, so a single vertical pyramid simplifies the food web.
-12. Always state the measure, unit, area, time and ecosystem before naming the shape.
+6. A number inversion does not prove a biomass inversion.
+7. Terrestrial biomass pyramids are commonly upright where long-lived plant tissue accumulates.
+8. Aquatic biomass pyramids may invert because phytoplankton standing stock is small but rapidly replaced.
+9. Standing crop is a stock; productivity is production per unit time.
+10. Decomposers draw from several trophic levels, so a single vertical pyramid simplifies the food web.
+11. Always state the measure, unit, area or volume, sampling time and ecosystem before naming the shape.
 
 ### Concept check
 
@@ -532,7 +545,7 @@ A **trophic level** groups organisms by feeding position: primary producers use 
 
 <details><summary>Reveal a separate scored Mains model</summary>
 
-**Model (approximately 113 words):** A pyramid of numbers counts individuals at successive trophic levels; a pyramid of biomass totals their living mass within a stated area and time. One large tree can sustain many insects, yielding an inverted number relationship without implying that insects outweigh the tree. In an Indian pond, by contrast, phytoplankton may hold less standing biomass than zooplankton because they reproduce and are consumed rapidly; this does not require fewer phytoplankton individuals. The two shapes answer different measurement questions, and a snapshot cannot reveal productivity. **Qualification:** tree ecosystems and ponds are teaching cases, not universal rules for every forest or every aquatic sampling period. State units, habitat and turnover before describing inversion.
+**Model (approximately 113 words):** A pyramid of numbers counts individuals at successive trophic levels per stated area or volume at a chosen time; a pyramid of biomass totals their living mass in the same spatial unit at that time. One large tree can sustain many insects, yielding an inverted number relationship without implying that insects outweigh the tree. In an Indian pond, by contrast, phytoplankton may hold less standing biomass than zooplankton because they reproduce and are consumed rapidly; this does not require fewer phytoplankton individuals. The two shapes answer different measurement questions, and a snapshot cannot reveal productivity. **Qualification:** tree ecosystems and ponds are teaching cases, not universal rules. State units, habitat, sampling time and turnover before describing inversion.
 
 **Scoring (10):** measure distinction 3; tree counterexample 2; aquatic turnover counterexample 3; units/limits 2.
 
@@ -546,7 +559,8 @@ Progress: 7/8 | Stage: Core | Subtopic: Primary and secondary productivity, ener
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Producer, consumer, food-chain and biomass distinctions are available in the ecology chapter.
-Current linkage: None used; productivity and transfer efficiency are taught without a dated percentage claim.
+CA search: "Between 4 April 2026 and 4 October 2026, was there a directly relevant authoritative current-affairs development specifically about GPP, NPP, secondary productivity, trophic transfer efficiency or energy pyramids in Indian ecosystems?"
+CA found: None in the last six months.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ```text
@@ -622,8 +636,9 @@ With the core science established, assess why separate cycles require separate g
 Progress: 8/8 | Stage: Advanced | Subtopic: Ecological stoichiometry, resilience, planetary boundaries and policy choices
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Core cycle, food-web, productivity and resilience distinctions are complete; this lesson integrates them analytically.
-Current linkage: One official carbon-accounting development is used below; no second current item is added.
+Book context: Core cycle, food-web and productivity distinctions are available in the ecology material; the ecosystem companion supplies the resilience comparison.
+CA search: "site:ipcc.ch \"First Order Draft\" \"CDR-CCUS\" \"11 August 2026\""
+CA found: "Authors of IPCC's 2027 Methodology Report on Carbon Dioxide Removal Technologies, Carbon Capture, Utilization, and Storage gather in Mexico City to advance the report's draft" — IPCC, 11 August 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ```text
@@ -649,7 +664,7 @@ water availability + C:N:P supply
 
 *Ecological stoichiometry follows the balance of elements through producers, consumers and decomposers; resilience asks whether those functions persist or recover after disturbance.*
 
-**Ecological stoichiometry** examines how the relative supply and demand of elements—especially carbon, nitrogen and phosphorus—shape organisms and ecosystems. A plant may supply abundant carbon-rich tissue yet insufficient nitrogen or phosphorus for a consumer's growth. Consumers may selectively feed, retain limiting elements and excrete surpluses; decomposers then alter the forms and ratios returned to soil or water. There is no single universal C:N:P ratio for every ecosystem or species.
+✅ **Ecological stoichiometry** examines how the relative supply and demand of elements—especially carbon, nitrogen and phosphorus—shape organisms and ecosystems. A plant may supply abundant carbon-rich tissue yet insufficient nitrogen or phosphorus for a consumer's growth. Consumers can alter feeding, growth, excretion and egestion as food C:N:P changes; decomposers then alter the forms and ratios returned to soil or water. No single universal C:N:P ratio applies to every ecosystem or species.
 
 1. ✅ **Productivity implication:** high carbon fixation does not guarantee high food quality or secondary productivity. If consumer growth is constrained by nitrogen or phosphorus, more plant carbon alone may not yield proportionately more consumer biomass.
 2. ⚠️ **Disturbance implication:** drought changes water availability, uptake and decomposition; floods and runoff can deliver nutrient pulses; excess N or P can favour blooms and hypoxia. Hydrology, elemental balance and trophic structure therefore interact.
@@ -665,14 +680,14 @@ water availability + C:N:P supply
 
 *A tonne of nutrient input is neither a tonne of CO₂ nor a direct measure of trophic energy.*
 
-The **planetary-boundaries framework** assesses risks from human pressures on Earth-system processes. Its biogeochemical-flows boundary treats nitrogen and phosphorus perturbation separately from climate change; comparisons of their degree of transgression depend on the framework's stated metrics and assessment date. Do not present a universal quantitative rank or imply that a boundary is a local legal emissions limit.
+✅ The **planetary-boundaries framework** assesses risks from human pressures on Earth-system processes. Its biogeochemical-flows boundary treats nitrogen and phosphorus perturbation separately from climate change. ⚠️ Comparisons of the degree of transgression depend on the framework's stated metrics and assessment date; a boundary is not a local legal emissions limit.
 
 5. ⚠️ **Attention asymmetry:** climate governance has the UNFCCC/Paris process and IPCC assessments; nutrient governance involves more fragmented agricultural, sewage and water-quality decisions. This is a contrast in institutional form, not a claim that climate action is adequate or nitrogen ungoverned.
 6. ✅ **Substitutability:** fossil energy can be displaced by other energy sources; phosphorus itself is an essential nutrient without an elemental substitute in life. But stewardship can increase efficiency and recycle it. Concentrated phosphate-rock supply can create fertiliser-security risks for import-dependent agriculture; do not claim an exact reserve concentration or depletion year without a dated geological dataset.
-7. ⚠️ **India's trade-off:** fertiliser support helps maintain supply while persistent price and practice incentives can encourage imbalanced application. A nutrient-based subsidy for phosphatic/potassic fertilisers is not the same instrument as regulated urea pricing. Soil-test advice, fertiliser policy, municipal sewage treatment and water-quality monitoring act at different stages; assign each to its actual mechanism. CPCB water measures can flag impacts, but diffuse runoff cannot be fully quantified from a single point-source reading.
+7. ✅ **Policy distinction:** phosphatic and potassic fertilisers receive support under the Nutrient Based Subsidy framework, while urea follows a separate subsidy and pricing regime. ⚠️ **India's trade-off:** fertiliser support helps maintain supply, while price and practice incentives can still encourage imbalanced application. Soil-test advice, fertiliser policy, municipal sewage treatment and water-quality monitoring act at different stages; assign each to its actual mechanism. CPCB water measures can flag impacts, but diffuse runoff cannot be fully quantified from a single point-source reading.
 8. **Counterargument and reply:** reducing fertiliser use indiscriminately can jeopardise yields where soils are deficient. Instead, monitor soil needs, apply appropriate forms at appropriate times and places, recover nutrients and reduce losses. Carbon removal accounting complements—not substitutes for—emission reduction. Real food webs include omnivory and seasonal change, so pyramid shape alone cannot measure nutrient-policy success or resilience.
 
-📰 **Current linkage — 11 August 2026:** the IPCC reported work on the First Order Draft of a 2027 methodology report for national-inventory accounting of carbon dioxide removal and CCUS. It covers direct air capture, soil- and biomass-based removals, coastal ecosystems and long-term storage. The development shows why carbon interventions require transparent net-flow and permanence accounting; it does not certify projects or supply an India-specific removal figure.
+📰 **Current linkage — 11 August 2026.** ✅ **Fact:** the IPCC reported work on the First Order Draft of a 2027 methodology report for national-inventory accounting of carbon dioxide removal and CCUS. It covers direct air capture, soil- and biomass-based removals, coastal ecosystems and long-term storage. ⚠️ **Inference:** the development illustrates why carbon interventions require transparent net-flow and permanence accounting; it does not certify projects or supply an India-specific removal figure.
 
 **UPSC application.** In an integrated 20-mark answer use five axes: identify the reservoir, draw the human-accelerated transfer, test elemental balance and hydrology, identify the ecological harm or resilience loss, and allocate a policy lever with a measurable indicator. Do not claim that phosphate can be removed by atmospheric capture. **Mini recap:** compare like metrics; match intervention to flow; distinguish productivity from resilience and a framework from a legal limit.
 
@@ -726,9 +741,9 @@ The exact answer-free questions appear before Lesson 1. Use the approaches below
 | 2019 Prelims GS-I Q41 | Reactive-nitrogen forms from soil and animal-production systems | Separate each statement by source, chemical species and release pathway before comparing the coded choices. |
 | 2021 Prelims GS-I Q27 | Rock weathering as the principal nutrient-entry route | Identify the dominant reservoir and natural release mechanism for each named cycle. |
 | 2022 Prelims GS-I Q48 | Plant identity and biological nitrogen fixation | Classify each plant botanically, then distinguish host–microbe association from independent plant fixation. |
-| 2023 Prelims GS-I Q55 | Functions of a recirculating-aquaculture biofilter | Distinguish microbial nitrogen conversion, physical solid removal and phosphorus addition as separate functions. |
+| 2023 Prelims GS-I Q55 — cross-owned supporting application (Economy Topic 30; Science and Technology Topic 13) | Functions of a recirculating-aquaculture biofilter | Read "biofilter" at both treatment-stage and component scales; distinguish treatment of feed-derived waste, direct solids capture, microbial ammonia conversion and phosphorus management. |
 
-No further direct cycle-or-pyramid question is added for 2024–2026. Related climate, pollution and ecosystem questions may use this science without being relabelled as direct PYQs.
+The audited 2024–2026 Prelims and Mains ledgers contain no additional directly owned cycle-or-pyramid question. Related climate, pollution and ecosystem questions may use this science without being relabelled as direct PYQs.
 
 # CUMULATIVE CONCEPT CHECKS
 
@@ -750,7 +765,7 @@ No further direct cycle-or-pyramid question is added for 2024–2026. Related cl
 
 # ORIGINAL 10-, 15- AND 20-MARK MAINS MODEL PRACTICE
 
-These three new prompts synthesise the lessons; their models are separate from the lesson-local Mains answers and from every unsolved PYQ.
+Attempt these synthesis questions after the lesson checks; each requires concepts from more than one cycle or pyramid.
 
 **10 marks, 150 words.** Explain why two observations in the same pond—a bloom and an inverted biomass pyramid—cannot by themselves establish a cause of fish mortality.
 
@@ -776,7 +791,7 @@ These three new prompts synthesise the lessons; their models are separate from t
 
 <details><summary>Reveal 20-mark model and scoring</summary>
 
-**Model (approximately 224 words):** Pyramids quantify trophic measures; cycles identify transfers among living and physical reservoirs. A banyan tree can host many insects, while a host may carry several parasites and hyperparasites, producing number inversions without proving greater biomass or energy above. A pond's phytoplankton may have less standing mass than zooplankton because rapid replacement sustains grazing. Yet the energy pyramid remains upright: not all biomass is eaten or assimilated, and respiration dissipates usable energy. Gross and net primary productivity measure producer rates; secondary productivity measures new consumer biomass, not standing stock.
+**Model (approximately 224 words):** Pyramids quantify trophic measures; cycles identify transfers among living and physical reservoirs. A banyan tree can host many insects, producing a number inversion without proving greater biomass or energy above. A pond's phytoplankton may have less standing mass than zooplankton because rapid replacement sustains grazing. Yet the energy pyramid remains upright: not all biomass is eaten or assimilated, and respiration dissipates usable energy. Gross and net primary productivity measure producer rates; secondary productivity measures new consumer biomass, not standing stock.
 
 None of these shapes shows whether nitrate arrived from a field, phosphate from sewage, or carbon entered air through fuel combustion. Those questions require chemical forms, reservoir changes, hydrological transport and fluxes. In an Indian pond catchment, repeated water measurements and source checks can inform nutrient management, while soil testing and sewage treatment act on different upstream inputs. In coastal India, protecting mangrove biomass and sediment supports carbon storage, but a pyramid cannot establish a net sink without flux accounting. Ecological stoichiometry further warns that abundant carbon-rich biomass may not support consumer growth when nitrogen or phosphorus is limiting. **Qualification:** omnivory, detrital links and seasonal change complicate simple pyramids; limitation varies by site. Use pyramids for trophic diagnosis and cycle budgets for source-specific interventions, not as substitutes.
 
@@ -796,7 +811,6 @@ None of these shapes shows whether nitrate arrived from a field, phosphate from 
 | "Dead organisms directly become atmospheric SO₂" | Does decomposition first mineralise organic sulphur into soil or water forms? |
 | "A bloom always means daytime low oxygen" | When and where does decomposition raise BOD and lower DO? |
 | "Inverted aquatic biomass violates energy conservation" | Have I mistaken standing mass for energy throughput across time? |
-| "A parasitic number pyramid must be upright" | How many parasites or hyperparasites can one host support? |
 | "Consumer biomass equals secondary productivity" | Am I comparing a stock with new biomass produced per unit time? |
 | "10% efficiency is fixed everywhere" | What fractions are eaten, assimilated and respired here? |
 | "High productivity proves resilience" | Can the system retain or recover function after nutrient, hydrological or trophic disturbance? |
@@ -850,11 +864,11 @@ rock S ────────────> mineralisation + SO₂ air route �
 
 - N₂ → biological fixation by rhizobial partners, free-living microbes and cyanobacteria → NH₃/NH₄⁺; Haber–Bosch also produces ammonia.
 - Lightning follows an oxidised route: N₂ + O₂ → nitrogen oxides → nitrate delivered in precipitation. Do not draw it as direct microbial-style ammonia formation.
-- Chickpea can partner with *Mesorhizobium*; plant roots assimilate inorganic N, animals acquire organic N by feeding.
+- Legumes such as chickpea can host root-nodule nitrogen-fixing bacteria; plant roots assimilate inorganic N, while animals acquire organic N by feeding.
 - Organic N → ammonification → NH₄⁺; nitrification oxidises NH₄⁺ → NO₂⁻ → NO₃⁻; denitrification reduces nitrate towards atmospheric N₂ and can emit N₂O.
 - Agricultural soils can produce NO and N₂O through microbial transformations; NOₓ (chiefly NO/NO₂) is not the same as N₂O. Cattle urine/manure can volatilise NH₃; poultry litter can release ammonia and other reactive N. Source and conditions change species and flux.
 - Fabaceae (alfalfa, chickpea, clover) can host root-nodule fixers. Amaranth and spinach (Amaranthaceae) and purslane (Portulacaceae) are not rhizobial-nodulating legumes. Plants may benefit from ambient free-living microbial fixation without nodulating.
-- Microbial fixation, lightning fixation, soil transformations, animal-waste emissions and aquarium biofiltration are related but distinct nitrogen pathways.
+- Microbial fixation, lightning fixation, soil transformations, animal-waste emissions and aquaculture biofiltration are related but distinct nitrogen pathways.
 
 ### Phosphorus, sulphur and freshwater
 
@@ -867,9 +881,8 @@ rock S ────────────> mineralisation + SO₂ air route �
 
 ### Pyramids and exceptional shapes
 
-- Numbers = count; biomass = standing living mass per area; productivity = produced mass per area per time; energy = transferable energy per area per time. Never exchange their units.
+- Numbers = individuals per area or volume at a stated time; biomass = standing living dry mass per area or volume at that time; productivity = new mass per area or volume per time; energy = transferable energy per area per time. Never exchange their units.
 - Grassland numbers commonly upright; one tree may support many insects and invert numbers without inverting biomass.
-- Parasitic food chains can produce strongly inverted number pyramids because one host supports many parasites and sometimes hyperparasites.
 - Aquatic phytoplankton's rapid turnover can support higher instant consumer biomass; inversion does not itself diagnose ecosystem health.
 - GPP = total producer fixation; NPP = GPP − producer respiration; secondary productivity = new consumer biomass produced per unit time.
 - Energy pyramids stay upright: not all biomass is eaten or assimilated, and organisms respire and dissipate heat. The approximate 10% rule is a heuristic, not a constant.
@@ -898,13 +911,13 @@ rock S ────────────> mineralisation + SO₂ air route �
 | Lightning fixation as NOₓ-to-nitrate rather than direct ammonia formation | Lesson 3 visual, teaching, revision and register notes |
 | Core phosphorus and sulphur reservoirs, nutrient limitation, mineralisation, atmospheric sulphur and pathway-matched controls | Lesson 4; 2021 PYQ link; remediation; register notes |
 | Natural and cultural eutrophication, bloom–BOD–DO mechanism, institutions, evidence limits and Indian watershed response | Lesson 5; cumulative checks; final 10/15 practice |
-| Numbers and biomass pyramids, tree and parasitic-chain exceptions, aquatic turnover and measurement units | Lesson 6; final 20 model; remediation; register notes |
+| Numbers and biomass pyramids, tree-based number inversion, aquatic turnover and measurement units | Lesson 6; final 20 model; remediation; register notes |
 | GPP, NPP, secondary productivity, energy pyramids, transfer losses, detrital links and 10% heuristic limits | Lesson 7; cumulative check 3; final 20 model; register notes |
 | Advanced altered-flow analysis, planetary boundaries, nutrient security, governance and uncertainty | Lesson 8 only; advanced model; advanced register |
 | Advanced ecological stoichiometry, C:N:P mismatch, hydrological disturbance, resistance and resilience | Lesson 8 only; concept check; cumulative checks 3–4; final 20 model; register notes |
-| Exact objective PYQs: 2019 GS-I Q41, 2021 GS-I Q27, 2022 GS-I Q48 and supporting 2023 GS-I Q55 | Exact answer-free set before Lesson 1; neutral approach index after teaching |
-| OCR book evidence | Lesson 1 water cycle and Lesson 6 food-chain/pyramid context; source ledger gives exact title and pages |
-| Current linkage | Exactly one: IPCC, 11 August 2026, in Lesson 8 |
+| Directly owned objective PYQs: 2019 GS-I Q41, 2021 GS-I Q27 and 2022 GS-I Q48; cross-owned supporting application: 2023 GS-I Q55 | Exact answer-free set before Lesson 1; neutral approach index and explicit cross-ownership after teaching |
+| OCR book evidence | Lesson 1 water cycle, Lesson 5 natural-eutrophication context and Lesson 6 food-chain/pyramid context; source ledger gives exact title and pages |
+| Current linkage | Lessons 1 and 5: Hauz Khas nutrient pollution, 4 August 2026; Lesson 3: ICAR-NBAIM biofertiliser campaign, 1 June 2026; Lesson 4: Kharif 2026 NBS Cabinet approval, 8 April 2026, followed by the Department of Fertilizers notification dated 9 April 2026; Lesson 8: IPCC CDR-CCUS methodology work, 11 August 2026 |
 
 # SOURCE LEDGER
 
@@ -912,13 +925,13 @@ rock S ────────────> mineralisation + SO₂ air route �
 
 | Category | Status | Evidence or reason |
 |---|---|---|
-| Canonical Markdown | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md` valid ecology content through §13; unrelated appended sociology material was excluded. Cross-topic support: `basic\01_Ecosystem-Structure-and-Function.md`, `advanced\01_Ecosystem-Structure-and-Function.md` and `REVISION-CHART_Ecological-Processes-Laws-and-Distinctive-Features.md`. |
+| Canonical Markdown | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md` valid ecology content through §13; unrelated appended sociology material was excluded. Cross-topic support: `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\01_Ecosystem-Structure-and-Function.md`, `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\01_Ecosystem-Structure-and-Function.md`, `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\14_Water-Pollution-and-River-Cleaning-Missions.md`, `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\14_Water-Pollution-and-River-Cleaning-Missions.md`, `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\24_Coastal-and-Marine-Ecology-CRZ-Blue-Economy.md`, `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\24_Coastal-and-Marine-Ecology-CRZ-Blue-Economy.md`, `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\27_Environmental-Institutions-MoEFCC-CPCB-NBA-WII.md` and `upsc-ai-kit\knowledge\Environment-and-Ecology\REVISION-CHART_Ecological-Processes-Laws-and-Distinctive-Features.md`. The 2023 biofilter application is cross-owned by `upsc-ai-kit\knowledge\Economy\basic\30_Economics-of-Animal-Rearing-Livestock-Dairy-Poultry-and-Fisheries.md` and `upsc-ai-kit\knowledge\Science-and-Technology\basic\13_Biotechnology-Fundamentals-and-DBT-Missions.md`. |
 | Final learner package | not relevant | Permanently excluded from all live-session work by governing source-exclusion rule; not consulted. |
-| Layered/complete session | not relevant | No optional complete-session artifact was used as evidence; the present Markdown is the repair target. |
+| Layered/complete session | not relevant | No permitted same-topic complete-session artifact was consulted. |
 | Solved workbook | not relevant | Permanently excluded from all live-session work by governing source-exclusion rule; not consulted. |
-| Advanced dossier | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md` §§1–12; all advanced interpretation is confined to Lesson 8 and the advanced final synthesis. |
+| Advanced dossier | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md` §§1–12. Its principal altered-flow, planetary-boundary, nutrient-security and governance synthesis appears in Lesson 8; prerequisite refinements on turnover, transfer-efficiency limits and phosphorus stewardship also qualify the relevant Core lessons. |
 | OCR books | checked | `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\Indian & World Geography - Husain, Majid_Compressed.pdf`, PDF pp. 109 and 146–148: hydrological cycle, evapotranspiration, infiltration/runoff, food chains, population pyramids, biomass and eutrophication. |
-| PYQs through 2026 | checked | Official papers: 2019 Prelims GS-I Q41 (`more_previous_papers\csp-p1.pdf`, p. 19); 2021 Q27 (`QP-CSP-21-GeneralStudiesPaper-I-121021.pdf`, p. 15); 2022 Q48 (`GENERAL STUDIES PAPER I.pdf`, p. 23); supporting 2023 Q55 (`QP_CS_Pre_Exam_2023_280523.pdf`, p. 23). The 2024, 2025 and 2026 GS-I papers add no further direct cycle-or-pyramid question. |
-| Official live sources | checked | One current linkage: IPCC, 11 August 2026, https://www.ipcc.ch/2026/08/11/prtficdrlam2/. Static advanced corroboration for C:N:P interactions: USGS publication record https://pubs.usgs.gov/publication/70232170. |
+| PYQs through 2026 | checked | Official papers: 2019 Prelims GS-I Q41 (`books\more_previous_papers\csp-p1.pdf`, PDF p. 19); 2021 Q27 (`books\more_previous_papers\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf`, PDF p. 15); 2022 Q48 (`books\more_previous_papers\GENERAL STUDIES PAPER I.pdf`, PDF p. 23); cross-owned supporting 2023 Q55 (`books\more_previous_papers\QP_CS_Pre_Exam_2023_280523.pdf`, PDF p. 23). Routing and absence checks: `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2018-2023.md`, `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2024-2025.md`, `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2026.md`, `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md` and `upsc-ai-kit\knowledge\_PYQ-GS3-2026.md`. The 2026 Prelims key is provisional and no answer is inferred; no additional directly owned 2024–2026 Prelims or Mains demand was found. |
+| Official live sources | checked | Current links: Down To Earth, 4 August 2026, https://www.downtoearth.org.in/water/nutrient-pollution-is-one-of-the-greatest-emerging-threats-to-urban-freshwater-ecosystems-delhis-hauz-khas-lake-exemplifies-this; ICAR-NBAIM, 1 June 2026, https://icar.org.in/en/icar-nbaim-mau-uttar-pradesh-launches-khet-bachao-abhiyan-focus-biofertilizers-and-sustainable-soil; PIB Cabinet approval, 8 April 2026, https://pib.gov.in/PressReleasePage.aspx?PRID=2250032&reg=3&lang=1; Department of Fertilizers, Kharif 2026 NBS notification dated 9 April 2026, https://fert.gov.in/sites/default/files/2026-06/NBS%20Notification%20Kharif%202026_0001.pdf; IPCC, 11 August 2026, https://www.ipcc.ch/2026/08/11/prtficdrlam2/. Static corroboration: ecological stoichiometry review and meta-analysis, https://doi.org/10.3389/fmicb.2017.01184; planetary-boundaries update, https://doi.org/10.1126/sciadv.adh2458; C:N:P ecosystem interactions, https://pubs.usgs.gov/publication/70232170; Department of Fertilizers subsidy structure, https://fert.gov.in/en/department/our-wings/fertilizer-subsidy. |
 
 **Evidence limits:** No national nutrient-runoff total, Indian trophic-transfer percentage, universal C:N:P ratio, phosphate-depletion date or India-specific carbon-removal quantity is asserted. The approximately 10% transfer figure remains a heuristic. Qdrant was unnecessary.
