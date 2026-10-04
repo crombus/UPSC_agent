@@ -54,6 +54,8 @@ Specialist debate for discriminating use only
 | Optional Advanced | Enrichment | A1 | Perfect-being theology and apophatic reserve |
 | Optional Advanced | Enrichment | A2 | Four strategies for repairing pressure within the divine-attribute package |
 | Optional Advanced | Answer use | A3 | Selective deployment without replacing Core exposition |
+| Bounded Expert | Reference | E1 | Cross-system precision bench for specialist distinctions |
+| Bounded Expert | Answer use | E2 | Expert stop-rules: one discriminator, then return to the directive |
 
 The order is deliberate. A learner first acquires the conceptual grammar, then studies models and
 attributes, then meets the named systems, and only afterward attempts cross-system judgement. Lessons
@@ -685,7 +687,38 @@ The dilemma does not require divine knowledge to **cause** the act. It is modal:
 reason-responsive voluntary action, whereas libertarian freedom requires genuine alternatives.
 An answer must state which freedom it defends.
 
-### 4. Omnipotence and free will
+### 4. Two further omniscience criticisms required by the 2026 question
+
+The 2026 question asks for **criticisms against omniscience**, not only the foreknowledge dilemma.
+Two independent objections must therefore remain in Core.
+
+| Criticism | Why it differs from foreknowledge | Controlled reply | Residual problem |
+|---|---|---|---|
+| **First-person knowledge (*de se*)** | knowing every fact *about* a person may differ from knowing “I am in danger” in that person’s own self-locating way | God can know the complete subject, time and perspective-indexed truth without literally becoming that creature | if omniscience includes every mode of grasp, complete third-person knowledge may still omit the creature’s first-person stance |
+| **Changing tensed truths** | “it is raining now” changes truth-value as “now” changes, apparently requiring changing beliefs | a timeless knower can know tenselessly that rain occurs at time *t* and know which time each “now” indexes | critics ask whether tenseless truth captures irreducibly present awareness; a temporal reply preserves tensed knowledge by revising strict timelessness and immutability |
+
+**Plain-language example:** A report may state every fact about a lost climber, while the climber alone
+grasps the thought “I am the person in danger.” Likewise, a complete calendar can record that an event
+occurs at 4 p.m., but the statement “it is happening now” appears to shift with the speaker’s temporal
+position.
+
+**Limit:** These examples establish a difference in perspective or mode of presentation. They do not
+by themselves prove that such a mode is an additional truth that omniscience must possess.
+
+```text
+OMNISCIENCE CRITICISMS
+        |
+        +--> future act known infallibly? -------- foreknowledge/freedom
+        |
+        +--> another's "I" known as that person? -- first-person / de se
+        |
+        +--> changing "now" known timelessly? ----- tensed truth
+```
+
+> 🔑 **2026 answer rule:** Present the three omniscience pressures separately. Do not use
+> “God is timeless” as a one-line answer to all of them.
+
+### 5. Omnipotence and free will
 
 The 2020 PYQ says “omnipotent God,” although the standard dilemma is often framed through
 omniscient foreknowledge. Treat both:
@@ -707,7 +740,7 @@ omniscient foreknowledge. Treat both:
 - Bhagavad Gītā 18.61 depicts divine indwelling governance, while 18.63 ends with “act as you wish”;
   use the pair as a tension, not as a completed solution.
 
-### 5. Divine simplicity
+### 6. Divine simplicity
 
 ✅ **Canonical doctrine:** Divine simplicity denies composition in God: no matter/form,
 substance/accident, essence/existence or separable property-parts. Wisdom, goodness and power are
@@ -731,7 +764,7 @@ the necessary divine act from its contingent terminus.
 ⚠️ **Residual:** That distinction may reintroduce the differentiation that simplicity intended to
 exclude.
 
-### 6. Timeless action
+### 7. Timeless action
 
 **Objection:** A timeless being cannot first refrain and then create, answer a prayer, or know that
 an event is happening now.
@@ -770,11 +803,13 @@ attributes of God.”
 5. Ockhamism treats some past divine beliefs as soft facts.
 6. Molinism uses counterfactual middle knowledge.
 7. Open theism protects libertarian freedom by revising settled-future knowledge.
-8. Omnipotence need not mean continuous exhaustive determination.
-9. Nyāya separates karmic administration from authorship of choice.
-10. Simplicity follows from the anti-dependence argument.
-11. Simplicity faces property-person and modal-collapse objections.
-12. Timeless action can explain temporal effects more easily than personal response.
+8. First-person or *de se* knowledge asks whether God can know a creature's “I” truth as the creature does.
+9. Tensed knowledge asks whether knowing “now” requires changing beliefs.
+10. Perspective-indexed and tenseless replies preserve complete truth while disputing the required mode of grasp.
+11. Omnipotence need not mean continuous exhaustive determination.
+12. Nyāya separates karmic administration from authorship of choice.
+13. Simplicity follows from the anti-dependence argument and faces property-person and modal-collapse objections.
+14. Timeless action can explain temporal effects more easily than personal response.
 
 ### Local practice
 
@@ -1090,7 +1125,25 @@ creator, moral governor and object of worship at the empirical level.
 and liberation-path all operate at *vyāvahārika* reality. What is later sublated is ultimate
 creator–creature duality.
 
-### 4. Māyā, adhyāsa, mithyā and vivarta
+### 4. Essential and relational descriptions of Brahman
+
+Advaita distinguishes two explanatory functions:
+
+| Term | Function | Example |
+|---|---|---|
+| **Svarūpa-lakṣaṇa** | nature-defining indication; points to what Brahman is in itself without adding detachable properties | *sat-cit-ānanda*—being, consciousness and fullness/bliss |
+| **Taṭastha-lakṣaṇa** | relational indication; identifies Brahman through the dependent world-order | Brahman as the source, sustainer or ground of the world |
+
+The distinction prevents a common error. Calling Brahman the world-cause describes Brahman through a
+relation that belongs to the empirical order; it does not turn causality into an additional limiting
+property of nirguṇa Brahman. Likewise, *sat-cit-ānanda* should not be pictured as three qualities
+attached to a fourth underlying object.
+
+> 🔑 **UPSC use:** In an Advaita answer, distinguish ineffability from emptiness: essential indications
+> deny that Brahman is a blank non-entity, while relational indications explain why creator-language
+> remains meaningful at the empirical level.
+
+### 5. Māyā, adhyāsa, mithyā and vivarta
 
 | Term | Exact use |
 |---|---|
@@ -1105,7 +1158,7 @@ fear, yet is sublated by knowledge of the rope. The example shows dependent appe
 **Limit:** The world is a shared, ordered field, not a private momentary error. The analogy does not
 by itself explain cosmic appearance or the locus of ignorance.
 
-### 5. The Advaitic argument
+### 6. The Advaitic argument
 
 1. Every changing object is dependent and available to consciousness.
 2. Consciousness is the presupposition of every known object and cannot be objectified in the same
@@ -1117,7 +1170,7 @@ by itself explain cosmic appearance or the locus of ignorance.
 **Presupposition:** Self-revealing consciousness is irreducible and *śruti* is a valid means for
 non-objective ultimate reality.
 
-### 6. Does Advaita leave room for theism?
+### 7. Does Advaita leave room for theism?
 
 **Yes, with qualification.**
 
@@ -1151,15 +1204,16 @@ who regards relation as intrinsically final will find the hierarchy religiously 
 1. Advaita distinguishes ultimate and empirical standpoints.
 2. Nirguṇa denies limiting qualities, not reality.
 3. *Sat-cit-ānanda* indicates Brahman’s nature, not detachable properties.
-4. Saguṇa Īśvara is Brahman in relation to *māyā*.
-5. Īśvara is creator and worship-object within empirical reality.
-6. *Mithyā* is dependent and sublatable, not absolute non-being.
-7. *Vivarta* is apparent transformation.
-8. *Anirvacanīya* technically qualifies māyā/world-status, not Brahman.
-9. Rope–snake clarifies sublation but not the entire cosmic theory.
-10. Advaita leaves room for empirical theism.
-11. Ultimate knowledge ends worshipper–worshipped duality.
-12. The chief religious pressure is the provisional status of devotion.
+4. *Svarūpa-lakṣaṇa* indicates Brahman’s nature; *taṭastha-lakṣaṇa* identifies through world-relation.
+5. Saguṇa Īśvara is Brahman in relation to *māyā*.
+6. Īśvara is creator and worship-object within empirical reality.
+7. *Mithyā* is dependent and sublatable, not absolute non-being.
+8. *Vivarta* is apparent transformation.
+9. *Anirvacanīya* technically qualifies māyā/world-status, not Brahman.
+10. Rope–snake clarifies sublation but not the entire cosmic theory.
+11. Advaita leaves room for empirical theism.
+12. Ultimate knowledge ends worshipper–worshipped duality.
+13. The chief religious pressure is the provisional status of devotion.
 
 ### Local practice
 
@@ -2598,6 +2652,138 @@ immutability and power.
 11. A 20-marker may use two refinements only when both serve the same evaluative axis.
 12. The answer must return to the printed directive after the refinement.
 
+# BOUNDED EXPERT REFERENCE — USE SELECTIVELY
+
+> **Purpose:** This is a precision bench, not a fourth syllabus layer. It helps distinguish positions
+> that a good Core answer may already compare. Use one discriminator only when it directly improves
+> the answer’s judgement.
+
+## Visual: the Expert-use stop rule
+
+```text
+EXACT QUESTION
+      |
+      v
+CORE ANSWER COMPLETE?
+  |             |
+ NO            YES
+  |             |
+return to       v
+Core       one expert discriminator
+                |
+                v
+        explain why it matters
+                |
+                v
+          STOP and conclude
+```
+
+*Expert material is successful when it makes one distinction sharper without changing the centre of
+the answer.*
+
+## E1. Cross-system precision bench
+
+| Near-neighbour confusion | Expert discriminator | Why it matters | Boundary |
+|---|---|---|---|
+| Classical divine simplicity and Advaitic *sat-cit-ānanda* | Classical simplicity denies composition and real attribute-parts; Advaitic *svarūpa-lakṣaṇa* indicates Brahman’s nature without treating being, consciousness and bliss as detachable properties | permits a functional comparison without claiming doctrinal identity | do not call Advaita a version of Thomistic theism |
+| Advaita *vivarta* and Kashmir Śaiva *ābhāsa* | *Vivarta* treats plurality as dependent and ultimately sublatable appearance; *ābhāsa* treats manifestation as the real self-expression of free divine consciousness | shows why two non-dualisms can disagree radically about the world | full Kashmir Śaiva metaphysics is unnecessary unless the stem names it |
+| Rāmānuja’s *apṛthaksiddhi* and Madhva’s *viśeṣa* | *Apṛthaksiddhi* explains inseparable dependence of real modes on Brahman; Madhva’s *viśeṣa* allows genuine distinction within what is otherwise partless | prevents “difference within unity” from becoming one vague formula | *viśeṣa* is a specialist enrichment, not required for the standard Rāmānuja PYQ |
+| Spinozan pantheism and physical aggregation | finite things are modes of infinite substance, not pieces whose sum constructs God | protects the metaphysical meaning of *Deus sive Natura* | mention acosmist or panentheist readings only as interpretive cautions, not the safe primary classification |
+| Śākta divine femininity and biological sex | Devī/Śakti names conscious dynamic ultimacy; feminine imagery carries metaphysical and devotional force without making a non-corporeal ultimate biologically female | separates symbolism, personhood and ontology | full theories of symbol and gendered religious language belong to the Religious Language topic |
+
+### Why these distinctions are Expert rather than Core additions
+
+The Core already supplies every doctrine needed for the verified questions. The distinctions above
+compare the **internal devices** by which different systems protect unity, difference, manifestation
+or personhood. They are valuable only after the learner can state each primary doctrine accurately.
+
+## E2. Expert answer-use rules
+
+### Use an Expert point when
+
+- the question is a 15- or 20-marker with an explicit critical or comparative demand;
+- the Core answer is already complete;
+- the distinction resolves a likely conceptual merger;
+- it can be explained in two or three sentences;
+- its philosophical consequence is stated.
+
+### Do not use an Expert point when
+
+- a 10-marker requires direct economy;
+- the named thinker’s basic doctrine is still incomplete;
+- the term would appear only as unexplained vocabulary;
+- it imports a debate owned by another syllabus topic;
+- it displaces the question’s required objection, reply or verdict.
+
+### Model of disciplined use
+
+```text
+Core comparison:
+Advaita and Kashmir Śaivism are both non-dual.
+
+Expert discriminator:
+Their non-dualisms diverge over manifestation:
+vivarta is ultimately sublatable appearance,
+whereas abhasa is real divine self-expression.
+
+Return to demand:
+Therefore non-duality alone does not determine
+whether the world is metaphysically downgraded.
+```
+
+### Expert traps
+
+- ❌ Expert means obscure names.
+  ✅ Expert means a precise distinction with argumentative value.
+- ❌ Every answer should contain an Expert point.
+  ✅ Many strong answers should stop after Core or one Advanced refinement.
+- ❌ Similar functions prove doctrinal identity.
+  ✅ A functional analogy must preserve different metaphysical foundations.
+- ❌ Interpretive minority labels should replace safe classifications.
+  ✅ Use them only to qualify, not destabilise, the primary answer.
+- ❌ Specialist terminology can remain untranslated.
+  ✅ Define the term and state what error it prevents.
+
+## Expert retrieval checks
+
+### Check 1
+
+**Question:** Why is divine simplicity only a functional comparison with Advaitic
+*svarūpa-lakṣaṇa*?
+
+**Model answer:** Both resist treating ultimate reality as a substrate carrying separable properties,
+but their systems differ. Classical simplicity belongs to a necessary personal creator, whereas
+Advaitic indications operate within non-dual Brahman and a distinction between ultimate and empirical
+standpoints.
+
+### Check 2
+
+**Question:** What single distinction prevents Advaita and Kashmir Śaivism from being merged?
+
+**Model answer:** Their treatment of manifestation differs. Advaita uses *vivarta* for dependent,
+ultimately sublatable appearance; Kashmir Śaivism uses *ābhāsa* for real self-manifestation of free
+divine consciousness.
+
+### Check 3
+
+**Question:** When should an Expert point be omitted?
+
+**Model answer:** Omit it whenever the Core answer is incomplete, the question is too narrow, the
+specialist term cannot be explained, or the refinement would displace the directive’s central demand.
+
+## Expert revision notes
+
+1. Expert material is bounded reference, not required teaching.
+2. Use one discriminator only after a complete Core answer.
+3. Functional analogy does not establish doctrinal identity.
+4. Classical simplicity and Advaitic nature-indications arise in different metaphysical systems.
+5. *Vivarta* and *ābhāsa* distinguish two forms of non-dualism.
+6. *Apṛthaksiddhi* explains inseparability; Madhva’s *viśeṣa* preserves real distinction.
+7. Spinozan modes are not physical parts that aggregate into God.
+8. Divine feminine language must be separated from biological embodiment.
+9. Minority interpretations qualify rather than replace safe classifications.
+10. The Expert move must end by answering the printed question.
+
 # VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
 
 > **Boundary:** The following are exact verified question wordings with demand and approach only.
@@ -2999,6 +3185,12 @@ OMNISCIENCE
   -> foreknowledge versus alternatives
   -> eternity / soft facts / middle knowledge / open future
   -> residual: entailment, grounding or revision
+  -> first-person / de se knowledge
+  -> perspective-indexed reply
+  -> residual: truth known versus mode of grasp
+  -> changing tensed truths
+  -> tenseless-time-indexed reply
+  -> residual: irreducible present awareness
 
 SIMPLICITY
   -> anti-dependence argument
@@ -3071,6 +3263,9 @@ Does "manifestation" mean a finite body?
 7. Simplicity denies composition and faces modal-collapse and property-person objections.
 8. Foreknowledge replies: Boethian eternity, Ockhamist soft facts, Molinist middle knowledge and
    open future.
+9. *De se* criticism asks whether complete third-person knowledge includes another subject’s “I” stance.
+10. Tensed-truth criticism asks whether a timeless knower can possess changing “now” knowledge.
+11. Perspective-indexed and tenseless replies preserve truth-completeness but leave a mode-of-grasp dispute.
 
 ## D. Spinoza
 
@@ -3085,13 +3280,15 @@ Does "manifestation" mean a finite body?
 ## E. Advaita
 
 1. Nirguṇa Brahman is non-dual *sat-cit-ānanda* beyond limiting predicates.
-2. Saguṇa Īśvara is Brahman relationally understood through *māyā*.
-3. *Mithyā* means dependent and sublatable, not absolutely non-existent.
-4. *Vivarta* is apparent transformation without change in Brahman.
-5. *Anirvacanīya* technically applies to māyā/world appearance.
-6. Īśvara, devotion and moral order are empirically valid.
-7. Liberating knowledge sublates ultimate creator–creature duality.
-8. Advaita therefore permits qualified, non-final theism.
+2. *Sat-cit-ānanda* functions as *svarūpa-lakṣaṇa*, indicating Brahman’s nature without detachable properties.
+3. World-cause language functions as *taṭastha-lakṣaṇa*, identifying Brahman through empirical relation.
+4. Saguṇa Īśvara is Brahman relationally understood through *māyā*.
+5. *Mithyā* means dependent and sublatable, not absolutely non-existent.
+6. *Vivarta* is apparent transformation without change in Brahman.
+7. *Anirvacanīya* technically applies to māyā/world appearance.
+8. Īśvara, devotion and moral order are empirically valid.
+9. Liberating knowledge sublates ultimate creator–creature duality.
+10. Advaita therefore permits qualified, non-final theism.
 
 ## F. Rāmānuja
 
@@ -3166,11 +3363,13 @@ Does "manifestation" mean a finite body?
 | Creator, sustainer, governor, ground, Absolute | Lessons 1–2 | MCQs 2, 5 |
 | Omnipotence | Lessons 3–4 | 2020 Q5(d), 2026 Q8(c), MCQs 6, 10 |
 | Omniscience and free will | Lessons 3–4 | 2026 Q8(c), MCQs 8, 11, 39 |
+| First-person/*de se* and changing tensed knowledge | Lessons 3–4 | 2026 Q8(c), three-part omniscience answer rule |
 | Eternity, immutability, impassibility | Lessons 3–4 | MCQs 7–9 |
 | Divine simplicity and aseity | Lessons 3–4 | MCQ 12 |
 | Spinoza | Lesson 5 | 2022 Q5(a), 2024 Q6(b), MCQs 13–16 |
 | Advaita/Śaṅkara | Lesson 6 | 2022 Q8(c), MCQs 17–18 |
 | Nirguṇa/saguṇa and devotion | Lessons 6, 11 | 2026 Q7(b), MCQs 32–34 |
+| *Svarūpa-lakṣaṇa* and *taṭastha-lakṣaṇa* | Lesson 6 | 2022 Q8(c), Advaita revision notes |
 | Māyā, *mithyā*, *vivarta*, levels | Lesson 6 | MCQs 17–18, remediation 46 |
 | Viśiṣṭādvaita/Rāmānuja | Lesson 7 | 2020 Q7(a), 2022 Q6(b), MCQs 19–21 |
 | *Cit–acit*, body–self, *apṛthaksiddhi* | Lesson 7 | remediation 47, 51 |
@@ -3186,6 +3385,7 @@ Does "manifestation" mean a finite body?
 | Anthropomorphism, analogy and gender caution | Lessons 1, 3, 11 | MCQs 3, 9 |
 | Criticisms, replies and residuals | Every lesson | local MCQs and final models |
 | Optional Advanced enrichment | A1–A3 after the Core checkpoint | three retrieval checks and selective answer-use table |
+| Bounded Expert reference | E1–E2 after Advanced | cross-system precision bench, stop-rule and three retrieval checks |
 | All 15 owned PYQs through 2026 | Local lessons and verified index | exact wording/demand/approach only |
 | 10/15/20-mark original solved practice | Final Mains section | three complete model answers |
 | Cumulative and remedial practice | Final MCQ and remediation sections | MCQs 37–52 |
