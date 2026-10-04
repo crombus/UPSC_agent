@@ -309,6 +309,7 @@
 | Geography | Topic 31 - Mineral and Energy Resources: World and India | 15 | 14,073 | `5161bc13f419` | [Geography/31-Mineral-and-Energy-Resources-World-and-India/Learning-Session-Live-Edition.md](Geography/31-Mineral-and-Energy-Resources-World-and-India/Learning-Session-Live-Edition.md) |
 | Geography | Topic 32 - Industries and Industrial Regions | 14 | 9,886 | `0a62a4dce3a5` | [Geography/32-Industries-and-Industrial-Regions/Learning-Session-Live-Edition.md](Geography/32-Industries-and-Industrial-Regions/Learning-Session-Live-Edition.md) |
 | Geography | Topic 33 - Transport, Trade and the Indian Space Programme | 15 | 12,029 | `493dbc2bc9f1` | [Geography/33-Transport-Trade-and-the-Indian-Space-Programme/Learning-Session-Live-Edition.md](Geography/33-Transport-Trade-and-the-Indian-Space-Programme/Learning-Session-Live-Edition.md) |
+| Geography | Topic 34 - World Regional Geography: Continents and Countries | 15 | 11,346 | `831de76f1b78` | [Geography/34-World-Regional-Geography-Continents-and-Countries/Learning-Session-Live-Edition.md](Geography/34-World-Regional-Geography-Continents-and-Countries/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
