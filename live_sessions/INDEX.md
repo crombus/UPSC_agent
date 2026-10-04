@@ -301,6 +301,7 @@
 | Qualifying English | Subject-Wide Compulsory English Skills | 10 | 9,796 | `ba37e5531f0e` | [Qualifying-English/Subject-Wide-Compulsory-English-Skills/Learning-Session-Live-Edition.md](Qualifying-English/Subject-Wide-Compulsory-English-Skills/Learning-Session-Live-Edition.md) |
 | Qualifying Hindi | Subject-Wide Compulsory Hindi Skills | 16 | 9,799 | `f9872ff82c0d` | [Qualifying-Hindi/Subject-Wide-Compulsory-Hindi-Skills/Learning-Session-Live-Edition.md](Qualifying-Hindi/Subject-Wide-Compulsory-Hindi-Skills/Learning-Session-Live-Edition.md) |
 | Geography | Topic 25 - Arctic or Polar Climate / India Cold Desert and Poles | 14 | 14,622 | `62882995b5ca` | [Geography/25-Arctic-Polar-Climate-India-Cold-Desert-and-Poles/Learning-Session-Live-Edition.md](Geography/25-Arctic-Polar-Climate-India-Cold-Desert-and-Poles/Learning-Session-Live-Edition.md) |
+| Geography | Topic 26 - World Population and Demographic Transition | 16 | 13,257 | `a634c5381962` | [Geography/26-World-Population-and-Demographic-Transition/Learning-Session-Live-Edition.md](Geography/26-World-Population-and-Demographic-Transition/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
