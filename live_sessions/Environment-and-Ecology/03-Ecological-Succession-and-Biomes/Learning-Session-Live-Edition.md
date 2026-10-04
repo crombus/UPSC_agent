@@ -9,9 +9,9 @@
 | 1 | How does a community arise where there is no soil? | Foundation |
 | 2 | Why can later species be helped, resisted or merely tolerated? | Core |
 | 3 | What do water, rock, sand and salt change in the route? | Core |
-| 4 | How are terrestrial and aquatic biomes distributed? | Core |
+| 4 | How are terrestrial biomes and aquatic biome/ecosystem families distributed? | Core |
 | 5 | How do Indian landscapes combine succession and biome? | Core |
-| 6 | Must succession reach one climax, and how do resilience and climate shifts alter the path? | Advanced |
+| 6 | What is the classical climax, and why can real ecosystems follow several persistent paths? | Core with Advanced depth |
 | 7 | How should restoration actually be staged and measured? | Advanced |
 | 8 | Why can planting trees damage a natural open ecosystem? | Advanced |
 
@@ -19,9 +19,9 @@ Read in order: every lesson moves from a visual and an ordinary-language explana
 
 ### UPSC PYQs — attempt before teaching
 
-The following official questions are reproduced without answers, elimination cues or truth-value markings. Attempt them before proceeding.
+The following official questions are reproduced without answers, elimination cues or truth-value markings. Attempt them before proceeding. Only 2021 Q20 is directly owned by Topic 03; the others are clearly identified cross-topic applications whose primary owners supply the complete answer.
 
-**2021 Prelims GS-I, Q20**
+**2021 Prelims GS-I, Q20 — Topic 03 direct**
 
 In the nature, which of the following is/are most likely to be found surviving on a surface without soil?
 
@@ -37,7 +37,7 @@ Select the correct answer using the code given below:
 - (c) 2 and 3
 - (d) 1, 3 and 4
 
-**2021 Prelims GS-I, Q60**
+**2021 Prelims GS-I, Q60 — cross-linked from Geography**
 
 “Leaf litter decomposes faster than in any other biome and as a result the soil surface is often almost bare. Apart from trees, the vegetation is largely composed of plant forms that reach up into the canopy vicariously, by climbing the trees or growing as epiphytes, rooted on the upper branches of trees.” This is the most likely description of
 
@@ -46,7 +46,7 @@ Select the correct answer using the code given below:
 - (c) mangrove forest
 - (d) tropical rain forest
 
-**2021 Prelims GS-I, Q61**
+**2021 Prelims GS-I, Q61 — cross-linked from Geography**
 
 The vegetation of savannah consists of grassland with scattered small trees, but extensive areas have no trees. The forest development in such areas is generally kept in check by one or more or a combination of some conditions. Which of the following are such conditions?
 
@@ -63,7 +63,7 @@ Select the correct answer using the code given below:
 - (c) 2, 3 and 4
 - (d) 1, 3 and 5
 
-**2024 Essay, Section A, Topic 1**
+**2024 Essay, Section A, Topic 1 — cross-linked from Essay**
 
 “Forests precede civilizations and deserts follow them.”
 
@@ -71,11 +71,11 @@ Instruction: Write two essays, choosing one topic from each of Sections A and B,
 
 Marks: **125 marks per essay; 125 × 2 = 250 marks for the paper.**
 
-**2026 GS-III, Q7 — 10 marks / 150 words**
+**2026 GS-III, Q7 — 10 marks / 150 words — cross-linked from Disaster Management**
 
 Discuss how the contradiction between “rapid infrastructure development” and “disaster-risk reduction” in ecologically-sensitive areas of India can be managed, with suitable examples.
 
-**2026 GS-III, Q8 — 10 marks / 150 words**
+**2026 GS-III, Q8 — 10 marks / 150 words — cross-linked from Environment Topic 22**
 
 Discuss the aim and goals of Kunming-Montreal global biodiversity framework. Mention India's commitments and initiatives to achieve the goals and targets of this framework giving suitable examples.
 
@@ -84,8 +84,9 @@ Discuss the aim and goals of Kunming-Montreal global biodiversity framework. Men
 Progress: 1 / 8 | Stage: Foundation | Subtopic: Primary succession, pioneers and a sere
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: The biogeography text defines succession and ecotones; the rock-sere mechanism is supplied by the ecology foundation.
-Current linkage: None used; pioneer establishment is a static ecological mechanism.
+Book context: Queried — the biogeography text defines succession and ecotones; the ecology material explains the rock-sere mechanism.
+CA search: "India primary succession bare rock landslide mine spoil ecological restoration April 2026 October 2026"
+CA found: None sufficiently direct and authoritative for a measured primary-succession trajectory in the search period.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ```text
@@ -138,8 +139,9 @@ Imagine an exposed rock surface after a landslide. The problem is not merely lac
 Progress: 2 / 8 | Stage: Core | Subtopic: Secondary succession and facilitation, inhibition and tolerance
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: The biogeography text supplies the ecosystem setting; the soil-retention distinction and three replacement models come from ecological succession theory.
-Current linkage: None used; no dated announcement establishes a measured trajectory.
+Book context: Queried — the biogeography text supplies the ecosystem setting; succession theory supplies the soil-retention distinction and three replacement models.
+CA search: "India secondary succession jhum fallow forest regeneration April 2026 October 2026"
+CA found: None sufficiently authoritative for a named, repeatedly measured jhum-fallow trajectory; no headline is used to infer recovery speed.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 | What remains after disturbance? | Bare-rock scar | Abandoned cultivated plot in Northeast India |
@@ -181,10 +183,14 @@ organisms interact for space, light, water and nutrients
 REACTION
 the community alters soil, shade, moisture or chemistry
         ↓
-replacement, persistence or a redirected trajectory
+STABILISATION / RELATIVE CLIMAX
+a comparatively persistent community may emerge
+        ↓
+renewed disturbance, external forcing or feedback change
+can maintain, restart or redirect the trajectory
 ```
 
-**Nudation** creates the starting space through exposure or disturbance; it is not the same as successful colonisation. **Invasion** begins with arrival, while **establishment** requires survival and reproduction under site conditions. Competition and other interactions then shape persistence. In the classical vocabulary, **reaction** means that the community modifies its environment, changing the opportunities for itself and later species.
+**Nudation** creates the starting space through exposure or disturbance; it is not the same as successful colonisation. **Invasion** begins with arrival, while **establishment** requires survival and reproduction under site conditions. Competition and other interactions then shape persistence. In the classical vocabulary, **reaction** means that the community modifies its environment, changing the opportunities for itself and later species. **Stabilisation** names the classical movement toward a relatively persistent community or climax. It does **not** mean permanent equilibrium: disturbance, external forcing, dispersal history and feedbacks can maintain an open state, restart succession or redirect it toward another persistent state.
 
 | Driver of succession | Source of change | Example | Qualification |
 |---|---|---|---|
@@ -208,8 +214,8 @@ replacement, persistence or a redirected trajectory
 11. Successional speed is a result to explain, not the definition of a pathway.
 12. Nudation creates an exposed or disturbed starting area.
 13. Invasion and establishment are distinct: arrival does not guarantee survival and reproduction.
-14. Competition/coaction and community reaction shape replacement after establishment.
-15. Autogenic change comes from organisms; allogenic change comes from external forcing such as flood, fire, erosion or climate.
+14. Competition/coaction shape persistence; reaction is community-driven environmental modification; classical stabilisation is only relative and disturbance-sensitive.
+15. Autogenic change comes from organisms; allogenic change comes from external forcing such as flood, fire, erosion or climate, and either can restart or redirect the trajectory.
 
 ### Concept check
 
@@ -230,8 +236,9 @@ replacement, persistence or a redirected trajectory
 Progress: 3 / 8 | Stage: Core | Subtopic: Hydrarch, xerarch and named seres
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: The biogeography text describes lake enrichment and ageing; it does not turn wetland infilling into a conservation objective.
-Current linkage: None used; the lesson distinguishes ecological description from management choice.
+Book context: Queried — the biogeography text describes lake enrichment and ageing; it does not turn wetland infilling into a conservation objective.
+CA search: "India wetland hydrosere ecological succession sedimentation 2026 April to October"
+CA found: None sufficiently authoritative for a named Indian hydrosere measured through time in the search period.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ```text
@@ -291,11 +298,12 @@ Imagine a pond accumulating sediment and plant litter. Aquatic plants can occupy
 
 ## Lesson 4 — Biomes: the spatial axis
 
-Progress: 4 / 8 | Stage: Core | Subtopic: Terrestrial and aquatic biomes, distribution and Indian examples
+Progress: 4 / 8 | Stage: Core | Subtopic: Terrestrial biomes, aquatic biome/ecosystem families and Indian distribution
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: The biogeography chapter distinguishes aquatic and terrestrial ecosystems and compares the principal terrestrial biomes.
-Current linkage: None used; biome classification is established before the single current application in Lesson 8.
+Book context: Queried — the biogeography chapter distinguishes aquatic and terrestrial ecosystems and compares the principal terrestrial biomes.
+CA search: "India biome ecotone climate shift Western Ghats Himalaya January 2026 October 2026"
+CA found: "Climate-induced shifts in habitat suitability of forest types and adaptation strategies in the Western Ghats of Tamil Nadu, India" — January 2026 study.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 | Broad biome | Temperature / precipitation regime | Dominant physiognomy | Indian teaching anchor and caveat |
@@ -312,13 +320,42 @@ Current linkage: None used; biome classification is established before the singl
 
 *The matrix compares climate envelopes with plant form; neither a biome nor its boundary is an individual forest plot.*
 
-✅ A **biome** is a large regionally recognisable community category described through broad physical conditions and characteristic life forms; an **ecosystem** can be an individual forest, meadow, river reach or pond with interacting organisms and environment. On land, temperature controls growing-season energy while precipitation and its seasonality constrain water supply. This parallels the climatic logic of Köppen classification, though Köppen climate classes are **not** identical to vegetation biomes. Hence a climate map helps predict broad vegetation, not the species in each plot.
+```text
+SCHEMATIC INDIAN SPATIAL TRANSECTS — NOT TO SCALE
+
+RAINFALL AXIS: Thar dry open systems → central seasonal mosaics
+
+REGIONAL WET-FOREST ANCHORS: western-coast relief → Western Ghats
+                             monsoon + relief → Northeast India
+
+LOW → HIGH:   Himalayan foothill forests → temperate belts → sub-alpine scrub → alpine vegetation
+
+LAND → SEA:   river/lake/wetland → estuary or lagoon → coastal marine → open ocean
+```
+
+*The transects show why rainfall, elevation and salinity require different spatial classifiers; they are memory aids, not precise boundary maps.*
+
+✅ A **terrestrial biome** is a large regionally recognisable climate–vegetation region described through broad physical conditions and characteristic life forms; an **ecosystem** can be an individual forest, meadow, river reach or pond with interacting organisms and environment. On land, temperature controls growing-season energy while precipitation and its seasonality constrain water supply. This parallels the climatic logic of Köppen classification, though Köppen climate classes are **not** identical to vegetation biomes. Hence a climate map helps predict broad vegetation, not the species in each plot.
+
+**Warm-wet forest process profile**
+
+```text
+warm + wet through the year
+          ↓
+rapid decomposition and rapid nutrient uptake
+          ↓
+little persistent leaf litter on the surface; nutrients concentrated in living biomass
+
+dense layered canopy → lianas/climbers use trees for support → epiphytes grow on branches
+```
+
+Rapid litter turnover does not mean every tropical soil is fertile: heavy rainfall can leach nutrients, while young volcanic or alluvial soils are important exceptions. Lianas climb toward light; epiphytes use branches for physical support and are not automatically parasites. Read decomposition, canopy structure and these plant forms as one linked profile rather than as an answer cue in isolation.
 
 Why is a savanna not simply a forest with too few trees? Where rainfall has a strong dry season, frequent fires or herbivory and soils can favour persistent grasses and limited tree recruitment. In contrast, rainforest moisture supports closed, layered canopy. A desert's sparse plants are adapted to water shortage; cold tundra's low growth reflects short warm periods, sometimes frozen ground. **Objection:** if climate sets biome, why can neighbouring plots differ? **Reply:** climate sets a broad envelope; soil, slope, fire, grazing, seed supply and land use produce mosaics. **Residual:** ecotones—transition zones—make mapped boundaries approximate.
 
 An **ecotone** is a transition zone between adjoining communities or biomes, not a pencil-thin line. Conditions can change across it in light, temperature, humidity, wind exposure, soil moisture and species interactions. The **edge effect** is the ecological consequence of those altered boundary conditions. Some natural edges contain species from both adjoining communities and may show locally higher richness or activity. But a road, clearing or fragmented forest also creates hotter, drier and windier margins, can favour disturbance-tolerant or invasive species, alter predation and nesting success, and reduce interior habitat. More edge is therefore not automatically more biodiversity or better conservation.
 
-| Aquatic biome family | Broad distribution | Dominant controls | Indian examples and cautions |
+| Aquatic biome/ecosystem family | Broad distribution | Dominant controls | Indian examples and cautions |
 |---|---|---|---|
 | Freshwater **lentic** | Inland standing water: lakes and ponds | Depth, light, temperature, oxygen, nutrient supply | Loktak Lake, Manipur; an individual lake can contain several zones and habitats |
 | Freshwater **lotic** | Flowing rivers and streams from headwaters to floodplains | Current, gradient, sediment, seasonality and flood pulse | Ganga and Brahmaputra river systems; one river changes from mountain reach to plain |
@@ -327,15 +364,15 @@ An **ecotone** is a transition zone between adjoining communities or biomes, not
 | Coastal marine | Intertidal and shallow continental-shelf waters | Tides, waves, substrate, light and land–sea exchange | Gulf of Mannar reefs/seagrass; Gulf of Kachchh reefs; mangrove and mudflat mosaics |
 | Open-ocean marine | Pelagic waters beyond the coast, with benthic habitats below | Light and nutrients with depth, currents, temperature and pressure | Arabian Sea, Bay of Bengal and Indian Ocean; named seas contain many ecosystems, not one uniform habitat |
 
-Aquatic classification uses **salinity, flow, depth, light, substrate and hydroperiod**, not a terrestrial rainfall–vegetation matrix. **Lentic** means standing water and **lotic** means flowing water. **Pelagic** refers to the water column; **benthic** refers to the bottom environment. An **estuary** is a mixing zone at the land–sea interface, whereas a lagoon is a shallow coastal water body partly separated from the sea; the two can overlap functionally but are not synonyms.
+Aquatic biome/ecosystem families use **salinity, flow, depth, light, substrate and hydroperiod**, not a terrestrial rainfall–vegetation matrix. **Lentic** means standing water and **lotic** means flowing water. **Pelagic** refers to the water column; **benthic** refers to the bottom environment. An **estuary** is a mixing zone at the land–sea interface, whereas a lagoon is a shallow coastal water body partly separated from the sea; the two can overlap functionally but are not synonyms.
 
-**UPSC application.** Biome = spatial ecological category; succession = temporal community change. Rainfall **seasonality** matters on land, while salinity and hydrological regime dominate many aquatic distinctions. Do not rename Himalayan conifers “taiga,” alpine vegetation “Arctic tundra,” or Chilika “freshwater.”
+**UPSC application.** Terrestrial biome = broad climate–vegetation region; aquatic biome/ecosystem family = a broad hydrological or marine setting; succession = temporal community change. Rainfall **seasonality** matters on land, while salinity and hydrological regime dominate aquatic distinctions. Do not rename Himalayan conifers “taiga,” alpine vegetation “Arctic tundra,” or Chilika “freshwater.”
 
 ### Revision notes
 
-1. A biome is broader than an individual ecosystem and is recognised by characteristic physical conditions and life forms.
+1. A terrestrial biome or aquatic biome/ecosystem family is broader than an individual ecosystem and is recognised by characteristic physical conditions and life forms.
 2. Terrestrial biomes are shaped chiefly by temperature, precipitation and seasonality.
-3. Tropical rainforest is warm and persistently wet; tropical seasonal forest has a pronounced dry period.
+3. Tropical rainforest is warm and persistently wet; rapid decomposition and uptake leave little persistent litter, while lianas and epiphytes exploit its layered canopy.
 4. Savanna combines grasses and scattered trees under seasonal water, fire, herbivory and soil controls.
 5. Desert vegetation reflects water deficit; tundra reflects a short growing season and cold.
 6. Köppen climate classes help explain climatic envelopes but are not identical to biomes.
@@ -357,11 +394,11 @@ Aquatic classification uses **salinity, flow, depth, light, substrate and hydrop
 
 **Misconception to avoid:** Assuming any climatically warm, vegetated land must be on a one-way path to rainforest.
 
-**Separate original Mains task (15 marks; 250 words):** Compare the basis and distribution of major terrestrial and aquatic biomes, using suitable Indian examples.
+**Separate original Mains task (15 marks; 250 words):** Compare the basis and distribution of major terrestrial biomes and aquatic biome/ecosystem families, using suitable Indian examples.
 
 **Model response:** ✅ Terrestrial biomes are classified mainly by temperature, precipitation and seasonality. Warm wet conditions support layered rainforest, as in parts of the Western Ghats and Northeast; seasonal water, fire, herbivory and soils can sustain savanna-like grass–tree mosaics; water deficit produces Thar scrub; a short cold growing season supports low alpine or tundra-like vegetation. Climate sets broad envelopes, while disturbance and soil explain local mosaics.
 
-Aquatic biomes require different variables. Lentic freshwaters are standing lakes and ponds, illustrated by Loktak; lotic systems are flowing rivers such as the Ganga–Brahmaputra network. Wetlands depend on hydroperiod and saturated soils. Estuaries and brackish lagoons lie at fresh–salt interfaces: the Sundarbans is estuarine, while Chilika is a coastal lagoon. Coastal marine habitats include Gulf of Mannar reefs and seagrass; open waters extend across the Arabian Sea, Bay of Bengal and Indian Ocean. ⚠️ Salinity, flow, depth, light, substrate and tides replace dominant vegetation as primary aquatic classifiers. **Qualification:** a biome contains many ecosystems and transition zones; a climate or salinity label alone cannot identify every species or restoration target.
+Aquatic biome/ecosystem families require different variables. Lentic freshwaters are standing lakes and ponds, illustrated by Loktak; lotic systems are flowing rivers such as the Ganga–Brahmaputra network. Wetlands depend on hydroperiod and saturated soils. Estuaries and brackish lagoons lie at fresh–salt interfaces: the Sundarbans is estuarine, while Chilika is a coastal lagoon. Coastal marine habitats include Gulf of Mannar reefs and seagrass; open waters extend across the Arabian Sea, Bay of Bengal and Indian Ocean. ⚠️ Salinity, flow, depth, light, substrate and tides replace dominant vegetation as primary aquatic classifiers. **Qualification:** each broad family contains many ecosystems and transition zones; a climate or salinity label alone cannot identify every species or restoration target.
 
 **Scoring lens (15):** terrestrial classification and contrasts 5; aquatic classification and distribution 5; Indian examples 3; scale/ecotone qualification 2.
 
@@ -370,8 +407,9 @@ Aquatic biomes require different variables. Lentic freshwaters are standing lake
 Progress: 5 / 8 | Stage: Core | Subtopic: India examples, monitorable targets and Core answer architecture
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Tropical seasonal vegetation, savanna, dryland and cold-desert comparators support the Indian landscape diagnosis.
-Current linkage: None used; site diagnosis cannot be replaced by a headline or national cover statistic.
+Book context: Queried — tropical seasonal vegetation, savanna, dryland and cold-desert comparators support the Indian landscape diagnosis.
+CA search: "India ecological restoration forest cover vs natural grassland FSI April 2026 to October 2026"
+CA found: "Rethinking forest restoration beyond tree cover" — Mongabay India, June 2026; the commentary highlights why cover statistics require site-level ecological diagnosis.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ```text
@@ -425,11 +463,12 @@ or naturally open?  secondary pathway?       grassland, wetland or dryland?
 
 ## Lesson 6 — Is the climax a destination or a moving target?
 
-Progress: 6 / 8 | Stage: Advanced | Subtopic: Climax, ecological resilience and climate-driven biome/ecotone shifts
+Progress: 6 / 8 | Stage: Core | Subtopic: Classical climax, followed by Advanced non-equilibrium and resilience depth
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Contrasting vegetation regimes and ecotones support the discussion; modern succession and resilience concepts qualify the classical climax ladder.
-Current linkage: None used; climate-shift claims rely on established assessment evidence, not a dated local anecdote.
+Book context: Queried — contrasting vegetation regimes and ecotones support the Core climax concept; modern succession and resilience research supplies the Advanced qualification.
+CA search: "ecological resilience alternative stable states climate-driven biome shifts India April 2026 October 2026"
+CA found: None sufficiently authoritative and India-wide in the search period; IPCC AR6 provides the assessment context for directional climate and ecosystem-change claims.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ```text
@@ -447,7 +486,11 @@ disturbance exceeds buffering capacity  → regime shift may replace recovery
 
 *A useful end-state model must not be mistaken for a prediction that every plot follows one path.*
 
-✅ **Climax community** in the classical model is a relatively stable, self-maintaining assemblage under prevailing environmental conditions. The Clementsian ideal emphasised ordered replacement culminating in one climatic climax. Its advantage is pedagogical: it explains how climate constrains broadly different endpoints, including arid scrub or grassland—not “forest everywhere.” ⚠️ The stronger modern objection is not merely that fires occur: starting species, dispersal, soil differences, herbivory and past disturbances can produce alternative long-lived states even under comparable broad climates. **Initial floristic composition** means that species already present early in the process can shape later vegetation, rather than each stage exclusively waiting to arrive after the previous one disappears. Thus succession is often contingent, patchy or interrupted rather than a fixed ladder.
+✅ **Core concept — climax community:** in the classical model, a climax is a relatively stable, self-maintaining assemblage under prevailing environmental conditions. Classical **stabilisation** is therefore relative persistence after seral replacement, not permanent stillness. Climate constrains broadly different endpoints, including arid scrub, grassland or alpine vegetation—not “forest everywhere.” Disturbance can reopen space and restart or redirect succession, so even the Core definition must remain disturbance-sensitive.
+
+### Advanced depth — non-equilibrium ecology
+
+The Clementsian ideal emphasised ordered replacement culminating in one climatic climax. Its pedagogical value is a clear end-state model; its limitation is excessive determinism. ⚠️ Starting species, dispersal, soil differences, herbivory and past disturbances can produce alternative long-lived states even under comparable broad climates. **Initial floristic composition** means that species already present early in the process can shape later vegetation, rather than each stage exclusively waiting to arrive after the previous one disappears. A **non-equilibrium** reading therefore treats succession as contingent, patchy, interrupted and sometimes organised around several persistent states rather than one fixed ladder.
 
 Consider a savanna whose grasses, grazers and periodic fires limit recruitment of young trees. Remove one pressure and tree cover may change; retain it and an open state may persist. That does **not** prove every Indian grassland is fire-maintained; some are maintained chiefly by climate/soil and others are human-degraded forests. **Reply to an overcorrection:** contingency does not make climate irrelevant. A rainforest cannot be the native target on an arid Thar ridge merely because a few planted trees survive with irrigation. **Residual:** proving alternative stable states requires long-term evidence of feedbacks, not a single vegetation snapshot.
 
@@ -471,8 +514,8 @@ Aquatic systems also shift. River temperature and flow seasonality alter lotic h
 
 ### Revision notes
 
-1. Classical climax theory treats succession as ordered movement toward relative stability.
-2. A single deterministic climatic endpoint is too rigid for many real landscapes.
+1. Classical stabilisation and climax describe ordered movement toward relative stability, not permanent equilibrium.
+2. The Core climax concept is disturbance-sensitive; a single deterministic climatic endpoint is too rigid for many real landscapes.
 3. Initial floristic composition, dispersal, soil and disturbance history can alter trajectories.
 4. Alternative stable states require evidence of persistent feedbacks, not one vegetation snapshot.
 5. Resistance is limited change during disturbance.
@@ -507,8 +550,9 @@ Resilience adds three tests. **Resistance** asks how little a system changes; re
 Progress: 7 / 8 | Stage: Advanced | Subtopic: Restoration staging, FSI limits and institutional accountability
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Biome constraints support target selection; restoration design adds stage-specific diagnosis and outcome monitoring.
-Current linkage: None used; programme names and cover reports do not substitute for ecological outcomes.
+Book context: Queried — biome constraints support target selection; the restoration material adds stage-specific diagnosis and outcome monitoring.
+CA search: "India Afforestation and Green Credit Programme Economic Survey 2025-26 ecological restoration"
+CA found: Economic Survey 2025–26, Chapter 10, paragraph 10.91 — the Afforestation and Green Credit Programme encourages participation in compensatory afforestation and degraded-forest restoration.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 | Diagnosis | Possible stage-fit measure | Check repeatedly, not once |
@@ -522,7 +566,9 @@ Current linkage: None used; programme names and cover reports do not substitute 
 
 ⚠️ Restoration ecology uses knowledge of succession to remove the **current bottleneck**. On stripped mine land this may be toxic or unstable spoil, not a shortage of tree saplings. On a jhum fallow a surviving seed source may justify passive or assisted natural regeneration. Some legumes can fix nitrogen, but do **not** assume every legume is locally native or that any species survives toxic spoil. A monoculture plantation can raise cover while failing to recreate native species composition, habitat structure or hydrological function.
 
-✅ MoEFCC's Green India Mission combines forest-cover improvement with ecosystem services, wetlands and local-community participation; it records convergence with CAMPA. The National Afforestation Programme and CAMPA-funded activities are institutional afforestation/restoration contexts, not guarantees of successful native succession. ✅ FSI's India State of Forest Report supplies landscape forest-cover data. ⚠️ A change in canopy density can reflect land-use change, regrowth or planting and cannot alone date successional stages. A multi-year field series with baseline, controls where feasible, native composition, soil, hydrology and appropriate wildlife indicators is stronger.
+✅ MoEFCC's Green India Mission combines forest-cover improvement with ecosystem services, wetlands and local-community participation; it records convergence with CAMPA. The **older National Afforestation Programme** and current CAMPA-funded activities are institutional afforestation/restoration contexts, not guarantees of successful native succession. ✅ FSI's India State of Forest Report supplies landscape forest-cover data. ⚠️ A change in canopy density can reflect land-use change, regrowth or planting and cannot alone date successional stages. A multi-year field series with baseline, controls where feasible, native composition, soil, hydrology and appropriate wildlife indicators is stronger.
+
+✅ **Current policy status:** the Economic Survey 2025–26, Chapter 10, paragraph 10.91 describes the **Afforestation and Green Credit Programme** as encouraging public and private participation in compensatory afforestation and degraded-forest restoration. The **Green Credit Rules, 2023**, notified under the Environment (Protection) Act, created a mechanism for voluntary plantation activity and award of green credits, administered by ICFRE. A **green credit** records an eligible environmental action under that programme; it is not a **carbon credit** denominated in tonnes of carbon-dioxide equivalent. ⚠️ Registration, plantation activity or credit issuance is an input/status signal. It does not by itself prove native composition, ecosystem function, biome fidelity or long-term restoration.
 
 **Objection:** numeric area and sapling-survival targets make programmes auditable. **Reply:** keep them as administrative inputs, but pair with ecological outcomes and biome-appropriate baselines. **Residual:** temporal monitoring and land-use trade-offs cost money; incomplete baselines require openly qualified conclusions.
 
@@ -539,7 +585,7 @@ Current linkage: None used; programme names and cover reports do not substitute 
 9. Administrative inputs include hectares treated and sapling survival.
 10. Ecological outcomes include native recruitment, soil function, hydrology and characteristic fauna.
 11. Baseline, repeated plots and transparent uncertainty are stronger than a one-time photograph.
-12. Agency or scheme names establish institutional context, not ecological success.
+12. GIM, CAMPA, the older NAP and the Afforestation and Green Credit Programme establish institutional or programme context, not ecological success; green credits are not carbon credits.
 
 ### Concept check
 
@@ -560,8 +606,9 @@ Current linkage: None used; programme names and cover reports do not substitute 
 Progress: 8 / 8 | Stage: Advanced | Subtopic: Grassland, savanna and scrub as ecological targets
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Savanna, desert and grassland comparisons establish that naturally open vegetation can be a valid ecological endpoint.
-Current linkage: Akashvani, 17 August 2026 — launch of India's first Guide to Grasslands and Other Open Natural Ecosystems at UNCCD COP17.
+Book context: Queried — savanna, desert and grassland comparisons establish that naturally open vegetation can be a valid ecological endpoint.
+CA search: "India Guide to Grasslands and Other Open Natural Ecosystems COP17 17 August 2026"
+CA found: "First-ever Guide to Grasslands and Other Open Natural Ecosystems of India launched at COP17" — Akashvani News and PIB, 17 August 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ```text
@@ -615,14 +662,14 @@ Ecology:         grassland?    → native community + history + disturbance + fa
 
 The exact answer-free questions appear before Lesson 1. Use the approaches below only after attempting them.
 
-| Question | Demand | Neutral answer approach |
-|---|---|---|
-| 2021 Prelims GS-I Q20 | Survival on a surface without soil | Compare each organism's substrate, moisture and nutritional requirements without treating all pioneers as equivalent. |
-| 2021 Prelims GS-I Q60 | Identify a biome from decomposition, canopy and epiphyte clues | Read the complete ecological description as a linked climate–structure–decomposition profile. |
-| 2021 Prelims GS-I Q61 | Conditions that can restrict savanna forest development | Test each listed condition as a mechanism affecting tree recruitment, fire, grazing, water or soil. |
-| 2024 Essay, Section A, Topic 1 | Forest–civilisation–desert relationship | Build a qualified thesis using soil, hydrology, succession, overuse, counter-cases and restoration rather than treating the aphorism as a universal law. |
-| 2026 GS-III Q7 | Infrastructure and disaster-risk reduction in ecologically sensitive areas | Use biome fidelity, carrying capacity, ecosystem buffers and cumulative monitoring as supporting ecological dimensions within a wider disaster-governance answer. |
-| 2026 GS-III Q8 | Kunming–Montreal framework and Indian commitments | Use restoration and open-ecosystem examples only after stating the framework's actual goals, targets and Indian implementation measures. |
+| Question | Ownership | Demand | Neutral answer approach |
+|---|---|---|---|
+| 2021 Prelims GS-I Q20 | **Direct:** Environment Topic 03 | Survival on a surface without soil | Compare each organism's substrate, moisture and nutritional requirements without treating all pioneers as equivalent. |
+| 2021 Prelims GS-I Q60 | **Cross-linked:** Geography Topic 15 | Assess decomposition, litter persistence and canopy-associated growth forms | Test each clue through temperature, moisture, nutrient turnover and plant-support relationships without naming or eliminating an option. |
+| 2021 Prelims GS-I Q61 | **Cross-linked:** Geography Topic 17, Savanna/Sudan Climate | Conditions that can restrict savanna forest development | Test each listed condition as a mechanism affecting tree recruitment, fire, grazing, seasonal water or soil; the unavailable official key is not inferred. |
+| 2024 Essay, Section A, Topic 1 | **Cross-linked:** Essay Topics 03 and 10 | Forest–civilisation–desert relationship | Build a qualified thesis using soil, hydrology, succession, overuse, counter-cases and restoration rather than treating the aphorism as a universal law. |
+| 2026 GS-III Q7 | **Cross-linked:** Disaster Management Topic 10, with Topic 14 support | Infrastructure and disaster-risk reduction in ecologically sensitive areas | Use biome fidelity, carrying capacity, ecosystem buffers and cumulative monitoring as supporting ecological dimensions within a wider disaster-governance answer. |
+| 2026 GS-III Q8 | **Cross-linked:** Environment Topic 22 | Kunming–Montreal framework and Indian commitments | Use restoration and open-ecosystem examples only after stating the framework's actual goals, targets and Indian implementation measures. |
 
 No further direct succession-or-biome question is added for 2024–2026 Prelims.
 
@@ -650,7 +697,7 @@ The lesson-local Mains models above test separate mechanisms. Now attempt these 
 
 **Question:** Explain the difference between a sere, a seral stage and a biome, illustrating why none alone identifies the restoration target for an Indian site.
 
-**Model response:** ✅ A **sere** is the entire sequence of community replacement at a site; a **seral stage** is one intermediate community in it. A **biome** is a broad vegetation-and-climate type, not a single stage. On a Northeast jhum fallow, shrubs may be a seral stage in secondary succession toward a locally appropriate forest. On a natural Thar scrub site, persistent open vegetation may instead be the appropriate dryland target. ⚠️ To identify what to restore, establish the soil condition and land-use history, then determine the site's native climate, hydrology and species. A canopy or a named seral stage on one visit cannot alone tell whether protection, assisted regeneration or staged restoration is justified.
+**Model response:** ✅ A **sere** is the entire sequence of community replacement at a site; a **seral stage** is one intermediate community in it. A **terrestrial biome** is a broad climate–vegetation region, while an aquatic biome/ecosystem family is organised chiefly by hydrology, salinity, flow and depth; neither is a temporal stage. On a Northeast jhum fallow, shrubs may be a seral stage in secondary succession toward a locally appropriate forest. On a natural Thar scrub site, persistent open vegetation may instead be the appropriate dryland target. ⚠️ To identify what to restore, establish the soil condition and land-use history, then determine the site's native climate, hydrology and species. A canopy or a named seral stage on one visit cannot alone tell whether protection, assisted regeneration or staged restoration is justified.
 
 **Scoring lens (10):** sere/seral distinction 3; biome distinction 2; contrasting Indian examples 3; restoration-target qualification 2.
 
@@ -678,7 +725,7 @@ The lesson-local Mains models above test separate mechanisms. Now attempt these 
 | “Pioneers always help their successors.” | Compare facilitation with inhibition and tolerance; interaction changes by species, stage and patch. |
 | “All seres end in forest.” | Ask what climate and native biome can sustain, including open and cold-adapted endpoints. |
 | “Hydrarch means the wetland gets wetter.” | Begin in open water; classical marsh infilling is a possible shift, not an ecological objective. |
-| “Every aquatic biome is just a wetland.” | Distinguish lentic, lotic, wetland, estuarine, coastal marine and open-ocean settings. |
+| “Every aquatic biome/ecosystem family is just a wetland.” | Distinguish lentic, lotic, wetland, estuarine, coastal marine and open-ocean settings. |
 | “Chilika is a freshwater lake.” | Treat it as a coastal brackish lagoon influenced by fresh and marine water. |
 | “A grassland is a sparse, unfinished rainforest.” | Differentiate a natural persistent biome from degraded forest using history and species. |
 | “Resilience means no visible change.” | That is closer to resistance; resilience concerns recovery or retained function before regime shift. |
@@ -691,9 +738,11 @@ The lesson-local Mains models above test separate mechanisms. Now attempt these 
 ```text
 TIME AXIS:    initial soil? → primary or secondary starting point
                     ↓
-     facilitation / inhibition / tolerance → seral changes
+     nudation → invasion/establishment → competition/coaction → reaction
                     ↓
- climate + disturbance + soil + dispersal → possible persistent state(s)
+     facilitation / inhibition / tolerance → seral changes → relative stabilisation
+                    ↓
+ climate + disturbance + soil + dispersal → possible persistent state(s) or redirection
 
 SPACE AXIS:
  terrestrial: warm wet / seasonal / arid / cold → vegetation envelopes
@@ -727,18 +776,18 @@ TRAP: ↑ canopy alone ≠ mature forest; ↓ trees alone ≠ degraded land
 - ✅ **Pioneer** = first coloniser; lichens can colonise suitable bare rock and are fungus–photosynthetic-partner associations. Arrival of seeds does not equal establishment.
 - ✅ **Sere** = whole sequence; **seral** = a constituent community.
 - ✅ **Facilitation:** early residents improve conditions for successors. **Inhibition:** residents suppress entrants until space opens. **Tolerance:** later species establish without requiring pioneers and persist under limiting conditions. Several models can operate within one sere.
-- ✅ Classical process chain: **nudation → invasion → establishment → competition/coaction → reaction**. Nudation opens space; invasion brings propagules; establishment requires survival and reproduction; reaction is community-driven environmental modification.
+- ✅ Classical process chain: **nudation → invasion → establishment → competition/coaction → reaction → stabilisation/relative climax**. Nudation opens space; invasion brings propagules; establishment requires survival and reproduction; reaction is community-driven environmental modification. Stabilisation means comparative persistence, not permanent equilibrium; disturbance or feedback change can restart or redirect the route.
 - ✅ **Autogenic succession:** change generated by organisms, such as litter accumulation, soil building, shade or root stabilisation. **Allogenic succession:** change imposed by flooding, sediment, fire, erosion or climatic forcing. Either can advance, arrest or redirect the trajectory.
 - ✅ Rock pathway: weathering/litter → water-retaining substrate → moss/herb patches → shrub/woody growth **only where site and climate allow**.
 - ✅ Secondary pathway: soil and often residual roots, microbes/seed bank → herb/shrub regrowth → possible later community; jhum fallow is an Indian illustration, not a guaranteed forest-recovery clock.
 - ✅ **Lithosere** rock; **psammosere** sand; **halosere** saline ground; **hydrosere** freshwater; **xerosere** dry start. Terms may overlap by substrate/dryness; do not interchange fresh and saline water.
 - ✅ Hydrarch starts in water; xerarch on dry land. Classical mesic convergence is conditional, not an argument for draining wetlands.
-- ✅ **Climax:** classically a relatively stable community. One deterministic climatic endpoint is disputed: fire, grazing, soil, colonisation and feedback can maintain alternative states. A long-lived open or alpine community is not automatically “unfinished.”
+- ✅ **Climax (Core):** classically a relatively stable, disturbance-sensitive community under prevailing conditions. **Advanced non-equilibrium qualification:** fire, grazing, soil, initial floristic composition, dispersal and feedback can maintain alternative persistent states. A long-lived open or alpine community is not automatically “unfinished.”
 
 ### Spatial logic: climate to biome
 
-- ✅ Biome = broad terrestrial climate–vegetation type; individual ecosystem ≠ biome; succession's time axis ≠ biome's spatial axis.
-- ✅ Tropical wet rainforest: wet Western Ghats/Northeast analogues; tropical seasonal deciduous: much of central India; savanna: seasonal grass–tree mosaic; Thar: desert/scrub; Himalaya: elevation-dependent temperate to alpine vegetation.
+- ✅ **Terrestrial biome** = broad climate–vegetation region. **Aquatic biome/ecosystem family** = broad freshwater, wetland, estuarine, coastal or oceanic setting classified mainly by salinity, flow, depth, light, substrate and hydroperiod. An individual ecosystem is smaller than either broad category; succession's time axis differs from biome classification's spatial axis.
+- ✅ Tropical wet rainforest: wet Western Ghats/Northeast analogues, rapid warm-wet decomposition, little persistent litter, layered canopy, lianas and epiphytes; tropical seasonal deciduous: much of central India; savanna: seasonal grass–tree mosaic; Thar: desert/scrub; Himalaya: elevation-dependent temperate to alpine vegetation.
 - ✅ Temperate grasslands, Mediterranean shrubland, boreal taiga and tundra are global comparators; Himalayan alpine is only **tundra-like**, not automatically Arctic tundra.
 - ✅ Temperature, rainfall quantity and **seasonality** set broad envelopes; edaphic soil, fire, herbivory, relief and land use vary outcomes within them; biome transitions are **ecotones**, not exact walls.
 - ✅ **Edge effect:** boundary conditions alter light, heat, humidity, wind and interactions. Natural edges may show local overlap, but fragmentation-created edges can increase invasion, predation and microclimatic stress while reducing interior habitat; more edge is not automatically beneficial.
@@ -760,6 +809,7 @@ TRAP: ↑ canopy alone ≠ mature forest; ↓ trees alone ≠ degraded land
 
 - ✅ FSI/ISFR forest-cover observations are useful canopy indicators; they cannot alone certify native composition, maturity or recovery.
 - ✅ MoEFCC Green India Mission covers forest quality, biodiversity, wetlands, water and community participation; CAMPA convergence does not itself verify ecological success.
+- ✅ Economic Survey 2025–26 paragraph 10.91 identifies the **Afforestation and Green Credit Programme** as a current restoration incentive. Green Credit Rules, 2023 support voluntary plantation activity, but a green credit is not a carbon credit and does not by itself prove ecological recovery.
 - ⚠️ Mine spoil: first stabilise and assess substrate; jhum fallow: assist secondary regeneration where suitable; natural grassland: safeguard openness and locally verified specialist species. Plantation survival is an input, not full recovery.
 - ⚠️ Evaluate carbon with soil/roots as well as canopy where appropriate. Do not assign a quantitative fraction without a site-specific study.
 - **PYQ use:** attempt the exact questions at the opening; use the final neutral approach index without importing a solved answer.
@@ -772,20 +822,20 @@ TRAP: ↑ canopy alone ≠ mature forest; ↓ trees alone ≠ degraded land
 | Primary succession, pioneers, lichens, soil formation, sere and seral stage | Lesson 1; lesson model; opening 2021 Q20; register notes |
 | Secondary succession, soil/seed retention and relative speed | Lesson 2; concept check; lesson model; register notes |
 | Facilitation, inhibition and tolerance models | Lesson 2; final cumulative check; master comparison; register notes |
-| Nudation → invasion → establishment → competition/coaction → reaction; autogenic versus allogenic succession | Lesson 2 process visual, teaching and revision; register notes |
+| Nudation → invasion → establishment → competition/coaction → reaction → stabilisation/relative climax; autogenic versus allogenic succession | Lesson 2 process visual, teaching and revision; Lesson 6 Core qualification; master map; register notes |
 | Lithosere, psammosere, halosere, hydrosere, xerosere; hydrarch/xerarch and conditional mesic convergence | Lesson 3; lesson model; remediation; register notes |
-| Terrestrial biome controls and major rainforest, seasonal, savanna, desert, temperate, boreal, tundra and Mediterranean types | Lesson 4; exact 2021 Q60/Q61; lesson model; register notes |
-| Aquatic lentic, lotic, wetland, estuarine/brackish, coastal-marine and open-ocean distribution | Lesson 4; Indian examples; cumulative check; register notes |
+| Terrestrial biome controls and major rainforest, seasonal, savanna, desert, temperate, boreal, tundra and Mediterranean types; rainforest decomposition/liana/epiphyte profile | Lesson 4 visual, mechanism and Indian transect; cross-linked 2021 Q60/Q61; lesson model; register notes |
+| Aquatic biome/ecosystem families: lentic, lotic, wetland, estuarine/brackish, coastal-marine and open-ocean distribution | Lesson 4; Indian examples and spatial transect; cumulative check; register notes |
 | Ecotones and edge effects, including natural overlap and fragmentation harms | Lesson 4 teaching and revision; register spatial logic |
 | Indian landscapes: Western Ghats, Northeast jhum, central India, Thar, Himalaya, mine spoil and wetlands | Lessons 1–5; Lesson 5 model; final 20-mark model |
-| Climax critique, initial floristic composition and alternative trajectories | Lesson 6 only; concept check; lesson model; register notes |
-| Resistance, recovery/engineering resilience and ecological resilience | Lesson 6 only; cumulative check; final 20-mark model; register notes |
-| Climate-driven terrestrial, freshwater, marine and coastal shifts; moving ecotones and response lags | Lesson 6 only; cumulative check; register notes |
-| Restoration staging, appropriate natives, monoculture risk, FSI/ISFR, Green India Mission/CAMPA and measurement limits | Lessons 5 and 7; Lesson 7 model; final 20-mark model |
-| Open natural ecosystems, administrative/legal/ecological category distinction, open fauna and below-ground indicators | Lesson 8; one current linkage; final 15-mark model; register notes |
-| Exact PYQs: 2021 GS-I Q20/Q60/Q61, 2024 Essay Section A Topic 1 (**125 marks each; 125 × 2 = 250**), 2026 GS-III Q7/Q8 | Exact answer-free set before Lesson 1; neutral approach index after teaching |
+| Core climax and disturbance-sensitive relative stability; Advanced non-equilibrium ecology, initial floristic composition and alternative trajectories | Lesson 6 Core opening followed by signposted Advanced depth; concept check; lesson model; register notes |
+| Resistance, recovery/engineering resilience and ecological resilience | Lesson 6 Advanced depth; cumulative check; final 20-mark model; register notes |
+| Climate-driven terrestrial, freshwater, marine and coastal shifts; moving ecotones and response lags | Lesson 6 Advanced depth; cumulative check; register notes |
+| Restoration staging, appropriate natives, monoculture risk, FSI/ISFR, GIM/CAMPA, the older NAP, Afforestation and Green Credit Programme and measurement limits | Lessons 5 and 7; Lesson 7 model; final 20-mark model; register notes |
+| Open natural ecosystems, administrative/legal/ecological category distinction, open fauna and below-ground indicators | Lesson 8; dated news anchor; final 15-mark model; register notes |
+| PYQs and ownership: Topic-03-direct 2021 GS-I Q20; cross-linked Q60/Q61, 2024 Essay Section A Topic 1 (**125 marks each; 125 × 2 = 250**), and 2026 GS-III Q7/Q8 | Exact answer-free set before Lesson 1; ownership-labelled neutral approach index after teaching |
 | OCR book evidence | Succession/ecotone definitions, aquatic–terrestrial distinction and terrestrial-biome distribution in Lessons 1 and 4 |
-| Current linkage | Exactly one: India's Guide to Grasslands and Other Open Natural Ecosystems, 17 August 2026, in Lesson 8 |
+| Current evidence | Dated news anchor: India's Guide to Grasslands and Other Open Natural Ecosystems, 17 August 2026, in Lesson 8; current policy anchor: Afforestation and Green Credit Programme, Economic Survey 2025–26 paragraph 10.91, in Lesson 7 |
 
 # SOURCE LEDGER
 
@@ -793,13 +843,13 @@ TRAP: ↑ canopy alone ≠ mature forest; ↓ trees alone ≠ degraded land
 
 | Category | Status | Evidence or reason |
 |---|---|---|
-| Canonical Markdown | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\03_Ecological-Succession-and-Biomes.md` valid ecology content through §13, including ecotone/edge-effect distinctions and the succession mechanism; unrelated appended sociology material was excluded. Cross-topic support: `basic\01_Ecosystem-Structure-and-Function.md`, `advanced\01_Ecosystem-Structure-and-Function.md`, `basic\07_Biosphere-Reserves-and-Ramsar-Sites.md`, `basic\24_Coastal-and-Marine-Ecology-CRZ-Blue-Economy.md`, `REVISION-CHART_Ecological-Processes-Laws-and-Distinctive-Features.md` and `Geography\basic\14_Climate-Classification-Koppen.md`. |
+| Canonical Markdown | checked | Topic owner: `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\03_Ecological-Succession-and-Biomes.md` valid ecology content through the generated PYQ block; unrelated appended sociology material was excluded. Cross-topic support: `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\01_Ecosystem-Structure-and-Function.md`; `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\01_Ecosystem-Structure-and-Function.md`; `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\07_Biosphere-Reserves-and-Ramsar-Sites.md`; `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\12_Forest-Governance-CAMPA-and-Green-India-Mission.md`; `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\24_Coastal-and-Marine-Ecology-CRZ-Blue-Economy.md`; `upsc-ai-kit\knowledge\Environment-and-Ecology\REVISION-CHART_Ecological-Processes-Laws-and-Distinctive-Features.md`; `upsc-ai-kit\knowledge\Geography\basic\14_Climate-Classification-Koppen.md`; `upsc-ai-kit\knowledge\Geography\basic\15_Hot-Wet-Equatorial-Climate.md`; and `upsc-ai-kit\knowledge\Geography\basic\17_Savanna-Sudan-Climate.md`. |
 | Final learner package | not relevant | Permanently excluded from all live-session work under the governing source-exclusion rule. |
 | Layered/complete session | not relevant | No optional complete-session artifact was used as evidence; the present Markdown is the repair target. |
 | Solved workbook | not relevant | Permanently excluded from all live-session work under the governing source-exclusion rule. |
-| Advanced dossier | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\03_Ecological-Succession-and-Biomes.md` §§1–13; Advanced interpretation is confined to Lessons 6–8 and the advanced synthesis. |
+| Advanced dossier | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\03_Ecological-Succession-and-Biomes.md` §§1–13. Core-owned climax is taught first in Lesson 6; non-equilibrium ecology, alternative persistent states, resilience and climate shifts are then signposted as Advanced depth. Restoration-quality, Green Credit and open-ecosystem applications are integrated in Lessons 7–8 and the final synthesis with source-specific qualifications. |
 | OCR books | checked | `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\Indian & World Geography - Husain, Majid_Compressed.pdf`, PDF pp. 145–151: succession, ecotone, aquatic/terrestrial distinction and major terrestrial-biome distribution. |
-| PYQs through 2026 | checked | Official 2021 Prelims GS-I paper: Q20 p. 11, Q60 p. 27 and Q61 p. 29; official 2024 Essay paper p. 2, with **125 marks per essay and 250 total marks**; official 2026 GS-III scan with exact Q7/Q8 text controlled by `upsc-ai-kit\knowledge\_PYQ-GS3-2026.md`. No further direct 2024–2026 Prelims succession/biome question was established. |
-| Official live sources | checked | One current linkage: Akashvani, 17 August 2026, https://newsonair.gov.in/first-ever-guide-to-grasslands-and-other-open-natural-ecosystems-of-india-launched-at-cop17/. Static official support: MoEFCC Green India Mission, https://moef.gov.in/green-india-mission-gim; IPCC AR6 WGII Chapter 2, https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-2/; and Chapter 3, https://www.ipcc.ch/report/ar6/wg2/chapter/chapter-3/. |
+| PYQs through 2026 | checked | Routing control: `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2018-2023.md`, `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2024-2025.md`, `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2026.md`, `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS1-GS2-ESSAY-2024-2025.md` and `upsc-ai-kit\knowledge\_PYQ-GS3-2026.md`. Local official papers: `books\more_previous_papers\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf` — Q20 PDF p. 11, Q60 p. 27, Q61 p. 29; `books\mains\UPSC Mains 2024 Essay Paper.pdf` — PDF p. 2, **125 marks per essay and 250 total**; `books\mains\2026\QP-CSM-26-010926-GENERAL-STUDIES-PAPER-III.pdf` — scan controlled by the exact-text 2026 ledger. Ownership: Q20 direct to `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\03_Ecological-Succession-and-Biomes.md`; Q60 to `upsc-ai-kit\knowledge\Geography\basic\15_Hot-Wet-Equatorial-Climate.md`; Q61 to `upsc-ai-kit\knowledge\Geography\basic\17_Savanna-Sudan-Climate.md`; 2024 Essay to `upsc-ai-kit\knowledge\Essay\basic\03_Issue-Based-Prompt-Scoping.md` and `upsc-ai-kit\knowledge\Essay\basic\10_Ethical-Philosophical-Frameworks-and-Value-Conflicts.md`; 2026 Q7 to `upsc-ai-kit\knowledge\Disaster-Management\basic\10_Landslides-Avalanches-and-GLOF-Risk.md` with `upsc-ai-kit\knowledge\Disaster-Management\basic\14_Urban-and-Critical-Infrastructure-Resilience.md`; 2026 Q8 to `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\22_Multilateral-Environmental-Conventions-CBD-Basel-Stockholm-Montreal.md`. Official portal: https://upsc.gov.in/examinations/previous-question-papers. No further direct 2024–2026 Prelims succession/biome question was established. |
+| Official live sources | checked | Open ecosystems: Akashvani, 17 August 2026, https://newsonair.gov.in/first-ever-guide-to-grasslands-and-other-open-natural-ecosystems-of-india-launched-at-cop17/ and PIB PRID 2300585, https://pib.gov.in/PressReleasePage.aspx?PRID=2300585&reg=48&lang=2. Restoration policy: MoEFCC Green India Mission, https://moef.gov.in/green-india-mission-gim; Economic Survey 2025–26, local `books\economic-survey-2025-26.pdf`, PDF p. 464 / printed p. 413, paragraph 10.91, official portal https://www.indiabudget.gov.in/economicsurvey/; ICFRE Green Credit Cell and Green Credit Rules, 2023 status, https://icfre.gov.in/en/green-credit-cell and https://www.moefcc-gcp.in/. Climate/ecosystem assessment: IPCC AR6 WGII Chapter 2 Executive Summary PDF pp. 5–6 and §§2.4.2.1/2.4.3.2, PDF pp. 23 and 41–42, for range, ecotone and biome shifts, plus PDF p. 81 for lake stratification effects, https://www.ipcc.ch/report/ar6/wg2/downloads/report/IPCC_AR6_WGII_Chapter02.pdf; Chapter 3 Executive Summary PDF pp. 3–4 and estuarine salinity/distribution discussion PDF p. 42, https://www.ipcc.ch/report/ar6/wg2/downloads/report/IPCC_AR6_WGII_Chapter03.pdf. Search-context sources, not controlling factual evidence: 2026 forest-type suitability study, https://doaj.org/article/67b44e602377463b98de520a8f064fb0; Mongabay India commentary, June 2026, https://india.mongabay.com/2026/06/rethinking-forest-restoration-beyond-tree-cover-commentary/. |
 
-**Evidence limits:** No universal succession timetable, fixed climax, local biome-shift rate, grassland soil-carbon fraction or restoration-success percentage is asserted. Canopy change, a guide launch or a programme name does not establish ecosystem recovery. Qdrant was unnecessary.
+**Evidence limits:** No universal succession timetable, fixed climax, local biome-shift rate, grassland soil-carbon fraction or restoration-success percentage is asserted. Canopy change, a guide launch, programme registration, plantation activity or a green credit does not establish ecosystem recovery. Qdrant was unnecessary.
