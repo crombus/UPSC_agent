@@ -218,7 +218,21 @@ The user agency commonly bears:
 - other project-specific sums, where applicable, such as money connected with catchment
   treatment, wildlife management or additional compensatory measures.
 
-### 2. What NPV means - and does not mean
+### 2. The receipt categories are legally separate
+
+| Receipt / obligation | Exact legal meaning or accounting role |
+|---|---|
+| **Compensatory afforestation (CA)** | The 2016 Act defines it as afforestation done in lieu of diversion of forest land for non-forestry use. |
+| **Additional compensatory afforestation** | A separately accounted additional CA requirement imposed over and above ordinary CA under the applicable diversion approval or guidelines. The 2016 Act lists it as a distinct receipt category but does not give it the penal definition below; therefore “additional” must not automatically be read as “punishment.” |
+| **Penal compensatory afforestation** | The Act defines it as afforestation over and above ordinary CA for the extent on which non-forestry activity was carried out without the required prior approval. Its trigger is violation, not merely a higher ecological requirement. |
+| **NPV** | Monetary quantification of specified environmental services of diverted forest land, determined through the applicable expert/judicial-policy framework. It is not plantation cost. |
+| **Other earmarked sums** | Catchment-area treatment, wildlife-management, safety-zone or other approval-condition amounts remain linked to their stated purpose and account head. |
+
+This separation matters because a single user agency may owe several liabilities for
+different reasons. Adding them together for deposit does not make them legally or
+accountingly interchangeable.
+
+### 3. What NPV means - and does not mean
 
 NPV converts part of the anticipated loss of forest ecosystem services into a present
 monetary liability. It makes the user agency internalise costs that a project balance
@@ -239,7 +253,7 @@ NPV is an economic valuation tool. It is not a declaration that biodiversity, sa
 value or irreversible habitat loss can be perfectly purchased. Money can finance
 mitigation; it cannot make every ecological loss commensurable.
 
-### 3. Where should compensatory afforestation occur?
+### 4. Where should compensatory afforestation occur?
 
 The usual core principle is plantation on equivalent **non-forest land** transferred
 and notified for forest purposes. Where suitable non-forest land is unavailable under
@@ -253,7 +267,7 @@ This creates two distinct checks:
 2. **Ecological-social suitability:** Is plantation appropriate to the native biome,
    water regime, existing use and recognised or pending community rights?
 
-### 4. Diversion area and afforestation area are not one map
+### 5. Diversion area and afforestation area are not one map
 
 A forest may be diverted in one district while compensatory land is identified
 elsewhere. This spatial separation creates risks:
@@ -286,14 +300,16 @@ a larger cheque.
 
 1. Diversion approval creates compensatory conditions.
 2. The user agency, not the general public, is the source of compensatory levies.
-3. CA cost and NPV are different components.
-4. NPV values foregone ecosystem services for liability purposes.
-5. NPV does not prove complete ecological commensurability.
-6. Equivalent non-forest land is the ordinary CA site principle.
-7. Degraded forest land may be used under applicable fallback conditions.
-8. Administrative availability and ecological suitability are separate tests.
-9. Off-site compensation can leave local ecological and livelihood loss unresolved.
-10. The 2016 Act manages funds; it is not the whole diversion-approval law.
+3. Ordinary CA, additional CA, penal CA and NPV are different components.
+4. Additional CA is not automatically penal; penal CA is linked to unauthorised non-forest activity.
+5. NPV values foregone ecosystem services for liability purposes.
+6. NPV does not prove complete ecological commensurability.
+7. Earmarked wildlife, catchment and safety-zone sums retain their stated purpose.
+8. Equivalent non-forest land is the ordinary CA site principle.
+9. Degraded forest land may be used under applicable fallback conditions.
+10. Administrative availability and ecological suitability are separate tests.
+11. Off-site compensation can leave local ecological and livelihood loss unresolved.
+12. The 2016 Act manages funds; it is not the whole diversion-approval law.
 
 ### Concept check
 
@@ -371,16 +387,14 @@ Likewise, participation may be required by a rights law, mission design, project
 condition or another applicable instrument. The precise source and scope must therefore
 be verified rather than transferred from one framework to another.
 
-### First attempt: verified objective PYQ
+### Verified objective PYQ linkage — answer-neutral
 
-**UPSC Prelims 2019, GS-I, Booklet B, Question 78 - exact scan wording**
+**UPSC Prelims 2019, GS-I, local official paper Q68 — exact wording**
 
 > Consider the following statements:
 >
-> 1. As per law, the Compensatory Afforestation Fund Management and Planning
-> Authority exists at both National and State levels.
-> 2. People's participation is mandatory in the compensatory afforestation
-> programmes carried out under the Compensatory Afforestation Fund Act, 2016.
+> 1. As per law, the Compensatory Afforestation Fund Management and Planning Authority exists at both National and State levels.
+> 2. People's participation is mandatory in the compensatory afforestation programmes carried out under the Compensatory Afforestation Fund Act, 2016.
 >
 > Which of the statements given above is/are correct?
 >
@@ -389,14 +403,13 @@ be verified rather than transferred from one framework to another.
 > (c) Both 1 and 2
 > (d) Neither 1 nor 2
 
-Attempt it before continuing.
+Attempt the complete question before continuing. No option is selected or eliminated here.
 
-### Post-attempt resolution
-
-The Act establishes authority architecture at the national and State levels. It does
-not, by itself, state a universal people's-participation mandate for every programme
-carried out under it; participation duties must be traced to the applicable legal and
-programme context. This supports the first proposition but not the second.
+**Neutral approach:** classify each proposition by its exact governing instrument.
+Check institutional architecture against the 2016 Act, then trace any participation
+duty separately to the Act, the 2018 Rules, the Forest Rights Act, a diversion
+procedure, a mission guideline or a project condition. Do not transfer a requirement
+from one instrument to another or infer the option here.
 
 ### Detailed visual: money and institutions
 
@@ -425,11 +438,39 @@ The 2016 Act establishes:
 - the **National Compensatory Afforestation Fund** under the Public Account of India;
 - a **State Compensatory Afforestation Fund** under the Public Account of each State.
 
-The statutory transfer architecture directs **90 per cent** of the money credited for a
-State to that State Fund and **10 per cent** to the National Fund. The ratio tests fiscal
-flow, not ownership of forests.
+Both are **interest-bearing** and **non-lapsable**. A year ending does not return the
+balance to a general Consolidated Fund, and interest remains part of the statutory
+architecture.
 
-### 2. Two levels of authority
+The familiar **90 per cent State : 10 per cent National** result contains two accounting
+paths:
+
+| Receipt path | Statutory movement |
+|---|---|
+| Historical money held by the ad hoc CAMPA | Ninety per cent of a State's money and attributable interest moves to that State Fund; the balance ten per cent and attributable interest remains for the National Fund. |
+| Fresh money realised from user agencies and credited directly to a State Fund | The State credits ten per cent yearly to the National Fund; the effective State share is ninety per cent. |
+
+The ratio tests fiscal flow, not ownership of forests and not a rule that every receipt
+may be spent on any forest activity.
+
+### 2A. Component accounts and statutory spending controls
+
+The Act and 2018 Rules preserve separate receipt and expenditure heads. CA, additional
+CA, penal CA, NPV, catchment treatment, wildlife plans, safety-zone charges and interest
+must remain traceable rather than being collapsed into one plantation balance.
+
+| Account/control | Binding discipline |
+|---|---|
+| **CA and other approval-condition money** | Spend for the purpose for which the amount was realised and through the approved site/scheme and Annual Plan of Operation. |
+| **NPV principal — rule 5** | **Not less than 80 per cent** for listed forest and wildlife-management activities; **not more than 20 per cent** for listed infrastructure and capacity-building uses. |
+| **Interest in the State Fund — rule 6** | **Not less than 60 per cent** for conservation/development and specified incremental costs; **not more than 40 per cent** for the State Authority's permitted recurring and non-recurring administration. |
+| **No duplication** | The Rules prohibit duplication of the same permitted work across components. One plot or activity cannot be charged twice merely because several account heads exist. |
+| **Gram Sabha/FRA proviso** | Relevant NPV-funded activities on State forest land are to be undertaken in consultation with the Gram Sabha or Village Forest Management Committee, as applicable, and in consonance with the Forest Rights Act and its guidelines wherever applicable. |
+
+These percentages apply to the specified NPV and interest pools; they are not a formula
+for dividing every CAMPA rupee.
+
+### 3. Two levels of authority
 
 The Act constitutes the **National Compensatory Afforestation Fund Management and
 Planning Authority**, commonly called the National Authority or National CAMPA, and
@@ -444,7 +485,7 @@ The structure separates high-level policy, plan scrutiny, execution and monitori
 practice, State forest departments remain central to on-ground works, but statutory
 committees create accountability beyond a single field office.
 
-### 3. Fund is not authority
+### 4. Fund is not authority
 
 ```text
 CAF = the account / pool of money
@@ -455,7 +496,7 @@ CA = the afforestation activity
 This distinction is a frequent objective trap. “CAMPA fund” is common shorthand, but
 the Act's precise architecture contains funds and authorities with separate legal roles.
 
-### 4. Why the federal design makes sense
+### 5. Why the federal design makes sense
 
 Most works occur within States, so the larger share follows implementation
 responsibility. A national share supports coordination, monitoring and activities whose
@@ -483,15 +524,19 @@ public disclosure determine the result.
 ### Revision notes
 
 1. The 2016 Act creates National and State CAFs.
-2. The funds sit in the respective Public Accounts.
-3. The transfer structure is 90 per cent State and 10 per cent National.
-4. National CAMPA is a statutory authority, not merely a scheme.
-5. State Authorities administer most on-ground spending.
-6. National organs include Governing Body, Executive Committee and Monitoring Group.
-7. State organs include Governing Body, Steering Committee and Executive Committee.
-8. CAF means fund; CAMPA means management and planning authority.
-9. Federal devolution does not itself prove local participation.
-10. Monitoring and plan quality remain essential after transfer.
+2. The funds sit in the respective Public Accounts and are interest-bearing and non-lapsable.
+3. Historical ad hoc balances and fresh receipts reach the 90:10 result through different statutory paths.
+4. CA, additional CA, penal CA, NPV and other earmarked receipts require separate traceability.
+5. NPV use follows the rule 5 floor/ceiling: at least 80 per cent and at most 20 per cent.
+6. State-Fund interest follows the rule 6 floor/ceiling: at least 60 per cent and at most 40 per cent.
+7. The Rules prohibit duplicate charging of one work across components.
+8. National CAMPA is a statutory authority, not merely a scheme.
+9. State Authorities administer most on-ground spending.
+10. National organs include Governing Body, Executive Committee and Monitoring Group.
+11. State organs include Governing Body, Steering Committee and Executive Committee.
+12. CAF means fund; CAMPA means management and planning authority.
+13. A Rules-based consultation/FRA proviso is not the same as a universal mandate written into the 2016 Act.
+14. Monitoring and plan quality remain essential after transfer.
 
 ### Concept check
 
@@ -508,21 +553,22 @@ under the Compensatory Afforestation Fund Act, 2016.
 
 **Model response:** The Act establishes a National Compensatory Afforestation Fund in
 India's Public Account and State Compensatory Afforestation Funds in the respective
-State Public Accounts. The statutory transfer architecture places 90 per cent of the
-relevant receipts in the State Fund and 10 per cent in the National Fund.
+State Public Accounts. Both are interest-bearing and non-lapsable. Historical ad hoc
+balances move 90 per cent to the relevant State Fund, while fresh State receipts require
+a yearly 10 per cent credit to the National Fund, producing the same effective 90:10
+distribution.
 
 Institutionally, the National Authority has a Governing Body, Executive Committee and
-Monitoring Group. It manages the national share, coordinates standards and supports
-monitoring. Each State Authority has a Governing Body, Steering Committee and Executive
+Monitoring Group. Each State Authority has a Governing Body, Steering Committee and Executive
 Committee and prepares and executes State-level plans through implementing agencies.
 
-The design appropriately sends most money to the level responsible for field works
-while retaining national coordination. Yet devolution is not equal to accountability:
-ecological planning, rights safeguards, public participation, third-party monitoring and
-transparent outcome reporting remain necessary.
+Accounting remains component-specific: CA, additional and penal CA, NPV and earmarked
+plans are separately traceable. The Rules prescribe 80:20 controls for NPV, 60:40 controls
+for State-Fund interest and prohibit duplicate works across components. Thus devolution
+must be joined to lawful purpose, rights safeguards and outcome reporting.
 
-**Unique rubric (10):** funds 2; ratio 2; national organs/role 2; State organs/role 2;
-accountability qualification 2.
+**Unique rubric (10):** funds and fund character 2; fresh/historical 90:10 mechanics 2;
+national/State organs 2; component and percentage controls 2; accountability conclusion 2.
 
 ---
 
@@ -872,17 +918,32 @@ Land may look empty in a file while supporting grazing, minor forest produce, se
 use, sacred sites or customary management. Under the Forest Rights Act, 2006, recognised
 and pending rights cannot be treated as an administrative inconvenience.
 
-**Community Forest Resource (CFR) rights** empower a community to protect, regenerate,
-conserve and manage a traditionally used forest resource. That role can complement
-restoration when plans are co-produced rather than imposed.
+The relevant FRA provisions perform different jobs:
+
+| FRA provision | Forest-governance function |
+|---|---|
+| **Section 3(1)(i)** | Recognises the community right to protect, regenerate, conserve or manage a Community Forest Resource traditionally protected and conserved for sustainable use. |
+| **Section 4(5)** | Bars eviction or removal of a forest-dwelling Scheduled Tribe or other traditional forest dweller from occupied forest land until the recognition-and-verification procedure is complete. It is a non-eviction safeguard, not a substitute for completing claims. |
+| **Section 5** | Empowers Gram Sabhas and rights-holders to protect wildlife, forest and biodiversity; protect catchments and sensitive areas; preserve habitat and heritage; and regulate access or stop destructive practices. |
+| **Section 6** | Places initiation and verification of claims with the Gram Sabha, followed by the Sub-Divisional and District Level Committees. It is the claims-recognition chain. |
+
+These provisions make communities legal rights-holders and governance actors. They do
+not create one undifferentiated power called “consultation,” and each asserted duty must
+be linked to its exact provision or procedural instrument.
 
 ### 2. Gram Sabha and institutional participation
 
-GIM's decentralised design emphasises Gram Sabha-linked planning and community
-institutions such as Joint Forest Management Committees. CAMPA works also operate within
-a broader legal landscape that includes FRA rights, PESA where applicable and project
-conditions. The precise participation requirement must therefore be stated with its
-legal source and context, not converted into a vague universal slogan.
+Three participation routes must be kept separate:
+
+| Route | Source and legal effect |
+|---|---|
+| **CAMPA-funded NPV activities** | The 2018 CAF Rules require consultation with the concerned Gram Sabha or Village Forest Management Committee, as applicable, and conformity with the FRA and its guidelines wherever applicable. This Rules proviso is more precise than claiming that the 2016 Act itself mandates participation in every programme. |
+| **GIM planning and monitoring** | The revised Mission Document makes the JFMC a Gram Sabha-linked implementing unit, places village micro-plans before the Gram Sabha for approval and provides for Gram Sabha social audit. This is mission design, not a transfer of statutory FRA powers to a JFMC. |
+| **Forest-diversion procedure** | Rights recognition, diversion processing and any required Gram Sabha resolution or consent must be traced to the FRA, the operative forest-diversion rules/guidelines, project conditions and controlling judicial directions. The FRA text should not be inaccurately rewritten as a universal consent clause, but neither may diversion bypass recognised rights or the section 4(5) safeguard. |
+
+PESA adds a separate legal layer in Scheduled Areas. A JFMC is an implementing
+institution; it cannot replace the Gram Sabha's FRA functions or independently extinguish
+recognised or pending claims.
 
 ### 3. Diversion loss and compensation benefit may fall on different people
 
@@ -921,28 +982,34 @@ other dependent groups matters.
 failure; due process is a risk-reduction mechanism.
 
 **Residual:** Rights recognition must be matched by technical and financial support.
-Neither a title nor a consultation meeting alone guarantees sustainable management.
+Neither a title, a JFMC signature nor a consultation meeting alone guarantees sustainable
+management or satisfies every distinct legal requirement.
 
 ### UPSC application
 
 - Identify people as rights-holders where law so provides.
 - Apply due diligence at both diversion and afforestation sites.
 - Distinguish Gram Sabha from JFMC; the latter should not displace the former's legal role.
+- Name the source of each participation claim: FRA section, CAF Rule, GIM design,
+  diversion procedure, PESA or project condition.
 - Add distributional justice to ecological evaluation.
 
 ### Revision notes
 
 1. Administrative vacancy does not prove social vacancy.
-2. CFR rights include protect-regenerate-conserve-manage functions.
-3. Pending claims require due diligence.
-4. Diversion and compensation may affect different communities.
-5. Plantation can restrict grazing and forest-produce access.
-6. Gram Sabha and JFMC are not interchangeable institutions.
-7. Local knowledge can improve species and protection choices.
-8. Participation requires representative and informed decision-making.
-9. Rights compliance can reduce project and restoration risk.
-10. Titles require capacity and finance to become effective stewardship.
-11. Social outcomes belong in restoration monitoring.
+2. FRA section 3(1)(i) recognises protect-regenerate-conserve-manage CFR rights.
+3. Section 4(5) protects against eviction or removal before rights recognition is complete.
+4. Section 5 concerns conservation powers and duties; section 6 concerns the claims chain.
+5. CAMPA Rules consultation, GIM approval/social audit and diversion procedure are distinct.
+6. Pending claims require due diligence.
+7. Diversion and compensation may affect different communities.
+8. Plantation can restrict grazing and forest-produce access.
+9. Gram Sabha and JFMC are not interchangeable institutions.
+10. Local knowledge can improve species and protection choices.
+11. Participation requires representative and informed decision-making.
+12. Rights compliance can reduce project and restoration risk.
+13. Titles require capacity and finance to become effective stewardship.
+14. Social outcomes belong in restoration monitoring.
 
 ### Concept check
 
@@ -975,10 +1042,11 @@ Gram Sabha-led micro-plans, representative participation, transparent benefit-sh
 and technical support for CFR institutions. Social and ecological audits should track
 access, livelihoods, native regeneration and conflict, not merely plantation area.
 
-Community rights are neither an automatic veto nor a decorative consultation. They are
-a governance layer that can convert restoration from a departmental work into durable
-landscape stewardship when legal authority, ecological knowledge and finance are
-aligned.
+Community rights cannot be reduced either to a decorative consultation or to an
+unsupported universal formula. Their actual legal effect depends on the recognised
+right, the FRA provision, the operative diversion procedure and any controlling judicial
+direction. Properly aligned authority, knowledge and finance can convert restoration from
+a departmental work into durable landscape stewardship.
 
 **Unique rubric (20):** rights doctrine 4; ecological benefits 4; coordination conflicts
 4; institutional reforms 5; nuanced verdict 3.
@@ -1075,7 +1143,34 @@ The 24 mha figure is therefore a **convergence target**, not an assertion that G
 budget independently treats 24 mha. The 1 mha figure identifies the mission-specific
 intervention scale for 2021-2030; it is not “one million hectares every year.”
 
-### 4. What the revision changes - and what it retains
+### 4. Latest official status: direct GIM and wider convergence are different
+
+The official NAPCC Green India Mission dashboard was last updated on **11 September
+2026**. Its narrative reports that, **since 2015-16, 1,84,467 hectares have been brought
+under eco-restoration directly through GIM across 17 States and one Union Territory**.
+This is the cleanest current direct-GIM implementation figure on the dashboard.
+
+The same dashboard also displays wider national indicators:
+
+| Official dashboard indicator | Status date | Reported value | Attribution discipline |
+|---|---:|---:|---|
+| Direct GIM eco-restoration narrative | Dashboard updated 11 September 2026 | **1,84,467 ha; 17 States + 1 UT** | Direct GIM implementation since 2015-16 |
+| Area brought under restoration | March 2026 | **19.98 mha** | Wider mission-page/convergence indicator; do not relabel it as GIM-only treatment |
+| Degraded area brought under restoration | July 2026 | **22.5 mha** | Wider restoration indicator; not evidence that GIM's own budget treated 22.5 mha |
+| Enhanced carbon sequestration | July 2026 | **2.29 billion tonnes CO2-equivalent** | National trajectory indicator; attribution to one mission requires separate evidence |
+
+The dashboard's headline target card summarises forest/tree-cover action as **20-24 mha
+by 2030**, while the revised Mission Document gives the exact programme architecture:
+**24 mha through convergence**, including **1 mha of mission-specific additional
+intervention**. Use the Mission Document for the exact design and the dashboard for
+dated implementation status.
+
+The revised document estimates **Rs 12,190 crore** for the 1 mha mission-specific
+interventions during 2021-30, partly from the continuing GIM budget and the balance from
+the National CAMPA Fund. This financing statement permits planned convergence; it does
+not merge the two statutes, accounts or performance ledgers.
+
+### 5. What the revision changes - and what it retains
 
 The revision retains the original concern with cover, quality, ecosystem services and
 livelihoods, but reorganises implementation around vulnerable landscapes,
@@ -1083,7 +1178,7 @@ micro-ecosystems, convergence and NDC-linked reporting. The historical 5+5 mha
 architecture remains useful for understanding GIM's origin; answers on current design
 must add the revised 24 mha/1 mha distinction.
 
-### 5. Quantity and quality
+### 6. Quantity and quality
 
 | Quantity question | Quality question |
 |---|---|
@@ -1096,7 +1191,7 @@ GIM's distinctive value is this quality-and-services orientation. It can cover d
 forests, agroforestry, urban and peri-urban areas, wetlands and other landscapes under
 its components, but the ecological prescription must remain site-specific.
 
-### 6. Ecosystem services connect climate and development
+### 7. Ecosystem services connect climate and development
 
 Carbon is only one service. Forest landscapes also regulate water, reduce erosion,
 support pollination and biodiversity, and provide fuel, fodder and non-timber forest
@@ -1137,12 +1232,17 @@ favourable.
 7. The revised Mission Document covers 2021-2030.
 8. Its national convergence envelope is 24 mha.
 9. Mission-specific demonstrative interventions cover 1 mha within that wider effort.
-10. Ecosystem services include carbon, biodiversity and hydrology.
-11. Provisioning services include fuel, fodder, timber and NTFPs.
-12. Livelihood improvement is part of mission design.
-13. Target, allocation, activity and achievement must be separated.
-14. Carbon gain must be durable and biodiversity-compatible.
-15. Quality requires multiple indicators.
+10. The dashboard updated 11 September 2026 reports direct GIM eco-restoration of
+    1,84,467 ha since 2015-16 across 17 States and one UT.
+11. Dashboard-wide 19.98 mha, 22.5 mha and 2.29 BtCO2e indicators must not be presented
+    as direct GIM-budget achievements without separate attribution evidence.
+12. The revised mission estimates Rs 12,190 crore for 1 mha of mission-specific work.
+13. Ecosystem services include carbon, biodiversity and hydrology.
+14. Provisioning services include fuel, fodder, timber and NTFPs.
+15. Livelihood improvement is part of mission design.
+16. Target, allocation, activity and achievement must be separated.
+17. Carbon gain must be durable and biodiversity-compatible.
+18. Quality requires multiple indicators.
 
 ### Concept check
 
@@ -1158,26 +1258,23 @@ favourable.
 Green India Mission.
 
 **Model response:** Green India Mission, an original NAPCC mission, treats forests as
-multi-functional ecological infrastructure. Its historical architecture sought
-additional cover on 5 million hectares and quality improvement on another 5 million
-hectares. The revised 2021-2030 Mission Document instead places 1 million hectares of
-mission-specific demonstrative intervention within a 24-million-hectare national
-convergence effort.
+multi-functional ecological infrastructure. Historically it sought 5 million hectares
+of additional cover and quality improvement on another 5 million. The revised 2021-2030
+document places 1 million hectares of mission-specific intervention within a
+24-million-hectare convergence effort. The dashboard updated 11 September 2026 reports
+1,84,467 hectares of direct GIM eco-restoration since 2015-16 across 17 States and one
+Union Territory; wider indicators are not GIM-only achievements.
 
 Its ecosystem-service orientation goes beyond tree numbers. It links vegetation to
 carbon sequestration, biodiversity, water regulation, soil protection and provisioning
-services such as fuel, fodder and non-timber forest products. It also permits a
-landscape approach involving degraded forests, agroforestry, urban areas and other
-ecosystems.
+services such as fuel, fodder and non-timber forest products across varied landscapes.
 
-Therefore, evaluation requires both quantity and quality: area treated and cover change,
-but also native composition, hydrology, habitat, durable carbon and livelihood security.
-GIM's strength is integration; its challenge is attributing results correctly across
-mission-specific and convergent activity while preventing broad objectives from being
-reduced to plantation outputs.
+Evaluation therefore requires area and cover data plus native composition, hydrology,
+habitat, durable carbon and livelihood security. GIM's strength is integration; its
+challenge is accurate attribution without reducing restoration to plantation outputs.
 
-**Unique rubric (10):** NAPCC placement 1; historical-revised target distinction 3;
-service dimensions 2; measurement implication 2; strength-limit conclusion 2.
+**Unique rubric (10):** NAPCC placement 1; historical-revised target distinction 2;
+dated direct status 2; service dimensions 2; attribution discipline 2; conclusion 1.
 
 ---
 
@@ -1773,7 +1870,7 @@ Progress: 11 / 12 | Stage: Core | Subtopic: Statute, judicial protection and div
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: queried — forest-law scope, recorded status and forest-rights coordination
 CA search: "official Van Sanrakshan Evam Samvardhan Adhiniyam Supreme Court Godavarman forest definition"
-CA found: no second substantive CA anchor; a 16 September 2026 hearing report is used below only to update legal/procedural status
+CA found: no second substantive CA anchor; only officially published court orders are used for legal status
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### Visual first: the two-step legal position
@@ -1803,15 +1900,9 @@ SUPREME COURT PROCEDURAL STEPS, MARCH-AUGUST 2026
         +-- 11 August circular communicated the final extension
         +-- no stated reversal of the 1996/2024 forest-scope position
         v
-ASHOK KUMAR SHARMA PROCEEDINGS, 16 SEPTEMBER 2026
-        |
-        +-- Court confined the pending case to constitutional validity
-        |   of the 2023 statutory forest definition
-        +-- parcel-specific disputes left to the jurisdictional High Courts
-        +-- no final merits judgment on validity
-        v
 CURRENT ANSWER DISCIPLINE
-statutory text + substantive directions + later procedural status
+statutory text + current Rules + substantive directions
++ only officially verified later procedural status
 ```
 
 ### 1. Why scope matters to CAMPA
@@ -1829,6 +1920,15 @@ provisions.
 
 Official Gazette text: <https://egazette.gov.in/WriteReadData/2023/247866.pdf>.
 
+The amended provisions and the **Van (Sanrakshan Evam Samvardhan) Rules, 2023** took
+effect on **1 December 2023**. Three legal boxes must be kept separate.
+
+#### Box A — land covered by section 1A(1)
+
+1. land declared or notified as forest under the Indian Forest Act, 1927 or another law;
+2. other land recorded as forest in Government records on or after 25 October 1980,
+   subject to the authorised-change proviso below.
+
 The proviso to the recorded-forest clause is exact and narrow:
 
 > "Provided that the provisions of this clause shall not apply to such land, which has
@@ -1839,23 +1939,57 @@ The proviso to the recorded-forest clause is exact and narrow:
 The date is tied to an authorised land-use change. It is not a general exemption for every
 unrecorded, cleared or altered parcel.
 
-It also created exemptions for specified categories. The border provision is exact:
+#### Box B — section 1A(2) exclusions from the Act's coverage
+
+| Excluded category | Exact qualification |
+|---|---|
+| Rail/public-road access | Forest land alongside a Government-maintained rail line or public road providing access to a habitation or to a rail/roadside amenity, up to **0.10 hectare in each case**. |
+| Non-covered plantations | A tree, tree plantation or reafforestation raised on land not covered by section 1A(1)(a) or (b). This does not convert a natural forest into a plantation exemption. |
+| Strategic linear project | Forest land within **100 kilometres** along an international border, LoC or LAC, proposed for a strategic linear project of national importance and concerning national security. |
+| Security infrastructure | Up to **10 hectares** proposed for security-related infrastructure. |
+| Specified LWE-area use | Up to **5 hectares** for a defence-related project, paramilitary camp or Central-Government-specified public-utility project in a notified Left Wing Extremism-affected area. |
+
+The border provision is exact:
 forest land situated within **100 kilometres along an international border, Line of Control
 or Line of Actual Control** may fall within the exemption only when it is proposed for a
 **strategic linear project of national importance and concerning national security**.
 Distance from the border alone is not sufficient.
-
-Two separate size-limited clauses should not be merged into that 100-km rule:
-
-- up to **10 hectares** proposed for security-related infrastructure; and
-- up to **5 hectares** for a defence-related project, paramilitary camp or Central
-  Government-specified public-utility project in a notified Left Wing Extremism-affected area.
 
 The subsection makes these exemptions subject to Central Government-specified terms and
 conditions, including tree planting to compensate for felling. Therefore the provision is a
 conditional statutory exemption, not a blanket environmental clearance, land grant or waiver
 of every other applicable law. Its environmental significance is spatial because strategic
 linear projects can cross biodiversity-rich border landscapes.
+
+#### Box C — activities outside “non-forest purpose”
+
+The amended section 2 separately lists specified forest-management or ancillary
+activities that are not treated as a non-forest purpose when their exact conditions are
+met. These include silvicultural and regeneration operations; listed forest-management
+infrastructure; Government/authority-owned zoos and safaris in forest areas other than
+protected areas; and eco-tourism facilities included in the approved working,
+wildlife-management, tiger-conservation plan or working scheme. The Central Government
+may also specify terms for surveys such as reconnaissance, prospecting, investigation or
+exploration.
+
+This third box is not the same as section 1A(2). It classifies an activity for the prior-
+approval provision; it does not erase the land's forest status, FRA duties, wildlife law,
+environmental appraisal or the conditions attached to the applicable plan and order.
+
+### 2A. Current Rules and Rule 16 record architecture
+
+Rule 16 of the 2023 Rules requires States and Union Territories to prepare a consolidated
+record for the statutory expression “Government record,” including:
+
+- forest-like areas identified by the 1996 expert committees;
+- unclassed forest lands; and
+- community forest lands to which the amended Act applies.
+
+The record exercise is therefore broader than copying one revenue column. The Supreme
+Court's February 2024 order required the pre-existing broad protection to continue while
+this exercise was completed and records were supplied. Rule 16 also refers to the latest
+India State of Forest Report for the separate forest-cover measurement; that reference
+does not turn satellite forest cover into legal title.
 
 ### 3. The judicial counterweight
 
@@ -1866,63 +2000,25 @@ expert-committee records of forest-like land.
 
 The safe formulation is:
 
-> The statute specified and narrowed its recorded/notified coverage, while the Court
-> preserved the broader ecological meaning in the interim pending State records.
+> The statute specified recorded/notified coverage, while the Court preserved the broader
+> ecological meaning in the interim pending State records.
 
 Do not say either that the Godavarman approach has disappeared or that the interim
 direction permanently settles every future boundary.
 
-### 4. What changed procedurally in 2026—and what remained pending
+### 4. What the verified 2026 court record establishes
 
-The dated court materials in this section are **legal-status evidence** needed to state the
-current procedural position accurately. They are not a second substantive current-affairs
-anchor; the session's single standalone CA anchor remains the 10 July 2026 National CAMPA
-review.
+Official orders from **March to August 2026** in the continuing *Godavarman* docket
+concerned categorisation and procedural management of pending interlocutory applications.
+They did **not** state that the February 2024 forest-scope direction had been reversed.
+For a forest-governance answer, that procedural caveat is sufficient; application counts,
+questionnaire deadlines and registry mechanics do not belong in the substantive analysis.
 
-In **T.N. Godavarman Thirumulpad v. Union of India, W.P.(C) No. 202/1995**, the Supreme
-Court's **16 March 2026** order initiated categorisation of the very large body of pending
-interlocutory applications. Its **13 April 2026** order recorded more than 800 pending
-applications, directed an online questionnaire and Registrar-level triage, and
-contemplated separate contemporary proceedings for distinct issue groups after
-categorisation.
-
-After an extension on **19 June 2026**, the Court's **4 August 2026** order recorded that
-only 75 pro-forma responses had been received. It granted Advocates-on-Record and
-parties-in-person a **final additional three weeks from 4 August** to submit completed
-pro formas to the Amicus Curiae, stated that no further extension would be granted, and
-directed that, subject to the order's stated exceptions, non-compliant interlocutory
-applications would stand dismissed for non-prosecution. The matters were listed for
-**31 August 2026**. A Supreme Court Registry circular dated **11 August 2026** communicated
-that final extension and its consequence; it did not create a later deadline.
-
-The chronology is documented in the Supreme Court's [16 March order](https://api.sci.gov.in/supremecourt/1995/2997/2997_1995_1_54_69543_Order_16-Mar-2026.pdf),
-the [13 April order account and linked court record](https://www.scobserver.in/journal/t-n-godavarman-after-800-applications-faces-a-questionnaire-test/),
-the Court's [19 June extension order](https://api.sci.gov.in/supremecourt/1995/2997/2997_1995_1_802_71835_Order_19-Jun-2026.pdf),
-the [4 August daily order](https://indiankanoon.org/doc/143865129/) and the official
-[11 August Registry circular](https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133619a60c30f3559e/uploads/2026/08/2026081156.pdf).
-
-This remains procedural restructuring of a continuing-mandamus docket. The April and
-August steps did **not** state that the broad Godavarman position or the February 2024
-interim protection had been overruled. Therefore, the safe status is limited: the Court
-was categorising and filtering pending applications, while no substantive forest-scope
-reversal should be inferred from those procedural directions.
-
-A separate but connected constitutional challenge remained pending in **Ashok Kumar Sharma,
-Indian Forest Service (Retd.) v. Union of India, W.P.(C) No. 1164/2023**. In proceedings on
-**16 September 2026**, the Supreme Court confined the matter before it to examining the
-**constitutional validity of the statutory definition of forest introduced in 2023**. It
-distinguished that constitutional question from disputes over the status of particular land
-parcels, which were to be pursued before the jurisdictional High Courts.
-
-A contemporaneous [16 September 2026 court report](https://www.etvbharat.com/en/bharat/sc-to-test-forest-definition-under-conservation-act-leaves-land-disputes-to-hcs-enn26091605494)
-records this distinction and the direction concerning incomplete State and Union Territory
-expert-panel exercises.
-
-This was a procedural definition of the case's scope, not a judgment upholding or striking
-down section 1A. The cited 16 September report records no final merits disposition.
-Accordingly, an answer should state that the Court was examining constitutional validity at
-that hearing, while the February 2024 interim direction and the Godavarman framework had not
-been displaced by a final merits ruling reported in that source.
+A reported **16 September 2026** hearing is not accompanied here by an official Supreme
+Court order. A media account cannot establish an authoritative holding, direction or
+merits conclusion. Until an official order or docket entry is available, an answer should
+stop at the amended statute, the 2023 Rules, the February 2024 substantive direction and
+the officially published March-August 2026 procedural record.
 
 ### 5. Three categories still differ
 
@@ -1930,7 +2026,7 @@ been displaced by a final merits ruling reported in that source.
 |---|---|
 | Legal forest / land under conservation law | Whether diversion approval requirements apply |
 | Recorded forest area | Administrative/legal record of forest land |
-| Forest cover | FSI canopy measurement irrespective of ownership or legal status |
+| Forest cover | FSI remote-sensing category: all land **at least 1 hectare** with tree-canopy density **at least 10 per cent**, irrespective of ownership or legal status; it may include orchards, bamboo and palm and need not be recorded forest |
 
 A plantation can add forest cover without becoming equivalent to a recorded natural
 forest. Conversely, legally recorded forest land can be degraded and show low canopy.
@@ -1948,8 +2044,8 @@ gain certainty without making prior recording the sole test of ecological realit
 
 - Give the rename precisely.
 - Present amendment and Court direction as a sequence.
-- Add both the March-August docket reorganisation and the 16 September constitutional-validity
-  proceedings without presenting either as a final merits ruling.
+- Treat the March-August docket reorganisation as procedural only; do not add an
+  unverified later holding from a media account.
 - Link scope to diversion and compensatory liability.
 - Separate legal forest, recorded area and measured cover.
 
@@ -1957,30 +2053,32 @@ gain certainty without making prior recording the sole test of ecological realit
 
 1. The 1980 Act was renamed, not repealed.
 2. Its current title is Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980.
-3. The 2023 amendment specified notified/recorded categories.
-4. The recorded-forest clause carries the authorised-change proviso tied to 12 December 1996.
-5. The 100-km exemption is for national-importance, national-security strategic linear projects.
-6. Separate exemptions cover up to 10 ha for security infrastructure and up to 5 ha for
-   specified defence, paramilitary-camp or public-utility projects in notified LWE areas.
-7. Section 1A(3) retains Central conditions, including compensatory tree planting.
-8. Godavarman used a broad dictionary meaning; February 2024 preserved it on an interim basis.
-9. State expert-committee records remain central to the transition.
-10. The March-April 2026 orders began categorisation and questionnaire-based triage.
-11. The 4 August order and 11 August circular imposed the final pro-forma opportunity.
-12. On 16 September 2026 the Court confined W.P.(C) 1164/2023 to constitutional validity.
-13. Parcel-specific disputes were distinguished for the jurisdictional High Courts.
-14. No final merits ruling on the 2023 definition had displaced the interim position.
-15. Forest-law scope is upstream of CAMPA liability; forest cover is a different metric.
+3. The amended provisions and 2023 Rules took effect on 1 December 2023.
+4. The amendment specified notified/recorded categories.
+5. The recorded-forest clause carries the authorised-change proviso tied to 12 December 1996.
+6. Section 1A(2) separately covers the 0.10-ha access clause, non-covered plantations and
+   strategic/security/LWE-area exclusions.
+7. The 100-km clause is only for national-importance, national-security strategic linear projects.
+8. Separate limits are up to 10 ha for security infrastructure and up to 5 ha for specified
+   defence, paramilitary-camp or public-utility projects in notified LWE areas.
+9. Section 1A(3) retains Central conditions, including compensatory tree planting.
+10. Listed forest-management activities, qualifying zoos/safaris, plan-based eco-tourism and
+    specified surveys are addressed through the distinct “non-forest purpose” provisions.
+11. Rule 16 requires consolidated forest-like, unclassed and community-forest records.
+12. Godavarman used a broad dictionary meaning; February 2024 preserved it on an interim basis.
+13. The March-August 2026 orders concerned docket categorisation, not a merits reversal.
+14. No official 16 September order was independently verified; no holding is inferred from media.
+15. FSI forest cover means at least 1 ha and at least 10 per cent canopy, irrespective of title.
+16. Forest-law scope is upstream of CAMPA liability; forest cover remains a different metric.
 
 ### Concept check
 
 **Question:** Why is it inaccurate to answer a present forest-scope question using only the 2023 amendment?
 
 **Model answer:** Because the February 2024 interim direction kept the broader Godavarman
-meaning operative pending State records. The March-August docket steps reorganised pending
-applications, while the 16 September proceedings confined a separate challenge to the
-constitutional validity of the 2023 definition and left parcel disputes to High Courts. No
-final merits ruling had displaced the interim position.
+meaning operative pending the Rule 16 record exercise. Official March-August 2026 docket
+orders reorganised pending applications but did not reverse that substantive position.
+No later holding should be added from an unverified media account.
 
 **Misconception to avoid:** The amendment neither simply repealed the 1980 law nor automatically erased every protection for unrecorded forest-like land.
 
@@ -1991,32 +2089,31 @@ and the Supreme Court's February 2024 direction jointly shape the legal trigger 
 forest diversion and compensation.
 
 **Model response:** The 2023 amendment renamed the Forest (Conservation) Act, 1980 as the
-Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980 and specified applicability through
-notified and recorded forest categories, while providing stated exemptions for certain
-strategic, security and access-related uses. This sought regulatory certainty but raised
-concern that ecologically forest-like land absent from records could escape prior
-approval.
+Van (Sanrakshan Evam Samvardhan) Adhiniyam, 1980, effective with the 2023 Rules from
+1 December 2023. Section 1A covers notified forests and other land recorded as forest
+on or after 25 October 1980, subject to the authorised pre-12 December 1996 change-of-use
+proviso.
 
-In February 2024, the Supreme Court, in proceedings linked to Ashok Kumar Sharma,
-directed continuation of the broad Godavarman meaning pending compilation of State
-expert-committee records. Orders dated 16 March and 13 April 2026 then initiated
-categorisation and questionnaire-based triage for more than 800 applications. On
-4 August, after only 75 pro-forma responses had been received, the Court granted a final
-three weeks from that date, warned that no further extension would be granted and listed
-the matters for 31 August; the Registry's 11 August circular communicated that final
-extension. These procedural steps did not state that the earlier substantive forest-scope
-position was reversed.
+The amendment also created carefully bounded exclusions: up to 0.10 hectare for specified
+rail/road access, plantations raised on land outside section 1A(1), qualifying strategic
+linear projects within 100 kilometres of a border/LoC/LAC, up to 10 hectares for security
+infrastructure and up to 5 hectares for specified projects in notified LWE areas. Separate
+amendments classify listed forest-management works, qualifying zoos/safaris, plan-based
+eco-tourism and specified surveys outside “non-forest purpose” when their conditions are
+met. None is a waiver of every other law.
 
-This matters for CAMPA because prior-approval coverage is upstream of compensatory
-conditions, NPV and afforestation liability. If land falls outside the trigger, the
-compensatory-finance chain may not arise.
+In February 2024 the Supreme Court required the broader Godavarman protection to continue
+while States and Union Territories completed the Rule 16 consolidated record of
+forest-like, unclassed and community forest lands. Official March-August 2026 orders dealt
+with docket management, not a merits reversal.
 
-India needs complete, publicly reviewable forest-like-land records, ecological
-verification and careful scrutiny of exemptions. Certainty should improve compliance
-without allowing incomplete records to redefine ecological reality.
+The joint effect is a legally specified statute qualified by continuing interim judicial
+protection. This matters because prior-approval coverage is upstream of CA cost, NPV and
+other CAMPA liabilities. Complete public records, ecological verification and narrow
+construction of exemptions are therefore necessary to combine certainty with conservation.
 
-**Unique rubric (15):** amendment 3; 1996/2024 substantive position 3; 2026 procedural
-status 3; CAMPA linkage 2; spatial/data concerns 2; legally qualified conclusion 2.
+**Unique rubric (15):** title/commencement and scope 3; exclusions versus non-forest-purpose
+activities 4; Rule 16/Godavarman qualification 3; CAMPA trigger 3; legally qualified conclusion 2.
 
 ---
 
@@ -2075,36 +2172,28 @@ Certification does not erase the need to examine tenure, monitoring, permanence,
 additionality and benefit-sharing. Do not infer current credit volume, income
 distribution or ecological performance without a source and monitoring period.
 
-### 3. First attempt: provisionally sourced 2026 objective PYQ
+### 3. Verified 2026 objective PYQ linkage — answer-neutral
 
-**Status:** **PROVISIONAL — NON-UPSC-HOSTED SCAN.** The wording and Set A numbering below
-come from an exact publicly reproducible scan hosted outside UPSC. Treat this status as
-provisional until an official UPSC-hosted 2026 paper is available and matched.
+**UPSC Prelims 2026, GS-I, Set A, Q40 — exact official-paper wording**
 
-**UPSC Prelims 2026, GS-I, Set A, Question 40 - provisional exact-scan wording**
-
-> Which one of the following is the first Plan Vivo certified Reducing Emissions from
-> Deforestation and Forest Degradation (REDD+) project in India?
+> Which one of the following is the first Plan Vivo certified Reducing Emissions from Deforestation and Forest Degradation (REDD+) project in India?
 >
 > (a) Uttarakhand REDD+ project
 > (b) ICFRE-ICIMOD Transboundary REDD+ project in North-Eastern Himalayas
 > (c) Khasi Hills Community REDD+ project
 > (d) Sikkim Mamley Kamrang Community REDD+ project
 
-Attempt it before continuing.
+Attempt the complete question before continuing. The separately held 2026 answer key is
+**provisional** and is not used to state, infer or eliminate an option.
 
-### Post-attempt resolution
+**Neutral demand:** distinguish each named project by project identity, geography,
+community basis, REDD+ character and certification record.
 
-Plan Vivo's institutional project record identifies the **Khasi Hills Community REDD+
-Project in Meghalaya** as India's first community-based REDD+ programme and documents
-its community-led forest-protection and restoration design. Read together with the
-certified-project record and the exact Set A question, this identifies the matching
-project without treating certification as proof of every ecological or distributive
+**Neutral approach:** verify every candidate independently against the named standard's
+project registry or the institution responsible for the project. Do not use familiarity,
+option length or an unofficial answer key. Certification establishes a defined standard
+status; it does not establish every current carbon, biodiversity, tenure or benefit-sharing
 outcome.
-
-The question's source status remains provisional because the reproduced scan is not hosted
-by UPSC; the project evidence used for the post-attempt explanation is independently drawn
-from Plan Vivo's institutional record.
 
 ### 4. Carbon is one outcome, not the whole forest
 
@@ -2126,10 +2215,9 @@ participation and accountability. A candidate should establish each attribute fr
 instrument's own record rather than infer it from an ambitious title, a target or the
 presence of prominent participants.
 
-**UPSC Prelims 2021, GS-I, Booklet B, Question 44 - exact scan wording**
+**UPSC Prelims 2021, GS-I, local official paper Q24 — exact wording**
 
-> With reference to the 'New York Declaration on Forests', which of the following
-> statements are correct?
+> With reference to the 'New York Declaration on Forests', which of the following statements are correct?
 >
 > 1. It was first endorsed at the United Nations Climate Summit in 2014.
 > 2. It endorses a global timeline to end the loss of forests.
@@ -2144,23 +2232,11 @@ presence of prominent participants.
 > (c) 3 and 4
 > (d) 2 and 5
 
-Attempt it before continuing.
+Attempt the complete question before continuing. No statement or option is resolved here.
 
-#### Post-attempt resolution
-
-The **New York Declaration on Forests (NYDF)** was launched at the United Nations Climate
-Summit in **2014**. It is a **voluntary, non-legally binding political declaration**, not a
-treaty. Its forest-loss architecture included a shared timeline to halve natural-forest loss
-by 2020 and strive to end it by 2030, alongside restoration and finance goals.
-
-Its endorsement base crossed legal categories: national and subnational governments,
-companies, Indigenous Peoples' organisations and civil-society organisations participated.
-That breadth does not make the declaration legally binding. The Government of India was
-**not among the national-government endorsers at inception**; an Indian organisation's
-endorsement cannot be substituted for India's national signature.
-
-Accordingly, the launch, timeline and diverse-endorser propositions are supported; the
-legally binding and India-at-inception propositions are not.
+**Neutral approach:** create a five-row evidence table from the declaration and original
+endorser list. Do not infer legal force from ambitious wording, combine organisational
+endorsement with national-government endorsement, or record statement truth values here.
 
 ### 6. Recognition programmes: institution first, reason second
 
@@ -2169,42 +2245,27 @@ institutions from the programme's own record. Then verify the stated reason for 
 recognition independently. Only after both truth values are established should the
 explanatory link be tested.
 
-**UPSC Prelims 2021, GS-I, Booklet B, Question 57 - exact scan wording**
+**UPSC Prelims 2021, GS-I, local official paper Q97 — exact wording**
 
 > Consider the following statements:
 >
-> Statement 1: The United Nations Capital Development Fund (UNCDF) and the Arbor
-> Day Foundation have recently recognized Hyderabad as 2020 Tree City of the World.
+> Statement 1: The United Nations Capital Development Fund (UNCDF) and the Arbor Day Foundation have recently recognized Hyderabad as 2020 Tree City of the World.
 >
-> Statement 2: Hyderabad was selected for the recognition for a year following its
-> commitment to grow and maintain the urban forests.
+> Statement 2: Hyderabad was selected for the recognition for a year following its commitment to grow and maintain the urban forests.
 >
 > Which one of the following is correct in respect of the above statements?
 >
-> (a) Both Statement 1 and Statement 2 are correct and Statement 2 is the correct
-> explanation for Statement 1
-> (b) Both Statement 1 and Statement 2 are correct but Statement 2 is not the
-> correct explanation for Statement 1
+> (a) Both Statement 1 and Statement 2 are correct and Statement 2 is the correct explanation for Statement 1
+> (b) Both Statement 1 and Statement 2 are correct but Statement 2 is not the correct explanation for Statement 1
 > (c) Statement 1 is correct but Statement 2 is not correct
 > (d) Statement 1 is not correct but Statement 2 is correct
 
-Attempt it before continuing.
+Attempt the complete question before continuing. No truth value, explanatory relation or option is resolved here.
 
-#### Post-attempt resolution
-
-**Tree Cities of the World** is a programme associated with the **Food and Agriculture
-Organization of the United Nations (FAO)** and the **Arbor Day Foundation**. Hyderabad
-received recognition for the **2020** programme year for its commitment to growing and
-maintaining urban forests.
-
-The institutional distinction is decisive: **UNCDF was not the recognising UN body**.
-The recognition rewards urban-forestry governance against programme standards; it is not a
-statutory forest category, proof of native-ecosystem restoration or a transfer of land
-authority. In assertion-reason form, first verify both statements independently and only then
-test whether the second explains the first.
-
-The first statement is not supported because it substitutes UNCDF for FAO; the second
-statement is supported by the programme record.
+**Neutral approach:** verify both statements independently from the programme record,
+then test explanatory connection only if both survive. Do not map a substituted acronym
+to a verdict here. Recognition remains an urban-forestry governance award, not a
+statutory forest category or proof of ecological restoration.
 
 ### 7. Complete governance synthesis
 
@@ -2282,8 +2343,9 @@ forest-carbon initiatives within India's wider forest-governance architecture.
 
 **Model response:** Community forest-carbon initiatives can align climate finance with
 local stewardship. REDD+ rewards reduced deforestation and degradation, conservation,
-sustainable management and enhanced stocks. The Khasi Hills community project
-illustrates the potential role of customary institutions, monitoring and benefit-sharing.
+sustainable management and enhanced stocks. Community REDD+ initiatives in India's
+North-East illustrate the potential role of customary institutions, monitoring and
+benefit-sharing.
 
 Their promise lies in continuous local protection, livelihood incentives and finance
 for conservation beyond short project budgets. They can complement GIM's ecosystem-
@@ -2319,13 +2381,13 @@ rights violation or ecological simplification.
 
 | Year | Paper / Q | Verified question focus | Lesson | Answer-neutral approach |
 |---:|---|---|---:|---|
-| 2019 | Prelims GS-I Booklet B Q78 | CAMPA authority architecture and participation claim | 3 | Verify each proposition against its exact governing instrument; do not transfer requirements across frameworks. |
-| 2021 | Prelims GS-I Booklet B Q44 | New York Declaration on Forests | 12 | Check every proposition independently against the declaration record before combining them. |
-| 2021 | Prelims GS-I Booklet B Q57 | Hyderabad Tree City of the World statements | 12 | Establish both truth values first and test the explanatory relationship only afterward. |
-| 2026 — provisional | Prelims GS-I Set A Q40; non-UPSC-hosted exact public scan | First Plan Vivo-certified REDD+ project in India | 12 | Match each named project against a primary project or registry record rather than option shape; retain provisional paper-source status pending an official UPSC-hosted match. |
+| 2019 | Prelims GS-I local official paper Q68 | Exact stem, two statements and four choices reproduced neutrally in Lesson 3 | 3 | Verify each proposition against its exact governing instrument; do not transfer requirements across frameworks. |
+| 2021 | Prelims GS-I local official paper Q24 | Exact New York Declaration stem, five statements and four choices reproduced neutrally in Lesson 12 | 12 | Check every proposition independently against the declaration record before combining them. |
+| 2021 | Prelims GS-I local official paper Q97 | Exact Hyderabad Tree City statements and four choices reproduced neutrally in Lesson 12 | 12 | Establish each proposition independently and test explanatory relationship only afterward. |
+| 2026 | Prelims GS-I Set A Q40; official paper held locally, answer key provisional | Exact Plan Vivo-certified REDD+ stem and four choices reproduced neutrally in Lesson 12 | 12 | Match each named project against a primary project or registry record; do not use the provisional key to state or infer an option. |
 
-Only the four objective questions listed above are reproduced as Topic 12 PYQs in this
-session. Broader forest-resource, climate-policy and rights questions may be used as
+Only the four objective demands listed above are treated as direct Topic 12 PYQ linkages
+in this session. Broader forest-resource, climate-policy and rights questions may be used as
 comparative practice, but are not labelled here as direct Topic 12 PYQs without exact
 verified wording and ownership evidence.
 
@@ -2335,10 +2397,11 @@ verified wording and ownership evidence.
 
 **Question:** Build the complete chain from forest diversion to State-level work.
 
-**Model answer:** Prior approval and conditions -> user-agency CA cost, NPV and other
-levies -> National CAF receipt/transfer architecture -> 90 per cent State Fund and
-10 per cent National Fund -> Digital APO scrutiny and sanction -> implementing agency ->
-GIS/input-traceability controls -> output and multi-year outcome monitoring.
+**Model answer:** Prior approval and conditions -> separately accounted ordinary/additional/
+penal CA, NPV and other earmarked sums -> direct State receipt or historical National-Fund
+transfer path -> effective 90 per cent State and 10 per cent National distribution ->
+Digital APO scrutiny and sanction -> implementing agency -> GIS/input-traceability controls
+-> output and multi-year outcome monitoring.
 
 ### Check B - Ecology
 
@@ -2372,11 +2435,12 @@ unspent or ecologically ineffective work to be presented as success.
 **Question (10 marks, 150 words):** Explain the National and State Compensatory
 Afforestation Fund architecture and its basic accountability logic.
 
-**Model answer (129 words):** The Compensatory Afforestation Fund Act, 2016 establishes the
+**Model answer (146 words):** The Compensatory Afforestation Fund Act, 2016 establishes the
 National CAF in India's Public Account and State CAFs in State Public Accounts. User
-agencies pay CA costs, NPV and related sums when diversion conditions require them.
-Ninety per cent of receipts goes to the relevant State Fund and 10 per cent remains
-national.
+agencies pay separately accounted CA, additional/penal CA, NPV and related sums when
+their respective conditions apply. Historical ad hoc balances transfer 90 per cent to
+the State Fund; fresh receipts enter the State Fund and require a yearly 10 per cent
+credit to the National Fund.
 
 National and State Authorities manage funds through Governing Bodies and executive
 structures. The national tier also has a Monitoring Group; States have Steering
@@ -2484,7 +2548,7 @@ rights critique 4; seven-part reform framework 6; qualified verdict 2.
 | “A dashboard proves restoration.” | Operational Digital APO, GIS evidence, described QR-traceability functions and reported hectares concern controls or outputs; ecological and social outcomes require separate evidence. |
 | “Community consultation is always enough.” | Determine recognised/pending rights, Gram Sabha authority, representation and benefit-sharing. |
 | “Carbon proves complete forest health.” | Add biodiversity, water, soil, rights and permanence indicators. |
-| “The 2023 amendment alone finally settles forest scope.” | Read the amended statute with the February 2024 interim direction, the March-August 2026 docket steps and the 16 September pending constitutional-validity proceedings; none supplied a final merits ruling displacing the interim position. |
+| “The 2023 amendment alone finally settles forest scope.” | Read the amended statute and Rule 16 with the February 2024 interim direction. March-August 2026 orders were procedural; do not add an unverified later holding from media. |
 
 # MASTER COMPARISON, CAUSAL AND ARGUMENT MAPS
 
@@ -2561,9 +2625,17 @@ conclude: compensation mitigates; it does not erase loss
 ## The legal-financial spine
 
 - Forest diversion for non-forest use is upstream of the compensatory-fund chain.
-- User agencies bear CA cost, NPV and other applicable compensatory sums.
+- User agencies may bear ordinary CA, additional CA, penal CA, NPV and other earmarked
+  approval-condition sums; each trigger and account remains distinct.
 - The CAF Act, 2016 establishes National and State Funds and statutory authorities.
-- Fund transfer: **90 per cent State Fund; 10 per cent National Fund**.
+- Both funds are interest-bearing and non-lapsable.
+- Historical ad hoc balances transfer 90 per cent to the State; fresh State receipts
+  require a yearly 10 per cent credit to the National Fund.
+- NPV: at least 80 per cent for listed forest/wildlife activities and at most 20 per cent
+  for listed infrastructure/capacity uses.
+- State-Fund interest: at least 60 per cent for specified conservation/development uses
+  and at most 40 per cent for permitted Authority administration.
+- Component accounts remain separate and duplicate charging of one work is prohibited.
 - National organs: Governing Body, Executive Committee, Monitoring Group.
 - State organs: Governing Body, Steering Committee, Executive Committee.
 - CAF is money; CAMPA is authority; CA is activity.
@@ -2598,8 +2670,12 @@ conclude: compensation mitigates; it does not erase loss
 ## Rights and community governance
 
 - Verify recognised and pending FRA rights before committing land.
-- CFR rights include protect-regenerate-conserve-manage functions.
+- FRA 3(1)(i) recognises CFR protect-regenerate-conserve-manage rights.
+- FRA 4(5) bars eviction/removal before the recognition-and-verification process is complete.
+- FRA 5 provides conservation powers/duties; FRA 6 establishes the claims chain.
 - Gram Sabha and JFMC have different legal and operational positions.
+- CAMPA Rules consultation, GIM micro-plan approval/social audit and diversion procedure
+  arise from different instruments and must not be merged.
 - Participation must be informed, representative and linked to real decisions.
 - Diversion and compensation can impose costs on different communities.
 - Track access, livelihoods, benefit-sharing and conflict as outcomes.
@@ -2620,6 +2696,11 @@ conclude: compensation mitigates; it does not erase loss
 - Revised scale: 24 mha through convergence, including 1 mha of mission-specific,
   regionally suitable demonstrative interventions.
 - Do not describe 24 mha as GIM-budget-only work or 1 mha as an annual target.
+- Dashboard updated 11 September 2026: direct GIM eco-restoration since 2015-16 =
+  1,84,467 ha across 17 States and one UT.
+- Dashboard-wide 19.98 mha, 22.5 mha and 2.29 BtCO2e indicators are wider national or
+  convergence indicators, not automatically direct GIM-budget achievements.
+- Revised mission-specific cost: Rs 12,190 crore for 1 mha during 2021-30.
 - Services: biodiversity, water, carbon, soil and provisioning benefits.
 - Components include forest-quality improvement, restoration/cover, urban greening,
   agroforestry/social forestry, wetlands and livelihood/energy support.
@@ -2652,31 +2733,33 @@ conclude: compensation mitigates; it does not erase loss
 
 - Forest (Conservation) Act, 1980 was renamed the Van (Sanrakshan Evam Samvardhan)
   Adhiniyam, 1980.
-- The 2023 amendment specified notified/recorded scope and stated exemptions.
+- The amended law and 2023 Rules took effect on 1 December 2023.
+- The 2023 amendment specified notified/recorded scope and stated exclusions.
 - Its recorded-forest clause does not apply where an authorised order changed the land from
   forest to non-forest use on or before **12 December 1996**.
+- Section 1A(2) separately covers the 0.10-ha access clause and qualifying plantations on
+  land outside section 1A(1).
 - The 100-km exemption applies along an international border, LoC or LAC only to a
   national-importance strategic linear project concerning national security.
 - Separate limits are up to 10 ha for security infrastructure and up to 5 ha for specified
   defence, paramilitary-camp or public-utility projects in a notified LWE-affected area.
 - Exemptions remain subject to Central terms and conditions, including compensatory tree planting.
+- Listed forest-management activities, qualifying zoos/safaris, plan-based eco-tourism and
+  specified surveys are governed through the distinct “non-forest purpose” provisions.
+- Rule 16 requires consolidated forest-like, unclassed and community-forest records.
 - The Supreme Court's February 2024 interim direction retained the broader Godavarman
   dictionary meaning pending State records.
-- Orders dated 16 March and 13 April 2026 initiated categorisation and questionnaire-based
-  triage of 800-plus pending applications.
-- The 4 August order recorded 75 responses, granted a final three weeks from that date,
-  warned of dismissal for non-prosecution subject to stated exceptions, and listed the
-  matters for 31 August 2026; the 11 August Registry circular communicated that extension.
-- As a legal/procedural status update rather than a second CA anchor, the 16 September 2026
-  hearing in W.P.(C) 1164/2023 confined the case to the pending constitutional
-  validity of the 2023 statutory definition; parcel-specific disputes were left to High Courts.
-- The cited 16 September hearing report records no final merits ruling displacing the
-  February 2024 interim position.
+- Official March-August 2026 orders dealt with procedural management of pending
+  applications, not a merits reversal of the February 2024 direction.
+- No official 16 September 2026 order was independently verified; no holding or merits
+  status is inferred from a media account.
 - These procedural steps did not state that the earlier substantive forest-scope position
   was reversed.
 - State the sequence: statutory change -> interim judicial protection -> procedural
   reorganisation while records and issue-specific adjudication continue.
 - Legal forest, recorded forest area and FSI forest cover are different categories.
+- FSI forest cover requires at least 1 ha and at least 10 per cent tree-canopy density,
+  irrespective of ownership/legal status, and may include orchards, bamboo and palm.
 
 ## Instrument distinctions
 
@@ -2707,11 +2790,11 @@ conclude: compensation mitigates; it does not erase loss
 
 ## PYQ routes and examiner traps
 
-- 2019 Booklet B Q78: verify both propositions against their governing instruments.
-- 2021 Booklet B Q44: test every proposition independently against the declaration record.
-- 2021 Booklet B Q57: establish both truth values before testing explanation.
-- 2026 Set A Q40: provisional, non-UPSC-hosted exact public scan; match every named project
-  against primary project or registry evidence pending an official UPSC-hosted paper match.
+- 2019 local official paper Q68: verify both propositions against their governing instruments.
+- 2021 local official paper Q24: test every proposition independently against the declaration record.
+- 2021 local official paper Q97: establish each proposition independently before testing explanation.
+- 2026 official/local Set A Q40: match every named project against primary registry evidence;
+  the separately held answer key is provisional and supplies no answer here.
 - Best Mains thesis: CAMPA can finance mitigation, while GIM can supply a broader quality
   framework; neither money, credits nor hectares prove replacement of a mature forest.
 
@@ -2721,10 +2804,11 @@ conclude: compensation mitigates; it does not erase loss
 |---|---|
 | Diversion versus afforestation versus restoration | Lessons 1-2; register notes |
 | Mitigation hierarchy | Lesson 1; final causal map |
-| User agency, CA cost and NPV | Lesson 2 |
+| User agency, ordinary/additional/penal CA, NPV and earmarked sums | Lesson 2 |
 | Equivalent non-forest land / degraded-forest fallback | Lesson 2 |
 | National and State CAFs | Lesson 3 |
-| 90:10 transfer | Lesson 3; final 10-marker |
+| Historical versus fresh-receipt 90:10 mechanics; interest-bearing/non-lapsable funds | Lesson 3; final 10-marker |
+| Component accounting, no duplication, NPV 80:20 and interest 60:40 controls | Lesson 3; register notes |
 | National and State authorities and internal organs | Lesson 3 |
 | APO, sanction, release, utilisation and monitoring | Lesson 4 |
 | Digital workflow, geospatial monitoring and planting-material traceability functions | Lesson 4 |
@@ -2732,10 +2816,11 @@ conclude: compensation mitigates; it does not erase loss
 | Proposal/allocation/output/outcome distinction | Lessons 4 and 9 |
 | Succession and ecological incommensurability | Lesson 5 |
 | Native species, monoculture and open natural ecosystems | Lesson 5 |
-| FRA/CFR, Gram Sabha, JFMC and tenure conflict | Lesson 6 |
+| FRA 3(1)(i), 4(5), 5 and 6; CAMPA consultation; GIM approval/social audit; diversion boundary | Lesson 6 |
 | GIM historical 5+5 mha framework | Lesson 7 |
 | NAPCC mission count: eight original; nine in the current Government description with the National Mission on Climate Change and Human Health | Lesson 7; register notes |
 | Revised GIM 2021-2030: 24 mha convergence and 1 mha mission-specific intervention | Lessons 7 and 10 |
+| GIM dashboard updated 11 September 2026: direct 1,84,467 ha and wider convergence indicators | Lesson 7; register notes |
 | GIM ecosystem services and livelihoods | Lesson 7 |
 | GIM micro-ecosystem approach and components | Lesson 8 |
 | JFMC micro-plans, Gram Sabha approval, FDA/SFDA and State Perspective Plans | Lesson 8 |
@@ -2746,13 +2831,14 @@ conclude: compensation mitigates; it does not erase loss
 | Green Credit Rules, 2023 legal basis and Registry/platform architecture; G.S.R. 592(E) plantation eligibility, non-tradability and limited holding-company/subsidiary transfer | Lesson 10; register notes |
 | Economic Survey “Afforestation and Green Credit Programme” formulation and exact scope | Lesson 10; register notes |
 | 100-km border exemption, separate 10-ha/5-ha clauses and conditional safeguards | Lesson 11; revision notes; register notes |
-| 2023 amendment, 12 December 1996 proviso, February 2024 interim direction, March-August docket steps and 16 September 2026 legal/procedural status update | Lesson 11; remediation; register notes |
-| Legal forest / recorded area / forest cover distinction | Lesson 11 |
+| 2023 amendment, commencement, 0.10-ha/plantation/strategic exclusions, non-forest-purpose provisions and Rule 16 | Lesson 11; register notes |
+| February 2024 interim direction and officially verified March-August 2026 procedural status | Lesson 11; remediation; register notes |
+| Legal forest / recorded area / exact FSI forest-cover threshold | Lesson 11 |
 | REDD+, Plan Vivo and community forest carbon | Lesson 12 |
-| New York Declaration on Forests evidence categories and verified Booklet B Q44 | Lesson 12; PYQ index |
-| Hyderabad Tree City institutional attribution and verified Booklet B Q57 | Lesson 12; PYQ index |
+| New York Declaration on Forests evidence categories and verified local-paper Q24 | Lesson 12; PYQ index |
+| Hyderabad Tree City institutional attribution and verified local-paper Q97 | Lesson 12; PYQ index |
 | Carbon-commodification objection and qualified reply | final optional Advanced refinement |
-| Verified 2019/2021 PYQs and provisionally sourced 2026 PYQ | Lessons 3 and 12; final PYQ index |
+| Verified official/local 2019, 2021 and 2026 PYQs; provisional 2026 key kept answer-neutral | Lessons 3 and 12; final PYQ index |
 | Lesson-local concept check/model/misconception | Every lesson |
 | Distinct lesson-local Mains model and rubric | Every lesson |
 | Final solved 10/15/20 Mains practice | Final Mains section |
@@ -2764,33 +2850,32 @@ conclude: compensation mitigates; it does not erase loss
 
 | Category | Status | Evidence or reason |
 |---|---|---|
-| Canonical Markdown | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\12_Forest-Governance-CAMPA-and-Green-India-Mission.md` was audited for the statutory fund chain, CAMPA-GIM distinction, targets, rights linkage and exam traps. |
+| Canonical Markdown | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\12_Forest-Governance-CAMPA-and-Green-India-Mission.md` was audited for the statutory fund chain, CAMPA-GIM distinction, targets, rights linkage and exam traps. Its lines 293–328 are unrelated sociology contamination; that block was quarantined, supplied no content or coverage credit, and the topic audit was rerun against the valid Environment material. |
 | Final learner package | not relevant | Permanently excluded from live-session work by the governing source-exclusion rule. |
 | Layered/complete session | checked | Complete required benchmark sessions checked at `live_sessions\Philosophy-Optional\01-Nyaya-Vaisesika\Learning-Session-Live-Edition.md`, `live_sessions\Philosophy-Optional\06-Yoga\Learning-Session-Live-Edition.md` and `live_sessions\Philosophy-Optional\07-Mimamsa\Learning-Session-Live-Edition.md`. |
 | Solved workbook | not relevant | Permanently excluded from live-session work by the governing source-exclusion rule. |
 | Advanced dossier | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\12_Forest-Governance-CAMPA-and-Green-India-Mission.md` was audited for ecological incommensurability, utilisation, convergence and statute-versus-judgment qualifications. |
-| OCR books | checked | Majid Husain, *Indian & World Geography*, PDF pp. 145–151, supports succession, biomes and ecosystem-function background; *Economic Survey 2025-26*, Chapter 10 extract, paragraph 10.91, PDF p. 37 / printed p. 413, supports the exact afforestation/green-credit formulation. |
-| PYQs through 2026 | checked | Routing evidence: `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2018-2023.md` for the 2019 and 2021 questions and `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2026.md` for provisional 2026 Set A Q40. The local scan `upsc-agent-ocr-backups\2026-07-20\prelima_question_paper_answers\2026-GS1-Set A.pdf` has SHA-256 `fe24942dc644fbf6815619892c0f1c07f956eebc78e15a932bc4087c171bf0f7`; its wording remains provisional because the scan is not UPSC-hosted. Booklet-matched public 2019 and 2021 scans are linked below, and all four first appearances remain answer-neutral. |
+| OCR books | checked | `books\Indian & World Geography - Husain, Majid_Compressed.pdf`, PDF pp. 145–151, supports ecosystems, biome structure and forest-versus-open-ecosystem distinctions. `books\economic-survey-2025-26.pdf`, PDF p. 464 / printed p. 413, paragraph 10.91, supports the exact afforestation/green-credit formulation. The similarly named `books\Indian-geography-majid-hussain.pdf` has no usable topic text on PDF pp. 145–151 and was not used. |
+| PYQs through 2026 | checked | Routing evidence: `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2018-2023.md` and `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2026.md`. Official/local papers: `books\more_previous_papers\csp-p1.pdf` SHA-256 `df4eb0076267bd000f12cb42626bcc0a394ef81ccf5e87458bde0f5d00f319d2`; `books\more_previous_papers\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf` SHA-256 `932a5f61b0f623a731c8210645089b70de2c404489565f446bc0766bd27b2325`; `books\prelima_question_paper_answers\2026-GS1-Set A.pdf` SHA-256 `94b52a2f857fb2d0b8264d47f68c46da4eb7d4051c21ebecf66a2682cdf5f311`. The separate key `books\prelima_question_paper_answers\Ans-2026-GS1-Provisional.pdf` SHA-256 `c760abdf2ba0b6e78228e0c5a6dc5c42011b3636df304b03d72eed5509768b33` is provisional and was not used to state or infer an answer. All displayed PYQ linkages remain answer-neutral. |
 | Official live sources | checked | Public statutes, Gazette notifications, Ministry material, court records and institutional pages are listed below. |
 
 ## Public sources
 
 | Source and institution | Date or status | Substantive claim supported |
 |---|---|---|
-| [Compensatory Afforestation Fund Act, 2016 — National CAMPA](https://nationalcampa.nic.in/dashboard/ActAndRulesPDF/66c6fd8eb6b6b.pdf) and [Compensatory Afforestation Fund Rules, 2018 — National CAMPA](https://nationalcampa.nic.in/dashboard/ActAndRulesPDF/66c6fdb1e7c20.pdf) | Act PDF pp. 2–5; Rules PDF pp. 27–31 | National/State funds and authorities, Public Account placement, 90:10 transfer, Annual Plan of Operation and permitted-use architecture. |
+| [Compensatory Afforestation Fund Act, 2016 — National CAMPA](https://nationalcampa.nic.in/dashboard/ActAndRulesPDF/66c6fd8eb6b6b.pdf) and [Compensatory Afforestation Fund Rules, 2018 — National CAMPA](https://nationalcampa.nic.in/dashboard/ActAndRulesPDF/66c6fdb1e7c20.pdf) | Act definitions and sections 3–6; Rules 5–6 and prescribed accounts | Ordinary/additional/penal CA separation; NPV; Public Accounts; fresh and historical 90:10 mechanics; interest-bearing/non-lapsable funds; component accounts; no duplication; NPV 80:20; interest 60:40; Gram Sabha/VFMC consultation and FRA-conformity proviso. |
 | [Original Green India Mission document — MoEFCC](https://moef.gov.in/uploads/2017/08/GIM_Mission-Document-1.pdf) and [Revised Green India Mission 2021–2030 — MoEFCC/NAPCC portal](https://napccindia.moef.gov.in/uploads/2026/09/1789207182206-03-green-india-revised-mission.pdf) | Original PDF p. 8; revised PDF pp. 9–12 and 40–48 | Historical 5+5 mha, household and carbon objectives; revised 24 mha convergence, 1 mha mission intervention, institutions, dashboard and monitoring design. |
+| [Official NAPCC Green India Mission dashboard](https://napccindia.moef.gov.in/napcc/mission/nmgi) | Last updated 11 September 2026; indicator status dates March/July 2026 | Direct GIM eco-restoration of 1,84,467 ha since 2015-16 across 17 States and one UT; wider 19.98 mha, 22.5 mha and 2.29 BtCO2e indicators, which require convergence/attribution qualification. |
 | [National CAMPA Governing Body review — Press Information Bureau, PRID 2283233](https://www.pib.gov.in/PressReleasePage.aspx?PRID=2283233&reg=3&lang=1) and [FAO Harit-SANKALP note](https://www.fao.org/india/news/detail/moef-cc-launches-harit-sankalp--india-s-first-digital-seed-traceability-platform--in-collaboration-with-fao/en) | 10 July 2026; institutional note | Digital APO operationalisation, GIS Lab establishment and presented Harit-SANKALP progress; unique identifiers, QR traceability and planting-material workflow. |
-| [Forest (Conservation) Amendment Act, 2023 — Gazette of India](https://egazette.gov.in/WriteReadData/2023/247866.pdf) | 4 August 2023 | Renaming, statutory scope, the 12 December 1996 proviso, the qualified 100-km strategic-linear-project exemption and separate 10-hectare and 5-hectare clauses. |
-| [Ashok Kumar Sharma v. Union of India — Supreme Court interim order](https://api.sci.gov.in/supremecourt/2023/40155/40155_2023_1_22_50541_Order_19-Feb-2024.pdf) | 19 February 2024 | Interim continuation of the broader forest meaning while States and Union Territories compile records. |
-| [Godavarman docket evidence: 16 March order](https://api.sci.gov.in/supremecourt/1995/2997/2997_1995_1_54_69543_Order_16-Mar-2026.pdf), [13 April account with linked court record](https://www.scobserver.in/journal/t-n-godavarman-after-800-applications-faces-a-questionnaire-test/), [19 June order](https://api.sci.gov.in/supremecourt/1995/2997/2997_1995_1_802_71835_Order_19-Jun-2026.pdf), [4 August daily order](https://indiankanoon.org/doc/143865129/) and [11 August Registry circular](https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133619a60c30f3559e/uploads/2026/08/2026081156.pdf) | March–August 2026 | Categorisation, 800-plus applications, questionnaire and Registrar-level triage, extension sequence, 75 responses, final three-week opportunity and non-prosecution consequence. |
-| [Ashok Kumar Sharma hearing report — ETV Bharat](https://www.etvbharat.com/en/bharat/sc-to-test-forest-definition-under-conservation-act-leaves-land-disputes-to-hcs-enn26091605494) | 16 September 2026 hearing | The Court confined W.P.(C) No. 1164/2023 to the constitutional-validity challenge and left parcel-specific disputes to High Courts; the report records no final merits disposition. |
+| [Forest (Conservation) Amendment Act, 2023 — Gazette of India](https://egazette.gov.in/WriteReadData/2023/247866.pdf) | 4 August 2023; operative with the 2023 Rules from 1 December 2023 | Current title, section 1A scope, 12 December 1996 proviso, 0.10-ha access and plantation exclusions, qualified 100-km/10-ha/5-ha clauses, and amended non-forest-purpose provisions. |
+| [Van (Sanrakshan Evam Samvardhan) Rules, 2023 — India Code](https://www.indiacode.nic.in/bitstream/123456789/67901/1/van_%28sanrakshan_evam_samvardhan%29_rules%2c_2023.pdf) and [Ashok Kumar Sharma v. Union of India — Supreme Court interim order](https://api.sci.gov.in/supremecourt/2023/40155/40155_2023_1_22_50541_Order_19-Feb-2024.pdf) | Rules effective 1 December 2023; order dated 19 February 2024 | Rule 16 consolidated record of forest-like, unclassed and community forest lands; interim continuation of the broader forest meaning while the record exercise is completed. |
+| [Godavarman docket: Supreme Court 16 March order](https://api.sci.gov.in/supremecourt/1995/2997/2997_1995_1_54_69543_Order_16-Mar-2026.pdf), [19 June order](https://api.sci.gov.in/supremecourt/1995/2997/2997_1995_1_802_71835_Order_19-Jun-2026.pdf) and [official 11 August Registry circular](https://cdnbbsr.s3waas.gov.in/s3ec0490f1f4972d133619a60c30f3559e/uploads/2026/08/2026081156.pdf) | March–August 2026 | Primary-source evidence that the later docket activity concerned procedural management; none of these records states a merits reversal of the February 2024 forest-scope direction. |
 | [Green Credit Rules, 2023 — Gazette of India](https://egazette.gov.in/WriteReadData/2023/249377.pdf) | 12 October 2023 | Registry, approved domestic trading platform, legal distinction from carbon credits and non-tradability of credits used to meet an existing legal obligation. |
 | [Revised tree-plantation Green Credit methodology, G.S.R. 592(E) — Gazette of India](https://egazette.gov.in/WriteReadData/2025/265796.pdf) | 29 August 2025; PDF pp. 3–4 | Minimum five-year restoration period, minimum 40 per cent canopy density, surviving-tree calculation, plantation-credit non-tradability and non-transferability except between a holding company and its subsidiary companies, and extinguishment after permitted use. |
 | [National Mission on Climate Change and Human Health — official NAPCC Dashboard](https://napccindia.moef.gov.in/napcc/mission/nmcch) | Current official mission dashboard | Exact ninth-mission name, NMCCHH abbreviation, nodal Ministry and the dashboard's nine-mission NAPCC framing. |
 | [Economic Survey 2025-26, Chapter 10 — Government of India](https://www.indiabudget.gov.in/economicsurvey/doc/eschapter/echap10.pdf) | Paragraph 10.91, PDF p. 37 / printed p. 413 | “Afforestation and Green Credit Programme” formulation and its stated public/private participation and restoration purpose. |
-| [UPSC Prelims 2019 GS-I Booklet B scan — ClearIAS mirror](https://www.clearias.com/up/UPSC-Civil-Services-Preliminary-Exam-2019-Question-Paper-Download-General-Studies-Paper-1-ClearIAS.pdf) | Booklet B Q78; PDF p. 16 / printed p. 33 | Exact-paper evidence for the CAMPA question reproduced neutrally in Lesson 3. |
-| [UPSC Prelims 2021 GS-I Booklet B scan — ClearIAS mirror](https://www.clearias.com/up/upsc-prelims-2021-question-paper-general-studies-paper-1.pdf) | Booklet B Q44 at PDF p. 11 / printed p. 21; Q57 at PDF p. 14 / printed p. 27 | Exact-paper evidence for the New York Declaration on Forests and Tree Cities questions reproduced neutrally in Lesson 12. |
-| [UPSC Prelims 2026 GS-I Set A exact public scan — non-UPSC host](https://r2.anantamias.com/wp-content/uploads/2026/05/UPSC-prelims-2026-gs-question-paper-set-a-english.pdf) | **Provisional source status**; Set A Q40; PDF p. 23 / printed p. 19-A | Exact publicly reproducible scan evidence for the Plan Vivo-certified REDD+ question; wording and numbering remain provisional pending an official UPSC-hosted paper match. |
-| [Tree Cities of the World — Food and Agriculture Organization](https://www.fao.org/newsroom/detail/The-Arbor-Day-Foundation-and-the-Food-and-Agriculture-Organization-of-the-United-Nations-%28FAO%29-recognise-120-Tree-Cities-of-the-World/en) | 2020 recognition announced in 2021 | FAO–Arbor Day Foundation institutional association and Hyderabad's recognition for urban-forest commitment. |
-| [New York Declaration on Forests action statement and endorser list — UNFCCC](https://unfccc.int/media/514893/new-york-declaration-on-forests_26-nov-2015.pdf) | PDF pp. 2 and 4 | 2014 Climate Summit setting, non-legally binding political character, forest-loss timeline, multi-stakeholder endorsement and the national-government list at inception. |
-| [Khasi Hills Community REDD+ Project — Plan Vivo](https://www.planvivo.org/projects/khasi-hills-community-redd-project-india) | Current institutional project record | Project identity, Plan Vivo project status, India's first community-based REDD+ description and community forest-governance design. |
+| Official/local UPSC Prelims papers listed in the source-manifest row above | 2019, 2021 and 2026 | Exact question-paper evidence for the four answer-neutral linkages; booklet numbering is reported only for the specific paper held, and the separate 2026 key remains provisional. |
+| [Forest Survey of India forest-cover definition](https://www.fsi.nic.in/uploads/documents/dataset-two.pdf) | Current methodology used with ISFR reporting | Forest cover: land at least 1 ha with at least 10 per cent tree-canopy density, irrespective of ownership/legal status; may include orchards, bamboo and palm. |
+| [Tree Cities of the World programme record](https://www.fao.org/newsroom/detail/The-Arbor-Day-Foundation-and-the-Food-and-Agriculture-Organization-of-the-United-Nations-%28FAO%29-recognise-120-Tree-Cities-of-the-World/en) | 2020 recognition announced in 2021 | Primary programme record used to audit institution, programme year and stated recognition basis without recording a PYQ verdict. |
+| [New York Declaration on Forests action statement and endorser list — UNFCCC](https://unfccc.int/media/514893/new-york-declaration-on-forests_26-nov-2015.pdf) | PDF pp. 2 and 4 | Primary declaration and endorser evidence used to audit the five tested attributes without recording statement truth values. |
+| [Plan Vivo institutional project registry](https://www.planvivo.org/projects) | Current institutional registry | Primary registry used to audit project identity, geography, community basis, REDD+ character and certification status without recording the linked PYQ option. |
