@@ -4,9 +4,11 @@ import unittest
 
 from release_live_session import ROOT, matching_index_rows
 from validate_live_session import (
+    EXCLUDED_SOURCE_CATEGORIES,
     SOURCE_CATEGORIES,
     ValidationFailure,
     natural_variation,
+    normalize_newlines,
     parse_source_manifest,
 )
 
@@ -28,10 +30,26 @@ class NaturalVariationTests(unittest.TestCase):
         self.assertFalse(natural_variation([2, 3, 5]))
 
 
+class NewlineNormalizationTests(unittest.TestCase):
+    def test_normalizes_lf_crlf_and_cr(self) -> None:
+        expected = "# Heading\n| A | B |\n"
+        for raw in (
+            expected,
+            "# Heading\r\n| A | B |\r\n",
+            "# Heading\r| A | B |\r",
+        ):
+            with self.subTest(raw=repr(raw)):
+                self.assertEqual(normalize_newlines(raw), expected)
+
+
 class SourceManifestTests(unittest.TestCase):
     def manifest(self, omit: str | None = None) -> str:
         rows = [
-            f"| {category} | checked | exact path or documented evidence |"
+            (
+                f"| {category} | "
+                f"{'not relevant' if category in EXCLUDED_SOURCE_CATEGORIES else 'checked'} "
+                "| exact path or documented evidence |"
+            )
             for category in SOURCE_CATEGORIES
             if category != omit
         ]

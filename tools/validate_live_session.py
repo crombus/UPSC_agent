@@ -60,6 +60,10 @@ LANGUAGE_FINAL_ARCS = {
         "स्रोत-लेजर और आठ-पंक्ति manifest",
     ],
 }
+
+
+def normalize_newlines(raw: str) -> str:
+    return raw.replace("\r\n", "\n").replace("\r", "\n")
 PROHIBITED_PATTERNS = [
     r"This option claims that",
     r"That conflicts with the distinction tested here",
@@ -388,6 +392,7 @@ def validate(
     ]
     if trailing:
         fail(f"trailing whitespace on lines: {trailing[:10]}")
+    raw = normalize_newlines(raw)
 
     profile = language_profile(path)
     if profile:
