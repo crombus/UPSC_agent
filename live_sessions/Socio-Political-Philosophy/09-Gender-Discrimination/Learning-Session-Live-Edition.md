@@ -1,2534 +1,3733 @@
-# Gender Discrimination
+# Gender Discrimination — Complete Learner-First Live Session
 
-**Canonical title:** Gender Discrimination
-**Printed syllabus:** Gender Discrimination: Female Foeticide, Land and Property Rights; Empowerment.
-**Level:** Learner-first, concept-sensitive, PYQ-complete through 2026
+> **UPSC Philosophy Optional · Paper II · Socio-Political Philosophy**
+>
+> **Printed syllabus:** “Gender Discrimination : Female Foeticide, Land and Property Rights; Empowerment.”
+>
+> **Learning promise:** The session begins with ordinary puzzles, then develops the canonical
+> distinctions, arguments, presuppositions, examples, objections, replies and residual problems
+> required by Clause 9 and every verified primary-owned PYQ from 2018–2026. The complete Core is
+> independently answer-ready. Advanced and Expert material is clearly bounded and optional.
 
-## How to use this live edition
+## Evidence and scope key
 
-This topic is not three disconnected social issues. It asks one philosophical question through three applications:
+- **Canonical** — doctrine or attributed framework stated in the approved Gender Discrimination owner.
+- **Analytical** — a reasoned synthesis licensed by that owner and Clause 9.
+- **Contested** — a live philosophical disagreement that must not be written as settled fact.
+- **Legal illustration** — a dated legal or administrative fact; never proof that social equality has
+  already been achieved.
 
-> How do norms, institutions and distributions convert a sexed or gendered classification into unequal status, constrained agency and durable hierarchy?
+## Cross-topic firewall
 
-The learning sequence therefore moves from construction and feminist diagnosis to structural injustice, and only then to female foeticide, property and empowerment. Each lesson contains a visual, conceptual argument, objections and replies, revision notes, and adaptive MCQs. The final arc supplies verified PYQ approaches, cumulative practice, original solved Mains questions, remediation, maps, register notes, a coverage matrix and a source ledger.
+| This session owns | It may use only as a bounded bridge | It does not absorb |
+|---|---|---|
+| sex/gender distinctions; gender hierarchy; feminist diagnoses; female foeticide; gendered land/property rights; empowerment | equality theory, capability language, multicultural tension, caste-mediated gender mechanisms, rights and political ideology | the full theories of equality, development, multiculturalism, caste, abortion, succession law or political ideologies |
+| women-specific analysis in the three printed applications | intersectional variation where it changes the gender mechanism | caste as an independent complete topic |
+| Indian legal illustrations with date, status and conversion caveat | one named mechanism from an adjacent owner when necessary | legal detail as a substitute for philosophical argument |
 
-## Dependency roadmap
+**Thinker discipline:** Beauvoir, Butler, Wollstonecraft, J. S. Mill and Harriet Taylor Mill,
+Crenshaw, bell hooks, Young, Gilligan, Pateman, Okin, Kabeer, Agarwal, Sen and Nussbaum appear only
+where they execute an owned distinction. A name never replaces an argument.
 
-| Stage | Lessons | Dependency question | Exam conversion |
-|---|---:|---|---|
-| Foundation | 1–2 | What are sex, gender and gender hierarchy, and how can identity be socially constituted without becoming unreal? | 2019 Q3(b), 2022 Q3(b), 2025 Q1(b) |
-| Diagnosis | 3–4 | Where do rival feminisms locate subordination, and how is it reproduced across public and private institutions? | 2018 Q4(c), 2019 Q1(e) |
-| Equality | 5 | Why do formal equality and sameness fail to exhaust justice? | Equality–empowerment synthesis |
-| Female foeticide | 6–7 | How does discriminatory valuation become sex selection, and why is technology an instrument rather than the origin? | 2018 Q4(b), 2021 Q4(b), 2023 Q3(c), 2024 Q4(a) |
-| Property | 8–9 | When does title become effective control, bargaining power and exit? | 2021 Q1(e), 2023 Q1(c), 2026 Q2(b) |
-| Empowerment | 10–11 | What converts resources into agency and achievements, and how do capability and care refine the account? | 2020 Q4(a), 2024 Q4(a) |
-| Integration | 12–14 | How do redistribution, recognition, representation and intersectionality combine without erasing topic boundaries? | Whole-topic evaluation |
+## How the three learning tiers work
+
+```text
+MUST-NEEDED / CORE
+All 70 Clause-9 demands + all 13 verified primary-owned PYQs
+                       |
+                       | independently sufficient
+                       v
+OPTIONAL ADVANCED DEPTH
+Second-order tensions and selective refinements
+                       |
+                       | one move at most unless the stem invites more
+                       v
+BOUNDED EXPERT REFERENCE
+Precision devices with explicit deployment and stop rules
+```
+
+1. **Must-Needed/Core** contains every definition, distinction, mechanism, application and
+   objection needed for the printed clause and verified PYQs.
+2. **Optional Advanced** sharpens evaluation but is never required to understand the Core.
+3. **Bounded Expert Reference** is a precision bench, not a licence to display scholarship.
+4. **Promotion rule:** anything directly required by a verified PYQ is Core even if it is
+   theoretically sophisticated.
+
+## Dependency-led roadmap
+
+| Tier | Stage | Lesson | Dependency and purpose |
+|---|---|---:|---|
+| Core | Foundation | 1 | Difference, discrimination, sex, gender and Beauvoir |
+| Core | Foundation | 2 | Social construction, performativity and category scope |
+| Core | Core | 3 | Patriarchy, structural injustice, feminist diagnoses and equality/difference |
+| Core | Application | 4 | Female foeticide: valuation, autonomy, technology and social imbalance |
+| Core | Application | 5 | Land/property: title, access, control, return, security and equality |
+| Core | Application | 6 | Empowerment: resources, agency, achievements and strategic choice |
+| Core | Core | 7 | Rights, autonomy, care, embodiment and capability |
+| Core | Core | 8 | Intersectionality, representation and the public/private boundary |
+| Core | Debate | 9 | Liberal, radical, Marxist and socialist feminism; equality under socialism |
+| Core | Synthesis | 10 | Integrated Indian applications and causal conversion chains |
+| Core | Core synthesis | 11 | Directive decoding, marks-sensitive structure and retrieval |
+| Advanced | Enrichment | A1–A4 | Category, transformative equality, care/time and Pateman–Okin comparison |
+| Expert | Reference | E1–E2 | Precision bench, deployment rules and stop rules |
+
+Lessons 1–11 form the complete route. Nothing in the optional tiers is needed to repair a missing
+Core answer.
+
+## Master visual — the whole clause in one view
+
+```text
+SEXED / EMBODIED DIFFERENCE
+          |
+          | receives social meaning through family, labour, law,
+          | inheritance, language, sexuality, care and authority
+          v
+GENDER ORDER
+roles + expectations + rankings + sanctions
+          |
+          v
+PATRIARCHAL STRUCTURE
+norms -> institutions -> allocation -> repeated outcomes
+    |                 |                    |
+    v                 v                    v
+DEVALUED FEMALE   UNEQUAL PROPERTY     CONSTRAINED AGENCY
+LIFE              AND CARE BURDENS      AND PUBLIC VOICE
+    |                 |                    |
+    v                 v                    v
+SEX-SELECTION     TITLE WITHOUT         DISEMPOWERMENT
+AND SOCIAL        CONTROL / RETURN       despite formal rights
+IMBALANCE         / EXIT
+    \____________________|___________________/
+                         v
+             GENDER-JUST TRANSFORMATION
+      rights + resources + capabilities + agency
+       + recognition + representation + accountability
+                         |
+                         v
+QUALIFIED VERDICT: formal equality is indispensable, but it must
+be converted into effective control, bodily security and equal voice.
+```
 
 ---
 
-## Lesson 1 — Sex, Gender and the Production of Hierarchy
+# MUST-NEEDED / CORE LEARNING SESSION
 
-Progress: 1 / 14 | Stage: Foundation | Subtopic: Sex, Gender and the Production of Hierarchy
+## Lesson 1 — When does a difference become discrimination?
 
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried
-CA search: "Not run — timeless conceptual doctrine"
-CA found: None required
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Progress: 1/11 | Stage: Foundation | Subtopic: discrimination, sex, gender and social position
 
-**Preflight detail:**
-
-- **Book context:** OCR chapters on sex roles, equality and feminist critique were checked; they deepen but do not replace the canonical owner.
-- **Current/legal anchor:** None needed for this conceptual lesson.
-- **Distinction to protect:** Sex is not simply “nature” and gender simply “culture”; bodies and social interpretation interact.
-- **Boundary:** This lesson explains classification and hierarchy, not the complete history of feminist movements.
-- **Target:** Convert “gender is socially constructed” from a slogan into a causal argument.
-
-### Visual first
+### Visual: four steps from difference to injustice
 
 ```text
-bodily traits
+BODILY OR SOCIAL DIFFERENCE
+          |
+          | no injustice follows automatically
+          v
+SOCIAL MEANING ATTACHED
+"suited for care" / "not a real heir" / "male as norm"
+          |
+          v
+POWER AND ALLOCATION
+authority · education · mobility · property · safety · time
+          |
+          v
+DISCRIMINATION
+inferior standing, burden or opportunity without adequate justification
+```
+
+*The decisive move is not the existence of difference but its conversion into ranked power.*
+
+### 1. Plain-language entry
+
+Suppose two people differ in reproductive role. Nothing in that fact alone decides who should
+inherit land, leave the home safely, control income, perform unpaid care or hold public authority.
+Discrimination begins when a difference is made to carry an unjust social penalty.
+
+### 2. Canonical doctrine
+
+**Gender discrimination** is unjust differential valuation, opportunity, burden or authority
+assigned through socially organised meanings attached to sex and gender.
+
+| Term | Working meaning | Essential qualification |
+|---|---|---|
+| **Sex** | bodily and reproductive characteristics | biology is real and varied; it does not dictate a complete social destiny |
+| **Gender** | socially produced roles, expectations, identities and meanings | social does not mean imaginary or freely chosen |
+| **Gender hierarchy** | patterned ranking of masculinised and feminised roles | not every difference is discrimination; unjust subordination is the target |
+| **Patriarchy** | a durable order in which male-coded authority and interests receive systemic priority | it is reproduced through institutions as well as attitudes |
+
+### 3. The basic argument
+
+1. Human bodies have real characteristics and variations.
+2. Societies interpret those characteristics through roles and expectations.
+3. Roles distribute education, work, care, mobility, property and authority.
+4. Repeated distributions shape capacities and preferences.
+5. The resulting inequality is then cited as evidence of “natural” incapacity.
+6. Therefore observed inequality cannot establish biological necessity; the institutional pathway
+   must be examined.
+
+**Presupposition:** social practices can shape self-conception, preference and developed capacity.
+
+### 4. Beauvoir: woman as the Other
+
+Simone de Beauvoir’s canonical contribution is that one becomes socially positioned as “woman”;
+femininity is not a destiny mechanically read from anatomy. A male standpoint is treated as the
+unmarked human norm, while woman is constituted as the dependent **Other**.
+
+```text
+MALE = UNMARKED NORM
+          |
+          +--> defines rationality, independence and public agency
+          |
+          v
+WOMAN = "OTHER"
+          |
+          +--> difference is read as deficiency
+          +--> dependence is produced, then called natural
+```
+
+**Example with limit:** If girls are repeatedly discouraged from mobility and technical education,
+lower later participation cannot prove innate incapacity. The example shows a self-confirming norm;
+it does not establish that every individual has the same aspiration or experience.
+
+### 5. Difference, hierarchy and equal standing
+
+Equality does not require denying embodiment. Pregnancy or unequal inherited burdens may justify
+differentiated support. The test is whether a distinction removes a disadvantage and enlarges equal
+standing, or fixes a permanent subordinate essence.
+
+### 6. Strongest objection, reply and residual
+
+**Objection — biological difference:** reproduction makes at least some role differentiation
+natural.
+
+**Reply:** reproductive facts do not determine inheritance, income control, political authority,
+the value of care work or who bears every domestic task. Each social inference requires an
+independent justification.
+
+**Residual:** embodiment still matters. A theory that speaks only of construction may miss
+pregnancy, health, violence and material vulnerability. The defensible position is interaction
+without determinism.
+
+### UPSC application
+
+- **2019 Q3(b):** distinguish “man-made” from unreal; show the institutional production of apparent
+  naturalness.
+- **2022 Q3(b):** define sex and gender, then qualify the contrast rather than making it absolute.
+- **2025 Q1(b):** use the sequence norm → institution → opportunity/right/resource.
+- **Trap:** moral condemnation without a causal mechanism earns little.
+
+### Revision notes
+
+1. Difference is not discrimination until power and unjust ranking enter.
+2. Sex concerns bodily characteristics; gender concerns organised social meaning and role.
+3. Social construction means institutionally real, not fictional.
+4. Beauvoir exposes the male norm and woman’s production as Other.
+5. Observed dependence may be an effect of restricted opportunity.
+6. Biology cannot by itself justify property, authority or care allocation.
+7. Equality may require differentiated, revisable support.
+8. The safe conclusion is embodiment plus interpretation, not biology versus society as absolutes.
+
+### Retrieval drill
+
+1. Give a two-sentence distinction between difference and discrimination.
+2. Reconstruct the six-step argument against biological determinism.
+3. Why does “socially constructed” not mean “easily changed”?
+4. State the limit of Beauvoir’s framework in one line.
+
+---
+
+## Lesson 2 — How does a social construct become real?
+
+Progress: 2/11 | Stage: Foundation | Subtopic: construction, performativity and category scope
+
+### Visual: the construction loop
+
+```text
+EXPECTATION
+"girls care; boys lead"
+    |
+    v
+REPEATED PRACTICE
+speech · dress · labour · mobility · discipline
+    |
+    v
+INSTITUTIONAL REWARD / SANCTION
+approval · exclusion · inheritance · safety · opportunity
+    |
+    v
+APPARENTLY NATURAL IDENTITY
+"this is simply how women/men are"
+    |
+    +---------------- feeds the expectation ----------------+
+```
+
+### 1. Plain-language entry
+
+Money is socially created, but it is not imaginary. Citizenship is institutionally created, but it
+can determine rights. Gender roles work similarly: their origin in social practices does not make
+their effects weak.
+
+### 2. Construction without voluntarism
+
+Gender is embodied through family, language, labour, law, media, custom and sanctions. A person
+does not stand outside these practices and select a role as if selecting clothes from a shelf.
+Construction explains durability because the norm is repeated by many connected institutions.
+
+### 3. Butler’s performativity thesis
+
+Judith Butler’s *Gender Trouble* (1990) moves beyond the standard view that a stable biological sex
+simply receives a cultural gender. **Performativity** means that repeated, socially compelled acts
+produce the appearance of an inner, natural gender identity.
+
+**Reconstructed argument:**
+
+1. The standard model treats sex as a pre-social substrate and gender as later interpretation.
+2. Yet bodies are encountered through categories already shaped by social discourse.
+3. Repeated speech, gesture, dress, movement and role do not merely express identity; they help
+   constitute its publicly intelligible form.
+4. Reiteration makes the product look prior to the process.
+5. Because repetition can fail or vary, the norm is neither absolutely fixed nor freely optional.
+
+**Presupposition:** identity categories are partly effects of practices rather than fully formed
+causes that precede them.
+
+### 4. Three compulsory cautions
+
+| Wrong reading | Correct control |
+|---|---|
+| Butler merely repeats the sex/gender distinction | Butler contests the assumption of a wholly pre-social sex category |
+| Butler denies bodies exist | the claim concerns categorisation and meaning, not bodily non-existence |
+| performativity means a voluntary daily performance | it is compelled reiteration within a normative order |
+
+### 5. The category-stability problem
+
+**Objection:** If “woman” is only an effect of discourse, feminism loses the stable subject for law,
+statistics and collective mobilisation.
+
+**Reply — strategic provisional use:** Political action can use a historically constructed category
+for a specific purpose without claiming it is natural, uniform or permanent.
+
+**Residual:** a provisional category can harden, exclude people who fit badly and reproduce the
+dominant subgroup’s experience. This tension remains live.
+
+### 6. Inclusive category control
+
+Distinguish:
+
+```text
+sex characteristics
+      ≠
+assigned classification
+      ≠
+gender identity
+      ≠
+gender expression
+      ≠
+social role
+```
+
+Transgender, non-binary and gender-nonconforming persons can encounter enforced roles, stigma and
+institutional exclusion. At the same time, the printed applications require women-specific analysis
+of reproduction, inheritance, care and bodily vulnerability. Inclusion must extend the account
+without erasing sex-specific harms.
+
+### 7. Example with limit
+
+A workplace rule that rewards uninterrupted availability can look gender-neutral while penalising
+those assigned disproportionate care. This illustrates constructed institutional disadvantage. It
+does not show that every woman is a caregiver or every man is free of care.
+
+### UPSC application
+
+- **2022 Q3(b):** present the standard sex/gender distinction first; use Butler only as a controlled
+  complication.
+- **2025 Q1(b):** show why norms change opportunities, rights and resources through institutional
+  repetition.
+- **Trap:** never spend most of a foeticide or property answer on Butler.
+
+### Revision notes
+
+1. Construction can be durable because sanctions and allocations embody it.
+2. Performativity is compelled reiteration, not theatrical choice.
+3. Butler contests a simple natural-sex/cultural-gender layering.
+4. Bodily reality and social categorisation are not mutually exclusive.
+5. Feminist politics needs categories but must keep them revisable.
+6. Strategic category use solves coordination only provisionally.
+7. Inclusive scope distinguishes characteristics, assignment, identity, expression and role.
+8. Printed applications remain women-centred without reducing gender to a rigid binary.
+
+### Retrieval drill
+
+1. Define performativity without using the word “performance.”
+2. State the category-stability objection and the residual after the reply.
+3. List the five distinctions in the inclusive category chain.
+4. When should Butler be omitted from an answer?
+
+---
+
+## Lesson 3 — Patriarchy is a structure, not only a prejudice
+
+Progress: 3/11 | Stage: Core | Subtopic: institutions, feminist diagnoses, equality and responsibility
+
+### Visual: the structural mechanism
+
+```text
+NORMS
+daughter as temporary member · man as breadwinner · woman as carer
+  |
+  v
+INSTITUTIONS
+family · property · labour market · education · political organisation
+  |
+  v
+ALLOCATION
+time · income · safety · mobility · inheritance · authoritative voice
+  |
+  v
+OUTCOMES
+dependence · under-representation · constrained choice
+  |
+  +---- outcomes are cited to renew the original norms ----+
+```
+
+### 1. Plain-language entry
+
+A society can contain many well-intentioned individuals and still produce patterned gender
+inequality. The wrong may arise from ordinary rules working together rather than from one central
+designer.
+
+### 2. Patriarchy and structural injustice
+
+Patriarchy is not simply hostility by individual men. It is a pattern in which authority, resources
+and social value systematically favour male-coded roles and interests. Its sites include property,
+care, sexuality, violence, work, family and representation.
+
+Iris Marion Young’s social-connection model supplies a careful responsibility structure:
+
+1. many agents participate in processes producing unequal outcomes;
+2. absence of one author does not remove responsibility;
+3. responsibility can be forward-looking and shared;
+4. duties differ with power, privilege, interest and collective capacity;
+5. shared responsibility does not erase blame for identifiable personal wrongdoing.
+
+### 3. Public and private are connected
+
+```text
+PRIVATE-SPHERE ARRANGEMENTS              PUBLIC-SPHERE EFFECTS
+unpaid care ---------------------------> less time for education/work
+income controlled by others ----------> weak bargaining and exit
+family violence ----------------------> restricted mobility and voice
+reproductive coercion ----------------> reduced bodily agency
+unequal inheritance ------------------> weaker public independence
+```
+
+The household deserves privacy but not immunity for domination. Public equality is partly produced
+inside domestic relations.
+
+### 4. Pateman and Okin: why domestic relations belong to justice
+
+Carole Pateman’s sexual-contract critique reconstructs a silence within classical contract theory:
+liberal public freedom can presuppose women’s subordination in marriage and domestic life. The claim
+is an **interpretive reconstruction of contract theory’s silences**, not an assertion that a sexual
+contract was signed as a historical event. Its force is diagnostic: a public order cannot count as
+fully free if the domestic relations enabling it remain relations of subordination.
+
+Susan Moller Okin argues that the family is an object of justice because household arrangements
+distribute time and care, shape self-respect, and condition education, work, income and public
+opportunity. The family is therefore not a pre-political zone to which justice is irrelevant.
+
+**Limit:** justice should secure fair background conditions, voice and protection against
+subordination without regulating every affection or personal choice. Bounded intimate autonomy
+remains valuable; privacy protects intimacy, but it cannot immunise domination.
+
+### 5. Main feminist diagnoses
+
+| Approach | Primary diagnosis | Canonical remedy | Strongest internal limit |
+|---|---|---|---|
+| **Liberal feminism** | unequal law, education and opportunity | equal rights, education, access and anti-discrimination | formal reform may leave household and cultural power intact |
+| **Radical feminism** | patriarchy in sexuality, body, family and violence | transform intimate and cultural power relations | can universalise one account of women’s experience |
+| **Marxist feminism** | private property and class relations structure women’s dependence | transform ownership and social production | cannot assume patriarchy is merely derivative of class |
+| **Socialist feminism** | capitalism and relatively autonomous patriarchy interact | transform production and social reproduction | dual-system interaction can become vague |
+| **Intersectional feminism** | institutions work differently across social locations | mechanism-specific anti-domination and coalition | multiplication of categories can obscure a common project |
+| **Capability approach** | nominal resources do not ensure real freedom | secure bodily integrity, practical agency and effective options | thresholds and interpretation invite paternalism concerns |
+
+### 6. Bounded liberal thinkers
+
+- **Mary Wollstonecraft:** apparent female incapacity is cultivated through denied education and
+  dependence; equal rational and moral standing requires serious education.
+- **J. S. Mill and Harriet Taylor Mill:** law and custom jointly manufacture subjection; removal of
+  legal disability must be joined to social liberty.
+
+**Limit:** naming these thinkers does not show how a present institution reproduces hierarchy.
+
+### 7. Formal, substantive and relational equality
+
+| Form | Central question | Failure if isolated |
+|---|---|---|
+| **Formal equality** | is the same legal rule applied? | unequal starting positions and hidden male norms may remain |
+| **Substantive equality** | do burdens, capabilities and effective outcomes change? | officials must justify which differences matter |
+| **Relational equality** | can persons meet without domination, stigma or servility? | status change still needs material support |
+
+### 8. The sameness/difference dilemma
+
+```text
+SAME TREATMENT
+  benefit: rejects inferior status
+  risk: male life-pattern remains the baseline
+
+DIFFERENTIATED SUPPORT
+  benefit: responds to pregnancy, care or inherited exclusion
+  risk: freezes women into a permanent "different" role
+
+TRANSFORMATIVE TEST
+  Does the measure remove an unfair burden, enlarge capability
+  and remain proportionate and revisable?
+```
+
+### 9. Strongest objections, replies and residuals
+
+**Choice objection:** unequal outcomes express preferences.
+
+**Reply:** preferences may adapt to dependency, sanction and restricted options. Respecting choice
+requires available alternatives and acceptable costs.
+
+**Residual:** analysts can become paternalistic when they decide which preferences are authentic.
+
+**Reverse-discrimination objection:** targeted support violates equal treatment.
+
+**Reply:** proportionate, reviewable differentiation can dismantle status hierarchy and secure equal
+citizenship.
+
+**Residual:** a remedy can outlive its justification or essentialise its beneficiaries.
+
+### UPSC application
+
+- In every answer identify whether the injury is distributive, recognitive, relational or a denial
+  of agency.
+- **2018 Q4(c):** formal equality alone cannot exhaust feminism; empowerment without transformed
+  structures also fails.
+- **2025 Q1(b):** Young supplies responsibility without reducing the answer to personal prejudice.
+
+### Revision notes
+
+1. Patriarchy is institutional priority, not just conscious bias.
+2. Structural injustice may have no single designer.
+3. Forward-looking responsibility varies with power and capacity.
+4. Household arrangements shape public opportunity.
+5. Pateman reconstructs how liberal public freedom may presuppose domestic subordination; this is
+   an interpretive critique, not a historical-event claim.
+6. Okin makes the family an object of justice because time, care and self-respect condition public
+   opportunity, while bounded intimate autonomy remains valuable.
+7. Liberal, radical, Marxist and socialist feminisms diagnose different mechanisms.
+8. Formal, substantive and relational equality are distinct.
+9. Sameness can conceal a male norm; accommodation can freeze difference.
+10. Transformative equality asks whether capability and power change.
+11. Adaptive preference qualifies the appeal to choice.
+12. Targeted measures must be proportionate, revisable and anti-hierarchical.
+
+### Retrieval drill
+
+1. Explain why structural responsibility is not collective guilt.
+2. Contrast liberal and radical feminism in four lines.
+3. State the sameness/difference dilemma and its decision test.
+4. Give one private-to-public causal chain.
+5. Distinguish Pateman’s sexual-contract critique from a claim about a historical event.
+6. Why does Okin make the family an object of justice, and what limit protects intimacy?
+
+---
+
+## Lesson 4 — Female foeticide: the wrong is discrimination before demography
+
+Progress: 4/11 | Stage: Application | Subtopic: sex selection, agency, technology and social imbalance
+
+### Visual: the complete causal chain
+
+```text
+SON PREFERENCE
+patrilineal lineage · old-age expectations · unequal property
+dowry/marriage costs · lower female earning/status
+          |
+          v
+FAMILY AND SOCIAL PRESSURE
+constrained reproductive agency
+          |
+          v
+DIAGNOSTIC TECHNOLOGY MISUSED
+instrument / enabler, not origin
+          |
+          v
+DISCRIMINATORY SEX-SELECTION
+female status becomes a reason for exclusion from birth
+          |
+          +--> intrinsic wrong: denial of equal dignity
+          |
+          +--> cumulative consequence: demographic absence /
+               possible coercion, trafficking and violence
+```
+
+### 1. Define before evaluating
+
+**Female foeticide**, for this clause, is sex-selective termination because the foetus is identified
+or presumed to be female. The owned philosophical wrong is discriminatory devaluation of daughters.
+
+| Do not conflate | Correct distinction |
+|---|---|
+| abortion generally | raises broader questions of moral status, bodily autonomy and state coercion |
+| sex-selective termination | focuses on discriminatory reason and patterned son preference |
+| prenatal diagnosis | has legitimate medical uses and can be discriminatorily misused |
+| female infanticide | is post-birth killing and is conceptually distinct |
+
+### 2. Causes as a normative structure
+
+The owner identifies:
+
+- patrilineal inheritance and lineage;
+- expectations of sons as economic or ritual support;
+- dowry and marriage costs;
+- unequal property and earning power;
+- family pressure and constrained reproductive agency;
+- technology as an instrument of a prior bias.
+
+The structure matters because a list of “causes” can otherwise sound as if injustice mechanically
+excuses the decision. Explanation is not justification.
+
+### 3. Moral argument
+
+1. A female status is made a reason for exclusion from birth.
+2. Repeated decisions communicate that daughters have lower worth.
+3. Pregnant women may themselves act under threats, dependence or family coercion.
+4. The wrong therefore includes discriminatory valuation and constrained agency.
+5. Remedy must alter property, security, status and accountability as well as regulate misuse.
+
+### 4. Sen’s “missing women” lens
+
+Amartya Sen’s formulation directs attention to cumulative demographic absence produced through
+unequal care, health, nutrition, survival and birth choices. It broadens the analysis beyond a
+single prenatal act.
+
+**Qualification:** no number, ratio, State claim or current statistic is needed here. The
+philosophical point is structural accumulation.
+
+### 5. Why social imbalance is secondary
+
+A distorted sex composition can intensify trafficking, coercive marriage and violence. Yet
+female foeticide is wrong first because equal dignity is denied. “Society needs women” repeats
+instrumental valuation if it becomes the main argument.
+
+### 6. Autonomy and regulation
+
+**Autonomy objection:** regulation may police pregnant women and weaken reproductive agency.
+
+**Reply:** target discriminatory diagnostic/commercial practices, coercive family structures and
+providers while protecting health and bodily agency.
+
+**Residual:** enforcement can still burden the very women it seeks to protect; institutional design
+and accountability remain necessary.
+
+### 7. Technology thesis
+
+**Claim:** technology causes female foeticide.
+
+**Evaluation:** technology changes feasibility and scale but does not generate son preference.
+The same diagnostic capacity can serve legitimate medical purposes.
+
+**Verdict:** technology is an enabler within a patriarchal valuation structure, not the sole cause.
+
+### 8. Indian illustrations, accurately bounded
+
+- **Pre-Conception and Pre-Natal Diagnostic Techniques (Prohibition of Sex Selection) Act, 1994:**
+  enacted regulatory and penal statute.
+- **Beti Bachao Beti Padhao, 2015:** Union government administrative programme.
+
+Neither existence nor launch proves enforcement, changed preference or social success.
+
+### 9. Remedy map
+
+```text
+REGULATE MISUSE
+        +
+EQUAL PROPERTY AND ECONOMIC SECURITY
+        +
+EDUCATION, HEALTH AND BODILY SAFETY
+        +
+SOCIAL SECURITY NOT DEPENDENT ON SONS
+        +
+HOUSEHOLD VOICE AND PUBLIC ACCOUNTABILITY
+        =
+ATTACK BOTH MEANS AND MOTIVE
+```
+
+### UPSC application
+
+- **2018 Q4(b):** begin with discriminatory selection, not a general abortion essay.
+- **2021 Q4(b):** answer the “technology only?” limb explicitly.
+- **2023 Q3(c):** build discrimination → selection → imbalance while preserving intrinsic dignity.
+- **2024 Q4(a):** explain how empowerment changes valuation and reproductive bargaining, then state
+  why the effect is not automatic.
+
+### Revision notes
+
+1. Female foeticide is discriminatory sex selection, not a synonym for all abortion.
+2. Son preference is embedded in lineage, property, care and security expectations.
+3. Technology enables; it does not create the discriminatory reason.
+4. Coercion can operate through dependence rather than overt force.
+5. Equal dignity is the primary moral ground.
+6. Demographic imbalance is a secondary consequence.
+7. Sen’s lens is cumulative and not exclusively prenatal.
+8. Regulation must protect bodily autonomy.
+9. PCPNDT is a 1994 enacted statute; a statute is not proof of social change.
+10. Effective remedy attacks both diagnostic misuse and underlying valuation.
+
+### Retrieval drill
+
+1. Distinguish abortion, sex selection, diagnosis and infanticide.
+2. Give the five-step moral argument.
+3. Why is the demographic argument insufficient?
+4. State the strongest answer to the technology-only thesis.
+
+---
+
+## Lesson 5 — Property: why title can exist without power
+
+Progress: 5/11 | Stage: Application | Subtopic: ownership, control, bargaining and social equality
+
+### Visual: the property-conversion staircase
+
+```text
+1. LEGAL TITLE
+   Is her claim recognised?
+          |
+          v
+2. ACCESS / USE
+   Can she possess and use the asset?
+          |
+          v
+3. CONTROL
+   Can she decide cultivation, leasing, sale or investment?
+          |
+          v
+4. RETURN
+   Does she receive the income or benefit?
+          |
+          v
+5. EXIT / SECURITY
+   Can the asset protect against abandonment, violence or coercion?
+
+BREAK AT ANY STEP -> FORMAL RIGHT WITHOUT FULL EMPOWERMENT
+```
+
+### 1. Plain-language entry
+
+A name on a land record can coexist with no physical possession, no decision-making power and no
+income. The philosophical question is not whether legal rights matter, but how a right becomes a
+usable capability.
+
+### 2. Canonical doctrine
+
+Women’s land and property rights include equal claims to inherit, own, use, control, manage,
+transfer and benefit from property. These verbs are not synonyms.
+
+### 3. Why property matters
+
+**Capability argument:**
+
+1. assets affect shelter, livelihood and economic security;
+2. independent claims reduce total dependence on family relations;
+3. control can improve voice and ability to leave violence;
+4. property therefore functions as a capability-conversion resource.
+
+**Recognition argument:** equal inheritance marks a daughter as a full member rather than a
+temporary dependent.
+
+### 4. Agarwal’s ownership-control framework
+
+Bina Agarwal’s *A Field of One’s Own* (1994) anchors the distinction among ownership, effective
+control and realised benefit. Her central insight is that land matters as income, standing,
+bargaining power and a stronger **fall-back position**.
+
+**Reconstructed bargaining argument:**
+
+1. household allocation is not always a single altruistic decision;
+2. a person’s bargaining position partly depends on what she can command if cooperation fails;
+3. land accessed only through a husband or father can be withdrawn;
+4. an enforceable independent claim strengthens voice and protection;
+5. the claim becomes effective only through access, control, return and credible security.
+
+**Presupposition:** the household can contain bargaining and unequal power, not merely shared
+interests.
+
+### 5. Formal law and social practice
+
+- **Hindu Succession (Amendment) Act, 2005:** enacted amendment giving daughters in a Mitakshara
+  joint family coparcenary status by birth on statutory terms.
+- ***Vineeta Sharma v. Rakesh Sharma* (2020):** Supreme Court judgment clarifying the amended right,
+  including that the father need not have been alive when the amendment commenced.
+
+**Conversion caveat:** entitlement and interpretation do not prove possession, control, return or
+exit. Waiver pressure, informal partition, records, limited knowledge and fear of family rupture can
+interrupt the chain.
+
+### 6. Culture, community and equality
+
+Property systems vary across communities and custom. Cultural protection cannot make internal
+gender inequality immune from criticism. A defensible settlement protects community voice while
+requiring women’s participation, equal citizenship, contestability and enforceable claims.
+
+### 7. Necessary, sufficient or both?
+
+```text
+SECURE NON-DISCRIMINATORY ASSET CLAIM
+      |
+      | normally necessary in a property-dependent society
+      v
+MATERIAL INDEPENDENCE / BARGAINING / RECOGNITION
+      |
+      | not sufficient because other structures remain
+      v
+CARE · VIOLENCE · BODILY COERCION · STATUS · REPRESENTATION
+```
+
+- If “rights” means secure equal asset claims and control, they are normally a necessary
+  institutional component under present property arrangements.
+- If it means only an individual title deed, it is not a universal logical prerequisite; enforceable
+  joint or collective control may perform the anti-dependence function.
+- Neither version is sufficient for social equality.
+
+### 8. Strongest objections, replies and residuals
+
+**Objection — title is ineffective:** If title often fails to become control, legal reform is
+misdirected.
+
+**Reply:** a secure legal anchor protects access against arbitrary withdrawal; failure of conversion
+qualifies rather than defeats the claim for rights.
+
+**Residual:** access, legitimacy and family practice are slower and harder to legislate.
+
+**Objection — family land fragments:** equal claims damage family solidarity.
+
+**Reply:** exclusion buys consolidation through inferior status. Neutral land-management responses
+need not deny daughters equal claims.
+
+**Residual:** equality still has to address practical livelihood consequences without reverting to
+sex hierarchy.
+
+**Objection — private-property bias:** liberation should not depend on individual ownership.
+
+**Reply:** under collective or social ownership women still need enforceable housing, livelihood,
+voice and control.
+
+**Residual:** collective institutions can reproduce male authority internally.
+
+### UPSC application
+
+- **2021 Q1(e):** “how far” requires conditions of effectiveness and failure.
+- **2023 Q1(c):** answer neither simple yes nor no; distinguish rights from converted power.
+- **2026 Q2(b):** run necessary and sufficient tests separately; qualify individual title.
+- **Trap:** never present the 2005 amendment or *Vineeta Sharma* as proof of completed empowerment.
+
+### Revision notes
+
+1. Inherit, own, use, control, transfer and benefit are distinct.
+2. Property supports security, recognition, bargaining and exit.
+3. Agarwal distinguishes title from effective command.
+4. Fall-back position explains intra-household bargaining power.
+5. Access, control, return and exit are conversion tests.
+6. The household is not automatically a unified agent.
+7. The 2005 amendment is enacted law; *Vineeta Sharma* is a 2020 judgment.
+8. Law does not establish social exercise.
+9. Secure equal asset rights are normally necessary in present institutions.
+10. Property is not sufficient for bodily, relational or political equality.
+11. Joint or collective control can qualify the individual-title thesis.
+12. Cultural autonomy requires internal voice and equal citizenship.
+
+### Retrieval drill
+
+1. Reproduce the five-step property staircase.
+2. Explain “fall-back position” in two sentences.
+3. Why is individual title not universally necessary?
+4. Give one legal illustration with its status and conversion caveat.
+
+---
+
+## Lesson 6 — Empowerment is authorship, not mere delivery
+
+Progress: 6/11 | Stage: Application | Subtopic: resources, agency, achievements and strategic choice
+
+### Visual: Kabeer’s conversion model
+
+```text
+RESOURCES — preconditions
+education · health · time · income · property · networks
+          |
+          | conversion depends on norms, safety, institutions and alternatives
+          v
+AGENCY — process
+voice · choice · bargaining · mobility · bodily decision · collective action
+          |
+          v
+ACHIEVEMENTS — outcomes
+functionings actually realised
+
+NO AGENCY EXPANSION?
+Then an improved outcome may be better provision, not empowerment.
+```
+
+### 1. Plain-language entry
+
+Receiving a bank account, school place or asset can improve welfare. It becomes empowerment only
+when the person’s capacity to make significant choices also expands.
+
+### 2. Canonical definition
+
+Empowerment is the expansion of resources, capabilities, agency, recognition and institutional
+influence through which women can make and act upon significant choices.
+
+### 3. Four forms of power
+
+| Dimension | Meaning | Normative direction |
+|---|---|---|
+| **power over** | domination or control of others | constrain unjust domination |
+| **power to** | capacity to act and achieve | enlarge |
+| **power with** | collective organisation and solidarity | enlarge |
+| **power within** | self-respect and critical consciousness | enlarge |
+
+### 4. Kabeer’s resources–agency–achievements framework
+
+Naila Kabeer defines empowerment around expanded ability to make **strategic life choices** where
+that ability was previously denied.
+
+Two common measurement errors follow:
+
+1. **Resource-counting error:** supplied inputs are treated as exercised freedom.
+2. **Outcome-counting error:** a beneficial result produced by someone else’s decision is treated
+   as the woman’s agency.
+
+The decisive test is whether alternatives existed and whether exercising them carried an
+acceptable cost.
+
+### 5. Strategic and secondary choice
+
+Strategic choices concern marriage, childbearing, work, movement, bodily decisions and the basic
+direction of life. Expanded consumer choice inside unchanged dependency is secondary and cannot by
+itself establish empowerment.
+
+### 6. Equality and empowerment
+
+```text
+EQUAL LEGAL AND BODILY STANDING
+          |
+          | makes gains secure and non-revocable
+          v
+RESOURCES + SAFE ALTERNATIVES
+          |
+          v
+AGENCY OVER STRATEGIC CHOICES
+          |
+          v
+ACHIEVEMENTS + COLLECTIVE REFORM
+          |
+          +--> further transforms equality
+```
+
+Equality is the normative standard and institutional floor. Empowerment is a process and part of
+the end. Fully achieved equality cannot be required before any empowerment begins, because agency
+itself helps change unequal rules.
+
+### 7. Can empowerment eliminate discrimination?
+
+**Reach:**
+
+- independent resources can weaken dependence;
+- agency can alter household bargains;
+- collective organisation can challenge public rules;
+- representation can increase accountability;
+- bodily and educational capability can enlarge alternatives.
+
+**Limits:**
+
+- income may be controlled by others;
+- unpaid care can remain unchanged;
+- violence and stigma may persist;
+- individual success does not dissolve group stereotypes;
+- one person cannot privately renegotiate institutional design.
+
+**Qualified verdict:** empowerment is indispensable and transformative, but not a stand-alone
+sufficient cause of elimination.
+
+### 8. Empowerment and female foeticide
+
+1. property, education and income can change the perceived status of daughters;
+2. household and bodily agency can resist coercive reproductive decisions;
+3. public voice can challenge son preference;
+4. social security can reduce instrumental reliance on sons;
+5. effects remain conditional on family power, enforcement and wider norms.
+
+### 9. Strongest objection, reply and residual
+
+**Paternalism objection:** If analysts discount a woman’s reported satisfaction as adaptive, they
+impose their own ideal.
+
+**Reply:** assess whether meaningful alternatives existed and what it cost to exercise them, rather
+than approving or disapproving the chosen outcome.
+
+**Residual:** judging the reality and cost of alternatives still requires interpretation.
+
+### UPSC application
+
+- **2018 Q4(c):** feminism seeks equality through empowerment and empowerment for equal standing.
+- **2020 Q4(a):** construct the mechanism and then name the structural residue.
+- **2024 Q4(a):** keep the two halves separate: equality → empowerment; empowerment → curbing
+  foeticide.
+- **Trap:** confidence, programme inclusion or a beneficial outcome alone is not empowerment.
+
+### Revision notes
+
+1. Empowerment concerns authorship of significant choices.
+2. Power to, with and within differ from power over.
+3. Resources are preconditions, agency is process, achievements are outcomes.
+4. Agency is the decisive conversion point.
+5. Alternatives and their cost test whether choice is strategic.
+6. Better provision is not automatically empowerment.
+7. Equality and empowerment are mutually reinforcing.
+8. Formal equality is a floor, not the completed goal.
+9. Empowerment can reduce discrimination but cannot privately erase structures.
+10. Collective action and institutional reform are integral.
+11. Empowerment can weaken son preference without guaranteeing eradication.
+12. Adaptive preference must be handled without paternalism.
+
+### Retrieval drill
+
+1. Distinguish resources, agency and achievements.
+2. Give one example of a good outcome without empowerment.
+3. Why can equality be necessary without being chronologically complete first?
+4. State the necessary-but-insufficient verdict on empowerment.
+
+---
+
+## Lesson 7 — Rights, autonomy, care, embodiment and capability
+
+Progress: 7/11 | Stage: Core | Subtopic: the moral grammar of effective freedom
+
+### Visual: five dimensions of agency
+
+```text
+RIGHT
+an enforceable claim
+   |
+   v
+RESOURCE
+something usable
+   |
+   v
+CAPABILITY
+a real opportunity
+   |
+   v
+AUTONOMY / AGENCY
+authorship of significant action
+   |
+   v
+ACHIEVEMENT
+the realised functioning
+
+CARE, EMBODIMENT AND SOCIAL POWER CONDITION EVERY ARROW.
+```
+
+### 1. Rights are indispensable but not self-executing
+
+Rights set public standards and create claims against arbitrary power. Yet a right that cannot be
+known, exercised or defended may remain formal. Gender justice therefore asks both **what is owed**
+and **whether the person can actually use it**.
+
+### 2. Autonomy is situated
+
+Autonomy is not isolation from relationships. It is the capacity to reflect, choose and act within
+relationships without domination or intolerable coercion. Dependence can be humanly unavoidable;
+subordination is not.
+
+### 3. Embodiment without destiny
+
+Pregnancy, health, disability, vulnerability and exposure to violence affect real options.
+Acknowledging embodiment avoids abstraction. Inferring social rank from embodiment reintroduces
+essentialism.
+
+### 4. Capability approach
+
+Sen directs attention to real freedoms rather than resource counts. Nussbaum identifies bodily
+health, bodily integrity, practical reason, affiliation and control over one’s environment as
+central capabilities relevant to women’s dignity.
+
+**Capability argument:**
+
+1. equal goods can be converted differently under unequal social conditions;
+2. formal choice can coexist with unsafe or inaccessible alternatives;
+3. equality must therefore examine what persons can actually do and be;
+4. resources remain important but are evaluated through conversion into capability.
+
+**Objection:** a fixed capability threshold may impose one conception of the good.
+
+**Reply:** secure plural options rather than compel identical functionings.
+
+**Residual:** selecting and interpreting thresholds remains contestable.
+
+### 5. Gilligan and the ethic of care
+
+Carol Gilligan’s *In a Different Voice* (1982) challenged accounts of moral development dominated
+by abstract rights and impartial rules. Care reasoning attends to relationship, context,
+responsibility and vulnerability.
+
+| Justice orientation | Care orientation |
+|---|---|
+| fairness, rights and impartial principle | relationship, need and contextual responsibility |
+| separate equal selves | connected and interdependent selves |
+| danger: formal indifference | danger: self-effacement |
+
+Care matters politically because infancy, illness, disability and old age generate dependency, and
+unpaid care consumes time needed for education, work, mobility and public office.
+
+### 6. The essentialism objection
+
+**Objection:** a distinct female moral voice stereotypes women as naturally nurturing and justifies
+their confinement to care.
+
+**Reply:** the defensible reading treats care orientation as socially positioned experience, not
+female nature, and makes care a responsibility shared across genders and institutions.
+
+**Residual:** the empirical gender division in the original thesis remains contested.
+
+### 7. Care and justice are complementary
+
+Justice prevents care from becoming self-erasure or exploitation. Care prevents justice from
+ignoring dependency and particular need. Neither can safely replace the other.
+
+### 8. Okin: household conditions and public opportunity
+
+Okin’s family-as-justice argument applies the care insight to liberal equality. Household
+allocations of **time and care** affect education, paid work, income and participation, while
+domestic hierarchy can damage **self-respect**. These conditions shape public opportunity; the
+family must therefore be assessed as an object of justice rather than presumed to be outside it.
+
+The limit is **bounded intimate autonomy**: justice should correct coercion, unfair burdens and
+background inequality, not administer every personal relationship or erase voluntary intimacy.
+
+### 9. Autonomy in foeticide and property
+
+- In sex selection, autonomy requires freedom from family coercion and access to healthcare; it
+  cannot be reduced to an isolated choice.
+- In property, autonomy requires enforceable claims plus actual control and credible exit.
+- In care, autonomy requires fair social organisation of dependency rather than denial of
+  interdependence.
+
+### UPSC application
+
+- Use capability when the stem contrasts legal entitlement with effective empowerment.
+- Use care when unpaid labour or public/private division is central.
+- Use autonomy carefully in foeticide: protect women without treating discriminatory choice as
+  socially context-free.
+- **Trap:** do not present care as women’s natural vocation.
+
+### Revision notes
+
+1. Rights establish claims; capabilities test usable freedom.
+2. Situated autonomy rejects both isolation and domination.
+3. Embodiment conditions options but does not dictate hierarchy.
+4. Equal resources can yield unequal capabilities.
+5. Sen stresses real freedom; Nussbaum names central capability areas.
+6. Adaptive preference complicates satisfaction measures.
+7. Care exposes dependency and unpaid time.
+8. Care ethics carries an essentialism risk.
+9. Socially positioned care is not female nature.
+10. Justice constrains exploitation; care corrects formalism.
+11. Okin shows why household time, care and self-respect condition public opportunity.
+12. Family justice retains bounded intimate autonomy.
+13. Foeticide requires autonomy plus structural analysis.
+14. Property autonomy requires control and exit, not title alone.
+
+### Retrieval drill
+
+1. Reconstruct the right-to-achievement chain.
+2. Define situated autonomy.
+3. State the essentialism objection to care ethics.
+4. Why are care and justice complementary?
+5. Why is the family an object of justice for Okin?
+6. What does bounded intimate autonomy protect?
+
+---
+
+## Lesson 8 — Whose experience counts? Intersectionality and representation
+
+Progress: 8/11 | Stage: Core | Subtopic: heterogeneous subjects, voice and institutional presence
+
+### Visual: intersectionality changes the mechanism
+
+```text
+NOT:
+gender disadvantage + caste disadvantage + class disadvantage
+
+INSTEAD:
+an institution works through their intersection
+
+Example route:
+endogamy + property + control of marriage/sexuality
+        |
+        v
+a distinct gendered mechanism that a generic remedy may miss
+```
+
+### 1. Intersectionality is not arithmetic
+
+Kimberlé Crenshaw’s method asks how institutions produce a distinct pattern at intersecting social
+locations. bell hooks adds the warning that feminism can universalise the experience of relatively
+privileged women.
+
+| Axis | How it can modify a gender mechanism |
+|---|---|
+| caste | endogamy, labour, property, status and control of marriage |
+| class | insecure work, unpaid labour, service access and bargaining resources |
+| community/religion | external vulnerability can coexist with internal authority |
+| disability | accessibility, dependency and substituted decision-making can intensify control |
+| sexuality/gender identity | stigma, compulsory heterosexuality and gender policing affect bodily/public freedom |
+
+### 2. Caste bridge with a strict firewall
+
+In an Indian answer, caste may enter where endogamy links hierarchy to control over women’s
+marriage, sexuality, labour or property. Stop after stating that mechanism and its gender effect.
+Do not reproduce the complete doctrine of caste, Gandhi or Ambedkar here.
+
+### 3. Objection and reply
+
+**Objection:** multiplying identities fragments the common feminist subject.
+
+**Reply:** common claims to dignity and equality remain possible, but coalition must not treat the
+most privileged subgroup as universal.
+
+**Residual:** coalition needs priorities and institutions, not only recognition of difference.
+
+### 4. Redistribution, recognition and representation
+
+| Dimension | Wrong | Remedy | Failure if isolated |
+|---|---|---|---|
+| **Redistribution** | unequal income, property, time and security | resources, services, fair care and control | stigma and voicelessness may remain |
+| **Recognition** | devaluation, stereotype and humiliation | equal status and transformed cultural value | symbolic respect may lack resources |
+| **Representation** | exclusion from agenda-setting and authoritative decision | presence, organisation, voice and accountability | descriptive presence may not alter power |
+
+Empowerment requires all three dimensions. They are bridges for this clause, not complete theories
+of distributive justice or multicultural recognition.
+
+### 5. Political representation: status and exercise
+
+The **Constitution (One Hundred and Sixth Amendment) Act, 2023** is an enacted constitutional
+amendment associated with reservation for women in the Lok Sabha and State Legislative Assemblies.
+Gazette notification S.O. 1922(E) brought it into force on **16 April 2026**. Its seat-level
+operation remains constitutionally linked to a post-Act census-based delimitation sequence under
+Article 334A.
+
+**Conversion caveat:** enactment and commencement do not prove operational seats, agenda-setting,
+party opportunity, accountability or substantive empowerment.
+
+### 6. Descriptive and substantive representation
+
+```text
+PRESENCE
+Who is in the room?
      |
      v
-social interpretation ---> role expectations ---> institutional allocation
-     |                           |                         |
-     v                           v                         v
-"appropriate" conduct     praise / stigma          time, property, work,
-                                                     authority, safety
-                                                           |
-                                                           v
-                                                   unequal outcomes
-                                                           |
-                                                           v
-                                             outcomes cited as "natural"
+VOICE
+Who can speak and frame the issue?
+     |
+     v
+INFLUENCE
+Whose reasons shape the decision?
+     |
+     v
+ACCOUNTABILITY
+To whom must representatives answer?
 ```
 
-The loop shows how a classification becomes a hierarchy and then disguises its own social production.
+Presence matters because exclusion affects perspective and legitimacy. Presence alone can become
+tokenism if institutional power remains elsewhere.
 
-### Core concept
+### 7. Multiculturalism and internal restrictions
 
-**Sex** ordinarily refers to bodily and reproductive characteristics. **Gender** refers to the social meanings, identities, expectations and positions organised around sexed classifications. The distinction is analytically useful, but a crude dualism is misleading. Bodies are real; their meaning is socially mediated. Social practices also act back upon bodies through nutrition, labour, violence, medicine, dress, mobility and reproduction.
+Protection of a group against external domination can coexist with restrictions imposed on women
+within it. The defensible route is neither forced assimilation nor elite immunity:
 
-Gender discrimination is not every difference between persons. It is a patterned disadvantage in **valuation, opportunity, burden, security or authority** attached to gendered position. A complete analysis separates five moments:
+1. apply the same equality test to majority and minority institutions;
+2. hear affected women as interpreters of their own culture;
+3. protect basic agency and exit;
+4. distinguish cultural continuity from compulsory subordination.
 
-| Moment | Question | Typical gendered effect |
-|---|---|---|
-| Classification | How is the person identified? | Woman/man, masculine/feminine, conforming/non-conforming |
-| Valuation | What worth is attached? | Care work treated as lesser; sons preferred |
-| Allocation | Who receives what? | Education, food, property, time, mobility |
-| Authority | Who may decide? | Household, workplace, political and bodily decisions |
-| Justification | How is the pattern defended? | Nature, tradition, protection, efficiency, family honour |
+### UPSC application
 
-The phrase **social construction** means that a pattern depends on human practices and could be organised differently. It does not mean imaginary, voluntary or easily changed. Money, law and citizenship are socially constructed yet causally powerful. Gender roles can be similarly real in their effects without being biologically inevitable.
-
-The 2019 claim that discrimination is “man-made” should therefore be refined. Social institutions create and stabilise hierarchy, but individuals enter structures they did not invent. Biology may matter to reproduction or health without dictating inheritance rules, educational opportunity, political authority or the moral worth of a daughter. The evaluative mistake is to move from a biological difference to a normative entitlement without an argument.
-
-### Argument, objection, reply, residual
-
-**Argument:** If the content and ranking of gender roles vary across time and institutions, biology underdetermines the hierarchy. Norms and institutions supply the missing allocation and justification.
-
-**Objection:** Constructionism ignores persistent bodily differences and turns material vulnerability into language.
-
-**Reply:** A relational account distinguishes bodies from the meanings and institutions attached to them. Pregnancy is bodily; treating pregnancy as a reason to deny authority or employment is social and political.
-
-**Residual problem:** The line between bodily constraint and institutional interpretation is context-sensitive. Constructionism prevents naturalisation but does not by itself tell us which distinctions are unjust.
-
-### Exam links
-
-- **Prelims-style trap:** “Constructed” does not mean fictitious.
-- **Mains use:** Define discrimination through valuation, allocation, burden and authority, then run the reproduction loop.
-- **Boundary sentence:** The topic owns the gendered mechanism; a full theory of equality belongs to Social-Political Ideals.
+- Use intersectionality as a mechanism modifier, not a decorative final paragraph.
+- Use representation only with the status/operation distinction.
+- Use caste in one bounded causal bridge; do not convert a gender answer into Clause 10.
+- **Trap:** “women” is politically useful but not homogeneous.
 
 ### Revision notes
 
-- Sex/gender is an analytical distinction, not an absolute separation.
-- Hierarchy needs classification, valuation, allocation, authority and justification.
-- Social construction implies contingency and institutional dependence, not unreality.
-- Biological difference does not entail unequal moral status.
-- Unequal outcomes can become retrospective “proof” of natural incapacity.
-- Institutions reproduce norms; norms also shape institutional choices.
-- Gender discrimination concerns patterned disadvantage, not every difference.
-- Use India-centric applications as mechanisms, not decorative examples.
+1. Intersectionality changes causal mechanism; it is not additive arithmetic.
+2. Dominant feminist experience can be falsely universalised.
+3. Caste enters only where it modifies gender through endogamy, labour, property or status.
+4. Common equality claims survive internal diversity.
+5. Redistribution, recognition and representation address different wrongs.
+6. Resources without voice can be paternalistic.
+7. Recognition without redistribution can be symbolic.
+8. Presence without influence can be tokenism.
+9. The 106th Amendment is enacted and commenced, but operational reservation is condition-linked.
+10. Group protection cannot immunise internal subordination.
+11. Majority institutions face the same test.
+12. Affected members need interpretive voice and meaningful exit.
 
-### Lesson practice
+### Retrieval drill
 
-#### Question 1
-Which formulation best expresses a defensible sex/gender distinction?
-
-A. Bodily traits and social meanings can be distinguished analytically while remaining causally interactive.
-B. Sex is wholly natural, whereas gender has no relation to embodied life.
-C. Gender is imaginary because it is socially produced.
-D. Every bodily distinction is itself discriminatory.
-
-**MCQ 1: A**
-
-- **A — Correct:** It preserves the distinction without turning it into an impermeable nature–culture split.
-- **B — Incorrect:** Social interpretation acts upon embodied conditions, so complete independence misdescribes their relation.
-- **C — Incorrect:** Institutional origin is compatible with durable and coercive real-world effects.
-- **D — Incorrect:** A descriptive difference becomes discriminatory only through unjust ranking, allocation or burden.
-
-#### Question 2
-Why does variation in gender roles weaken biological determinism?
-
-A. Variation proves that bodies have no political relevance.
-B. It shows that biology underdetermines the social content and rank assigned to sexed classifications.
-C. It establishes that every society distributes authority equally.
-D. It removes the need to examine institutions.
-
-**MCQ 2: B**
-
-- **A — Incorrect:** Embodiment may remain relevant even when it cannot dictate a fixed hierarchy.
-- **B — Correct:** Divergent roles reveal that social rules supply conclusions not contained in bodily difference alone.
-- **C — Incorrect:** Historical variation includes many unequal arrangements and does not imply parity.
-- **D — Incorrect:** Institutions are precisely the mechanisms through which variable meanings acquire force.
+1. Explain why intersectionality is not addition.
+2. State the caste firewall in one sentence.
+3. Distinguish presence, voice, influence and accountability.
+4. Give the status and operational qualification of the 106th Amendment.
 
 ---
 
-## Lesson 2 — Beauvoir, Butler and the Stability of Gender Categories
+## Lesson 9 — Four feminist diagnoses and the socialism question
 
-Progress: 2 / 14 | Stage: Foundation | Subtopic: Beauvoir, Butler and the Stability of Gender Categories
+Progress: 9/11 | Stage: Debate | Subtopic: rival explanations of subordination
 
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried
-CA search: "Not run — timeless conceptual doctrine"
-CA found: None required
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-**Preflight detail:**
-
-- **Book context:** Existential and constructionist treatments were compared with the canonical account.
-- **Current/legal anchor:** No mutable claim is required.
-- **Distinction to protect:** Performativity is compelled reiteration, not a voluntary theatrical performance.
-- **Boundary:** Trans-inclusive conceptual care must not erase sex-specific harms such as sex selection.
-- **Target:** Explain how a social position is produced while retaining a usable political subject.
-
-### Visual first
+### Visual: where each diagnosis locates the engine
 
 ```text
-BEAUVOIR                              BUTLER
-"woman" as socially constituted      identity as sedimented effect
-          |                                      |
-Otherness / immanence                 repeated norms, acts, sanctions
-          |                                      |
-blocked transcendence                 appearance of a natural core
-          +----------------------+---------------+
-                                 v
-                  freedom exists inside constraint
-                                 |
-                    category problem for politics
-                (who acts together as "women"?)
+LIBERAL        -> unequal law and opportunity
+RADICAL        -> patriarchal control of body, sexuality and intimate power
+MARXIST        -> private property, class and exclusion from social production
+SOCIALIST      -> capitalism + relatively autonomous patriarchy
+INTERSECTIONAL -> mechanisms altered by social location
+
+No single arrow may be silently substituted for all the others.
 ```
 
-Beauvoir explains imposed position; Butler explains how repeated norms make that position appear natural.
+### 1. Liberal feminism
 
-### Beauvoir
+**Claim:** women are equal moral persons whose education, civil standing and opportunity have been
+artificially restricted.
 
-Simone de Beauvoir’s claim that one becomes a woman rejects a fixed social destiny inferred from anatomy. “Woman” is constituted as the **Other** relative to a male subject treated as neutral and universal. This relation confines women to **immanence**—repetition, enclosure and assigned function—while transcendence, the capacity to project purposes and remake the world, is socially reserved for men.
+**Strength:** supplies enforceable rights and a direct critique of legal exclusion.
 
-The claim does not deny embodiment. It denies that embodiment carries a complete social script. Its moral force lies in exposing an asymmetry: one sex appears as the human norm, the other as marked deviation. Freedom is situated, so formal permission is insufficient when material dependence and social expectation block projects.
+**Objection:** equal rules can leave domestic authority, care burden, violence and cultural
+stereotype untouched.
 
-### Butler
+**Reply:** substantive liberal reform can address background conditions as well as formal status.
 
-Judith Butler radicalises the constructionist challenge. Gender is **performative** because repeated, norm-governed acts produce the appearance of a stable identity that supposedly caused them. Performativity is not an individual choosing a costume. Reiteration is compelled by sanctions, intelligibility and available social scripts.
+**Residual:** the family may still be treated as prior to justice.
 
-This view explains why hierarchy can persist without a central commander. People cite and repeat norms in dress, speech, work, family and law; repetition stabilises the category while imperfect repetition also permits change.
+### 2. Radical feminism
 
-Its explanatory strength also marks a limit. Performativity shows **how norms reproduce themselves through repeated citation** more readily than it explains **why one regulatory norm, rather than a rival possibility, becomes dominant**. Material, institutional and structural accounts are therefore needed to explain who controls sanctions, resources and the available social scripts. This is a complement to Butler, not a rejection of performativity.
+**Claim:** patriarchy operates through control of sexuality, reproduction, the body, family and
+violence, and can persist beneath formally neutral institutions.
 
-### The category-stability problem
+**Strength:** exposes power in the supposedly private sphere.
 
-If “women” is internally diverse and socially produced, political action still requires a name for those exposed to gendered harms. Two bad responses should be avoided:
+**Objection:** a universal patriarchy thesis may flatten differences among women and understate
+economic structure.
 
-1. **Rigid essentialism:** define all women through one biological or psychological essence.
-2. **Category dissolution:** make collective claims impossible by refusing any practical grouping.
+**Reply:** use the diagnosis for bodily and intimate power, then qualify it intersectionally.
 
-A defensible response uses categories **provisionally, contextually and revisably**. Sex-specific discrimination can be named where reproductive classification is causal; gender-identity discrimination can be named where recognition and social policing are causal. Trans-inclusive analysis broadens attention to gender regulation without denying that some harms track perceived or reproductive sex.
+**Residual:** disagreement persists about whether patriarchy is the primary form of domination.
 
-### Objection, reply, residual
+### 3. Marxist feminism
 
-**Objection:** Anti-essentialism fragments the political subject and leaves no basis for common claims.
+**Claim:** women’s subordination develops with private property, class society and confinement to
+the private household; transformation of production and property is central.
 
-**Reply:** Coalition does not require an identical essence. Shared exposure to specified institutions can ground action while affected groups contest the category’s boundaries.
+**Strength:** reveals the material role of domestic and reproductive labour.
 
-**Residual:** Strategic categories can harden into exclusions. Revisability is a discipline, not a guarantee.
+**Objection:** class transformation does not automatically explain or remove male authority,
+sexual control or unequal care.
 
-### Revision notes
+**Reply:** economic dependence is a major mechanism even if not the only one.
 
-- Beauvoir: woman as Other; male position appears universal.
-- Immanence is socially confined repetition; transcendence is purposive self-projection.
-- Butler: repeated norms produce the appearance of a prior identity.
-- Performativity is not free performance.
-- Norms require repetition and are therefore durable but not immutable.
-- Performativity explains reproduction better than the historical dominance of a particular norm.
-- Avoid both essentialism and political category dissolution.
-- Specify which mechanism makes a category relevant in each harm.
-- Inclusive analysis and sex-specific analysis can coexist.
+**Residual:** patriarchy cannot simply be assumed derivative.
 
-### Lesson practice
+### 4. Socialist feminism
 
-#### Question 3
-What is the strongest criticism of saying gender discrimination is simply “man-made”?
+**Claim:** capitalism and patriarchy are historically entangled but relatively autonomous systems.
+Production and **social reproduction**—care, domestic labour, sexuality and childbearing—must both
+be transformed.
 
-A. It denies that human practices ever influence hierarchy.
-B. It makes all individuals equally blameworthy for inherited structures.
-C. It can obscure how people reproduce systems they did not individually design.
-D. It proves that discrimination cannot be changed.
+**Strength:** explains why male dominance can persist across differing property regimes.
 
-**MCQ 3: C**
+**Objection:** “dual systems” may merely place two explanations side by side without specifying
+their interaction.
 
-- **A — Incorrect:** The phrase is intended to stress social production, not deny it.
-- **B — Incorrect:** Unequal responsibility follows from role and power rather than a uniform charge against everyone.
-- **C — Correct:** Structural reproduction explains participation without inventing a single author of the whole pattern.
-- **D — Incorrect:** Social dependence normally expands the field of possible reform instead of closing it.
+**Reply:** identify the concrete institution where wage relations and gender authority reinforce
+one another.
 
-#### Question 4
-Which statement most accurately distinguishes performativity from performance?
+**Residual:** explanatory complexity remains real.
 
-A. Performativity is a biological process, while performance is social.
-B. Performativity concerns only public speech, while performance concerns conduct.
-C. Performativity abolishes constraint, while performance accepts it.
-D. Performativity names compelled norm-repetition that produces identity effects, not a freely chosen role.
+### 5. Marxist, socialist and radical feminism kept distinct
 
-**MCQ 4: D**
-
-- **A — Incorrect:** Butler’s account addresses the social production of intelligible identity rather than a biological mechanism.
-- **B — Incorrect:** Reiteration operates across bodily conduct, language, institutions and everyday practices.
-- **C — Incorrect:** Sanction and constraint are central to why repeated norms acquire stability.
-- **D — Correct:** The identity appears prior only because regulated acts are repeatedly cited and sedimented.
-
-#### Question 5
-How can feminist politics use the category “women” after anti-essentialist criticism?
-
-A. As a provisional coalition category tied to specified harms and open to revision.
-B. By defining one timeless psychological nature shared by every woman.
-C. By abandoning all group language in favour of isolated individuals.
-D. By treating reproductive sex as the cause of every gendered disadvantage.
-
-**MCQ 5: A**
-
-- **A — Correct:** Contextual use permits collective claims without presenting a contested grouping as a natural essence.
-- **B — Incorrect:** A uniform psychology excludes difference and repeats the essentialism under criticism.
-- **C — Incorrect:** Pure individualism cannot identify patterned institutional harms or organise remedies.
-- **D — Incorrect:** Different mechanisms involve sex classification, gender identity, social role or their interaction.
-
----
-
-## Lesson 3 — Feminist Diagnoses: Equality, Production, Patriarchy and Intersection
-
-Progress: 3 / 14 | Stage: Core | Subtopic: Feminist Diagnoses: Equality, Production, Patriarchy and Intersection
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried
-CA search: "Not run — timeless feminist-theory comparison"
-CA found: None required
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-**Preflight detail:**
-
-- **Book context:** OCR material on liberal, Marxist and radical feminist critiques was reconciled with the owner’s six-diagnosis grid.
-- **Current/legal anchor:** No present-status claim is needed.
-- **Distinction to protect:** These are rival diagnoses of subordination, not a substitute lesson on complete political ideologies.
-- **Boundary:** Full liberalism, Marxism and socialism remain owned by Political Ideologies.
-- **Target:** Compare approaches by origin, mechanism, remedy and standard objection.
-
-### Visual first
-
-| Approach | Primary diagnosis | Mechanism | Remedy | Standard pressure |
-|---|---|---|---|---|
-| Liberal | Unequal rights and opportunity | Law, exclusion, education barriers | Equal rights, access, autonomy | Formal reform may leave household power intact |
-| Marxist | Private property and class exploitation | Productive relations and dependent family form | Transform property and production | Patriarchy may survive class reform |
-| Socialist | Capitalism and patriarchy interact | Production plus social reproduction | Transform work and household relations | Dual-system interaction can be underspecified |
-| Radical | Patriarchy and control of bodies/sexuality | Gender power as a primary structure | Transform intimate and bodily power | May universalise one experience |
-| Intersectional | Mutually shaping axes of power | Distinct mechanisms at intersections | Context-sensitive anti-domination | Political unity and priority become difficult |
-| Capability | Deprivation of real freedom | Poor conversion of resources into functionings | Secure agency and threshold capabilities | List, measurement and paternalism disputes |
-
-### How to compare
-
-A feminist approach earns marks when it performs four tasks: locate the wrong, trace a mechanism, identify a remedy and survive an objection. Merely listing schools avoids the philosophical dispute.
-
-**Liberal feminism** attacks exclusion from education, civil standing, property and work. Wollstonecraft argues that apparent incapacity reflects cultivated dependence and denied education. J. S. Mill and Harriet Taylor Mill show how law and custom jointly produce subjection. The approach secures equal personhood, but formal rights can coexist with unequal care, violence and authority.
-
-**Marxist feminism** connects women’s dependence to private property, class and the family’s role in reproducing labour. Its strength is material explanation. Its limit is reduction: if patriarchy is only derivative of class, it struggles to explain gender domination that persists across economic systems.
-
-**Socialist feminism** answers that limit by treating capitalism and patriarchy as interacting structures with distinct logics. Productive work and social reproduction must both be transformed. The difficulty is explanatory precision: saying “both” is not enough unless the relation is shown.
-
-**Radical feminism** makes patriarchy, sexuality and control of the body primary. It makes the private sphere politically visible and illuminates violence and reproductive control. Yet an undifferentiated category of women can universalise the experience of relatively privileged groups.
-
-**Intersectionality**, associated with Kimberlé Crenshaw and strengthened by bell hooks’ margin-to-centre critique, rejects additive arithmetic. Caste, class, community, disability, sexuality and gender identity alter how gender power operates. A Dalit woman’s exclusion is not simply “caste plus gender”; endogamy, labour and sexual control can form a distinct mechanism.
-
-**Capability feminism**, developed through Sen and Nussbaum, asks what persons are actually able to be and do. It reveals why equal resources or rights can yield unequal freedom. It must answer who selects the capabilities and how paternalism is avoided.
-
-### The socialist-regime question
-
-Gender equality can be advanced within socialism through reduced economic dependence and public provision, but cannot be guaranteed if household authority, sexual power, political voice and cultural status remain patriarchal. The strongest verdict is neither “socialism solves it” nor “economics is irrelevant.” Class transformation is important but insufficient because gender power has partially autonomous mechanisms.
-
-### Revision notes
-
-- Use approaches as diagnoses, not a name-list.
-- Liberal feminism secures standing but can stop at formal equality.
-- Marxist feminism supplies material explanation but risks class reduction.
-- Socialist feminism combines production and social reproduction.
-- Radical feminism politicises body, sexuality and family.
-- Intersectionality changes the mechanism; it is not arithmetic.
-- Capability feminism tests real freedom and conversion.
-- A socialist regime can remove some causes without abolishing patriarchy.
-- Every preferred approach requires its strongest objection.
-
-### Lesson practice
-
-#### Question 6
-Why is socialist feminism not merely Marxist feminism with an added example?
-
-A. It rejects every connection between property and subordination.
-B. It treats capitalism and patriarchy as interacting structures with partly distinct logics.
-C. It confines gender injustice to discriminatory legislation.
-D. It explains oppression entirely through biological difference.
-
-**MCQ 6: B**
-
-- **A — Incorrect:** Socialist analysis preserves material and property relations as major causal forces.
-- **B — Correct:** Its defining move is to resist reducing patriarchy to class while retaining their interaction.
-- **C — Incorrect:** Household labour and social reproduction extend the account beyond formal law.
-- **D — Incorrect:** The approach is structural and historical rather than biologically deterministic.
-
-#### Question 7
-Which use of intersectionality is philosophically strongest?
-
-A. Adding separate scores for caste, class and gender disadvantage.
-B. Replacing all common equality claims with unrelated identities.
-C. Showing how intersecting institutions generate a distinct form of vulnerability.
-D. Treating gender as irrelevant whenever another hierarchy is present.
-
-**MCQ 7: C**
-
-- **A — Incorrect:** Addition misses the transformed mechanism produced at an intersection.
-- **B — Incorrect:** Shared dignity claims can remain while their institutional pathways differ.
-- **C — Correct:** Intersectionality investigates mutually constitutive processes rather than stacking independent burdens.
-- **D — Incorrect:** Mediation changes the operation of gender power; it does not erase that power.
-
-#### Question 8
-What is the most serious limitation of a purely liberal equality strategy?
-
-A. It cannot justify equal legal standing.
-B. It necessarily abolishes individual autonomy.
-C. It denies that education can change opportunity.
-D. Formal access may coexist with unequal care burdens, violence and household authority.
-
-**MCQ 8: D**
-
-- **A — Incorrect:** Equal civil and legal personhood is among liberal feminism’s central achievements.
-- **B — Incorrect:** Autonomy is ordinarily a liberal objective rather than an unavoidable casualty.
-- **C — Incorrect:** Educational equality is a classic liberal remedy for cultivated dependence.
-- **D — Correct:** Rights at the doorway may not alter the background conditions governing their use.
-
-#### Question 9
-What is the best answer to whether socialism can realise gender equality?
-
-A. It can remove important economic dependencies but needs independent transformation of patriarchal power.
-B. It guarantees equality once private ownership is abolished.
-C. It is irrelevant because gender has no material dimension.
-D. It fails because public provision always strengthens patriarchy.
-
-**MCQ 9: A**
-
-- **A — Correct:** The answer credits class reform while preserving the partial autonomy of household, bodily and cultural domination.
-- **B — Incorrect:** Persistence across socialist settings defeats an automatic guarantee.
-- **C — Incorrect:** Income, labour and property materially shape bargaining and security.
-- **D — Incorrect:** Public services can reduce dependence even though they cannot complete the transformation alone.
-
----
-
-## Lesson 4 — Structural Injustice, the Household and Responsibility
-
-Progress: 4 / 14 | Stage: Core | Subtopic: Structural Injustice, the Household and Responsibility
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried
-CA search: "Not run — timeless structural-justice doctrine"
-CA found: None required
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-**Preflight detail:**
-
-- **Book context:** Public/private and structural accounts were cross-checked against political-theory treatments.
-- **Current/legal anchor:** Indian examples are illustrative; no quantitative claim is used.
-- **Distinction to protect:** Shared forward-looking responsibility is not collective guilt.
-- **Boundary:** Caste doctrine is not retaught; only its mediation of gender mechanisms is named.
-- **Target:** Explain how injustice persists without a single designing author.
-
-### Visual first
-
-```text
-ordinary rules + repeated choices + institutional incentives
-                         |
-                         v
-             patterned unequal outcome
-                         |
-            no single author of the whole
-                         |
-          +--------------+--------------+
-          |                             |
- backward-looking blame       forward-looking responsibility
- "What wrongful act?"         "What process can I help change?"
- individual, retrospective    shared, prospective, role-graded
-```
-
-### Structural injustice
-
-Iris Marion Young’s social-connection model is useful where gender hierarchy emerges from normal procedures and many ordinary actions. No household, employer, market or official need design the aggregate result. The absence of a sole perpetrator, however, does not imply the absence of responsibility.
-
-The model distinguishes:
-
-- **Blame:** tied to a person’s wrongful act, intention or omission.
-- **Structural responsibility:** tied to participation in processes one can help reform.
-
-Duties vary with **power, privilege, interest and collective capacity**. A legislator, employer, property-holder, service provider and economically dependent family member do not bear identical duties.
-
-This avoids two errors. “Everyone is guilty” ignores differentiated agency. “The system did it” turns explanation into excuse. A person can be blameless for creating a structure and still responsible for changing practices that sustain it.
-
-### Public/private division
-
-Gender theory challenges the idea that the household is pre-political. Care burdens, control of income, bodily decisions, inheritance and violence inside families determine access to education, work and citizenship outside them.
-
-Carole Pateman’s **sexual contract** is an interpretive reconstruction: liberal contract among formally free citizens presupposes gendered subordination in marriage and domestic life. It is not a claim that a literal historical contract was signed.
-
-Susan Moller Okin argues that the family itself must be an object of justice. It distributes time, income, self-respect and opportunity; it also teaches children what justice looks like. Her approach is an internal demand to extend justice into background institutions, whereas Pateman attacks the gendered foundation of contractarian freedom.
-
-The defensible rule is:
-
-> The family is a protected sphere of intimacy, not an immunity zone for domination.
-
-### Multicultural tension
-
-Group protections can defend minorities against external domination while also shielding **internal restrictions** imposed on women. The response is not forced assimilation or uncritical deference. It is equal voice for affected women, individual exit and membership rights, and scrutiny of power inside communities.
-
-### Revision notes
-
-- Structural injustice combines ordinary rules without one designer.
-- Explanation must not become excuse.
-- Young separates blame from prospective responsibility.
-- Responsibility is shared but graded by role and power.
-- Household allocations shape public citizenship.
-- Pateman’s sexual contract is interpretive, not an historical event.
-- Okin makes the family an institution of justice.
-- Intimacy deserves protection; domination does not receive immunity.
-- Minority protection and internal gender equality must be jointly secured.
-
-### Lesson practice
-
-#### Question 10
-What does Young’s social-connection model add beyond fault-based blame?
-
-A. A presumption that every participant committed the same wrong.
-B. Forward-looking duties to reform processes, graded by connection and capacity.
-C. Immunity for actors who followed normal rules.
-D. A denial that intentional wrongdoing should be punished.
-
-**MCQ 10: B**
-
-- **A — Incorrect:** The model rejects undifferentiated guilt and differentiates positions within a process.
-- **B — Correct:** Participation can generate prospective obligations even where personal culpability is absent.
-- **C — Incorrect:** Normality helps explain structural reproduction but does not cancel duties to change it.
-- **D — Incorrect:** Structural responsibility supplements rather than displaces ordinary accountability.
-
-#### Question 11
-How should Pateman’s “sexual contract” be presented?
-
-A. As a documented agreement made before the social contract.
-B. As a statute regulating marriage in liberal states.
-C. As an interpretive exposure of gendered subordination presupposed by public freedom.
-D. As proof that all contracts are invalid.
-
-**MCQ 11: C**
-
-- **A — Incorrect:** Treating the thesis as a literal historical event mistakes its critical method.
-- **B — Incorrect:** Pateman analyses political theory’s architecture rather than identifying a particular enactment.
-- **C — Correct:** The reconstruction reveals how the public citizen can depend upon an unexamined private hierarchy.
-- **D — Incorrect:** Her target is the gendered foundation of contractarianism, not the logical possibility of agreement.
-
----
-
-## Lesson 5 — Equality, Difference and Transformative Justice
-
-Progress: 5 / 14 | Stage: Core | Subtopic: Equality, Difference and Transformative Justice
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried
-CA search: "Not run — timeless equality doctrine"
-CA found: None required
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-**Preflight detail:**
-
-- **Book context:** Equality debates were checked against feminist critiques of sameness and difference.
-- **Current/legal anchor:** Constitutional equality is used only at the level of general application, not as a substitute for philosophy.
-- **Distinction to protect:** Differential treatment can either remedy or reproduce hierarchy.
-- **Boundary:** The complete taxonomy of equality remains outside this topic.
-- **Target:** Move from formal equality to substantive and relational equality without abandoning universal status.
-
-### Visual first
-
-| Model | Central test | Strength | Failure risk |
+| Axis | Marxist | Socialist | Radical |
 |---|---|---|---|
-| Formal equality | Are identical rules applied? | Blocks explicit exclusion | Ignores unequal starting conditions |
-| Substantive equality | Can persons actually benefit? | Attends to effects and conversion | Can become paternalistic |
-| Relational equality | Do persons stand as equals? | Targets status and domination | Harder to measure |
-| Transformative equality | Does the rule alter the structure producing disadvantage? | Joins resources, norms and power | Demands broad institutional change |
+| status of patriarchy | substantially derivative of class/property | relatively autonomous and interacting with capitalism | primary or foundational domination |
+| central site | production and private property | production plus social reproduction | body, sexuality, family and violence |
+| remedy | transform property and social production | transform property and sexual division of labour/care | transform patriarchal intimate and cultural power |
+| standard weakness | reduction to class | vague interaction | universalisation |
 
-### The sameness/difference dilemma
+### 6. Can socialism realise gender equality?
 
-If equality means treating women exactly like a male norm, pregnancy, care and gendered violence can disappear from view. If equality emphasises difference, those differences can become reasons for protection, segregation or renewed dependence.
+**Case for:** social ownership and public provision can reduce material dependence, widen access to
+work and socialise some care.
 
-The solution is not to choose sameness or difference in the abstract. Ask whether a distinction:
+**Critical test:** if men retain authority over household labour, bodily decision, leadership,
+communal property or interpretation of shared resources, the ownership change is insufficient.
 
-1. responds to a relevant need or entrenched disadvantage;
-2. expands agency rather than fixing a dependent role;
-3. distributes costs fairly rather than burdening the protected group;
-4. remains reviewable and proportionate;
-5. changes the background structure instead of merely accommodating it.
+**Verdict:** gender equality can be realised within a socialist regime, but it is not entailed by
+socialism as an ownership label. Enforceable individual claims, fair care, bodily autonomy and
+public voice remain necessary.
 
-**Formal equality** is necessary because overt exclusion denies equal standing. **Substantive equality** examines actual opportunity and outcome. **Relational equality** asks whether institutions express equal social status and freedom from domination. **Transformative equality** seeks to change the norms, divisions of labour and power relations that repeatedly regenerate disadvantage.
+### 7. Equality or empowerment?
 
-### Reverse-discrimination objection
+Feminism needs both:
 
-**Objection:** Targeted measures violate equality by treating individuals differently based on group membership.
+```text
+EQUALITY = standard of non-subordination and equal standing
+EMPOWERMENT = expansion of capacity to contest and remake the terms
 
-**Reply:** Identical treatment under conditions shaped by past and present exclusion can reproduce the unequal baseline. Corrective measures are justified when linked to a demonstrable barrier, proportionate to it and designed to secure equal standing and effective opportunity.
+EQUALITY WITHOUT POWER -> formal opening with weak conversion
+POWER WITHOUT EQUALITY -> exceptional success inside intact hierarchy
+```
 
-**Residual:** Categories may harden, benefits may be captured, and temporary measures can become politically permanent. Review and internal diversity safeguards remain necessary.
+### UPSC application
 
-### Adaptive preference
-
-People may adjust aspirations to constrained options. A woman’s expressed acceptance of unequal inheritance or unpaid dependence may reflect loyalty or choice, but may also reflect absent alternatives, social penalty or internalised expectations. This does not license officials to dismiss every preference. The test is whether the person had information, credible alternatives, bodily security, deliberative space and freedom from coercion.
+- **2018 Q4(c):** adjudicate equality and empowerment; do not choose one slogan.
+- **2019 Q1(e):** distinguish Marxist and socialist feminism before evaluating socialism.
+- Use radical feminism where bodily/private power is central, not as a generic label.
+- **Trap:** never call Marxist and socialist feminism interchangeable.
 
 ### Revision notes
 
-- Formal equality blocks explicit legal exclusion but cannot guarantee conversion.
-- Substantive equality asks what rules do in unequal conditions.
-- Relational equality targets status hierarchy and domination.
-- Transformative equality alters the background structure.
-- Sameness can universalise a male norm.
-- Difference can freeze protective stereotypes.
-- Targeted measures require barrier, fit, proportionality and review.
-- Adaptive preference is a warning about constrained choice, not permission for paternalism.
-- Equality and empowerment are related but not identical.
+1. Liberal feminism targets exclusion through rights and education.
+2. Radical feminism politicises body, sexuality and family.
+3. Marxist feminism centres property and class.
+4. Socialist feminism treats patriarchy as relatively autonomous.
+5. Social reproduction includes care, domestic labour, sexuality and childbearing.
+6. Each diagnosis has a different standard objection.
+7. Social ownership can reduce dependence but does not entail gender equality.
+8. Enforceable claims inside collective property remain necessary.
+9. Equality is the standard; empowerment is process and part of the end.
+10. Formal equality and exceptional individual success are both incomplete.
 
-### Lesson practice
+### Retrieval drill
 
-#### Question 12
-Which principle best handles feminism’s tension with multiculturalism?
-
-A. Every minority practice should be overridden by a uniform majority culture.
-B. Community authority should be immune from individual-rights review.
-C. Only exit matters, even where leaving carries severe social costs.
-D. Protect groups externally while securing voice, rights and accountability for members internally.
-
-**MCQ 12: D**
-
-- **A — Incorrect:** Assimilation can reproduce majority domination while claiming to rescue minority women.
-- **B — Incorrect:** External vulnerability does not justify internal restrictions beyond scrutiny.
-- **C — Incorrect:** Formal departure is hollow when dependence, stigma or violence makes exit unusable.
-- **D — Correct:** The dual test resists both majoritarian coercion and romanticisation of internal hierarchy.
-
-#### Question 13
-What is the central limitation of formal equality in gender justice?
-
-A. Identical rules can preserve disadvantage when people face unequal conversion conditions.
-B. It always requires permanent quotas.
-C. It denies equal legal personhood.
-D. It treats outcomes as the only morally relevant fact.
-
-**MCQ 13: A**
-
-- **A — Correct:** Equal wording does not ensure equal use where time, safety, property and authority are unequally distributed.
-- **B — Incorrect:** Formal equality can exist without any targeted measure, temporary or otherwise.
-- **C — Incorrect:** Equal legal status is its central commitment and principal achievement.
-- **D — Incorrect:** Formalism generally focuses on rules and classifications rather than outcome alone.
-
-#### Question 14
-Which response best avoids both the sameness and difference traps?
-
-A. Ignore embodied needs so that no distinction is ever drawn.
-B. Test differential treatment by agency, structural effect, proportionality and reviewability.
-C. Assign permanent social roles according to average group differences.
-D. Treat every protective rule as inherently emancipatory.
-
-**MCQ 14: B**
-
-- **A — Incorrect:** Refusing relevant distinctions can impose a supposedly neutral norm built around advantaged lives.
-- **B — Correct:** The test asks whether difference dismantles hierarchy instead of naturalising it.
-- **C — Incorrect:** Group averages cannot justify fixing individuals into dependent positions.
-- **D — Incorrect:** Protection can restrict mobility or authority while using benevolent language.
-
-#### Question 15
-What is the proper use of adaptive-preference analysis?
-
-A. To reject whatever disadvantaged persons say they want.
-B. To prove that autonomy is impossible under inequality.
-C. To examine whether preferences formed with information, alternatives, security and freedom from coercion.
-D. To replace agency with expert welfare judgments.
-
-**MCQ 15: C**
-
-- **A — Incorrect:** Automatic disbelief reproduces the silencing that empowerment seeks to overcome.
-- **B — Incorrect:** Constraint can impair formation without extinguishing all reflective choice.
-- **C — Correct:** Procedural and capability conditions distinguish respect for agency from naïve preference satisfaction.
-- **D — Incorrect:** The inquiry should enlarge deliberative freedom rather than transfer final authority to administrators.
+1. Contrast Marxist and socialist feminism in three axes.
+2. What does radical feminism add to liberal reform?
+3. Why does socialism not entail gender equality?
+4. Give the two-direction failure of equality and empowerment.
 
 ---
 
-## Lesson 6 — Female Foeticide: Concept, Causes and the Technology Error
+## Lesson 10 — Integrated Indian applications: how conversion fails
 
-Progress: 6 / 14 | Stage: Core | Subtopic: Female Foeticide: Concept, Causes and the Technology Error
+Progress: 10/11 | Stage: Synthesis | Subtopic: connecting the three printed applications
 
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried
-CA search: "site:indiacode.nic.in Pre-conception and Pre-natal Diagnostic Techniques Act 1994 official"
-CA found: Official India Code statute record located; direct fetch returned HTTP 403
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-**Preflight detail:**
-
-- **Book context:** The local socio-political text’s female-foeticide discussion was checked against the canonical causal architecture.
-- **Current/legal anchor:** The PCPNDT Act is classified as a 1994 statute; no current prevalence figure is used.
-- **Distinction to protect:** Sex-selective termination is not identical with abortion generally, prenatal diagnosis or infanticide.
-- **Boundary:** The general moral status of abortion is not re-litigated here.
-- **Target:** Explain why technology supplies a means while discriminatory valuation supplies the reason.
-
-### Visual first
+### Visual: three conversion gaps
 
 ```text
-patrilineal lineage and inheritance
-               |
-expectation of sons as support / ritual successors
-               |
-dowry and marriage-cost expectations
-               |
-unequal property, income and bargaining power
-               |
-family pressure + constrained reproductive agency
-               |
-diagnostic technology used as an instrument
-               |
-sex-selective termination
+LEGAL / POLICY INPUT             CONVERSION GAP              GENDER-JUST RESULT
+--------------------------------------------------------------------------------
+PCPNDT regulation       -> son preference, coercion,     -> bodily dignity and
+                            enforcement, health access      non-discriminatory choice
+
+equal property law      -> records, access, control,     -> security, bargaining,
+                            return, social legitimacy       recognition and exit
+
+representation rule    -> candidature, party power,     -> agenda-setting, influence
+                            voice, accountability           and substantive equality
 ```
 
-### Four distinctions
+### 1. Why the same philosophical problem recurs
 
-| Issue | Philosophical focus |
+Across foeticide, property and empowerment, a formal input must pass through institutions and
+power relations. The clause therefore tests **conversion**, not simply possession of a law,
+resource or programme.
+
+### 2. Integrated mechanism
+
+```text
+GENDERED VALUATION
+daughter/woman assigned lower standing
+        |
+        +--> reproductive devaluation
+        |
+        +--> unequal inheritance and asset control
+        |
+        +--> lower fall-back position
+        |
+        +--> constrained agency and adaptive choice
+        |
+        +--> weaker public representation
+
+Reform must interrupt more than one link.
+```
+
+### 3. Indian examples with exact limits
+
+| Illustration | Status | What it can show | What it cannot prove |
+|---|---|---|---|
+| PCPNDT Act, 1994 | enacted statute | state recognition and regulation of discriminatory misuse | eradication of son preference or safe enforcement |
+| Beti Bachao Beti Padhao, 2015 | Union administrative programme | public attempt to address daughter valuation | philosophical adequacy or measured success |
+| Hindu Succession (Amendment) Act, 2005 | enacted amendment | equal coparcenary status on statutory terms | possession, control or changed family practice |
+| *Vineeta Sharma* (2020) | Supreme Court judgment | clarification of the amended coparcenary right | universal awareness or exercise |
+| 106th Amendment, 2023; commencement 16 April 2026 | enacted and commenced constitutional amendment | institutional recognition of representation | seat-level operation before the constitutional census/delimitation sequence or substantive voice |
+
+### 4. Rights, autonomy and agency in one matrix
+
+| Application | Right | Autonomy risk | Agency test |
+|---|---|---|---|
+| foeticide | health, equality and protection from discriminatory coercion | regulation can police women | was the reproductive decision free from coercive dependence? |
+| property | equal inheritance and asset claim | family pressure can induce waiver | can she access, control, benefit and exit? |
+| empowerment | equal standing and institutional participation | welfare can be paternalistic | did strategic choice and collective influence expand? |
+
+### 5. Responsibility map
+
+```text
+INDIVIDUAL WRONGDOING -> blame and accountability
+HOUSEHOLD POWER       -> duties to alter coercive allocation
+PROVIDERS / MARKETS   -> duties against discriminatory service
+STATE                 -> rights, enforcement, safe alternatives
+COMMUNITY / PARTIES   -> reform norms and access to voice
+BENEFICIARIES OF ORDER-> forward-looking responsibility graded by power
+```
+
+### 6. The strongest integrated objection
+
+**Objection:** Once equal rights and individual choice are legally secured, further structural
+analysis threatens freedom and cultural diversity.
+
+**Reply:** nominal rights do not establish safe alternatives, control, return or voice. Structural
+analysis identifies conditions needed to make rights usable; it need not prescribe one life.
+
+**Residual:** public intervention can become paternalistic or majoritarian. Measures must protect
+individual agency, hear affected members and remain proportionate and reviewable.
+
+### 7. Cross-topic firewall in application
+
+- **Equality:** use formal/substantive/relational distinctions, then return to gender.
+- **Development:** use capability conversion, not the full development debate.
+- **Multiculturalism:** use external protection/internal restriction, not a general survey.
+- **Caste:** identify the endogamy/property/sexual-control mechanism only.
+- **Political ideology:** compare feminist diagnoses only where the stem requires.
+
+### UPSC application
+
+This lesson supplies the synthesis paragraph for every 15- or 20-marker: legal reform is an
+institutional anchor, but its philosophical significance depends on conversion into security,
+control, agency, recognition and voice.
+
+### Revision notes
+
+1. Clause 9 repeatedly tests conversion from formal input to lived power.
+2. Female devaluation links foeticide, property and weak agency.
+3. Each Indian illustration requires status, date and limitation.
+4. Rights, autonomy and agency ask different questions.
+5. Responsibility is distributed but not undifferentiated.
+6. Structural analysis can support rather than replace freedom.
+7. Paternalism and majoritarianism remain residual risks.
+8. Cross-topic concepts must return quickly to the owned gender mechanism.
+
+### Retrieval drill
+
+1. State the three conversion gaps.
+2. Give one illustration in the formula status → use → limit.
+3. Distinguish blame from forward-looking responsibility.
+4. State the cross-topic firewall for caste.
+
+---
+
+## Lesson 11 — Directive decoding and answer construction
+
+Progress: 11/11 | Stage: Core synthesis | Subtopic: turning doctrine into marks
+
+### Visual: the six-move answer engine
+
+```text
+1. DEFINE / DISTINGUISH
+          |
+2. STATE A DIRECT THESIS
+          |
+3. BUILD THE MECHANISM
+          |
+4. USE NAMED EVIDENCE WITH A LIMIT
+          |
+5. OBJECTION -> REPLY -> RESIDUAL
+          |
+6. GRADED VERDICT IN THE STEM'S OWN TERMS
+```
+
+### 1. Directive decoder
+
+| Directive | What the examiner needs | Compulsory move | Common failure |
+|---|---|---|---|
+| **Explain** | internal logic and distinction | concept → components → nearest contrast → example | narrating the social problem |
+| **Discuss** | exposition plus adjudicated tension | case → counter-case → reasoned verdict | listing perspectives |
+| **Analyse** | parts, relations and consequences | break mechanism into linked stages | unsupported opinion |
+| **Critically discuss / consider** | claim plus strongest challenge and response | at least one objection → reply → residual | denunciation without philosophy |
+| **Evaluate** | criteria and graded judgment | state criteria before judging | conclusion by assertion |
+| **How far** | conditions of success and failure | degree judgment | “yes, but” without conditions |
+| **Can X eliminate Y?** | causal reach and structural limit | mechanism → reach → remainder | treating correlation as elimination |
+| **Necessary/sufficient/both** | two independent logical tests | necessity test, then sufficiency test | using the terms loosely |
+
+### 2. Marks-sensitive architecture
+
+#### 10 marks
+
+1. define and distinguish in two lines;
+2. build one mechanism;
+3. use one named anchor with its limitation;
+4. give one objection/reply or qualification;
+5. conclude directly in about 150 words.
+
+**Do not** force Butler, Agarwal, Kabeer, Gilligan and intersectionality into one short answer.
+
+#### 15 marks
+
+1. direct thesis;
+2. one theoretical framework with presupposition;
+3. clause-specific causal chain;
+4. one Indian illustration with status and conversion caveat;
+5. one developed objection → reply → residual;
+6. graded verdict in about 220 words.
+
+#### 20 marks
+
+1. decode every independent limb;
+2. define central concepts;
+3. develop the main mechanism;
+4. present a rival feminist diagnosis in its strongest form;
+5. use two or more named anchors;
+6. include two objection/reply chains where space permits;
+7. show a conversion gap;
+8. conclude with the structural residue in about 300 words.
+
+### 3. Evidence unit formula
+
+```text
+CLAIM
+  -> NAMED THINKER / TEXT / LEGAL ILLUSTRATION
+  -> WHAT IT PROVES FOR THIS STEM
+  -> LIMIT OR QUALIFICATION
+```
+
+Examples:
+
+- **Agarwal:** land strengthens fall-back position → shows why property affects household power →
+  title still needs control and return.
+- **Kabeer:** empowerment expands strategic choice → distinguishes agency from provision →
+  judging available alternatives remains interpretive.
+- **Gilligan:** care exposes dependency → politicises unpaid time → must not naturalise women as
+  carers.
+- **PCPNDT Act, 1994:** enacted regulation → shows public recognition of discriminatory misuse →
+  does not prove changed son preference.
+
+### 4. High-value distinctions
+
+| Never merge | Use this distinction |
 |---|---|
-| Abortion generally | Moral status, bodily autonomy, coercive power of the state |
-| Sex-selective termination | A discriminatory reason and the social meaning produced by a pattern |
-| Prenatal diagnostic technology | Legitimate medical use versus prohibited sex selection |
-| Female infanticide | Killing after birth; conceptually and legally distinct |
+| difference and discrimination | difference becomes wrong through unjust ranking/power |
+| sex and gender | embodied characteristics versus socially organised meaning, with interaction |
+| construction and free choice | institutional production versus voluntarism |
+| all abortion and female foeticide | general termination versus discriminatory sex selection |
+| title and control | formal claim versus decision power and benefit |
+| equality and empowerment | normative standing versus effective authorship/process |
+| resources and agency | precondition versus decision-making power |
+| presence and influence | descriptive representation versus substantive voice |
+| Marxist and socialist feminism | derivative patriarchy versus dual-system interaction |
+| structural responsibility and guilt | forward-looking duty versus backward-looking blame |
 
-Female foeticide, in the syllabus sense, is sex-selective termination because the foetus is identified or presumed to be female. The gender wrong lies in treating female status as a reason for exclusion from birth. Opposition to that practice must not erase women’s bodily autonomy or presume that every termination is discriminatory.
+### 5. Conclusion templates to adapt
 
-### Causal architecture
+- **Construction:** gender hierarchy is socially produced without being unreal; embodiment
+  conditions experience but does not justify subordination.
+- **Property:** secure equal asset claims are normally necessary under current institutions but
+  never sufficient without access, control, return and wider bodily and political equality.
+- **Empowerment:** agency is indispensable to dismantling discrimination, yet institutional
+  hierarchy cannot be privately negotiated away.
+- **Foeticide:** regulation must confront discriminatory means and patriarchal motive while
+  protecting women’s health and autonomy.
 
-The 2021 question asks whether the practice results from a “demonic application of technology only.” The word **only** is decisive. Technology does not generate son preference. It makes a pre-existing preference easier to execute.
+### UPSC application
 
-The deeper causes form an ordered structure:
+- Let the directive determine the structure: “how far,” “eliminate” and “necessary/sufficient”
+  require explicit degree or condition tests.
+- Allocate evidence by marks; one well-worked framework is better than an unconnected name list.
+- In every Indian illustration write status → analytical use → conversion limit.
+- End by answering the modal term in the question, not by offering a generic reform slogan.
 
-1. **Patrilineal inheritance and lineage** attach continuity and property to sons.
-2. **Economic and ritual expectations** cast sons as future support.
-3. **Dowry and marriage costs** constitute daughters as liabilities.
-4. **Unequal ownership and earnings** make the expectation of dependence self-confirming.
-5. **Family pressure** can constrain the pregnant person’s reproductive agency.
-6. **Technology** becomes the instrument of selection.
+### 6. Error clinic
 
-> Technology supplies the means; patriarchy supplies the reason.
-
-This does not absolve providers or markets that enable illegal selection. It locates their conduct within the demand structure that sustains it.
-
-### Legal and institutional classification
-
-- **Statute:** The Pre-conception and Pre-natal Diagnostic Techniques (Prohibition of Sex Selection) Act, 1994 regulates diagnostic techniques and prohibits sex selection and misuse for sex determination.
-- **Administrative programme:** Beti Bachao Beti Padhao, launched in 2015, is officially described as a behavioural and social-change programme; it is not a direct-benefit-transfer scheme.
-- **Inference:** Enforcement against supply must be joined to property, care, security and norm reform because criminal prohibition cannot remove the valuation that creates demand.
-
-### Objection, reply, residual
-
-**Objection:** Regulation designed to prevent sex selection may police pregnant women and burden those it claims to protect.
-
-**Reply:** Enforcement should focus on discriminatory commercial and diagnostic practices, coercive family structures and providers while protecting health, privacy and agency.
-
-**Residual:** Investigation can still shift burdens toward less powerful participants. Legal design cannot eliminate every enforcement cost.
+1. Do not call every social difference discriminatory.
+2. Do not write sex = natural and gender = wholly artificial.
+3. Do not treat performativity as costume choice.
+4. Do not equate all abortion with female foeticide.
+5. Do not make demographic usefulness the moral foundation.
+6. Do not infer empowerment from a law’s enactment.
+7. Do not infer control from title.
+8. Do not infer agency from good outcomes.
+9. Do not naturalise care.
+10. Do not conflate Marxist and socialist feminism.
+11. Do not treat women as homogeneous.
+12. Do not import a complete caste essay.
+13. Do not use representation without operation and influence tests.
+14. Do not name schemes or statutes as if they were arguments.
 
 ### Revision notes
 
-- Separate abortion, sex selection, diagnostic use and infanticide.
-- “Identified or presumed” shows that technology is not conceptually necessary.
-- Causes must be ordered, not listed.
-- Property and earning inequality make son preference materially resilient.
-- Constrained agency explains why the person harmed may participate.
-- PCPNDT is a statute, not a judicial holding.
-- BBBP is an administrative programme centred on social and behavioural change.
-- Prohibition addresses means; social transformation addresses reasons.
+1. Define and distinguish before evaluating.
+2. State a direct thesis in the stem’s own terms.
+3. Build a causal or conversion mechanism.
+4. Link each named anchor to what it proves.
+5. Give the anchor’s limitation.
+6. Use objection → reply → residual for critical directives.
+7. Separate every independently marked limb.
+8. Make “how far” conclusions conditional.
+9. Test necessity and sufficiency independently.
+10. Return from every cross-topic bridge to the owned gender demand.
 
-### Lesson practice
+### Core completion checkpoint
 
-#### Question 16
-Why can targeted equality measures be consistent with equal citizenship?
+You are Core-ready if you can, without notes:
 
-A. Group identity always overrides individual standing.
-B. Any unequal outcome justifies any differential rule.
-C. Historical disadvantage permanently suspends proportionality.
-D. Proportionate measures may correct barriers that formally identical treatment would reproduce.
+- reconstruct the sex/gender and difference/discrimination distinctions;
+- explain construction and Butler’s qualification with all three cautions;
+- compare four feminist diagnoses;
+- trace the complete foeticide chain and autonomy qualification;
+- reproduce Agarwal’s five property levels;
+- reproduce Kabeer’s three empowerment dimensions;
+- explain care/justice complementarity;
+- distinguish Pateman’s interpretive sexual-contract critique from a historical-event claim;
+- explain Okin’s family-as-justice argument and its bounded-intimacy limit;
+- apply intersectionality without importing caste as a separate topic;
+- state the status and limit of all four Indian legal illustrations;
+- answer necessary/sufficient and elimination stems with separate tests.
 
-**MCQ 16: D**
+### Retrieval drill
 
-- **A — Incorrect:** Group-sensitive remedies remain accountable to persons and constitutional status.
-- **B — Incorrect:** A remedy requires a causal link and fit, not merely a statistical difference.
-- **C — Incorrect:** Reviewability and proportionality prevent correction from becoming an unlimited exception.
-- **D — Correct:** Unequal background conditions can make neutrality preserve rather than remove hierarchy.
-
-#### Question 17
-Why is technology not the sole cause of female foeticide?
-
-A. The discriminatory preference is produced by lineage, property, cost and power before technology enables execution.
-B. Prenatal technology has no legitimate medical use.
-C. Sex selection occurs only after birth.
-D. Providers have no responsibility for prohibited conduct.
-
-**MCQ 17: A**
-
-- **A — Correct:** The instrument facilitates a preference whose normative and material sources precede it.
-- **B — Incorrect:** Legitimate diagnostic uses are precisely why misuse must be separated from the technology itself.
-- **C — Incorrect:** Post-birth killing is infanticide, not prenatal sex-selective termination.
-- **D — Incorrect:** Structural explanation does not remove accountability from enabling actors.
-
-#### Question 18
-Which regulatory approach best answers the autonomy objection?
-
-A. Criminalise every abortion to eliminate uncertainty about motive.
-B. Target discriminatory diagnostic supply and coercion while safeguarding women’s health, privacy and agency.
-C. Place the entire evidential burden on the pregnant woman.
-D. Replace enforcement with demographic targets alone.
-
-**MCQ 18: B**
-
-- **A — Incorrect:** Collapsing all terminations into sex selection destroys the distinction the syllabus requires.
-- **B — Correct:** It directs coercive power toward enabling practices and constraints rather than treating women as presumptive offenders.
-- **C — Incorrect:** Burden-shifting intensifies the unequal power the law is meant to address.
-- **D — Incorrect:** Aggregate outcomes neither identify unlawful conduct nor transform its social causes.
+1. Build a 10-marker outline on gender as a social construct.
+2. Build a 15-marker outline on technology and female foeticide.
+3. Build a 15-marker necessary/sufficient table for property rights.
+4. Build a two-part 20-marker outline for equality, empowerment and foeticide.
 
 ---
 
-## Lesson 7 — Female Foeticide: Dignity, Social Meaning and Remedy
+# OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
 
-Progress: 7 / 14 | Stage: Core | Subtopic: Female Foeticide: Dignity, Social Meaning and Remedy
+> **Use rule:** deploy at most one advanced move in a 15-marker and one or two in a 20-marker.
+> An advanced paragraph must sharpen evaluation of the actual stem. It must never replace the
+> Core mechanism.
 
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried
-CA search: "site:wcd.gov.in Beti Bachao Beti Padhao official launched 2015 current scheme"
-CA found: Official SPNIWCD brief verified; no mutable statistic used
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+## A1. The category dilemma: political unity without a fixed essence
 
-**Preflight detail:**
-
-- **Book context:** Consequential and dignity-based evaluations were cross-checked.
-- **Current/legal anchor:** No unverified sex-ratio statistic is used; claims remain philosophical or instrument-classified.
-- **Distinction to protect:** Demographic imbalance is a consequence, not the primary reason female devaluation is wrong.
-- **Boundary:** The lesson does not convert the topic into population policy.
-- **Target:** Build the evaluative argument required by the 2018, 2023 and 2024 routes.
-
-### Visual first
+### Visual: the double danger
 
 ```text
-female status used as a reason for non-birth
-                    |
-                    v
-      public meaning: daughters are lesser
-                    |
-      repetition across many households
-                    |
-                    v
- demographic distortion + intensified control + weaker equal standing
-                    |
-                    v
- remedy must address dignity, agency, material structure and enforcement
+FIX "WOMEN" TOO RIGIDLY                    DISSOLVE "WOMEN" COMPLETELY
+        |                                             |
+        v                                             v
+excludes internal difference                 weakens law, measurement
+and marginal cases                           and collective mobilisation
+        \_____________________   _____________________/
+                              \ /
+                               v
+PROVISIONAL, PURPOSE-BOUND CATEGORY
+open to revision · internally diverse · tied to a specified harm
 ```
 
-### The moral argument
+The advanced issue is not whether collective categories should exist, but how they can coordinate
+claims without presenting one experience as natural or universal. Strategic category use is
+defensible when four controls are visible:
 
-The primary wrong is **status inequality**. Sex selection treats being female as a disqualifying characteristic before any individual capacities can be known. Repeated decisions also compose a public meaning: daughters are less worthy of life, care or membership.
+1. specify the harm for which the category is being used;
+2. permit internal contest and self-description;
+3. avoid inferring identity from anatomy, dress or role;
+4. review whether the category itself is excluding affected persons.
 
-Demographic imbalance matters, but beginning there creates a consequentialist trap. If the only objection were an adverse sex ratio, selection might appear acceptable whenever numbers were balanced. The practice would remain discriminatory because the reason for exclusion expresses unequal worth.
+**Objection:** a permanently revisable category is too unstable for institutions.
 
-The 2023 wording asks how discrimination leads to foeticide **and social imbalance**. The answer should show two movements:
+**Reply:** legal and political categories routinely serve bounded purposes without making complete
+metaphysical claims about every member.
 
-1. Hierarchy causes selection through the material and normative chain.
-2. Selection feeds hierarchy by shrinking female presence, intensifying control over women and publicly reaffirming lesser status.
+**Residual:** institutional convenience can harden a provisional category and shift the burden of
+proof onto those who do not fit it.
 
-This is a feedback loop rather than a one-way consequence.
+**Deployment:** useful for the 2022 cultural-category question and a sophisticated qualification in
+the 2025 social-construct question.
 
-### Sen’s “missing women” lens
+**Stop rule:** after one paragraph, return to opportunities, rights and resources.
 
-Amartya Sen’s “missing women” formulation treats demographic absence as an index of systemic discrimination rather than as evidence of one isolated practice. Its range is wider than prenatal sex selection: unequal valuation can operate through birth, nutrition, health care and survival. In this topic, the formulation strengthens the structural argument by showing that female foeticide belongs to a longer continuum of unequal care.
+## A2. Transformative equality and the risk of paternalism
 
-Use the argument without importing an undated number. The philosophical point is comparative: where equal worth and care are denied, the aggregate absence records a pattern that individual-choice language can conceal. It remains secondary to dignity; women are not valuable because a society requires a particular numerical balance.
-
-### Empowerment and prevention
-
-Empowerment can weaken the pathway when it changes:
-
-- control over reproductive decisions;
-- education and information;
-- independent income and property;
-- credible protection from violence and abandonment;
-- voice within family and public institutions;
-- the social value attached to daughters and care.
-
-Yet women should not be made solely responsible for ending a practice created by household, market, provider and state failures. Structural responsibility is shared and role-graded.
-
-### Remedy matrix
-
-| Layer | Remedy | Limitation if isolated |
-|---|---|---|
-| Legal | Regulate and sanction prohibited sex selection | Demand and coercion may persist |
-| Material | Property, income, social security and care support | Status devaluation may remain |
-| Agency | Bodily security, information and decision power | Individual burden may replace institutional duty |
-| Cultural | Challenge son preference and daughter-as-liability norms | Symbolism may lack conversion |
-| Institutional | Accountable health systems, records and grievance routes | Compliance can become formalistic |
-
-### Objection, reply, residual
-
-**Objection:** Dignity language is abstract and cannot guide policy.
-
-**Reply:** Dignity identifies what policy must not sacrifice: equal worth, bodily agency and non-discriminatory membership. The remedy matrix then converts those standards into institutional tests.
-
-**Residual:** Dignity does not rank every competing enforcement method. Proportionality and evidence remain necessary.
-
-### Revision notes
-
-- Start with discriminatory valuation, not demographic utility.
-- The wrong persists even if aggregate numbers improve.
-- Individual acts compose public social meaning.
-- Social imbalance is both outcome and reinforcement of hierarchy.
-- Sen’s “missing women” lens links prenatal selection to unequal care and survival across the life course.
-- Empowerment alters the causal pathway but cannot shift all responsibility onto women.
-- Remedies require legal, material, agency, cultural and institutional layers.
-- Dignity disciplines policy; it does not mechanically choose one instrument.
-- Use the feedback loop for 2023 and the equality–empowerment link for 2024.
-
-### Lesson practice
-
-#### Question 19
-Why is demographic imbalance an insufficient primary argument against female foeticide?
-
-A. Demographic consequences are always false.
-B. Population effects belong only to economics.
-C. The discriminatory reason violates equal worth even before aggregate consequences are counted.
-D. Dignity requires ignoring social outcomes.
-
-**MCQ 19: C**
-
-- **A — Incorrect:** Population effects may be real and serious; the issue is their moral priority.
-- **B — Incorrect:** Social composition can matter philosophically when it affects status, freedom and power.
-- **C — Correct:** A daughter is excluded because of female status, which is wrongful independently of numerical balance.
-- **D — Incorrect:** Dignity constrains consequential reasoning without making consequences irrelevant.
-
-#### Question 20
-How does sex selection reinforce the discrimination that caused it?
-
-A. It automatically abolishes son preference through scarcity.
-B. It makes inheritance gender-neutral.
-C. It transfers all reproductive authority to women.
-D. It publicly reaffirms lesser female value and can intensify control over the remaining women.
-
-**MCQ 20: D**
-
-- **A — Incorrect:** Scarcity can coexist with heightened commodification, violence or control.
-- **B — Incorrect:** Demographic change does not itself amend property norms or family practice.
-- **C — Incorrect:** Selection frequently occurs within constrained rather than expanded reproductive agency.
-- **D — Correct:** The outcome feeds back into social meaning and power instead of ending the original hierarchy.
-
----
-
-## Lesson 8 — Land and Property: From Entitlement to Effective Power
-
-Progress: 8 / 14 | Stage: Core | Subtopic: Land and Property: From Entitlement to Effective Power
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried
-CA search: "site:sci.gov.in Vineeta Sharma v Rakesh Sharma 2020 judgment PDF Supreme Court official"
-CA found: Official Supreme Court judgment PDF route located, dated 11 August 2020
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-**Preflight detail:**
-
-- **Book context:** Property, household bargaining and feminist equality material was reviewed.
-- **Current/legal anchor:** The Hindu Succession (Amendment) Act, 2005 is treated as enacted law; `Vineeta Sharma v. Rakesh Sharma` (2020) as a Supreme Court holding.
-- **Distinction to protect:** Ownership, access, control, return and security are separate achievements.
-- **Boundary:** This is not a complete lesson on personal law or land administration.
-- **Target:** Explain why legal title is a necessary anchor but not a sufficient empowerment condition.
-
-### Visual first
+Formal equality can preserve a male-coded baseline; accommodation can preserve the very role it
+seeks to assist. Transformative equality therefore asks whether a rule changes the distribution of
+time, authority, capability and social value.
 
 ```text
-TITLE ---> ACCESS ---> CONTROL ---> RETURN ---> EXIT / SECURITY
-  |          |           |           |              |
-law/record  actual use   decisions   benefit       fall-back position
-  |          |           |           |              |
-each arrow can fail through custom, records, kin, markets or violence
+IDENTICAL RULE
+   |
+   +--> fair if background conditions are relevantly equal
+   |
+   +--> unfair if it rewards an inherited male life-pattern
+
+DIFFERENTIATED RULE
+   |
+   +--> fair if it removes a socially imposed burden
+   |
+   +--> unfair if it fixes a permanent gender destiny
 ```
 
-### Agarwal’s five-level analysis
+**Advanced criterion:** a justified differentiation should be burden-removing, capability-expanding,
+non-stigmatising, proportionate and reviewable.
 
-Bina Agarwal’s work on land rights separates legal ownership from effective control and realised benefit. Its philosophical presupposition is that the household is a site of bargaining, not a single altruistic chooser.
+**Objection:** officials will decide what women really need.
 
-| Level | Test | Common conversion failure |
-|---|---|---|
-| Title | Is the right legally recognised and recorded? | Law changes but records or customary practice do not |
-| Access | Can she possess and use the asset? | Male kin, distance, seclusion, threats |
-| Control | Can she decide cultivation, lease, investment or sale? | Household authority remains elsewhere |
-| Return | Does she receive and command income or benefit? | Proceeds are pooled or appropriated |
-| Exit/security | Does the asset support resistance to abuse or abandonment? | A nominal claim cannot become a credible fall-back |
+**Reply:** affected persons must have voice in defining the burden and evaluating the remedy.
 
-Property matters through two independent arguments:
+**Residual:** participation itself can be unequal; representation does not guarantee internal
+agreement.
 
-1. **Capability and bargaining:** An independent asset supports shelter, livelihood, credit, voice and a credible exit.
-2. **Recognition:** Equal inheritance marks daughters as full members rather than temporary dependants.
+**Deployment:** use for equality/empowerment, care or representation stems.
 
-The fall-back position is decisive. A person who can survive outside a relationship bargains differently within it. Mediated access through a husband or father cannot provide the same independence as a right she can assert in her own name.
+**Stop rule:** do not turn a gender answer into a complete theory of equality.
 
-### Legal record, classified
+## A3. Care, dependency and the social organisation of time
 
-- **Statute:** The Hindu Succession (Amendment) Act, 2005 altered Section 6 so a daughter in a Mitakshara joint Hindu family becomes a coparcener by birth on the statutory terms, with rights and liabilities corresponding to a son.
-- **Judicial holding:** In `Vineeta Sharma v. Rakesh Sharma` (2020), the Supreme Court held that the daughter’s coparcenary right is by birth and does not depend on the father being alive on 9 September 2005.
-- **Inference:** Neither enactment nor interpretation proves possession, control, return or exit in practice.
+Care ethics becomes philosophically stronger when translated from a supposed female disposition
+into a public question about dependency and time.
 
-### Objection, reply, residual
-
-**Objection:** If title frequently fails to convert, legal reform is misdirected.
-
-**Reply:** Higher achievements need an enforceable anchor. Without recognised title, claims to possession, credit, transfer and dispute resolution are radically weakened.
-
-**Residual:** Law cannot directly legislate every family practice. Conversion requires records, information, accessible enforcement, safety, markets and norm change.
-
-### Revision notes
-
-- Attribute the ladder to Bina Agarwal’s ownership–control–benefit analysis.
-- Title, access, control, return and exit are distinct.
-- Exit converts an asset into bargaining power.
-- Household allocation is bargaining, not presumed unity.
-- Property supports both capability and equal membership.
-- The 2005 amendment is statutory text.
-- `Vineeta Sharma` is a 2020 judicial holding.
-- Legal recognition does not prove practical control.
-- Property rights are necessary but insufficient for gender equality.
-
-### Lesson practice
-
-#### Question 21
-What is the best verdict on women’s empowerment as a remedy for female foeticide?
-
-A. It is necessary to alter agency and bargaining power but must be joined to institutional and norm reform.
-B. It is sufficient once women enter paid work.
-C. It is irrelevant because only medical providers matter.
-D. It should replace legal enforcement entirely.
-
-**MCQ 21: A**
-
-- **A — Correct:** The causal chain spans choice, property, family norms, markets and state capacity.
-- **B — Incorrect:** Earnings may remain controlled by others and do not automatically secure bodily authority.
-- **C — Incorrect:** Provider conduct is one enabling link rather than the sole source of demand.
-- **D — Incorrect:** Agency-building and accountable prohibition address different parts of the mechanism.
-
-#### Question 22
-At which level does property most directly become bargaining power?
-
-A. Title alone, because registration settles every household relation.
-B. Exit/security, because the asset provides a credible alternative to dependence.
-C. Access alone, even when another person controls all decisions and income.
-D. Return alone, regardless of whether the benefit can be retained.
-
-**MCQ 22: B**
-
-- **A — Incorrect:** A recorded name can coexist with dispossession, waiver pressure and controlled proceeds.
-- **B — Correct:** A credible fall-back position changes the terms on which a person can negotiate or resist.
-- **C — Incorrect:** Use without decision authority leaves strategic command elsewhere.
-- **D — Incorrect:** Income that cannot be controlled may fail to secure independence.
-
-#### Question 23
-What did `Vineeta Sharma` establish for this topic?
-
-A. Every daughter necessarily possesses and controls inherited land.
-B. The Hindu Succession Act applies identically to every community.
-C. Coparcenary right is by birth and is not conditional on the father being alive at the 2005 commencement.
-D. Informal family partitions can never affect any dispute.
-
-**MCQ 23: C**
-
-- **A — Incorrect:** A legal holding on entitlement cannot demonstrate actual possession or command.
-- **B — Incorrect:** The case interprets a specified statutory framework rather than all personal-law systems.
-- **C — Correct:** That proposition is the relevant Supreme Court clarification of amended Section 6.
-- **D — Incorrect:** The judgment’s treatment of partition is more qualified than an absolute historical erasure.
-
-#### Question 24
-Why is the recognition argument for inheritance distinct from the economic argument?
-
-A. Recognition denies that property has material value.
-B. Economic benefit always produces equal status.
-C. Recognition concerns only ceremonial family roles.
-D. Equal inheritance marks daughters as full members even apart from the income an asset yields.
-
-**MCQ 24: D**
-
-- **A — Incorrect:** Status and material capability are complementary reasons rather than mutually exclusive claims.
-- **B — Incorrect:** Wealth can coexist with stigma, controlled decision-making or unequal membership.
-- **C — Incorrect:** Membership in the property regime affects legal and social standing, not merely ritual symbolism.
-- **D — Correct:** The claim addresses who counts as an equal claimant within the family’s structure of belonging.
-
----
-
-## Lesson 9 — Property, Personal Law and the Necessary/Sufficient Test
-
-Progress: 9 / 14 | Stage: Core | Subtopic: Property, Personal Law and the Necessary/Sufficient Test
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried
-CA search: "site:indiacode.nic.in Hindu Succession Amendment Act 2005 Section 6 official"
-CA found: Official India Code record located; direct fetch returned HTTP 403
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-**Preflight detail:**
-
-- **Book context:** Property conversion analysis and the exact 2026 demand were cross-checked.
-- **Current/legal anchor:** Only stable statutory and judicial propositions are stated.
-- **Distinction to protect:** Necessary, sufficient, both and neither must be used as logical categories.
-- **Boundary:** The lesson identifies the multiculturalism tension without surveying every personal-law rule.
-- **Target:** Answer the 2026 property question with explicit condition-language.
-
-### Visual first
+### Time-allocation mechanism
 
 ```text
-SOCIAL EQUALITY
-     ^
-     |
-property right -- necessary anchor, not sufficient
-     |
-     +-- needs possession and records
-     +-- needs decision and income control
-     +-- needs education and employment
-     +-- needs bodily security and enforceable remedies
-     +-- needs care redistribution and norm reform
+DEPENDENCY NEEDS
+children · illness · disability · old age
+        |
+        v
+CARE MUST BE DONE
+        |
+        +--> privately feminised -> unpaid time burden -> constrained public agency
+        |
+        +--> socially shared -> services + men's participation + institutional support
 ```
 
-### Necessary and sufficient conditions
+The advanced insight is that freedom requires temporal as well as legal and material resources.
+A formally equal workplace can remain substantively unequal if one group carries the default
+responsibility for care.
 
-A condition is **necessary** when the outcome cannot be securely achieved without it. It is **sufficient** when its presence guarantees the outcome.
+**Objection:** public organisation of care can bureaucratise intimate relations.
 
-Land and property rights are a necessary component of social equality because systematic exclusion from productive assets entrenches dependence, unequal membership and weak exit. Yet title does not guarantee equality because:
+**Reply:** justice need not eliminate intimacy; it can distribute background burdens, services and
+responsibility more fairly.
 
-- possession may be blocked;
-- decisions and returns may be controlled by others;
-- education, employment and credit may be absent;
-- violence or waiver pressure may make assertion unsafe;
-- care burdens may prevent use;
-- status norms may still treat daughters as lesser.
+**Residual:** no institutional formula removes every conflict between personal commitment and equal
+opportunity.
 
-The correct 2026 verdict is:
+**Deployment:** use where public/private, work, representation or empowerment is central.
 
-> Independent land and property rights are necessary but not sufficient for gender equality; they must convert into control and operate with education, employment, bodily security, accessible enforcement, care reform and transformation of gender norms.
+**Stop rule:** pair care with justice and never attribute care to female nature.
 
-### Personal-law tension
+## A4. Pateman–Okin comparison as optional refinement
 
-Multicultural protection can preserve community autonomy against majority domination. Feminist criticism asks whether such autonomy also protects unequal inheritance or family authority. The response should avoid two simplifications:
+Core Lessons 3 and 7 already contain every Pateman and Okin point required by Clause 9. This
+optional comparison adds only a sharper relation between their arguments.
 
-- **Uncritical deference:** community identity overrides women’s equal membership.
-- **Majoritarian rescue:** the dominant state or culture is presumed neutral and emancipatory.
+Carole Pateman’s *The Sexual Contract* (1988) interprets classical contract theory as resting on an
+unspoken prior subordination in marriage and domestic life. This is a reconstruction of theoretical
+silence, not a claim that a historical sexual contract was signed.
 
-A defensible approach gives affected women authoritative voice in reform, secures individual equality and exit, and scrutinises whether rules impose internal restrictions.
+Susan Moller Okin’s *Justice, Gender, and the Family* (1989) argues that the family cannot be treated
+as a pre-political unit outside justice, because unequal domestic work shapes income, opportunity,
+self-respect and children’s first experience of fairness.
 
-### A further inheritance illustration
-
-**Judicial holding:** In `Ram Charan & Ors. v. Sukhram & Ors.` (2025 INSC 865, judgment dated 17 July 2025), the Supreme Court considered succession outside the Hindu Succession Act because Section 2(2) excludes Scheduled Tribes from that Act unless otherwise notified. Where no custom excluding female inheritance was proved, the Court applied justice, equity and good conscience together with Article 14 and held the daughter’s legal heirs entitled to an equal share, setting aside the contrary judgments.
-
-The illustration must remain separate from `Vineeta Sharma`. It does not extend the 2005 coparcenary amendment to Scheduled Tribes. It demonstrates a different equality route where neither an applicable statutory succession rule nor a proved exclusionary custom settled the dispute. It also reinforces the conversion warning: a judicially recognised share still requires partition, possession and control before it becomes effective empowerment.
-
-### Conversion failures as philosophical evidence
-
-Waiver pressure, informal partition, defective records and inaccessible courts are not mere administrative details. They show why the identity “right-holder” can fail to become the capability “effective owner.” They also reveal relational power: the cost of asserting a right may include loss of kinship support or exposure to violence.
-
-### Revision notes
-
-- Necessary means indispensable; sufficient means outcome-guaranteeing.
-- Property is necessary as asset, status and exit.
-- Title alone is not sufficient.
-- State the missing conditions specifically.
-- Conversion failures reveal institutional and relational power.
-- Personal-law autonomy is not immunity from gender justice.
-- Majority institutions are not presumed innocent.
-- Women affected by a rule require voice in reform.
-- `Ram Charan` (2025) is a separate Article 14/justice-equity illustration, not an extension of `Vineeta Sharma`.
-- The 2026 conclusion must say “necessary but not sufficient.”
-
-### Lesson practice
-
-#### Question 25
-What is the strongest reply to the claim that failed conversion makes title pointless?
-
-A. Title is an enforceable anchor on which access, control, return and exit can be built.
-B. Conversion failures should be ignored because law is self-executing.
-C. Custom always changes immediately after statutory amendment.
-D. Bargaining power has no relation to legally recognised alternatives.
-
-**MCQ 25: A**
-
-- **A — Correct:** Insufficiency does not remove the foundational role of a claim that can be asserted and enforced.
-- **B — Incorrect:** The entire ladder exists because formal rights do not implement themselves.
-- **C — Incorrect:** Record practices and family expectations frequently lag doctrinal reform.
-- **D — Incorrect:** An independent legal entitlement can strengthen the credibility of a fall-back position.
-
-#### Question 26
-What does it mean to call property rights necessary but not sufficient for gender equality?
-
-A. Equality can be secured without any asset rights, though title is useful.
-B. Asset exclusion blocks equality, but entitlement alone does not guarantee control, security or status.
-C. Property guarantees equality only when inherited rather than purchased.
-D. Every woman must own agricultural land for any equality to exist.
-
-**MCQ 26: B**
-
-- **A — Incorrect:** Calling the condition necessary denies that it can simply be omitted.
-- **B — Correct:** The formulation combines indispensability with an explicit denial of outcome-guaranteeing power.
-- **C — Incorrect:** The logic concerns independent rights and conversion, not one mode of acquisition.
-- **D — Incorrect:** A structural condition is not an identical asset prescription for each individual.
-
-#### Question 27
-Which response best addresses the feminism–multiculturalism tension?
-
-A. Treat all community practices as beyond public reason.
-B. Replace minority norms with the majority’s family model.
-C. Protect communities externally while securing affected women’s voice, equality and usable exit internally.
-D. Assume that formal exit is sufficient regardless of its costs.
-
-**MCQ 27: C**
-
-- **A — Incorrect:** Group vulnerability cannot make internal power immune from evaluation.
-- **B — Incorrect:** Majority custom may carry its own gender hierarchy and coercive history.
-- **C — Correct:** The dual protection avoids choosing between assimilation and internal subordination.
-- **D — Incorrect:** Dependence, stigma and danger can turn a nominal option into no effective alternative.
-
----
-
-## Lesson 10 — Empowerment: Power, Resources, Agency and Achievements
-
-Progress: 10 / 14 | Stage: Core | Subtopic: Empowerment: Power, Resources, Agency and Achievements
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried
-CA search: "Not run — timeless empowerment framework"
-CA found: None required
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-**Preflight detail:**
-
-- **Book context:** Capability and empowerment materials were reconciled with Kabeer’s framework.
-- **Current/legal anchor:** No scheme outcome or mutable statistic is used.
-- **Distinction to protect:** Empowerment is a process of expanding strategic agency, not a synonym for welfare delivery.
-- **Boundary:** Development theory is used only where it clarifies this gender mechanism.
-- **Target:** Define empowerment precisely and identify its conversion conditions.
-
-### Visual first
-
-```text
-RESOURCES --------------------> AGENCY --------------------> ACHIEVEMENTS
-material, human, social        goals, voice, action         realised outcomes
-        |                           |                            |
-        +-------- conversion conditions: norms, institutions,
-                 bodily security, information, time, alternatives
-
-power over = domination          power to = capacity
-power with = collective action   power within = self-worth / critical awareness
-```
-
-### Kabeer’s framework
-
-Naila Kabeer understands empowerment as expansion in the ability to make **strategic life choices** where that ability was previously denied. Her resources–agency–achievements triad prevents three reductions:
-
-- resources alone are not agency;
-- agency without feasible options is not effective freedom;
-- achievements without authorship can be paternalistic outcomes.
-
-**Resources** include assets, education, time, networks, information and institutional claims. **Agency** includes decision, negotiation, refusal, voice and collective action. **Achievements** are realised ways of being and doing.
-
-The framework is dynamic. A successful achievement can create future resources and confidence; a hostile outcome can shrink options.
-
-Consider a bank account opened in a woman’s name but operated entirely by her husband. The account is a **resource**, and money entering it may produce a beneficial household outcome, but neither fact proves that she can decide, refuse, retain or redirect the funds. The example establishes the resource–agency gap; it does not imply that account access is useless, because independent operation and enforceable control can convert the same resource into power.
-
-Kabeer’s framework should therefore be used **diagnostically**, not as a pass/fail label attached to an entire programme. It identifies where the chain breaks: resource delivery, agency-building or realised achievement. A policy can succeed at one link and remain incomplete at another.
-
-### Four forms of power
-
-| Form | Meaning | Gender application |
-|---|---|---|
-| Power over | Capacity to control another | Violence, income control, imposed reproductive decisions |
-| Power to | Capacity to act | Education, mobility, legal claim, bodily decision |
-| Power with | Collective capacity | Associations, unions, self-help and political organisation |
-| Power within | Self-respect and critical awareness | Refusal of internalised inferiority |
-
-Empowerment should expand the latter three and constrain domination. “Power within” must not become motivational rhetoric that ignores material barriers.
-
-### Strategic choices and ordinary choices
-
-Not every increase in choice is empowerment. Strategic choices shape the course of life: marriage, reproduction, education, livelihood, mobility, political voice and exit from abuse. A larger menu of consumer goods does not compensate for denial of bodily or civic authority.
-
-### Objection, reply, residual
-
-**Objection:** Empowerment individualises injustice by asking women to become resilient inside oppressive structures.
-
-**Reply:** A relational definition includes collective agency and institutional transformation. The object is not adaptation to domination but expanded authority over strategic choices.
-
-**Residual:** Development programmes can continue to measure participation rather than control. Evidence must ask who decides, who bears risk and who keeps the return.
-
-### Revision notes
-
-- Empowerment expands previously denied strategic choice.
-- Resources, agency and achievements are connected but non-identical.
-- A bank account controlled by another person is resource delivery without effective financial agency.
-- Conversion conditions determine whether resources become freedom.
-- Power over differs from power to, with and within.
-- Collective organisation is part of empowerment.
-- “Confidence” without alternatives is insufficient.
-- Consumer choice is not equal to strategic agency.
-- Ask who decides, who bears risk and who receives benefits.
-- Use Kabeer diagnostically to locate a broken link, not merely to declare a programme successful or failed.
-- Empowerment is process and relation, not a delivered object.
-
-### Lesson practice
-
-#### Question 28
-Which case most clearly demonstrates achievement without empowerment?
-
-A. A woman collectively negotiates safer work and controls the resulting income.
-B. A daughter asserts an inherited share and decides how to use it.
-C. A community group changes a rule through organised voice.
-D. A programme reaches a beneficial outcome while officials retain all strategic decisions.
-
-**MCQ 28: D**
-
-- **A — Incorrect:** Collective negotiation and control show agency as well as outcome.
-- **B — Incorrect:** Assertion and decision-making connect the resource to authorship.
-- **C — Incorrect:** Organised rule-change is a direct exercise of power with.
-- **D — Correct:** Welfare can improve while the beneficiary remains an object rather than an agent.
-
-#### Question 29
-Why does Kabeer focus on strategic life choices?
-
-A. They concern major directions of life where prior denial reveals relations of power.
-B. They exclude marriage, work and reproduction from empowerment.
-C. They equate market consumption with autonomy.
-D. They make collective agency conceptually impossible.
-
-**MCQ 29: A**
-
-- **A — Correct:** The framework targets decisions whose denial structures dependence and future opportunity.
-- **B — Incorrect:** Those domains are paradigm cases of strategically consequential choice.
-- **C — Incorrect:** Expanding minor purchases cannot substitute for authority over life-shaping decisions.
-- **D — Incorrect:** Power with is essential where individuals cannot alter institutions alone.
-
-#### Question 30
-What does “power within” contribute?
-
-A. Legal ownership automatically converted into possession.
-B. Self-worth and critical awareness needed to question internalised inferiority.
-C. Coercive authority over weaker household members.
-D. A replacement for material resources and bodily security.
-
-**MCQ 30: B**
-
-- **A — Incorrect:** Internal confidence cannot correct land records or enforce possession by itself.
-- **B — Correct:** It identifies the reflective dimension through which a person can recognise and contest subordination.
-- **C — Incorrect:** Domination belongs to power over rather than emancipatory inner capacity.
-- **D — Incorrect:** Psychological change complements rather than cancels external conditions.
-
----
-
-## Lesson 11 — Capability, Adaptive Preference and the Ethics of Care
-
-Progress: 11 / 14 | Stage: Core | Subtopic: Capability, Adaptive Preference and the Ethics of Care
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried
-CA search: "Not run — timeless capability and care doctrine"
-CA found: None required
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-**Preflight detail:**
-
-- **Book context:** Capability and care-ethics treatments were checked against the promoted Core obligations.
-- **Current/legal anchor:** No mutable institutional claim is needed.
-- **Distinction to protect:** Care is a human and political need, not a naturally female destiny.
-- **Boundary:** This is not a general survey of moral-development psychology.
-- **Target:** Join real freedom, dependency and care without paternalism or essentialism.
-
-### Visual first
-
-| Justice lens | Main question | Contribution | Characteristic danger |
+| Thinker | Target | Philosophical move | Limit |
 |---|---|---|---|
-| Capability | What is the person actually able to be and do? | Tests conversion, bodily integrity and agency | Imposed capability list |
-| Preference | What does the person say she wants? | Respects authorship | May register adaptation to deprivation |
-| Care | Who is dependent and what does the relationship require? | Makes vulnerability, time and interdependence visible | Feminised self-sacrifice |
-| Rights/justice | What equal claim and limit applies? | Prevents domination and partiality | Abstract formalism |
+| Pateman | foundation of liberal contract | public equality may presuppose private subordination | interpretive thesis can over-generalise the contract tradition |
+| Okin | liberal theory’s treatment of family | extend justice into domestic background structure | risks extending public principles into every intimacy |
 
-### Capability
+**Synthesis:** Pateman offers a foundational challenge; Okin offers an internal reform.
 
-Sen’s capability approach evaluates real opportunity rather than resources or declared satisfaction alone. Nussbaum develops a threshold-oriented account that highlights bodily health, bodily integrity, practical reason, affiliation and control over one’s environment. For gender analysis, the key distinction is between possessing a good and being able to convert it into a functioning.
+**Deployment:** one contrast can enrich public/private or liberal-feminist evaluation.
 
-The approach improves property and empowerment analysis:
+**Stop rule:** do not present Pateman’s thesis as an event, and do not replace the owned property or
+empowerment mechanism with contract theory.
 
-- title is a resource;
-- mobility, safety, information and authority are conversion conditions;
-- actual use and control are capabilities;
-- chosen achievements are functionings.
+## Advanced retrieval checks
 
-### Adaptive preference
-
-Persistent deprivation can narrow aspiration. Preference satisfaction is therefore not a complete metric. But the correction must not become paternalism. A defensible test asks whether preferences were formed under:
-
-- adequate information;
-- credible alternatives;
-- bodily security;
-- space for reflection and dissent;
-- freedom from coercive dependence;
-- participation in setting the relevant standard.
-
-The aim is to improve the conditions of choosing, not to replace the chooser.
-
-### Gilligan and care
-
-Carol Gilligan’s `In a Different Voice` (1982) criticises models of moral development that privilege abstract rule and separation while treating relational reasoning as deficiency. Care ethics attends to vulnerability, context, responsibility and sustaining relationships.
-
-Its relevance is political:
-
-1. unpaid care consumes time required for education, work and representation;
-2. dependency in childhood, illness, disability and old age cannot be modelled as exchange among fully independent contractors;
-3. unequal care assignment constrains agency even when formal rights are equal.
-
-The essentialism objection is serious. If care is presented as women’s natural moral voice, it can justify assigning them more care. The stronger reading treats care orientation as socially cultivated and humanly available, while demanding that caring labour and dependency costs be justly shared.
-
-Justice and care are complementary. Justice sets limits against exploitation and self-erasure; care prevents equal rules from becoming indifferent to dependency and context.
-
-### Revision notes
-
-- Capabilities are real opportunities, not goods alone.
-- Conversion conditions explain unequal freedom from equal resources.
-- Nussbaum’s threshold invites list and paternalism objections.
-- Adaptive preference warrants inquiry into choice conditions, not automatic disbelief.
-- Care makes dependency and time politically visible.
-- Care ethics must not naturalise women as carers.
-- Social-position interpretation answers part of the essentialism objection.
-- Justice prevents exploitative care; care corrects abstract justice.
-- Redistributing care is an empowerment condition.
-
-### Lesson practice
-
-#### Question 31
-Which question best tests whether a programme is empowering?
-
-A. How many participants attended an event?
-B. Was a benefit announced in official language?
-C. Who gained decision power, alternatives, control of returns and collective voice?
-D. Did administrators describe beneficiaries as empowered?
-
-**MCQ 31: C**
-
-- **A — Incorrect:** Presence can be passive and says little about strategic authority.
-- **B — Incorrect:** Institutional description is not evidence of conversion into agency.
-- **C — Correct:** The test tracks the mechanisms that transform resources into effective power.
-- **D — Incorrect:** A label supplied by the provider cannot establish authorship by the recipient.
-
-#### Question 32
-Why does the capability approach improve a property-rights analysis?
-
-A. It proves that resources are irrelevant.
-B. It equates legal title with realised welfare.
-C. It treats any achieved outcome as chosen.
-D. It asks whether title converts through safety, access and control into real opportunity.
-
-**MCQ 32: D**
-
-- **A — Incorrect:** Resources matter, but their value depends on personal and social conversion.
-- **B — Incorrect:** The approach was introduced precisely to separate possession from effective freedom.
-- **C — Incorrect:** Agency and choice remain necessary when evaluating a functioning.
-- **D — Correct:** Conversion reveals why equal formal assets can support radically unequal lives.
-
-#### Question 33
-What is the strongest non-essentialist use of care ethics?
-
-A. Treat care as a human practice shaped by social position and distribute its burdens justly.
-B. Assert that women are naturally more self-sacrificing.
-C. Replace rights with unconditional family duty.
-D. Exclude dependency from political justice.
-
-**MCQ 33: A**
-
-- **A — Correct:** This preserves care’s insight into interdependence without converting an assigned role into female nature.
-- **B — Incorrect:** Naturalising nurturance can legitimise the unequal labour under examination.
-- **C — Incorrect:** Rights are needed to stop relationship from becoming domination or self-erasure.
-- **D — Incorrect:** Dependency is the phenomenon care ethics brings from private invisibility into public evaluation.
-
-#### Question 34
-How should adaptive preferences affect policy?
-
-A. Officials should disregard all expressed preferences of disadvantaged groups.
-B. Institutions should expand information, alternatives and security while preserving the person’s deliberative authority.
-C. Satisfaction should be accepted as decisive even under coercion.
-D. Experts should choose achievements without participation.
-
-**MCQ 34: B**
-
-- **A — Incorrect:** Universal suspicion silences the people whose agency the analysis seeks to strengthen.
-- **B — Correct:** Better conditions of choice answer adaptation without substituting administrative will.
-- **C — Incorrect:** Coercive formation can make reported content an incomplete indicator of freedom.
-- **D — Incorrect:** Non-participatory selection reproduces paternalism in the language of capability.
+1. How can a category be politically necessary yet philosophically provisional?
+2. Give five tests for transformative differentiation.
+3. Why is time a resource for gender equality?
+4. Contrast Pateman’s foundational critique with Okin’s internal reform.
 
 ---
 
-## Lesson 12 — Can Empowerment Eliminate Gender Discrimination?
+# BOUNDED EXPERT REFERENCE — USE SELECTIVELY
 
-Progress: 12 / 14 | Stage: Core | Subtopic: Can Empowerment Eliminate Gender Discrimination?
+## E1. Precision bench
 
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried
-CA search: "Not run — analytical synthesis without mutable claim"
-CA found: None required
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-**Preflight detail:**
-
-- **Book context:** The 2020 and 2024 answer routes were compared with structural and capability analysis.
-- **Current/legal anchor:** Examples remain stable and non-quantitative.
-- **Distinction to protect:** Necessary-but-insufficient is a derived judgment, not a cautious slogan.
-- **Boundary:** Empowerment does not transfer the whole burden of reform to disadvantaged individuals.
-- **Target:** Derive the verdict from the type of injustice diagnosed.
-
-### Visual first
-
-```text
-empowerment changes:
-resources + agency + voice + exit + recognition
-                         |
-                         v
-weakens dependence and discriminatory choices
-                         |
-                         v
-BUT structural reproduction also involves:
-family norms + employers + markets + care systems + law + violence + representation
-                         |
-                         v
-VERDICT: empowerment is necessary, powerful, and not sufficient alone
-```
-
-### Deriving the verdict
-
-If discrimination were only a lack of confidence or resources among women, empowerment might eliminate it. But the prior lessons diagnosed a structural relation produced by many agents and institutions. Therefore changing the position of the disadvantaged group alone cannot guarantee removal of the entire structure.
-
-Empowerment is **necessary** because people cannot be equal while denied strategic choice, bodily authority, property, voice and collective power. It is **not sufficient** because:
-
-- advantaged actors can preserve discriminatory norms;
-- institutions can impose biased conversion conditions;
-- violence can nullify formal choice;
-- care systems can continue to extract time;
-- markets and political parties can restrict authority;
-- recognition can lag behind resources.
-
-The conclusion is not pessimistic. Empowerment alters bargaining, challenges norms, creates political constituency and prevents paternalistic reform. It is a central causal mechanism that must operate with institutional responsibility.
-
-### Equality and empowerment
-
-Equality supplies the status and distributional standard; empowerment supplies the agency and process through which persons can claim, shape and defend that status.
-
-- Equality without empowerment can be bestowed, formal and reversible.
-- Empowerment without equality can produce exceptional success within an unchanged hierarchy.
-- Together they require institutions that secure equal standing and expand authorship.
-
-### Link to female foeticide
-
-Empowerment helps curb sex selection when it strengthens reproductive decision, independent security, property, education and voice. Gender equality is the deeper condition because it changes how daughters and women are valued. Neither works alone if illegal provider markets, coercive kinship structures and weak accountability persist.
-
-### Revision notes
-
-- The verdict follows from structural diagnosis.
-- Empowerment is necessary because agency is constitutive of equality.
-- It is insufficient because hierarchy is reproduced by more than disadvantaged persons.
-- Equal status and effective authorship are mutually supporting.
-- Exceptional mobility is not structural elimination.
-- Do not make women solely responsible for ending patriarchal practices.
-- Connect empowerment to property, bodily security, care and representation.
-- For foeticide, distinguish agency reform from provider and norm reform.
-
-### Lesson practice
-
-#### Question 35
-Why is empowerment insufficient by itself to eliminate gender discrimination?
-
-A. Agency has no value in structural reform.
-B. Empowerment necessarily increases domination.
-C. Other actors and institutions can continue reproducing unequal norms and conversion conditions.
-D. Equality requires passive receipt rather than participation.
-
-**MCQ 35: C**
-
-- **A — Incorrect:** Agency is both intrinsically valuable and causally important to challenging hierarchy.
-- **B — Incorrect:** The concept seeks to expand emancipatory power while constraining power over.
-- **C — Correct:** A multi-agent structure cannot be guaranteed to disappear through change on only one side.
-- **D — Incorrect:** Durable equality needs persons able to claim and reshape institutions.
-
-#### Question 36
-How are equality and empowerment best related?
-
-A. They are synonyms with no analytical distinction.
-B. Empowerment replaces equal status with individual competition.
-C. Equality concerns outcomes only, while empowerment concerns feelings only.
-D. Equality supplies the standard of equal standing; empowerment supplies effective agency to realise and defend it.
-
-**MCQ 36: D**
-
-- **A — Incorrect:** One names a normative relation and the other an expansion of strategic power.
-- **B — Incorrect:** Collective agency and institutional change distinguish empowerment from competitive self-advancement.
-- **C — Incorrect:** Both concepts span resources, institutions, status and action beyond that caricature.
-- **D — Correct:** Their integration avoids both bestowed formalism and isolated success within hierarchy.
-
----
-
-## Lesson 13 — Redistribution, Recognition, Representation and Intersectional Mediation
-
-Progress: 13 / 14 | Stage: Advanced | Subtopic: Redistribution, Recognition, Representation and Intersectional Mediation
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried
-CA search: "site:legislative.gov.in Constitution One Hundred and Sixth Amendment Act 2023 Article 334A official PDF"
-CA found: Official Legislative Department index located; direct PDF fetch returned HTTP 403
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-**Preflight detail:**
-
-- **Book context:** Representation and justice treatments were checked alongside the canonical three-dimensional synthesis.
-- **Current/legal anchor:** The Constitution (One Hundred and Sixth Amendment) Act, 2023 is treated as enacted constitutional text; its operational reservation remains tied by Article 334A to a census-based delimitation sequence. No unverified commencement date is asserted.
-- **Distinction to protect:** Enactment, commencement and seat-level implementation are not interchangeable.
-- **Boundary:** Caste, class and community are used as mediating mechanisms, not retaught as separate syllabus owners.
-- **Target:** Test every remedy across resources, status and authoritative voice.
-
-### Visual first
-
-| Dimension | Wrong | Remedy | Failure when isolated |
-|---|---|---|---|
-| Redistribution | Unequal property, income, time and care burden | Assets, services, fair labour and care allocation | Material aid can leave stigma and voice unchanged |
-| Recognition | Devaluation, stereotyping and humiliation | Equal status and transformation of cultural value | Symbolic respect can coexist with dependence |
-| Representation | Exclusion from agenda-setting and decision | Presence, voice, organisation and accountability | Presence can become tokenism |
-
-### The three-dimensional test
-
-Gender justice requires all three:
-
-- resources without voice can become paternalistic provision;
-- recognition without redistribution can celebrate identity while preserving dependence;
-- representation without agency and accountability can become token presence.
-
-This framework helps assess property reform, empowerment programmes and responses to female foeticide. Each remedy should specify which dimension it reaches and what remains.
-
-### Constitutional application
-
-**Constitutional text:** The Constitution (One Hundred and Sixth Amendment) Act, 2023 inserted provisions for reservation of seats for women in the Lok Sabha, State Legislative Assemblies and the Legislative Assembly of the National Capital Territory of Delhi.
-
-**Constitutional condition:** Article 334A links the reservation’s taking effect to delimitation undertaken after publication of the relevant census figures following commencement.
-
-**Inference:** Enactment is an important representation reform but should not be described as immediate seat-level implementation. Representation also requires party opportunity, voice, committee influence, accountability and freedom from proxy control to become substantive empowerment.
-
-Secondary reports assert a commencement notification dated 16 April 2026, but an authoritative Gazette record was not independently accessible. The date is therefore not taught as verified fact.
-
-### Intersectional mediation
-
-Intersectionality asks how another axis changes the gender mechanism:
-
-- **Caste:** endogamy, labour, property and control of marriage/sexuality.
-- **Class:** insecure work, services, bargaining resources and exposure to unpaid labour.
-- **Community:** external minority vulnerability may coexist with internal restrictions.
-- **Disability:** accessibility, dependency and substituted decision-making.
-- **Sexuality and gender identity:** stigma, compulsory heterosexuality and gender policing.
-
-The common subject of equality is preserved, but remedies must not universalise the most privileged experience.
-
-### Objection, reply, residual
-
-**Objection:** Intersectionality fragments political action into endlessly multiplying identities.
-
-**Reply:** Coalition can be organised around common dignity and anti-domination while policy remains sensitive to distinct mechanisms.
-
-**Residual:** Priority conflicts remain. Intersectionality diagnoses omission more reliably than it supplies a complete decision rule.
-
-### Revision notes
-
-- Redistribution, recognition and representation are jointly necessary dimensions.
-- Each isolated remedy has a characteristic failure.
-- The 106th Amendment is enacted constitutional text.
-- Article 334A supplies a census–delimitation condition.
-- Do not equate enactment with completed implementation.
-- Representation needs voice, opportunity and accountability.
-- Intersectionality changes causal mechanisms rather than adding labels.
-- Caste mediation can be named without re-teaching the caste owner.
-- Coalition and internal diversity must coexist.
-
-### Lesson practice
-
-#### Question 37
-What is missing when a gender policy redistributes benefits but leaves recipients without voice?
-
-A. Representation and agency, making provision vulnerable to paternalism.
-B. Any material improvement whatsoever.
-C. A biological explanation of disadvantage.
-D. The abolition of all group categories.
-
-**MCQ 37: A**
-
-- **A — Correct:** Benefits chosen and controlled by others can improve welfare without altering authoritative standing.
-- **B — Incorrect:** The criticism concerns incompleteness, not denial that resources matter.
-- **C — Incorrect:** The missing dimension is political authorship rather than natural causation.
-- **D — Incorrect:** Group-sensitive analysis can coexist with equal individual status.
-
-#### Question 38
-What is the safest factual description of the 106th Amendment for this session?
-
-A. It immediately reserved seats in every election held after 2023.
-B. It enacted a reservation framework whose operation is constitutionally linked to census-based delimitation under Article 334A.
-C. It is only a proposed bill with no constitutional status.
-D. It applies to the Rajya Sabha and every Legislative Council.
-
-**MCQ 38: B**
-
-- **A — Incorrect:** Enactment and seat-level operation are separated by the constitutional sequencing provision.
-- **B — Correct:** This states the stable text without importing an inaccessible or mutable implementation claim.
-- **C — Incorrect:** Presidential assent made it an enacted constitutional amendment in 2023.
-- **D — Incorrect:** The covered institutions are specifically enumerated and do not include those chambers.
-
-#### Question 39
-Why is intersectionality not additive?
-
-A. It ranks one hierarchy as always prior.
-B. It denies common claims to dignity.
-C. Intersecting institutions can produce a distinct mechanism not captured by separate disadvantage totals.
-D. It treats class and caste as merely personal identities.
-
-**MCQ 39: C**
-
-- **A — Incorrect:** Context determines which interaction matters; no universal ordering follows.
-- **B — Incorrect:** A differentiated diagnosis can support common normative commitments.
-- **C — Correct:** Endogamy or substituted decision-making changes how gender power itself is exercised.
-- **D — Incorrect:** The framework analyses structural relations rather than reducing them to self-description.
-
-#### Question 40
-What is the chief limitation of representation without substantive agency?
-
-A. It necessarily reduces the number of women in office.
-B. It abolishes recognition.
-C. It makes redistribution conceptually impossible.
-D. Presence may remain tokenistic or subject to control without agenda-setting power and accountability.
-
-**MCQ 40: D**
-
-- **A — Incorrect:** Representation measures may increase presence even when influence remains weak.
-- **B — Incorrect:** Symbolic recognition can rise alongside limited authority.
-- **C — Incorrect:** Material policy can coexist with shallow participation.
-- **D — Correct:** Descriptive inclusion is not identical with effective political authorship.
-
----
-
-## Lesson 14 — Integrated Synthesis, Boundaries and Answer Architecture
-
-Progress: 14 / 14 | Stage: Advanced | Subtopic: Integrated Synthesis, Boundaries and Answer Architecture
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: queried
-CA search: "Official-source verification queries from Lessons 6–13 consolidated"
-CA found: Stable legal classifications retained; inaccessible mutable commencement claim excluded
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-**Preflight detail:**
-
-- **Book context:** The complete conceptual, advanced, practice and OCR evidence was reconciled.
-- **Current/legal anchor:** Stable legal classifications are retained; inaccessible mutable claims are excluded.
-- **Distinction to protect:** Doctrine, constitutional text, statute, judicial holding, institutional fact and inference must remain labelled.
-- **Boundary:** The lesson integrates Gender Discrimination without absorbing Equality, Political Ideologies, Caste or Development as separate owners.
-- **Target:** Produce question-specific arguments rather than a memorised generic essay.
-
-### Visual first
-
-```text
-1 DEFINE the contested term
-        |
-2 DISTINGUISH adjacent concepts
-        |
-3 RUN the mechanism: norm -> institution -> allocation -> outcome
-        |
-4 APPLY a device:
-  feminist grid / foeticide chain / property ladder / empowerment triad
-        |
-5 ADD one classified Indian application
-        |
-6 OBJECTION -> reply -> residual
-        |
-7 TEST redistribution + recognition + representation
-        |
-8 GIVE a conversion-specific verdict
-```
-
-### Master thesis
-
-Gender discrimination is a structural relation in which social classifications are ranked and reproduced through norms, households, markets, law and public authority. Female foeticide, ineffective property rights and shallow empowerment are not separate failures: each is a different point at which unequal valuation becomes constrained agency.
-
-### Question-sensitive routes
-
-| Stem type | Opening distinction | Core device | Verdict |
-|---|---|---|---|
-| Social construction | Sex / gender / hierarchy | Reproduction loop | Biology underdetermines status |
-| Feminism and equality | Diagnosis / ideology | Six-approach grid | Equality and empowerment are complementary |
-| Socialist regime | Class reduction / partial autonomy | Marxist–socialist comparison | Economic reform important, not sufficient |
-| Female foeticide | Abortion / sex selection / technology | Six-link causal chain | Dignity first; technology instrumental |
-| Property rights | Title / effective control | Five-level ladder | Necessary anchor, not sufficient |
-| Empowerment | Resources / agency / achievements | Kabeer triad and power forms | Necessary, powerful, structurally incomplete |
-| Integrated remedy | Resource / status / voice | Three-dimensional test | Transform conversion conditions |
-
-### Directive and length control
-
-The directive determines what intellectual work must be visible:
-
-| Directive | Compulsory move | Typical failure |
+| Precision device | Exact use | Misuse to avoid |
 |---|---|---|
-| Explain | Define, separate the nearest confusion and show the internal mechanism | Describing the social problem without explaining the concept |
-| Discuss | Present the main position, strongest rival and an adjudicated verdict | Listing approaches without deciding the tension |
-| Analyse | Break the claim into causal or logical components and test their relation | Producing a general essay with no mechanism |
-| Critically examine/evaluate | Build objection–reply chains and retain a residual problem | Replacing evaluation with moral indignation |
-| How far/to what extent | State conditions of success and failure, then make a degree judgment | Avoiding commitment through a survey |
-| Can X eliminate Y? | Construct the mechanism, identify its reach and locate what remains outside it | Declaring a remedy sufficient without testing the structure |
+| **Performativity** | explains how compelled repetition produces apparent natural identity | treating gender as freely chosen theatre |
+| **Strategic category use** | coordinates a bounded claim without asserting a timeless essence | claiming the category problem is solved |
+| **Social connection** | allocates forward-looking duties in structural injustice | erasing individual blame |
+| **Fall-back position** | explains how independent assets alter bargaining and exit | assuming every household is only a market bargain |
+| **Adaptive preference** | questions satisfaction formed under narrowed horizons | dismissing every reported choice |
+| **Social reproduction** | names the labour and institutions reproducing daily and generational life | using it as a vague synonym for domestic work |
+| **Relational equality** | tests domination, stigma and servility | substituting it for material redistribution |
+| **Internal restriction** | identifies group power exercised against members | singling out minority communities as uniquely patriarchal |
 
-Use the mark allocation to control selection rather than compress the governing argument:
+## E2. Expert deployment and stop rules
 
-- **10 marks, about 150 words:** four moves—definition/distinction, one mechanism, one classified evidence unit with its limit, and a direct verdict. Use one framework well.
-- **15 marks, about 220–250 words:** six moves—diagnosis, theory, clause-specific mechanism, one compact visual or comparison, one objection–reply–residual chain, and a graded conclusion.
-- **20 marks, about 300 words:** eight moves—provisional thesis, conceptual framework, application with legal status, strongest rival, two evaluated objections, conversion analysis, one dated Indian illustration and a structural verdict.
+### Use an Expert point only when
 
-Word budgets are planning guides, not reasons to omit the distinction, mechanism, objection or conclusion. Cut biography, duplicated definitions and decorative examples first.
+1. the stem directly turns on a close distinction;
+2. Core exposition is already complete;
+3. the point can be stated accurately in two to four lines;
+4. it changes the evaluation rather than decorating it;
+5. its objection or limit can also be named.
 
-### Evidence classification
+### Do not use an Expert point when
 
-- **Philosophical doctrine:** Beauvoir’s Other, Butler’s performativity, Young’s social connection, Agarwal’s bargaining analysis, Kabeer’s triad, Gilligan’s care critique.
-- **Constitutional text:** The 106th Amendment and Article 334A’s sequencing condition.
-- **Statute:** PCPNDT Act, 1994; Hindu Succession (Amendment) Act, 2005.
-- **Judicial holding:** `Vineeta Sharma` (2020) on coparcenary right by birth.
-- **Institutional fact:** BBBP was launched in 2015 and is officially framed as behavioural and social change rather than DBT.
-- **Inference:** These instruments cannot eliminate hierarchy without conversion, accountability and norm reform.
+1. the answer has not yet defined the syllabus term;
+2. the causal mechanism is missing;
+3. marks are low and the point displaces direct analysis;
+4. attribution is uncertain;
+5. the point belongs primarily to caste, multiculturalism, development or general equality.
 
-### Topic boundaries
+### The one-discriminator rule
 
-- **Social-Political Ideals:** Borrow formal, substantive and relational equality; do not re-teach the complete ideal.
-- **Political Ideologies:** Use liberal, Marxist and socialist approaches as bounded gender diagnoses.
-- **Caste:** Name endogamy, property and labour mediation; route full Gandhi–Ambedkar doctrine elsewhere.
-- **Development:** Use capability only to test gendered conversion.
-- **Crime and Punishment:** Mention sanctions only as one remedy layer, not a general punishment theory.
+```text
+CORE ANSWER COMPLETE?
+      |
+     no  -> stop; repair Core
+      |
+     yes
+      v
+ONE EXPERT DISTINCTION
+      |
+      v
+EXPLAIN WHAT IT CHANGES
+      |
+      v
+STATE ITS LIMIT
+      |
+      v
+RETURN TO THE DIRECTIVE
+```
 
-### Final objections
+### Expert retrieval checks
 
-**Objection:** A structural account is so broad that it explains everything and prioritises nothing.
-
-**Reply:** The answer remains discriminating when it specifies mechanism, responsible role, conversion failure and remedy layer for the precise stem.
-
-**Residual:** Complex causation resists one-variable solutions. The virtue of the framework is not predictive simplicity but disciplined completeness.
-
-### Revision notes
-
-- Start with the stem’s contest, not a stock definition.
-- Let the directive determine whether the answer must explain, compare, analyse, evaluate or make a degree judgment.
-- Use one main device and one supporting comparison.
-- Scale evidence to marks: one developed unit at 10 marks, two at 15, and a fuller rival/objection structure at 20.
-- Classify every Indian application.
-- State the strongest objection to your preferred argument.
-- Give a residual problem after the reply.
-- “Necessary but insufficient” must identify missing conditions.
-- Do not confuse implementation evidence with enacted text.
-- Bound neighbouring topic material explicitly.
-- End with a verdict tied to conversion, agency and equal status.
-
-### Lesson practice
-
-#### Question 41
-Which answer architecture is most likely to produce a philosophical response?
-
-A. Define, distinguish, trace mechanism, apply a device, classify evidence, answer an objection and give a qualified verdict.
-B. List laws, schemes and thinkers without connecting them.
-C. Begin with statistics and end before evaluating causes.
-D. Use the same empowerment paragraph for every PYQ.
-
-**MCQ 41: A**
-
-- **A — Correct:** It makes the argument, application and evaluation responsive to the directive.
-- **B — Incorrect:** Unconnected evidence cannot establish why a position follows or where it fails.
-- **C — Incorrect:** Data may illustrate but cannot replace conceptual discrimination and judgment.
-- **D — Incorrect:** The owned questions test different mechanisms and logical relations.
-
-#### Question 42
-Which item is correctly classified?
-
-A. `Vineeta Sharma` as a constitutional amendment.
-B. The Hindu Succession (Amendment) Act, 2005 as statutory text.
-C. BBBP as a Supreme Court holding.
-D. Young’s social-connection model as an Indian institutional fact.
-
-**MCQ 42: B**
-
-- **A — Incorrect:** It is a Supreme Court judgment interpreting amended statutory entitlement.
-- **B — Correct:** Parliament enacted the amendment and its legal proposition belongs to the statute category.
-- **C — Incorrect:** BBBP is an executive programme rather than judicial doctrine.
-- **D — Incorrect:** Young supplies a philosophical account of structural responsibility.
-
-#### Question 43
-What makes “necessary but not sufficient” an argued conclusion rather than a hedge?
-
-A. Repeating the phrase in every paragraph.
-B. Avoiding any judgment about causes.
-C. Showing why the factor is indispensable and naming the conversion conditions it cannot guarantee.
-D. Treating all remedies as equally effective.
-
-**MCQ 43: C**
-
-- **A — Incorrect:** Frequency cannot substitute for logical demonstration.
-- **B — Incorrect:** The conclusion requires a clear causal and normative verdict.
-- **C — Correct:** Both halves of the condition claim receive independent support.
-- **D — Incorrect:** Different remedies reach different mechanisms and must be evaluated accordingly.
+1. When does fall-back position improve a property answer?
+2. Why must adaptive preference be paired with a paternalism caution?
+3. What is the difference between social connection and blame?
+4. State the one-discriminator rule from memory.
 
 ---
 
-# VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
+# VERIFIED PRIMARY-OWNED PYQS — EXACT QUESTIONS AND SOLVED ANSWERS
 
-The following inventory reproduces the verified Topic 09 ownership through 2026. These are **approaches only**, not solved official answers.
+> **Answer standard:** every solution follows demand fidelity, direct thesis, named evidence,
+> mechanism, objection or qualification and a graded conclusion. Word length is proportionate to
+> marks; the content is a model, not a script to memorise.
 
-## 2018 Q4(b), 15 marks
+## 2018 Q4(b) [15]
 
-**Question:** `How do you evaluate gender discrimination in the context of female foeticide ?`
+**Exact question:** “How do you evaluate gender discrimination in the context of female foeticide ?”
 
-**Approach:** Define sex-selective termination and distinguish it from abortion generally and infanticide. Evaluate first through equal dignity and discriminatory social meaning, then through the causal structure of inheritance, son preference, costs, constrained agency and enabling technology. Add the autonomy objection to enforcement, answer it through supply- and coercion-focused regulation, and conclude with legal, material and norm reform.
+### Demand decode
 
-## 2018 Q4(c), 15 marks
+**Evaluate** requires criteria and judgment. The answer must define discriminatory sex selection,
+show its gendered structure, protect the autonomy distinction and assess remedies. It must not
+become a general abortion essay.
 
-**Question:** `Is feminism an ideology for empowerment or for equality ? Discuss.`
+### Model answer
 
-**Approach:** Clarify that feminist traditions offer both diagnoses and transformative projects. Distinguish equality as equal status and distribution from empowerment as expansion of strategic agency. Use liberal feminism for legal equality, radical/socialist feminism for structural power and Kabeer for agency. Reject the forced choice: equality without empowerment is formal; empowerment without equality can remain exceptional and unequal.
+Female foeticide is the sex-selective termination of a pregnancy because the foetus is identified or
+presumed to be female. In this context gender discrimination is not merely an unequal outcome; it is
+the use of female status as a reason for exclusion from birth.
 
-## 2019 Q1(e), 10 marks
+Its structure begins before diagnostic technology. Patrilineal inheritance, expectations of sons
+as support, dowry burdens and women’s weaker property and earning power lower the perceived value of
+daughters. Family dependence can then constrain a pregnant woman’s reproductive agency. Technology
+enables selection, but patriarchal valuation supplies the reason. Sen’s “missing women” lens widens
+the analysis to cumulative absence through unequal birth, care, health and survival, although no
+current numerical claim is needed.
 
-**Question:** `Can gender equality be realised within a socialist regime? Analyse.`
+The primary wrong is denial of equal dignity. A defence based only on demographic balance risks
+valuing women instrumentally once again. Yet regulation must also respect bodily autonomy: every
+abortion is not sex selection, and prenatal diagnosis has legitimate medical uses.
 
-**Approach:** State the Marxist promise: transformation of property, labour and material dependence. Then introduce the socialist-feminist correction that patriarchy has partially autonomous household, bodily and cultural mechanisms. Give a balanced ten-mark verdict: socialism can remove major economic causes but cannot guarantee gender equality without transformation of social reproduction, authority and recognition.
+The PCPNDT Act, 1994 is an enacted regulatory statute, but enactment does not prove enforcement or
+changed son preference. Effective response therefore combines regulation of discriminatory
+services and coercion with equal property, security, education, health and social support.
 
-## 2019 Q3(b), 15 marks
+**Verdict:** female foeticide is a concentrated expression of structural gender discrimination.
+Law is necessary, but only transformation of the social valuation and constrained agency behind
+selection can address the wrong without sacrificing women’s autonomy.
 
-**Question:** `Consider critically that gender discrimination is a rather man-made concept but not naturally endowed.`
+### Why this earns marks
 
-**Approach:** Replace the loose phrase “man-made” with social construction. Separate bodily difference from gendered valuation and allocation. Use variation, Beauvoir and the reproduction loop against determinism. Present the embodiment objection and answer through interaction rather than dualism. Conclude that biology may condition some contexts but underdetermines hierarchy.
+It defines the exact harm, separates technology from motive, uses Sen and a dated statute with
+limits, addresses autonomy and ends with an evaluative rather than merely descriptive verdict.
 
-## 2020 Q4(a), 20 marks
+## 2018 Q4(c) [15]
 
-**Question:** `Do you agree that empowering women can eliminate gender discrimination? Discuss.`
+**Exact question:** “Is feminism an ideology for empowerment or for equality ? Discuss.”
 
-**Approach:** Define empowerment through resources, agency and achievements. Explain its transformative power through property, bodily authority, voice and collective action. Then use structural injustice to show why changing women’s capacities alone cannot guarantee reform by families, markets, employers and states. Conclude that empowerment is necessary and causally central but not sufficient without institutional responsibility and norm transformation.
+### Demand decode
 
-## 2021 Q1(e), 10 marks
+**Discuss** requires a reasoned relation between the two concepts, not a choice by slogan.
 
-**Question:** `How far can land and property rights be effective in empowerment of women? Explain.`
+### Model answer
 
-**Approach:** Open with the title–control distinction. Draw Agarwal’s five levels: title, access, control, return and exit. Give capability and recognition arguments, then one conversion failure. Conclude that rights are highly effective when enforceable and independently controlled, but nominal title has limited empowering force.
+Feminism is an ideology of equality through empowerment and empowerment for equal standing.
+Equality names the normative claim that gender must not determine inferior rights, opportunities,
+burdens or authority. Empowerment names the expansion of resources, agency and institutional voice
+through which persons can contest and remake unequal terms.
 
-## 2021 Q4(b), 15 marks
+Liberal feminism shows why equality matters: Wollstonecraft and Mill/Taylor Mill challenge legal,
+educational and customary restrictions that manufacture dependence. Yet identical rules can leave
+care burdens, family authority and property control unchanged. Formal equality therefore needs
+substantive and relational equality.
 
-**Question:** `What are the main causes of female foeticide in India? Is it the result of demonic application of technology only? Discuss.`
+Kabeer’s resources–agency–achievements framework shows why empowerment is indispensable. Resources
+are preconditions; agency over strategic choices is the process; achievements are outcomes. A good
+outcome produced without expanded choice is better provision, not empowerment.
 
-**Approach:** Make “only” the pivot. Order the causes from lineage and inheritance through son-support expectations, dowry/marriage costs, unequal resources, family pressure and constrained agency to technology. State that technology supplies the means while patriarchy supplies the reason. Add legitimate diagnostic use, provider accountability and a layered remedy.
+However, empowerment cannot mean exceptional individual success. A woman may gain income while
+others control it, or enter office without agenda-setting power. Radical and socialist feminisms
+therefore insist on changing bodily, domestic and social-reproductive structures.
 
-## 2022 Q3(b), 15 marks
+**Objection:** equality alone is sufficient because equal law permits free choice.
+**Reply:** choice may be adaptive or prohibitively costly under dependence.
 
-**Question:** `Discuss gender as a cultural category as opposed to sex as a biological category.`
+**Reverse objection:** empowerment makes equality redundant.
+**Reply:** power without a standard of equal standing can reproduce domination rather than
+emancipation.
 
-**Approach:** Present the analytical distinction, then criticise a rigid opposition. Use Beauvoir for becoming, Butler for performative reiteration and embodiment for interaction. Show how culture ranks classifications through roles and institutions. End with a relational account: bodily traits are real, but their social meaning and authority are neither fixed nor inevitable.
+**Verdict:** equality supplies feminism’s criterion; empowerment supplies its effective process and
+part of its end. Separating them leaves either formal rights without power or isolated power without
+structural equality.
 
-## 2023 Q1(c), 10 marks
+### Why this earns marks
 
-**Question:** `Do you agree that the rights concerning land and property have empowered women? Discuss.`
+The answer defines both terms, brings rival feminist diagnoses into one argument, develops objections
+in both directions and gives a synthetic verdict.
 
-**Approach:** Treat “have empowered” as a conversion question, not an invitation to describe law. Mention the 2005 amendment and `Vineeta Sharma` with correct classification. Use the five-level ladder to show achievement and failure. Conclude that the rights strengthen status and bargaining but empowerment depends on possession, control, returns and usable exit.
+## 2019 Q1(e) [10]
 
-## 2023 Q3(c), 15 marks
+**Exact question:** “Can gender equality be realised within a socialist regime? Analyse.”
 
-**Question:** `How does gender discrimination lead to female foeticide and social imbalance? Discuss.`
+### Demand decode
 
-**Approach:** Run a two-way loop. First show how discriminatory valuation becomes selection through material and family structures. Then show how repeated selection produces demographic distortion, unequal social meaning and intensified control. Keep dignity prior to demographic utility. Close with remedies that interrupt both causal directions.
+**Analyse** requires separating the economic promise of socialism from the gender mechanisms that
+may survive it.
 
-## 2024 Q4(a), 20 marks
+### Model answer
 
-**Question:** `Discuss gender equality as a necessary condition to achieve empowerment of women. Also examine the role of women empowerment in curbing the menace of female foeticide.`
+Gender equality can be realised within a socialist regime, but it is not entailed by social
+ownership. Marxist feminism correctly argues that private property, exclusion from social
+production and economic dependence support women’s subordination. Social ownership, public
+employment and collective care provision can therefore widen material equality.
 
-**Approach:** Divide the answer visibly. Part one: equal status and fair conversion are necessary for genuine agency; otherwise empowerment is exceptional or paternalistic. Part two: empowerment weakens constrained reproductive choice and material son preference. Add the insufficiency caveat—providers, family power, enforcement and norms also require reform. Reunite the parts through the equality–agency feedback relation.
+Yet socialist feminism distinguishes capitalism from a relatively autonomous patriarchy. Even
+where productive property is socialised, men may retain authority over domestic labour, sexuality,
+reproduction, leadership and the interpretation of communal resources. Radical feminism similarly
+shows that bodily and intimate domination is not exhausted by class.
 
-## 2025 Q1(b), 10 marks
+Thus ownership reform must be joined to enforceable individual claims, bodily integrity, fair
+division of care and effective public voice. Collective property itself must contain women’s
+decision power rather than access mediated through male authorities.
 
-**Question:** `How does gender as a social construct affect individuals' opportunities, rights, and access to resources? Critically discuss.`
+**Conclusion:** socialism can provide favourable material conditions for gender equality, but a
+regime is gender-equal only when it also transforms patriarchal social reproduction and secures
+agency. Socialism is a possible framework, not a sufficient guarantee.
 
-**Approach:** Define construction without unreality. Use the classification–valuation–allocation–authority chain to address all three nouns in the stem. Add Butler or Beauvoir briefly, then criticise crude constructionism for neglecting embodiment. Conclude that institutions make gender causally powerful while its content remains contestable.
+### Why this earns marks
 
-## 2026 Q2(b), 15 marks
+It distinguishes Marxist and socialist feminism, analyses rather than lists, and answers “can” with
+a conditional yes.
 
-**Question:** `"Does providing land and property rights to women constitute a necessary condition or a sufficient condition or both for ensuring social equality among the genders ? Discuss."`
+## 2019 Q3(b) [15]
 
-**Approach:** Define necessary and sufficient conditions before applying them. Argue that independent property rights are necessary because asset exclusion sustains dependence and unequal membership. Deny sufficiency through title–control gaps. Explicitly name possession, enforcement, education, employment, bodily security, care redistribution and norm reform. Conclude: **necessary but not sufficient**.
+**Exact question:** “Consider critically that gender discrimination is a rather man-made concept but
+not naturally endowed.”
+
+### Demand decode
+
+The claim must be defended against biological determinism and then qualified so that embodiment is
+not denied.
+
+### Model answer
+
+Gender discrimination is socially made in the sense that bodily difference does not itself assign
+inferior worth, restricted opportunity or lesser authority. Societies attach meanings to bodies,
+organise roles through family, education, labour and property, and then treat the resulting pattern
+as natural.
+
+Beauvoir’s account of woman as the Other exposes this mechanism. The male standpoint becomes the
+unmarked norm; dependence produced by denied education, property or mobility is misread as innate
+incapacity. The causal sequence is expectation → institutional allocation → developed capacity and
+preference → repeated unequal outcome.
+
+Butler deepens the claim: compelled, reiterated acts produce the appearance of a natural gendered
+self. Performativity does not mean voluntary costume, nor does it deny bodies. It analyses how
+categorisation and social meaning are produced.
+
+**Biological objection:** reproduction and embodiment create real differences.
+**Reply:** they condition experience but do not determine inheritance, public authority, value of
+care or control over income. Those conclusions require separate justification.
+
+**Choice objection:** unequal outcomes reflect preference.
+**Reply:** preferences may adapt to sanction, dependence and absent alternatives.
+**Residual:** constructionist analysis can become paternalistic or understate material embodiment.
+
+**Verdict:** gender discrimination is not naturally endowed; it is institutionally produced from
+meanings attached to embodied difference. A complete account therefore rejects biological destiny
+without treating bodies or individual agency as unreal.
+
+### Why this earns marks
+
+The answer reconstructs the claim, qualifies both construction and biology, uses Beauvoir and
+Butler accurately and includes two objection–reply chains.
+
+## 2020 Q4(a) [20]
+
+**Exact question:** “Do you agree that empowering women can eliminate gender discrimination?
+Discuss.”
+
+### Demand decode
+
+The mark-bearing task is to build the mechanism by which empowerment reduces discrimination and
+then test whether it reaches every structural source.
+
+### Model answer
+
+Empowerment is the expansion of resources, capabilities, agency, recognition and institutional
+influence through which women can make and act upon strategic choices. It is indispensable to
+reducing gender discrimination, but it cannot by itself guarantee elimination.
+
+Kabeer’s resources–agency–achievements framework explains the mechanism. Education, health, time,
+income, property and networks are preconditions. They become empowering when converted into voice,
+mobility, bodily decision, bargaining and collective action. Achievements without agency may be
+better provision rather than empowerment.
+
+Empowerment can weaken discrimination in several ways. Agarwal shows that independent land rights
+can strengthen a woman’s fall-back position, bargaining power and ability to exit violence.
+Education and income widen alternatives; bodily agency can resist reproductive coercion; collective
+organisation can challenge unequal law; representation can increase accountability.
+
+However, discrimination is structural. Income may be appropriated by others; unpaid care may remain
+feminised; institutional rules can reward a male life-pattern; violence and stigma can survive
+formal access. Exceptional success may even conceal group hierarchy. Young’s social-connection
+approach shows that change requires duties across households, markets, communities and the state,
+not only stronger individuals.
+
+**Objection:** sufficiently widespread empowerment will eventually dissolve discriminatory norms.
+**Reply:** agency is a driver of change, but the prediction is not automatic where others control
+institutions, sanctions and intra-household allocation.
+
+**Objection:** structural emphasis denies women’s agency.
+**Reply:** structure explains the conditions and costs of agency; it does not erase action.
+
+**Conclusion:** empowerment is a necessary process and part of gender equality, but not a stand-alone
+sufficient cause of elimination. Durable change requires enforceable rights, redistribution of care
+and property, bodily security, recognition, representation and participation by men and
+institutions in transforming patriarchal power.
+
+### Why this earns marks
+
+It defines empowerment, explains its causal reach, tests the word “eliminate,” uses Kabeer, Agarwal
+and Young with limits, and gives a genuinely graded conclusion.
+
+## 2021 Q1(e) [10]
+
+**Exact question:** “How far can land and property rights be effective in empowerment of women?
+Explain.”
+
+### Demand decode
+
+“How far” requires conditions of effectiveness and failure, not a categorical answer.
+
+### Model answer
+
+Land and property rights can be highly effective in women’s empowerment when legal entitlement is
+converted into usable control. Property supports shelter, livelihood, recognition and an independent
+fall-back position. Agarwal shows that secure land can strengthen household bargaining, voice and
+ability to exit abandonment or violence.
+
+Effectiveness, however, has several levels: title, access/use, control, return and exit/security. A
+name on a record may coexist with blocked possession, male control of sale or income, lack of credit
+and pressure to waive a claim. Thus title is an institutional anchor, not the completed outcome.
+
+The Hindu Succession (Amendment) Act, 2005 and *Vineeta Sharma* (2020) establish and clarify
+coparcenary entitlement on statutory terms, but neither proves possession or empowerment.
+
+**Conclusion:** property rights are effective to the extent that women know, access, control and
+benefit from assets and can rely on them for security. They are normally necessary to material
+independence under present institutions, but not sufficient without safety, education, fair care,
+credit, social legitimacy and public voice.
+
+### Why this earns marks
+
+The answer directly grades effectiveness, uses Agarwal’s conversion chain and handles Indian law as
+illustration rather than proof.
+
+## 2021 Q4(b) [15]
+
+**Exact question:** “What are the main causes of female foeticide in India? Is it the result of
+demonic application of technology only? Discuss.”
+
+### Demand decode
+
+Both parts must be answered: causes, then explicit evaluation of the technology-only thesis.
+
+### Model answer
+
+Female foeticide is discriminatory sex selection because the foetus is identified or presumed to
+be female. Its principal causes in India form a social structure: patrilineal lineage and
+inheritance, expectation of sons as economic or ritual support, dowry and marriage costs, women’s
+weaker property and earning power, and family pressure that constrains reproductive agency.
+
+Technology is not the sole cause. Prenatal diagnosis can have legitimate medical uses. It becomes
+an instrument of discrimination when a prior preference for sons supplies the reason for selection.
+Calling technology “demonic” mistakes means for motive and can obscure the household, property and
+status relations that generate demand.
+
+The PCPNDT Act, 1994 is an enacted statute regulating discriminatory sex selection, but prohibition
+alone cannot change daughter valuation. It may also be implemented in ways that burden pregnant
+women unless the focus remains on coercion, discriminatory services and providers while protecting
+health and autonomy.
+
+Sen’s “missing women” lens further shows that demographic absence arises cumulatively through
+unequal birth choices, care, nutrition, health and survival, not through technology alone.
+
+**Conclusion:** technology affects possibility and scale, but patriarchy supplies the discriminatory
+purpose. Effective reform must combine accountable regulation with equal property, security,
+education, social support and household agency.
+
+### Why this earns marks
+
+The answer addresses both limbs, separates legitimate use from discriminatory misuse, includes
+autonomy and legal limits, and gives a causal rather than rhetorical verdict.
+
+## 2022 Q3(b) [15]
+
+**Exact question:** “Discuss gender as a cultural category as opposed to sex as a biological
+category.”
+
+### Demand decode
+
+The answer needs a clear contrast, then a qualification: sex and gender are analytically distinct
+but embodied life and social interpretation interact.
+
+### Model answer
+
+Sex ordinarily refers to bodily and reproductive characteristics, while gender refers to socially
+produced roles, expectations, identities and meanings attached to bodies. The contrast matters
+because biology does not by itself decide who should inherit, lead, care, move freely or control
+income.
+
+Gender is cultural without being imaginary. Family, language, labour, law, custom and sanction
+repeat expectations until their effects appear natural. Beauvoir captures this by arguing that
+woman is socially constituted as the Other relative to a male norm. Restricted opportunity can
+produce dependence that is later misdescribed as innate incapacity.
+
+Butler’s performativity thesis complicates the opposition. Reiterated, compelled acts do not merely
+express a prior gender identity; they help constitute its publicly intelligible form. This does not
+deny bodily reality and does not mean that gender is a freely chosen performance. It challenges the
+idea that sex is encountered wholly outside social categorisation.
+
+**Objection:** a strong cultural account erases pregnancy, embodiment and sex-specific
+vulnerability.
+**Reply:** construction explains the social meaning and hierarchy attached to bodies, not their
+non-existence.
+
+**Objection:** destabilising “women” weakens collective politics.
+**Reply:** categories can be used provisionally for bounded anti-discrimination claims.
+**Residual:** provisional categories may still exclude marginal experiences.
+
+**Conclusion:** sex and gender should be distinguished to block biological destiny, but not
+separated as nature versus unreality. Gender is the institutionally powerful cultural interpretation
+of embodied difference.
+
+### Why this earns marks
+
+It gives the standard contrast, develops the mechanism of cultural construction, uses Beauvoir and
+Butler with compulsory cautions, and ends with a qualified relation rather than a rigid binary.
+
+## 2023 Q1(c) [10]
+
+**Exact question:** “Do you agree that the rights concerning land and property have empowered
+women? Discuss.”
+
+### Demand decode
+
+The answer must distinguish contribution from completed empowerment and give a graded yes.
+
+### Model answer
+
+I agree that land and property rights can empower women, but legal entitlement is not identical with
+effective power. Equal inheritance recognises daughters as full members and can provide livelihood,
+security and a stronger household fall-back position. Agarwal’s bargaining analysis explains why an
+independent claim may increase voice and capacity to exit violence or abandonment.
+
+Yet empowerment requires conversion across five levels: title, access, control, return and
+exit/security. A woman may be recorded as owner while male kin control possession, cultivation,
+sale or income. Waiver pressure and fear of family rupture can further weaken exercise.
+
+The Hindu Succession (Amendment) Act, 2005 and *Vineeta Sharma* (2020) establish and clarify
+coparcenary entitlement on statutory terms; they do not prove social control or benefit.
+
+**Conclusion:** property rights have empowered women where enforceability, awareness, possession,
+decision power and social legitimacy accompany title. They are a necessary institutional anchor
+under present conditions, but not sufficient without bodily safety, education, credit, fair care and
+public voice.
+
+### Why this earns marks
+
+It answers “do you agree” directly, explains the property mechanism, uses dated legal illustrations
+with limits and gives a proportionate conclusion.
+
+## 2023 Q3(c) [15]
+
+**Exact question:** “How does gender discrimination lead to female foeticide and social imbalance?
+Discuss.”
+
+### Demand decode
+
+The causal chain must connect discrimination to selection and then to social imbalance, while making
+clear that consequences are not the primary moral ground.
+
+### Model answer
+
+Gender discrimination leads to female foeticide when social institutions assign daughters lower
+value before birth. Patrilineal inheritance, expectations of sons as economic or ritual support,
+dowry burdens and women’s weaker property and earning position create son preference. Family
+pressure may then constrain a pregnant woman’s agency, while diagnostic technology supplies a means
+for discriminatory selection.
+
+The chain is therefore:
+
+```text
+unequal gender valuation
+-> structural preference for sons
+-> constrained reproductive choice
+-> misuse of diagnosis
+-> sex-selective termination
+-> cumulative demographic absence
+```
+
+Sen’s “missing women” formulation places this prenatal act within a wider pattern of unequal birth,
+care, nutrition, health and survival. Distorted sex composition may intensify trafficking, coerced
+marriage and violence; these are serious social imbalances.
+
+However, consequences must not become the sole argument. Female foeticide is wrong first because
+female status is treated as a reason for exclusion from birth. To say merely that society “needs
+women” would value women instrumentally again.
+
+The PCPNDT Act, 1994 regulates discriminatory misuse, but law alone cannot alter son preference and
+must be enforced without policing women’s health choices.
+
+**Conclusion:** discrimination causes foeticide by translating unequal status into reproductive
+selection; repeated selection contributes to social imbalance. Effective response must address both
+the technological means and the property, security and cultural motives behind it.
+
+### Why this earns marks
+
+It supplies the complete causal route, distinguishes intrinsic wrong from secondary consequence,
+uses Sen and the statute with limits, and protects autonomy.
+
+## 2024 Q4(a) [10+10=20]
+
+**Exact question:** “Discuss gender equality as a necessary condition to achieve empowerment of
+women. Also examine the role of women empowerment in curbing the menace of female foeticide.”
+
+### Demand decode
+
+The stem has two separately marked halves. First test equality as a necessary condition for
+empowerment. Then explain the mechanism and limits by which empowerment can curb sex selection.
+
+### Model answer
+
+Gender equality is a necessary institutional condition of durable empowerment because agency
+cannot remain secure where discriminatory law, bodily insecurity or inferior civic status allows
+gains to be withdrawn. Yet fully achieved equality cannot be required chronologically before any
+empowerment begins; empowerment itself helps transform unequal rules.
+
+Kabeer’s framework clarifies the relation. Equal rights and bodily standing provide an institutional
+floor. Resources such as education, health, time, income and property provide preconditions. Agency
+over strategic choices converts them into empowerment, and achievements plus collective
+organisation can further deepen equality. Formal equality without agency may remain paper
+entitlement; isolated agency without structural equality may remain exceptional success.
+
+Empowerment can curb female foeticide through several pathways. Independent property and income can
+raise the household position and perceived value of daughters. Education and bodily agency can
+strengthen resistance to coercive reproductive decisions. Public voice can challenge son preference,
+while social security can reduce instrumental dependence on sons.
+
+Agarwal’s fall-back-position argument explains how assets alter bargaining; however, title without
+control may not do so. Similarly, regulation under the PCPNDT Act, 1994 can restrict discriminatory
+services but cannot by itself change family valuation.
+
+**Objection:** empowered individuals should be able to end the practice.
+**Reply:** reproductive decisions remain embedded in family threats, property systems and norms
+held by others. Individual agency cannot privately redesign all institutions.
+
+**Conclusion:** gender equality is a necessary enabling structure, and empowerment is a crucial
+process that can reduce female foeticide. Their relation is reciprocal, not linear, and curbing the
+practice requires agency plus property, security, enforcement and normative transformation.
+
+### Why this earns marks
+
+It keeps the two halves distinct, explains equality–empowerment reciprocity, builds the anti-foeticide
+mechanism, uses Kabeer and Agarwal, and qualifies the causal claim.
+
+## 2025 Q1(b) [10]
+
+**Exact question:** “How does gender as a social construct affect individuals' opportunities,
+rights, and access to resources? Critically discuss.”
+
+### Demand decode
+
+The answer must cover all three objects—opportunities, rights and resources—and include critical
+qualification within a short structure.
+
+### Model answer
+
+Gender is a social construct because institutions attach roles, expectations and rankings to
+embodied difference. Construction does not make gender unreal: family, education, labour, property
+and sanctions make its effects durable.
+
+It shapes **opportunities** by directing education, mobility, care and occupational preparation; the
+resulting unequal capacity can then appear natural. It shapes **rights** when formal entitlement is
+limited by household authority, unsafe exercise or culturally authorised restrictions. It shapes
+**resources** through inheritance, income control, unpaid care and access to networks. Beauvoir’s
+woman-as-Other thesis explains the male norm, while Young’s structural account shows how ordinary
+institutions reproduce outcomes without one designer.
+
+Critically, construction must not deny embodiment or individual agency. Preferences may be adaptive,
+but analysts should test available alternatives and their costs rather than dismiss choices.
+Intersectionality also means that caste, class, disability and community modify the mechanism.
+
+**Conclusion:** gender construction affects life chances through norm → institution → allocation →
+outcome. Reform therefore requires not only changed attitudes but usable rights, redistributed
+resources, bodily security and voice.
+
+### Why this earns marks
+
+It answers all three dimensions, gives a compact mechanism, names Beauvoir and Young, and includes
+embodiment, choice and intersectional qualifications.
+
+## 2026 Q2(b) [15]
+
+**Exact question:** “Does providing land and property rights to women constitute a necessary
+condition or a sufficient condition or both for ensuring social equality among the genders ?
+Discuss.”
+
+### Demand decode
+
+Run necessity and sufficiency as separate tests. Distinguish a secure equal asset claim from the
+narrower idea of an individual title deed.
+
+### Model answer
+
+Land and property rights are normally a necessary institutional component of social gender equality
+under present property-based arrangements, but they are not sufficient. The conclusion needs one
+qualification: an individual private title is not a universal logical prerequisite if enforceable
+joint or collective control can perform the same anti-dependence function.
+
+**Necessity:** property affects shelter, livelihood, recognition and bargaining power. Agarwal’s
+fall-back-position argument shows that an independent claim can strengthen voice and protection
+against abandonment or violence. Systematic exclusion from inheritance marks daughters as lesser
+members and obstructs material equality. Hence secure non-discriminatory asset claims are normally
+necessary in the relevant social context.
+
+**Sufficiency:** title can fail to become access, control, return or exit/security. Even effective
+asset control leaves unequal care, bodily coercion, stigma, education and political representation
+untouched. Kabeer’s framework further shows that resources are preconditions; agency over strategic
+choices and achievements must also expand.
+
+The Hindu Succession (Amendment) Act, 2005 and *Vineeta Sharma* (2020) establish and clarify
+coparcenary entitlement on statutory terms, but legal status is not evidence of possession or social
+equality.
+
+**Objection:** collective ownership makes individual rights unnecessary.
+**Reply:** the legal form can vary, but women need enforceable voice, control and benefit within the
+collective. Otherwise male mediation reproduces dependence.
+
+**Conclusion:** secure equal asset rights are contextually necessary but never sufficient. Social
+equality also requires bodily security, fair care, education, recognition, representation and
+effective agency.
+
+### Why this earns marks
+
+It performs both logical tests, distinguishes title from secure claim, uses Agarwal and Kabeer,
+handles collective ownership and keeps law within its evidential limit.
+
+## Directive-to-PYQ map
+
+| Demand family | Verified questions | Best Core route |
+|---|---|---|
+| construction / sex–gender | 2019 Q3(b), 2022 Q3(b), 2025 Q1(b) | Lessons 1–3 |
+| feminism / socialism | 2018 Q4(c), 2019 Q1(e) | Lessons 3, 6, 9 |
+| empowerment / elimination | 2020 Q4(a), 2024 Q4(a) | Lessons 6–8, 10 |
+| property / control / conditions | 2021 Q1(e), 2023 Q1(c), 2026 Q2(b) | Lessons 5–7, 10 |
+| foeticide / technology / imbalance | 2018 Q4(b), 2021 Q4(b), 2023 Q3(c), 2024 Q4(a) | Lessons 4, 6, 10 |
+
+---
 
 # CUMULATIVE MCQS
 
-#### Question 44
-Which sequence best explains structural gender discrimination?
+> **Rotation lock:** Correct options follow the strict sequence A → B → C → D throughout Questions
+> 1–24. The key is shown only in the separate answer section.
 
-A. Outcome → biology → law → preference.
-B. Individual prejudice → immediate equality → social construction.
-C. Technology → sex difference → empowerment.
-D. Norm → institution → allocation → outcome → naturalising justification.
+## Questions
 
-**MCQ 44: D**
+### MCQ 1
 
-- **A — Incorrect:** Beginning with outcome cannot explain the institutional process that produced it.
-- **B — Incorrect:** Removing one attitude does not automatically transform embedded allocations.
-- **C — Incorrect:** An instrument cannot substitute for the prior valuation that directs its use.
-- **D — Correct:** The sequence captures reproduction and the feedback that makes hierarchy appear inevitable.
+Which statement best defines gender discrimination?
 
-#### Question 45
-Which thinker–concept pairing is most accurate?
+A. Unjust differential valuation, burden, opportunity or authority organised through sex/gender meanings.
+B. Every observable difference between persons of different sexes.
+C. Any policy that mentions sex or gender.
+D. Only explicit hostility consciously intended by an individual.
 
-A. Beauvoir — woman constituted as Other within situated freedom.
-B. Butler — gender as an unconstrained personal costume.
-C. Young — responsibility restricted to intentional perpetrators.
-D. Agarwal — legal title automatically equals realised benefit.
+### MCQ 2
 
-**MCQ 45: A**
+Which is the strongest qualification of the sex/gender distinction?
 
-- **A — Correct:** Otherness and constrained transcendence are central to Beauvoir’s account.
-- **B — Incorrect:** Performativity stresses compelled repetition and sanction rather than sovereign choice.
-- **C — Incorrect:** Young’s model expands prospective responsibility beyond fault.
-- **D — Incorrect:** Agarwal’s analysis is built around the ownership–control–benefit gap.
+A. Sex is wholly social and gender wholly biological.
+B. Bodily characteristics are real, but their social meaning and role implications are not biologically fixed.
+C. Sex and gender are identical categories.
+D. Gender is freely selected without institutional constraint.
 
-#### Question 46
-Which proposition correctly connects property and empowerment?
+### MCQ 3
 
-A. Property matters only through income.
-B. Independent control can strengthen capability, recognition, bargaining and exit.
-C. Inheritance reform makes household power irrelevant.
-D. A right is sufficient whenever a statute exists.
+Beauvoir’s description of woman as the Other primarily identifies:
 
-**MCQ 46: B**
+A. a demographic minority status.
+B. an unchangeable biological incapacity.
+C. the male standpoint functioning as the norm against which woman is constituted as subordinate.
+D. a claim that every woman has the same experience.
 
-- **A — Incorrect:** Equal membership and security are distinct from monetary return.
-- **B — Correct:** The asset’s political value spans material freedom, status and credible alternatives.
-- **C — Incorrect:** Authority and coercion can block conversion after formal reform.
-- **D — Incorrect:** Enactment establishes entitlement rather than guaranteed implementation.
+### MCQ 4
 
-#### Question 47
-Which statement best integrates justice and care?
+In Butler’s account, performativity is best understood as:
 
-A. Care should replace universal rights in intimate life.
-B. Justice should ignore dependency to remain impartial.
-C. Justice limits domination while care attends to vulnerability, context and interdependence.
-D. Caring labour is naturally a female responsibility.
+A. conscious theatrical deception.
+B. denial of bodily reality.
+C. an inner identity expressed without social influence.
+D. compelled reiteration through which an apparently natural gender identity is constituted.
 
-**MCQ 47: C**
+### MCQ 5
 
-- **A — Incorrect:** Relationships without rights can conceal exploitation and coerced self-sacrifice.
-- **B — Incorrect:** Ignoring dependency privileges an unrealistic image of independent persons.
-- **C — Correct:** Complementarity retains equal limits and relational attentiveness.
-- **D — Incorrect:** Naturalisation reproduces the unequal assignment the theory should expose.
+Which best captures structural gender injustice?
 
-#### Question 48
-What is the most precise evaluation of technology in sex selection?
+A. Normal institutions and repeated actions combine to produce patterned inequality without one sole designer.
+B. Only criminal acts by identifiable individuals count as injustice.
+C. Structural explanation removes all personal responsibility.
+D. Discrimination exists only where law expressly commands it.
 
-A. It creates patriarchy wherever diagnostic equipment exists.
-B. It is morally irrelevant because norms are deeper causes.
-C. It has no lawful health-related application.
-D. It can enable and commercialise discriminatory preference without originating that preference.
+### MCQ 6
 
-**MCQ 48: D**
+The sameness/difference dilemma arises because:
 
-- **A — Incorrect:** Comparable tools can operate without the same social demand.
-- **B — Incorrect:** Enabling conduct and provider markets remain proper objects of responsibility.
-- **C — Incorrect:** Regulation distinguishes legitimate diagnosis from prohibited selection.
-- **D — Correct:** This locates the instrument accurately within the wider causal architecture.
+A. equality always requires identical outcomes.
+B. identical rules may encode a male norm, while accommodation may essentialise women.
+C. differentiated support is always discriminatory.
+D. biological difference automatically settles social policy.
 
-#### Question 49
-What is the best test for a gender-sensitive differential measure?
+### MCQ 7
 
-A. Whether it expands agency and addresses a demonstrated barrier without fixing a dependent role.
-B. Whether it treats every member of a group identically forever.
-C. Whether it is described as protective.
-D. Whether it avoids review after enactment.
+Which claim correctly distinguishes female foeticide from abortion generally?
 
-**MCQ 49: A**
+A. Every abortion is motivated by gender prejudice.
+B. Prenatal diagnosis has no legitimate medical use.
+C. Female foeticide concerns discriminatory sex selection, whereas abortion generally raises wider moral and autonomy questions.
+D. Female foeticide and female infanticide are the same act.
 
-- **A — Correct:** Relevance, structural effect, proportionality and agency distinguish transformation from stereotype.
-- **B — Incorrect:** Internal diversity makes permanent undifferentiated treatment suspect.
-- **C — Incorrect:** Benevolent language can mask segregation or loss of authority.
-- **D — Incorrect:** Review guards against capture, overbreadth and hardened categories.
+### MCQ 8
 
-#### Question 50
-Which claim about empowerment is most defensible?
+The strongest evaluation of the technology-only thesis is:
 
-A. Any beneficial outcome proves empowerment.
-B. Empowerment expands strategic agency through resources and conversion conditions but does not alone dissolve every structure.
-C. Empowerment concerns only confidence.
-D. Collective action is outside the concept.
+A. diagnostic technology is irrelevant.
+B. technology alone creates son preference.
+C. banning all prenatal medicine is the adequate remedy.
+D. technology enables selection, but a prior patriarchal valuation supplies the discriminatory motive.
 
-**MCQ 50: B**
+### MCQ 9
 
-- **A — Incorrect:** A person can receive welfare while remaining excluded from decisions.
-- **B — Correct:** The statement integrates Kabeer’s triad with the structural-insufficiency judgment.
-- **C — Incorrect:** Material, bodily, institutional and political capacities are indispensable.
-- **D — Incorrect:** Power with is often necessary to change rules no individual can alter.
+Why is demographic imbalance not the primary moral ground against female foeticide?
 
-#### Question 51
-Which source classification is correct?
+A. The prior wrong is denial of equal dignity; social consequences are secondary.
+B. Demographic effects are always beneficial.
+C. Dignity applies only after birth.
+D. Population composition has no social effects.
 
-A. PCPNDT Act — philosophical doctrine.
-B. BBBP — constitutional amendment.
-C. `Vineeta Sharma` — judicial holding on amended coparcenary rights.
-D. Article 334A — administrative programme.
+### MCQ 10
 
-**MCQ 51: C**
+In Agarwal’s framework, which transition most directly tests whether legal title has become
+decision-making power?
 
-- **A — Incorrect:** The PCPNDT framework is parliamentary statutory law.
-- **B — Incorrect:** BBBP is an executive behavioural-change programme.
-- **C — Correct:** The Supreme Court interpreted the daughter’s right by birth under amended Section 6.
-- **D — Incorrect:** Article 334A is constitutional text governing reservation sequencing.
+A. sex classification to gender identity.
+B. access to control.
+C. resources to achievement without agency.
+D. recognition to demographic balance.
+
+### MCQ 11
+
+The fall-back-position argument states that:
+
+A. family unity always maximises every member’s interest.
+B. land matters only as sale income.
+C. an independent asset claim can improve bargaining and exit by strengthening what a woman can command if cooperation fails.
+D. legal title is sufficient even without possession.
+
+### MCQ 12
+
+For the 2026 necessary/sufficient question, the best verdict is:
+
+A. individual title is universally necessary and sufficient.
+B. property is neither relevant nor useful.
+C. collective control can never support equality.
+D. secure equal asset rights are normally necessary in context but not sufficient; individual title is not the only possible form.
+
+### MCQ 13
+
+Which element is decisive in Kabeer’s empowerment framework?
+
+A. Agency over strategic choices, including the availability and cost of alternatives.
+B. The number of programme benefits received.
+C. A favourable outcome regardless of who chose it.
+D. Confidence detached from resources and institutions.
+
+### MCQ 14
+
+Which statement best describes the equality–empowerment relation?
+
+A. Full equality must exist before empowerment can begin.
+B. Equality provides the standard and institutional floor, while empowerment is a mutually reinforcing process and part of the end.
+C. Empowerment makes equal rights unnecessary.
+D. The concepts are interchangeable.
+
+### MCQ 15
+
+The principal essentialism objection to care ethics is that it may:
+
+A. deny that dependency exists.
+B. make justice too abstract.
+C. reinscribe women as naturally nurturing and legitimate their confinement to care.
+D. require all care to be commercialised.
+
+### MCQ 16
+
+Why are care and justice treated as complementary?
+
+A. They are identical moral vocabularies.
+B. Care should override every right.
+C. Justice should exclude all contextual judgment.
+D. Justice limits self-effacing domination, while care corrects formal indifference to need and relationship.
+
+### MCQ 17
+
+Intersectionality is best understood as:
+
+A. analysis of how institutions produce distinct mechanisms at intersecting social locations.
+B. arithmetic addition of independent disadvantages.
+C. rejection of all common equality claims.
+D. a complete substitute for gender analysis.
+
+### MCQ 18
+
+Which statement correctly describes representation?
+
+A. Presence automatically guarantees influence.
+B. Presence, voice, influence and accountability are distinct stages.
+C. Representation is only symbolic and never material.
+D. Redistribution and representation address the same wrong.
+
+### MCQ 19
+
+Which distinction between Marxist and socialist feminism is accurate?
+
+A. Both treat patriarchy as wholly unrelated to property.
+B. Socialist feminism makes patriarchy entirely derivative of class.
+C. Marxist feminism centres class/property, while socialist feminism treats patriarchy as relatively autonomous and interacting with capitalism.
+D. Marxist feminism treats bodily domination as the only original hierarchy.
+
+### MCQ 20
+
+Why does social ownership not entail gender equality?
+
+A. Social ownership always abolishes care work.
+B. Equality requires private property only.
+C. Socialist regimes cannot reform gender relations.
+D. Household authority, bodily control, care allocation and leadership can remain gendered after ownership changes.
+
+### MCQ 21
+
+Which is the most accurate use of the PCPNDT Act, 1994 in a philosophy answer?
+
+A. It is a dated enacted regulatory illustration whose existence does not prove changed son preference or successful enforcement.
+B. It proves female foeticide has been eliminated.
+C. It settles every moral question about abortion.
+D. It demonstrates that technology is the sole cause.
+
+### MCQ 22
+
+Which statement about the Hindu Succession (Amendment) Act, 2005 and *Vineeta Sharma* (2020) is
+correct?
+
+A. They prove equal possession and control throughout society.
+B. They establish and clarify coparcenary entitlement on statutory terms but do not prove conversion into control.
+C. They abolish every customary property system.
+D. They make credit, safety and social legitimacy irrelevant.
+
+### MCQ 23
+
+Young’s social-connection model is most useful because it:
+
+A. replaces blame with complete institutional innocence.
+B. assigns identical guilt to everyone.
+C. explains forward-looking, role-sensitive responsibility for structural processes without erasing personal wrongdoing.
+D. reduces gender injustice to household attitudes.
+
+### MCQ 24
+
+Which is the best cross-topic firewall for caste in this session?
+
+A. Avoid all mention of caste in every gender answer.
+B. Present the complete Gandhi–Ambedkar debate.
+C. Treat caste and gender as independent decorative variables.
+D. State the specific mechanism—such as endogamy, property or sexual control—then return to the gender demand.
+
+## Answers and option-specific explanations
+
+### MCQ 1 — Correct answer: A
+
+- **A is correct:** it includes valuation, burden, opportunity and authority, and locates the wrong in
+  unjust social organisation.
+- **B is wrong:** difference alone is not discrimination.
+- **C is wrong:** some sex-conscious measures remove disadvantage.
+- **D is wrong:** structural discrimination can occur without explicit conscious hostility.
+
+### MCQ 2 — Correct answer: B
+
+- **A is wrong:** it reverses and absolutises the distinction.
+- **B is correct:** it recognises embodiment while rejecting deterministic social inference.
+- **C is wrong:** the categories perform different analytical work.
+- **D is wrong:** gender formation occurs within institutions and sanctions.
+
+### MCQ 3 — Correct answer: C
+
+- **A is wrong:** Otherness is a normative and existential relation, not merely numerical minority.
+- **B is wrong:** Beauvoir challenges biological destiny.
+- **C is correct:** male experience becomes the norm and female difference is read as deficiency.
+- **D is wrong:** the account does not erase variation among women.
+
+### MCQ 4 — Correct answer: D
+
+- **A is wrong:** performativity is not voluntary theatre.
+- **B is wrong:** Butler does not need to deny bodies.
+- **C is wrong:** the thesis questions a fully prior inner essence.
+- **D is correct:** compelled repetition produces the appearance of natural identity.
+
+### MCQ 5 — Correct answer: A
+
+- **A is correct:** structural patterns can arise through connected ordinary practices.
+- **B is wrong:** injustice is not limited to criminal intention.
+- **C is wrong:** shared responsibility and personal blame can coexist.
+- **D is wrong:** formally neutral rules can produce unequal power.
+
+### MCQ 6 — Correct answer: B
+
+- **A is wrong:** equality is not identical outcome.
+- **B is correct:** both sameness and accommodation can reproduce hierarchy in different ways.
+- **C is wrong:** differentiated support can secure substantive equality.
+- **D is wrong:** social justification remains necessary.
+
+### MCQ 7 — Correct answer: C
+
+- **A is wrong:** motive and context vary.
+- **B is wrong:** prenatal diagnosis has legitimate medical uses.
+- **C is correct:** it identifies the owned discriminatory reason while preserving broader autonomy debates.
+- **D is wrong:** infanticide is post-birth killing.
+
+### MCQ 8 — Correct answer: D
+
+- **A is wrong:** technology affects feasibility and scale.
+- **B is wrong:** it does not generate son preference by itself.
+- **C is wrong:** indiscriminate prohibition harms legitimate care.
+- **D is correct:** means and motive must be separated.
+
+### MCQ 9 — Correct answer: A
+
+- **A is correct:** equal dignity is prior to social utility.
+- **B is wrong:** harmful consequences may occur.
+- **C is wrong:** the argument is precisely against status-based exclusion before birth.
+- **D is wrong:** the owner recognises possible collective consequences.
+
+### MCQ 10 — Correct answer: B
+
+- **A is wrong:** it concerns category scope, not property power.
+- **B is correct:** access may exist without authority; control tests decision power.
+- **C is wrong:** that is an empowerment measurement error.
+- **D is wrong:** it joins unrelated dimensions.
+
+### MCQ 11 — Correct answer: C
+
+- **A is wrong:** household interests can conflict.
+- **B is wrong:** land also supplies standing, security and bargaining.
+- **C is correct:** the fall-back position concerns credible alternatives if cooperation fails.
+- **D is wrong:** title without access and control can be weak.
+
+### MCQ 12 — Correct answer: D
+
+- **A is wrong:** sufficiency fails and title is not universally the only form.
+- **B is wrong:** property is materially and recognitively important.
+- **C is wrong:** enforceable collective control can serve the anti-dependence function.
+- **D is correct:** it runs both logical tests and preserves the qualification.
+
+### MCQ 13 — Correct answer: A
+
+- **A is correct:** strategic agency and meaningful alternatives separate empowerment from delivery.
+- **B is wrong:** benefits measure resources, not necessarily agency.
+- **C is wrong:** achievements can improve through others’ decisions.
+- **D is wrong:** empowerment is institutional and material as well as psychological.
+
+### MCQ 14 — Correct answer: B
+
+- **A is wrong:** empowerment can help produce fuller equality.
+- **B is correct:** the relation is reciprocal.
+- **C is wrong:** secure equal standing remains necessary.
+- **D is wrong:** standard and process are distinct.
+
+### MCQ 15 — Correct answer: C
+
+- **A is wrong:** care ethics foregrounds dependency.
+- **B is wrong:** that is a criticism of justice-only reasoning.
+- **C is correct:** a gendered care voice can be turned into a stereotype.
+- **D is wrong:** commercialisation is not entailed.
+
+### MCQ 16 — Correct answer: D
+
+- **A is wrong:** the orientations are distinct.
+- **B is wrong:** care without justice can sustain exploitation.
+- **C is wrong:** justice needs contextual application.
+- **D is correct:** each corrects the characteristic failure of the other.
+
+### MCQ 17 — Correct answer: A
+
+- **A is correct:** intersectionality asks how mechanisms change at intersections.
+- **B is wrong:** it is not simple accumulation.
+- **C is wrong:** coalition and common dignity claims remain possible.
+- **D is wrong:** it qualifies rather than replaces gender analysis.
+
+### MCQ 18 — Correct answer: B
+
+- **A is wrong:** token presence may lack influence.
+- **B is correct:** each stage asks a separate power question.
+- **C is wrong:** representation concerns authoritative decision.
+- **D is wrong:** resources and voice correct different wrongs.
+
+### MCQ 19 — Correct answer: C
+
+- **A is wrong:** both analyse property, though differently.
+- **B is wrong:** socialist feminism rejects simple derivation.
+- **C is correct:** relative autonomy and interaction are the central contrast.
+- **D is wrong:** that resembles a radical-feminist priority claim.
+
+### MCQ 20 — Correct answer: D
+
+- **A is wrong:** care does not disappear with ownership reform.
+- **B is wrong:** enforceable control can take non-private forms.
+- **C is wrong:** the question is possibility without entailment.
+- **D is correct:** patriarchal authority can survive economic restructuring.
+
+### MCQ 21 — Correct answer: A
+
+- **A is correct:** it states status, use and limit.
+- **B is wrong:** enactment is not outcome evidence.
+- **C is wrong:** the statute does not settle general abortion philosophy.
+- **D is wrong:** the technology-only thesis is rejected.
+
+### MCQ 22 — Correct answer: B
+
+- **A is wrong:** legal entitlement does not prove social exercise.
+- **B is correct:** it gives precise legal status and the conversion caveat.
+- **C is wrong:** the instruments have a defined statutory scope.
+- **D is wrong:** these conversion conditions remain central.
+
+### MCQ 23 — Correct answer: C
+
+- **A is wrong:** blame for identifiable wrongdoing remains.
+- **B is wrong:** duties vary with power, privilege, interest and capacity.
+- **C is correct:** it links structure to differentiated forward-looking responsibility.
+- **D is wrong:** structures extend across many institutions.
+
+### MCQ 24 — Correct answer: D
+
+- **A is wrong:** Clause 9 requires intersectional mediation.
+- **B is wrong:** that violates primary ownership.
+- **C is wrong:** the axes can jointly reproduce one mechanism.
+- **D is correct:** it uses the bridge without importing the complete caste topic.
+
+---
 
 # ORIGINAL 10-, 15- AND 20-MARK MAINS MODEL PRACTICE
 
-## Original 10-mark question
+## Original 10-marker
 
-**“Social construction makes gender hierarchy contingent but not unreal.” Explain. Answer in 150 words.**
+**Question:** Explain why formally equal rights may coexist with gender subordination. Answer in
+about 150 words.
 
-### Model answer
+### Directive decode
 
-Social construction means that the content and ranking of gender roles depend on repeatable human practices rather than follow inevitably from anatomy. Institutions interpret sexed classifications through norms of family, work, inheritance, mobility and authority. Those interpretations allocate resources and burdens; the resulting outcomes are then cited as evidence of natural capacity.
-
-Contingency therefore does not mean fiction. Law, money and citizenship are socially produced yet coercively real; gender hierarchy similarly shapes bodily security, time, opportunity and voice. Beauvoir exposes how woman is constituted as the Other, while Butler shows how compelled repetition creates the appearance of a stable natural identity.
-
-The thesis needs qualification. Bodies and reproductive conditions are not linguistic inventions, and social practices can materially affect them. The defensible view is interactive: embodiment supplies conditions, while norms and institutions assign status and distribute power. Gender hierarchy is real in effect, contingent in form and therefore open to transformation.
-
-## Original 15-mark question
-
-**Examine whether feminist care ethics corrects or compromises the ideal of justice. Answer in 250 words.**
+**Explain** requires the conversion mechanism and the distinction between entitlement and effective
+power.
 
 ### Model answer
 
-Care ethics corrects an abstraction in conventional justice theory by making dependency, relationship and context morally visible. Gilligan’s `In a Different Voice` challenged models that treated rule-centred, separation-oriented reasoning as the sole mature form. An ethic of care asks who is vulnerable, what a relationship requires and how responsibility is sustained.
+Formally equal rights may coexist with gender subordination because a legal claim is not
+self-executing. Gender norms shape whether a right is known, safe to exercise, socially legitimate
+and converted into control.
 
-This matters politically. Infancy, illness, disability and old age cannot be understood through exchange among independent contractors. Unpaid care also consumes time and restricts education, employment, mobility and representation. A formally equal rule can therefore coexist with deeply unequal freedom.
+Property illustrates the gap. The Hindu Succession (Amendment) Act, 2005 establishes equal
+coparcenary entitlement on statutory terms, while *Vineeta Sharma* (2020) clarifies that right.
+Yet waiver pressure, informal partition and male control of records or income can block exercise.
+Agarwal’s framework therefore distinguishes title, access, control, return and exit/security.
 
-The strongest objection is essentialism. If care is attributed to women’s nature, it can legitimise their confinement to unpaid service. Care may also excuse partiality or self-erasure within abusive relationships. The reply is to treat the orientation as socially positioned and humanly available, not biologically female, and to redistribute care rather than glorify women’s sacrifice.
+The same pattern appears elsewhere. An equal workplace rule may reward uninterrupted availability
+while unpaid care remains feminised. Political presence may not produce agenda-setting influence.
+Choice itself may adapt to dependency and costly alternatives.
 
-Care should therefore complement, not replace, justice. Justice supplies equal rights and limits that prevent relationship from becoming domination; care supplies attention to dependency and particulars that prevents impartiality from becoming indifference. The residual problem is institutional: recognising care does not by itself determine its fair distribution or public financing. Yet without care, justice assumes an independence that no human life actually possesses.
+Thus formal equality is an indispensable institutional floor, but substantive and relational
+equality require conversion into capability, bargaining power, bodily security and voice.
 
-## Original 20-mark question
+### Why this earns marks
 
-**“Legal reform changes entitlement; gender justice depends on conversion.” Discuss with reference to property, representation and reproductive agency. Answer in 300 words.**
+It gives a direct causal explanation, uses one precise legal illustration and Agarwal’s framework,
+then generalises without losing the short-answer focus.
+
+## Original 15-marker
+
+**Question:** Critically examine whether respect for women’s autonomy is sufficient to address
+gender discrimination in reproductive decisions.
+
+### Directive decode
+
+**Critically examine** requires the strongest case for autonomy, the structural objection, a reply
+that preserves agency and a residual problem.
 
 ### Model answer
 
-Legal reform establishes claims and public standards, but gender justice depends on whether those claims convert into effective control, status and agency.
+Respect for autonomy is essential in reproductive decisions because women are moral agents, not
+instruments of family, community or demographic policy. Health decisions require informed choice,
+privacy and freedom from coercion. Regulation aimed at sex selection must therefore avoid treating
+every abortion as discriminatory or policing pregnant women.
 
-In property, the Hindu Succession (Amendment) Act, 2005 gives daughters coparcenary status by birth on its statutory terms, and `Vineeta Sharma` (2020) clarified that the father need not have been alive at commencement. Yet Agarwal’s ladder distinguishes title, access, control, return and exit. Records, waiver pressure, male authority and unsafe enforcement can stop entitlement before it becomes bargaining power.
+Autonomy alone, however, is insufficient if understood as an isolated preference. Son preference,
+unequal property, dowry burdens, dependence and threats can narrow alternatives. A formally chosen
+sex-selective termination may therefore occur within a coercive choice-structure. Kabeer’s agency
+test asks whether meaningful alternatives existed and what it cost to exercise them. The PCPNDT
+Act, 1994 is a regulatory instrument against discriminatory misuse, but enactment does not prove
+safe enforcement or changed family norms.
 
-In representation, the Constitution (One Hundred and Sixth Amendment) Act, 2023 creates a constitutional reservation framework, with operation linked by Article 334A to census-based delimitation. Even future seat presence must convert into party opportunity, agenda-setting, voice and accountability; otherwise descriptive representation can remain tokenistic or controlled.
+**Liberal objection:** structural scrutiny may let officials override women’s choices
+paternalistically.
+**Reply:** the aim is not to approve outcomes but to secure information, health, property, safety
+and credible alternatives while directing accountability toward coercive relatives, providers and
+discriminatory services.
 
-In reproductive agency, the PCPNDT statute prohibits sex selection and regulates diagnostic misuse. Prohibition is necessary but cannot alone remove son preference generated by patrilineal inheritance, dowry expectations, unequal property and constrained household choice. Enforcement must protect women rather than shift scrutiny onto them.
+**Residual:** interpreting whether a preference is adaptive or coerced remains difficult, and
+enforcement may burden women.
 
-The same structure appears in all three domains:
+**Conclusion:** autonomy is a necessary moral constraint on every remedy, not a sufficient account
+of justice. Reproductive freedom must be situated within material independence, non-discrimination
+and protection from coercion.
 
-```text
-entitlement -> access -> authority -> benefit -> secure agency
-```
+### Why this earns marks
 
-Liberal reform supplies the indispensable legal anchor. Capability and relational approaches expose missing conversion conditions; structural responsibility assigns reform duties to families, providers, markets and public institutions rather than women alone.
+It defends autonomy before qualifying it, distinguishes isolated choice from situated agency,
+includes law with limits and concedes the paternalism residual.
 
-Thus law is neither symbolic nor self-executing. Gender justice requires enforceable entitlement joined to bodily security, material alternatives, care redistribution, recognition and representative voice. Conversion is the bridge between being named an equal and living as one.
+## Original 20-marker
+
+**Question:** “Gender justice requires the transformation of private power as much as public
+institutions.” Discuss with reference to property, care and representation.
+
+### Directive decode
+
+**Discuss** requires exposition of the claim, its application across all three named domains, a
+counter-position and a reasoned synthesis.
+
+### Model answer
+
+Gender justice requires reform of public institutions, but public equality cannot be sustained
+where private relations continue to allocate property, care, bodily decision and authority
+unequally. “Private” intimacy deserves protection; it cannot function as an immunity zone for
+domination.
+
+**Property:** Public law can establish equal claims, as the Hindu Succession (Amendment) Act, 2005
+and *Vineeta Sharma* (2020) illustrate. Yet Agarwal’s ladder—title, access, control, return and
+exit/security—shows that family authority can interrupt conversion. A formal owner who cannot
+decide use or retain income remains dependent. Property justice therefore needs enforceability,
+records, social legitimacy and household bargaining power.
+
+**Care:** Gilligan’s care perspective exposes needs and relationships ignored by abstract
+individualism. But when dependency work is privately feminised, women lose time for education,
+employment and office. The essentialism objection is decisive: care must not be treated as women’s
+natural role. Justice should share responsibility through men’s participation, services and fair
+institutional design while preserving the human value of care.
+
+**Representation:** Public presence matters, but descriptive inclusion does not guarantee voice,
+influence or accountability. The 106th Amendment, 2023 is enacted and commenced from 16 April 2026,
+while seat-level operation remains linked to the constitutional census/delimitation sequence.
+Even after operation, party authority and domestic time burdens can still limit substantive
+representation.
+
+Pateman’s sexual-contract critique shows how public freedom can rest on unexamined domestic
+subordination; Okin treats the family as an object of justice because it shapes primary goods and
+the first experience of fairness.
+
+**Objection:** extending justice into family life threatens intimacy and plural ways of living.
+**Reply:** gender justice need not prescribe one family form. It sets background conditions of
+non-violence, equal claim, genuine exit and fair capability.
+**Residual:** state action can become paternalistic or majoritarian, so affected members’ voice and
+reviewable measures are necessary.
+
+**Conclusion:** public reform without private transformation leaves the mechanisms of subordination
+intact; private reform without enforceable public rights lacks security. Gender justice therefore
+joins redistribution, recognition and representation across both spheres while retaining bounded
+autonomy for intimate life.
+
+### Why this earns marks
+
+It answers every named domain, uses four attributed frameworks and dated illustrations, includes a
+developed objection and residual, and reaches a balanced public/private synthesis.
+
+---
 
 # REMEDIATION
 
-## Error target 1 — Treating “constructed” as imaginary
+## Misconception repair table
 
-#### Question 52
-Which correction is most accurate?
+| Misconception | Why it fails | Repair move |
+|---|---|---|
+| sex is natural, gender is artificial | makes embodiment/social meaning an absolute binary | distinguish analytically, then show interaction |
+| socially constructed means unreal | ignores sanctions, law and allocation | explain the construction loop |
+| performativity means pretending | removes compulsion and reiteration | define it as norm-governed constitution |
+| foeticide is identical with abortion | erases discriminatory reason and autonomy | distinguish the four reproductive issues |
+| technology causes son preference | confuses means with motive | trace property/status/lineage structure |
+| title equals empowerment | skips access, control, return and exit | reproduce Agarwal’s staircase |
+| good outcomes prove agency | ignores who decided and available alternatives | apply Kabeer’s agency test |
+| care is women’s natural strength | essentialises and confines | socialise care and pair it with justice |
+| socialism automatically frees women | reduces patriarchy to class | distinguish Marxist and socialist feminism |
+| representation equals presence | ignores agenda-setting and accountability | use the four-stage representation chain |
+| intersectionality means listing identities | adds labels without mechanism | show how the institution works differently |
+| structure excuses individuals | confuses explanation with blame | separate backward blame and forward responsibility |
 
-A. Constructed practices have no material consequences.
-B. Only biological phenomena are real.
-C. Construction proves that individuals can change identity without constraint.
-D. Social dependence explains contingency while institutions explain coercive reality.
+## Remedial MCQs
 
-**MCQ 52: D**
+> **Rotation continuation:** Questions 25–32 continue the same A → B → C → D sequence.
 
-- **A — Incorrect:** Social rules distribute resources, status and exposure to harm.
-- **B — Incorrect:** Legal and economic institutions are real despite their human origin.
-- **C — Incorrect:** Sanctions and available scripts constrain individual variation.
-- **D — Correct:** The formulation avoids both determinism and fictionalism.
+### MCQ 25
 
-## Error target 2 — Equating title with empowerment
+A policy gives identical parental-leave rights, but workplace promotion still rewards the employee
+least likely to take leave. Which diagnosis is strongest?
 
-#### Question 53
-What must be added to a property-rights answer after mentioning legal title?
+A. A formally equal rule can preserve a gendered baseline unless care and institutional incentives change.
+B. Identical wording guarantees substantive equality.
+C. Care is a private preference with no public effect.
+D. Any differentiated measure would necessarily be unjust.
 
-A. Access, decision control, return and a credible exit.
-B. An assumption that family members implement law automatically.
-C. A conclusion that statutes are irrelevant.
-D. A demographic argument unrelated to ownership.
+### MCQ 26
 
-**MCQ 53: A**
+Which finding would most strongly show that an improved outcome is provision rather than
+empowerment?
 
-- **A — Correct:** These levels identify the conversion chain through which entitlement becomes power.
-- **B — Incorrect:** Family practice is one of the principal sites where implementation can fail.
-- **C — Incorrect:** Title remains the necessary legal anchor for enforceable claims.
-- **D — Incorrect:** Population effects do not answer who possesses or controls an asset.
+A. The outcome raises household welfare.
+B. The woman’s strategic options and decision authority did not expand.
+C. The programme included a cash transfer.
+D. The outcome was publicly reported.
 
-## Error target 3 — Blaming technology alone
+### MCQ 27
 
-#### Question 54
-Which sentence repairs the causal error?
+Which response best preserves autonomy while opposing discriminatory sex selection?
 
-A. Diagnostic tools are the original source of son preference.
-B. Technology enables selection, while lineage, property, cost and constrained agency generate the discriminatory demand.
-C. Provider conduct is irrelevant whenever social norms exist.
-D. Female foeticide and all abortion are the same practice.
+A. Ban all reproductive health technology.
+B. Treat every termination as evidence of coercion.
+C. Regulate discriminatory services and coercion while securing health, information and genuine alternatives.
+D. Replace women’s decisions with family councils.
 
-**MCQ 54: B**
+### MCQ 28
 
-- **A — Incorrect:** The preference can exist before and without a particular instrument.
-- **B — Correct:** It preserves both structural explanation and responsibility for enabling means.
-- **C — Incorrect:** Participation in an illegal market remains accountable within a wider structure.
-- **D — Incorrect:** Motive and social pattern distinguish sex selection from abortion generally.
+Which claim would violate the cross-topic firewall?
 
-## Error target 4 — Using “necessary but insufficient” without proof
+A. Caste endogamy can intensify control over women’s marriage choices.
+B. Community protection can coexist with internal gender restrictions.
+C. Property and status mechanisms may intersect.
+D. A gender answer should reproduce the complete Gandhi–Ambedkar caste debate.
 
-#### Question 55
-Which conclusion demonstrates both halves of the claim?
+### MCQ 29
 
-A. Property is important, although all reforms are complex.
-B. Empowerment matters, but discrimination has many causes.
-C. Asset rights are indispensable to equal membership and exit, yet cannot guarantee control without enforcement, security and norm reform.
-D. No single measure solves everything, so no measure is necessary.
+What is the best response to the claim that title is useless if social practice blocks control?
 
-**MCQ 55: C**
+A. Title remains an important enforceable anchor, while reform must address every conversion step.
+B. Abandon legal reform completely.
+C. Treat informal access as always sufficient.
+D. Assume family solidarity will supply control.
 
-- **A — Incorrect:** Importance does not establish logical necessity or insufficiency.
-- **B — Incorrect:** A vague plurality of causes leaves the missing conditions unspecified.
-- **C — Correct:** The conclusion argues indispensability and then identifies the precise conversion gap.
-- **D — Incorrect:** Multi-causality does not imply that every component is dispensable.
+### MCQ 30
+
+Which statement most accurately handles adaptive preference?
+
+A. Every reported preference under inequality is false.
+B. Respect choice, but examine whether real alternatives existed and what exercising them cost.
+C. Analysts should select the preferred outcome for women.
+D. Satisfaction is always a complete measure of empowerment.
+
+### MCQ 31
+
+Which use of care ethics is philosophically safest?
+
+A. Women naturally reason through care.
+B. Care should displace rights.
+C. Socially assigned care reveals dependency and time burdens, while justice prevents self-erasure.
+D. Care belongs outside politics.
+
+### MCQ 32
+
+Which is the correct Expert stop rule?
+
+A. Add as many named theorists as space permits.
+B. Begin with Expert debate before defining the syllabus term.
+C. Use Expert material to replace the causal mechanism.
+D. Add one precise discriminator after Core, state what it changes and its limit, then return to the directive.
+
+## Remedial answers and explanations
+
+### MCQ 25 — Correct answer: A
+
+- **A is correct:** identical rights can leave the male-coded uninterrupted-worker norm intact.
+- **B is wrong:** formal wording does not establish equal conversion.
+- **C is wrong:** care allocation shapes public opportunity.
+- **D is wrong:** proportionate burden-removing differentiation can be justified.
+
+### MCQ 26 — Correct answer: B
+
+- **A is wrong:** welfare improvement can occur without authorship.
+- **B is correct:** lack of expanded strategic agency is the decisive failure.
+- **C is wrong:** a resource is only a precondition.
+- **D is wrong:** reporting says nothing about decision power.
+
+### MCQ 27 — Correct answer: C
+
+- **A is wrong:** diagnostic technology has legitimate uses.
+- **B is wrong:** motive and circumstances require analysis.
+- **C is correct:** it targets discrimination and coercion while protecting agency.
+- **D is wrong:** family control can be part of the problem.
+
+### MCQ 28 — Correct answer: D
+
+- **A is wrong:** it is a permissible bounded bridge and therefore does not violate the firewall.
+- **B is wrong:** it uses the permitted external/internal distinction without importing a full topic.
+- **C is wrong:** intersectional analysis is required where it changes the owned gender mechanism.
+- **D is correct:** it imports Clause 10 as a complete separate topic.
+
+### MCQ 29 — Correct answer: A
+
+- **A is correct:** conversion failure qualifies rather than defeats enforceable rights.
+- **B is wrong:** absence of an anchor can deepen dependence.
+- **C is wrong:** mediated access can be withdrawn.
+- **D is wrong:** household interests and power are not automatically unified.
+
+### MCQ 30 — Correct answer: B
+
+- **A is wrong:** that is paternalistic overreach.
+- **B is correct:** it evaluates conditions of choice rather than imposing an outcome.
+- **C is wrong:** empowerment is not external approval.
+- **D is wrong:** restricted horizons can shape satisfaction.
+
+### MCQ 31 — Correct answer: C
+
+- **A is wrong:** it essentialises women.
+- **B is wrong:** care without justice can sustain domination.
+- **C is correct:** it uses the socially positioned reading and complementarity.
+- **D is wrong:** care burdens distribute public time and opportunity.
+
+### MCQ 32 — Correct answer: D
+
+- **A is wrong:** display displaces analysis.
+- **B is wrong:** Core must be complete first.
+- **C is wrong:** Expert material cannot repair a missing mechanism.
+- **D is correct:** it captures disciplined deployment and termination.
+
+---
 
 # MASTER COMPARISON, CAUSAL AND ARGUMENT MAPS
 
-## Map 1 — Whole-topic causal map
+## Master comparison matrix
 
-```text
-gender classification
-        |
-social valuation and role expectation
-        |
-household + market + law + public authority
-        |
-allocation of property, time, care, safety and voice
-        |
-constrained agency and unequal outcomes
-        |
-outcomes treated as natural proof
-        |
-        +---------------- feedback ----------------+
-
-APPLICATIONS
-  female foeticide: unequal valuation -> sex-selective exclusion
-  property: entitlement fails across access/control/return/exit
-  empowerment: resources fail to convert into strategic agency
-```
-
-## Map 2 — Feminist comparison
-
-| Diagnosis | What it sees best | What it may miss | Corrective partner |
+| Axis | Formal/limited view | Complete Clause-9 view | Examiner trap |
 |---|---|---|---|
-| Liberal | Equal standing, rights, education | Private power and conversion | Radical, capability |
-| Marxist | Property, labour and dependence | Autonomous patriarchy | Socialist |
-| Socialist | Production plus reproduction | Precise interaction rule | Intersectional evidence |
-| Radical | Body, sexuality, violence, family | Internal diversity | Intersectional |
-| Intersectional | Mediated and distinct mechanisms | Priority and coalition rule | Common dignity norm |
-| Capability | Real freedom and adaptive preference | List and paternalism | Participatory agency |
+| sex/gender | sex natural, gender social | embodiment and social interpretation interact | denying bodies or deriving roles from them |
+| discrimination | explicit hostile intention | patterned unjust valuation, burden and authority | ignoring structure |
+| equality | identical rule | formal + substantive + relational | treating accommodation as automatically just |
+| property | title | title + access + control + return + exit/security | citing law as outcome |
+| empowerment | resources or success | resources → agency → achievements with alternatives | measuring provision as agency |
+| foeticide | technology misuse | son preference + coercion + means + valuation | equating every abortion |
+| care | private female virtue | public dependency and time allocation | essentialising carers |
+| representation | numerical presence | presence + voice + influence + accountability | tokenism |
+| intersectionality | list of identities | institution-specific altered mechanism | importing caste as a full topic |
+| socialism | ownership change | ownership + care + body + voice + enforceable claims | conflating Marxist/socialist feminism |
 
-## Map 3 — Female-foeticide argument
-
-```text
-DISTINGUISH
-abortion generally / sex selection / diagnosis / infanticide
-        |
-CAUSE
-lineage -> son support -> marriage cost -> asset inequality
-        -> constrained agency -> enabling technology
-        |
-EVALUATE
-equal dignity -> discriminatory social meaning -> social imbalance
-        |
-REMEDY
-law + provider accountability + property/security + agency + norm reform
-```
-
-## Map 4 — Property conversion
+## Master causal map
 
 ```text
-TITLE        ACCESS        CONTROL        RETURN        EXIT
-law          use           decision       benefit       security
- |             |              |              |             |
-records       possession     authority      retention     fall-back
- |             |              |              |             |
-+-------------------------------------------------------------+
-                 effective empowerment
-```
-
-## Map 5 — Equality and empowerment
-
-```text
-EQUALITY                                      EMPOWERMENT
-equal status, rights and distribution <----> strategic agency
-        |                                           |
-prevents bestowed hierarchy               prevents passive formalism
-        +-------------------+-----------------------+
+EMBODIED DIFFERENCE
+        |
+        v
+SOCIAL INTERPRETATION AND REITERATION
+        |
+        v
+PATRIARCHAL NORMS
+        |
+        +-------------------+---------------------+
+        |                   |                     |
+        v                   v                     v
+HOUSEHOLD POWER       PUBLIC INSTITUTIONS     CULTURAL VALUATION
+care / income /       law / work / parties    daughter / masculinity /
+reproduction          property / education    femininity / status
+        |                   |                     |
+        +-------------------+---------------------+
                             v
-       redistribution + recognition + representation
+                UNEQUAL ALLOCATION AND VOICE
+                            |
+          +-----------------+------------------+
+          |                 |                  |
+          v                 v                  v
+  FEMALE FOETICIDE   PROPERTY CONVERSION   DISEMPOWERMENT /
+                     FAILURE               TOKEN PRESENCE
+          |                 |                  |
+          +-----------------+------------------+
+                            v
+                   GENDER-JUST RESPONSE
+ rights + control + capabilities + situated autonomy + fair care
+       + recognition + representation + shared responsibility
+                            |
+                            v
+ QUALIFIED END: hierarchy can be reduced through reciprocal legal,
+ material, cultural and political transformation; no single reform suffices.
 ```
 
-## Map 6 — Answer decision tree
+## Objection–reply map
 
-```text
-Does the stem ask "what is gender"?
-  -> sex/gender interaction + Beauvoir/Butler + construction objection
+| Objection | Best reply | Residual |
+|---|---|---|
+| biology explains gender roles | biology does not justify property, authority or care allocation | embodiment still conditions vulnerability |
+| preferences explain outcomes | preferences may adapt to restricted alternatives | interpretation can become paternalistic |
+| equal rules are enough | hidden baselines and conversion gaps remain | differentiated remedies need review |
+| technology causes foeticide | technology enables; valuation supplies motive | regulation still affects feasibility |
+| title failures make law useless | enforceable title is an anchor, not completion | practice is harder to transform |
+| empowerment will eliminate discrimination | agency cannot privately redesign institutions | cumulative agency can still transform norms |
+| care celebrates women’s moral voice | use a socially positioned, shareable account | original empirical thesis remains contested |
+| intersectionality fragments feminism | coalition can rest on common dignity without false universality | priorities remain disputed |
+| group autonomy protects culture | affected members need voice, rights and exit | state intervention can be majoritarian |
+| socialism removes patriarchy | bodily, domestic and political authority can survive class reform | systems interact in complex ways |
 
-Does it ask "which feminism" or "socialism"?
-  -> diagnosis grid + strongest rival + standard objection
+---
 
-Does it ask female foeticide?
-  -> four-way distinction + ordered causes + dignity before demography
+# CLAUSE-9 DEMAND COVERAGE LEDGER
 
-Does it ask property?
-  -> necessary/sufficient language + five-level ladder + legal classification
+> **Coverage rule:** every Clause-9 demand is Core. “Advanced” below names optional refinement only;
+> it never means the demand depends on the Advanced tier.
 
-Does it ask empowerment?
-  -> Kabeer triad + power forms + structural insufficiency
+## A. Gender hierarchy, construction and feminist diagnoses
 
-Does it ask an integrated remedy?
-  -> redistribution/recognition/representation + intersectional mediation
-```
+| ID | Demand | Core location | Optional refinement | Status |
+|---|---|---|---|---|
+| S09-01 | discrimination as unjust valuation/power | Lessons 1, 3 | A2 | covered |
+| S09-02 | sexed characteristics versus gender roles | Lesson 1 | A1 | covered |
+| S09-03 | Beauvoir and woman as Other | Lesson 1 | — | covered |
+| S09-04 | construction and opportunities | Lessons 1–3 | A2 | covered |
+| S09-05 | construction, rights and resources | Lessons 3, 5, 10 | — | covered |
+| S09-06 | construction is real and durable | Lesson 2 | A1 | covered |
+| S09-07 | Butler: performativity versus standard split | Lesson 2 | A1, E1 | covered |
+| S09-08 | category-stability objection | Lesson 2 | A1 | covered |
+| S09-09 | trans-inclusive conceptual scope | Lesson 2 | A1 | covered |
+| S09-10 | liberal feminism and formal reform | Lessons 3, 9 | A4 | covered |
+| S09-11 | radical feminism and bodily/private power | Lessons 3, 9 | — | covered |
+| S09-12 | Marxist feminism and property/class | Lessons 3, 9 | — | covered |
+| S09-13 | socialist feminism and dual systems | Lesson 9 | — | covered |
+| S09-14 | gender equality inside socialism | Lesson 9; solved 2019 Q1(e) | — | covered |
+| S09-15 | intersectionality beyond addition | Lesson 8 | A1 | covered |
+| S09-16 | shared structural responsibility | Lessons 3, 10 | E1 | covered |
+| S09-17 | public/private division | Lessons 3, 7, 10 | A3, A4 | covered |
+| S09-18 | formal, substantive and relational equality | Lesson 3 | A2 | covered |
+| S09-19 | sameness/difference dilemma | Lesson 3 | A2 | covered |
+| S09-20 | feminism: equality or empowerment | Lessons 6, 9; solved 2018 Q4(c) | — | covered |
+| S09-21 | Wollstonecraft and Mill/Taylor Mill | Lesson 3 | — | covered |
+| S09-22 | biological difference and adaptive choice objections | Lessons 1, 3, 6, 7 | E1 | covered |
+
+## B. Female foeticide
+
+| ID | Demand | Core location | Optional refinement | Status |
+|---|---|---|---|---|
+| S09-23 | define discriminatory sex-selective termination | Lesson 4 | — | covered |
+| S09-24 | selection versus prenatal diagnosis | Lesson 4 | — | covered |
+| S09-25 | foeticide versus infanticide | Lesson 4 | — | covered |
+| S09-26 | patrilineal inheritance and son preference | Lesson 4 | — | covered |
+| S09-27 | dowry and unequal economic status | Lesson 4 | — | covered |
+| S09-28 | family pressure and constrained agency | Lessons 4, 7, 10 | — | covered |
+| S09-29 | intrinsic wrong before demographic consequence | Lesson 4 | — | covered |
+| S09-30 | Sen’s missing-women structural lens | Lesson 4 | — | covered |
+| S09-31 | social-imbalance consequences with caution | Lesson 4 | — | covered |
+| S09-32 | regulation and bodily autonomy | Lessons 4, 7 | — | covered |
+| S09-33 | legal/programme status versus change | Lessons 4, 10 | — | covered |
+| S09-34 | remedy son preference beyond diagnosis ban | Lessons 4, 6 | — | covered |
+| S09-35 | discrimination → selection → imbalance | Lesson 4; solved 2023 Q3(c) | — | covered |
+| S09-36 | technology-only thesis | Lesson 4; solved 2021 Q4(b) | — | covered |
+
+## C. Land and property
+
+| ID | Demand | Core location | Optional refinement | Status |
+|---|---|---|---|---|
+| S09-37 | inherit/own/use/control/transfer distinctions | Lesson 5 | E1 | covered |
+| S09-38 | property and material capability | Lessons 5, 7 | — | covered |
+| S09-39 | property and social recognition | Lesson 5 | — | covered |
+| S09-40 | Agarwal’s fall-back-position argument | Lesson 5 | E1 | covered |
+| S09-41 | title versus access/use | Lesson 5 | — | covered |
+| S09-42 | access versus control/return | Lesson 5 | — | covered |
+| S09-43 | return and exit/security tests | Lesson 5 | — | covered |
+| S09-44 | law versus cultural/record barriers | Lessons 5, 10 | — | covered |
+| S09-45 | equality across personal/customary systems | Lessons 5, 8 | — | covered |
+| S09-46 | effectiveness in empowerment | Lesson 5; solved 2021 Q1(e), 2023 Q1(c) | — | covered |
+| S09-47 | property as necessary condition | Lesson 5; solved 2026 Q2(b) | — | covered |
+| S09-48 | property not sufficient | Lessons 5, 8; solved 2026 Q2(b) | — | covered |
+| S09-49 | collective/joint ownership objection | Lesson 5; solved 2026 Q2(b) | — | covered |
+| S09-50 | 2026 conditions verdict | Lesson 5; solved 2026 Q2(b) | — | covered |
+| S09-51 | fragmentation versus sex equality | Lesson 5 | — | covered |
+
+## D. Empowerment, care, capability and representation
+
+| ID | Demand | Core location | Optional refinement | Status |
+|---|---|---|---|---|
+| S09-52 | empowerment beyond programme inclusion | Lesson 6 | — | covered |
+| S09-53 | power over/to/with/within | Lesson 6 | — | covered |
+| S09-54 | Kabeer: resources as preconditions | Lesson 6 | — | covered |
+| S09-55 | Kabeer: agency as process | Lesson 6 | E1 | covered |
+| S09-56 | achievements and authorship | Lesson 6 | — | covered |
+| S09-57 | strategic versus secondary choice | Lesson 6 | — | covered |
+| S09-58 | care ethics and unpaid labour | Lesson 7 | A3 | covered |
+| S09-59 | care and justice complementarity | Lesson 7 | A3 | covered |
+| S09-60 | Sen/Nussbaum capabilities | Lesson 7 | — | covered |
+| S09-61 | formal equality as institutional floor | Lesson 6 | A2 | covered |
+| S09-62 | mutual reinforcement of equality and empowerment | Lesson 6 | — | covered |
+| S09-63 | limits of empowerment as elimination | Lesson 6; solved 2020 Q4(a) | — | covered |
+| S09-64 | empowerment against son preference | Lessons 4, 6 | — | covered |
+| S09-65 | two independent halves of 2024 Q4(a) | solved 2024 Q4(a) | — | covered |
+| S09-66 | representation status versus exercise | Lessons 8, 10 | — | covered |
+| S09-67 | redistribution, recognition, representation | Lesson 8 | — | covered |
+| S09-68 | Pateman’s sexual-contract critique | Lesson 3 §4, “Pateman and Okin: why domestic relations belong to justice” | A4 comparison only | covered |
+| S09-69 | Okin: family as object of justice | Lesson 3 §4 and Lesson 7 §8, “Okin: household conditions and public opportunity” | A4 comparison only | covered |
+| S09-70 | multiculturalism/feminism tension | Lesson 8 §7, “Multiculturalism and internal restrictions” | — | covered |
+
+## Demand audit result
+
+- Clause-9 demand IDs expected: **70**
+- Clause-9 demand IDs represented above: **70**
+- Core-dependent on optional material: **0**
+- Demands intentionally routed to another full topic: **0**
+- Cross-owner concepts used only as bounded bridges: equality, capability, multiculturalism, caste
+  mechanism and political ideology.
+
+---
+
+# PRIMARY-OWNED PYQ LEDGER
+
+| Year / part | Marks | Exact demand present | Full solution present | Core route |
+|---|---:|---|---|---|
+| 2018 Q4(b) | 15 | yes | yes | foeticide, autonomy, technology |
+| 2018 Q4(c) | 15 | yes | yes | equality and empowerment |
+| 2019 Q1(e) | 10 | yes | yes | socialism and feminist diagnoses |
+| 2019 Q3(b) | 15 | yes | yes | social construction and biology |
+| 2020 Q4(a) | 20 | yes | yes | empowerment and elimination |
+| 2021 Q1(e) | 10 | yes | yes | property effectiveness |
+| 2021 Q4(b) | 15 | yes | yes | causes and technology-only thesis |
+| 2022 Q3(b) | 15 | yes | yes | cultural gender and biological sex |
+| 2023 Q1(c) | 10 | yes | yes | property rights and empowerment |
+| 2023 Q3(c) | 15 | yes | yes | foeticide and social imbalance |
+| 2024 Q4(a) | 20 | yes | yes | equality → empowerment; empowerment → curbing foeticide |
+| 2025 Q1(b) | 10 | yes | yes | opportunities, rights and resources |
+| 2026 Q2(b) | 15 | yes | yes | necessary/sufficient/both |
+
+**PYQ audit result:** 13 of 13 primary-owned questions are reproduced exactly and solved.
+
+---
+
+# PROVENANCE AND ATTRIBUTION LEDGER
+
+## Authority manifest
+
+| Authority | Permitted role in this session | Use made |
+|---|---|---|
+| `upsc-ai-kit\knowledge\Philosophy\paper-2\socio-political\Gender-Discrimination.md` | sole substantive doctrine owner | definitions, frameworks, thinkers, Indian illustrations, objections, qualifications and answer architecture |
+| `_PYQ-SocioPolitical-2018-2025.md` | verified exact wording, marks and primary ownership | twelve exact questions and solutions |
+| `_PYQ-SocioPolitical-2026-Supplement.md` | verified 2026 wording, marks and condition-test route | one exact question and solution |
+| Clause 9 of `philosophy-coverage\Socio-Political-Philosophy.md` | controlling demand inventory and firewall | 70-demand ledger and routing |
+| approved Religion Topic 01 | architecture and learner pedagogy only | tiering, dependency roadmap, visual-first lessons, objection/reply/residual pattern, bounded Expert tier |
+
+## Attribution controls
+
+| Name / instrument | Attributed claim used | Qualification preserved |
+|---|---|---|
+| Beauvoir | woman constituted as Other; social becoming | does not erase embodiment or internal difference |
+| Butler, *Gender Trouble* (1990) | compelled reiteration and performativity | not free performance; bodies not denied; category problem remains |
+| Wollstonecraft | education and equal rational/moral standing | name does not replace mechanism |
+| J. S. Mill and Harriet Taylor Mill | law and custom manufacture subjection | formal reform may remain incomplete |
+| Young | social-connection responsibility | shared duty does not erase blame |
+| Agarwal, *A Field of One’s Own* (1994) | title/control/benefit; fall-back position | paraphrased; title important but insufficient |
+| Kabeer | resources, agency, achievements; strategic choice | alternative/cost judgment remains interpretive |
+| Sen | real freedom; missing-women structural lens | no unverified number or current statistic |
+| Nussbaum | bodily integrity, practical reason, affiliation, environmental control | threshold/list can attract paternalism objection |
+| Gilligan, *In a Different Voice* (1982) | care, context, relationship and dependency | essentialism objection and contested empirical division included |
+| Pateman, *The Sexual Contract* (1988) | unspoken domestic subordination in contract theory | interpretive reconstruction, not historical event |
+| Okin, *Justice, Gender, and the Family* (1989) | family as object of justice | bounded family autonomy retained |
+| Crenshaw and bell hooks | intersectional mechanism and anti-universalisation | common dignity and coalition retained |
+| PCPNDT Act, 1994 | enacted regulatory/penal illustration | no claim of successful enforcement |
+| Beti Bachao Beti Padhao, 2015 | Union administrative programme | no claim of measured success |
+| Hindu Succession (Amendment) Act, 2005 | enacted coparcenary reform on statutory terms | no inference of possession/control |
+| *Vineeta Sharma* (2020) | Supreme Court clarification of amended right | no inference of social exercise |
+| 106th Amendment, 2023; S.O. 1922(E), 16 April 2026 | enacted and commenced constitutional amendment | seat-level operation remains census/delimitation-linked |
+
+## Qualification gate
+
+- No unverified number, ratio, survey result or State-level empirical claim is asserted.
+- No named thinker is directly quoted.
+- No statute, judgment or programme is used as philosophical proof.
+- No individual legal title is described as a universal logical prerequisite.
+- No claim that empowerment automatically eliminates discrimination is made.
+- No claim that every abortion is female foeticide is made.
+- No claim that gender construction denies bodily reality is made.
+- Butler does not deny that bodies exist, and performativity is not voluntary performance.
+- Enactment of the PCPNDT Act does not prove successful enforcement or changed son preference.
+- No complete caste doctrine is imported.
+
+---
 
 # COMPLETE CONSOLIDATED REGISTER NOTES
 
-## 1. Master definition
+## 1. Central thesis and conceptual grammar
 
-Gender discrimination is a patterned disadvantage in valuation, opportunity, burden, security or authority attached to gendered position and reproduced through norms and institutions.
+- **Gender discrimination:** unjust differential valuation, opportunity, burden or authority
+  organised through meanings attached to sex and gender.
+- **Sex:** bodily/reproductive characteristics; real and varied.
+- **Gender:** socially produced roles, expectations, identities and meanings.
+- **Gender hierarchy:** ranking, not mere difference.
+- **Patriarchy:** durable institutional priority of male-coded authority and interests.
+- Core flow:
 
-## 2. Sex, gender and hierarchy
+```text
+embodied difference
+-> social interpretation
+-> repeated role and sanction
+-> institutional allocation
+-> unequal opportunity / authority
+-> outcome treated as natural
+```
 
-- Sex ordinarily refers to bodily and reproductive traits.
-- Gender refers to social meanings, identities, roles and positions organised around sexed classification.
-- The distinction is analytical and interactive, not an absolute nature–culture split.
-- Biological difference does not entail unequal moral or political status.
-- Construction means contingent and institution-dependent, not imaginary.
-- Reproduction loop: classification → valuation → allocation → outcome → naturalising justification.
+- **Beauvoir:** woman is constituted as the Other against a male norm; produced dependence is not
+  proof of innate incapacity.
+- Safe verdict: embodiment conditions experience but never by itself justifies property, care or
+  political hierarchy.
 
-## 3. Beauvoir and Butler
+## 2. Construction, performativity and category control
 
-- Beauvoir: woman is constituted as the Other relative to a male universal.
-- Immanence: confinement to repetition and assigned function.
-- Transcendence: purposive self-projection and world-making.
-- Butler: compelled reiteration produces the appearance of a stable prior identity.
-- Performativity is not voluntary performance.
-- Performativity explains repeated norm reproduction more directly than the prior dominance of a particular norm; structural analysis supplies that causal layer.
-- Political categories should be provisional, specified and revisable.
-- Inclusive conceptual care does not erase sex-specific discrimination.
+- Social construction means institutionally real, not imaginary or easily altered.
+- **Butler, *Gender Trouble* (1990):** compelled reiteration produces the appearance of natural
+  gender identity.
+- Three cautions:
+  1. performativity is not voluntary theatre;
+  2. bodily reality is not denied;
+  3. Butler contests rather than merely repeats the textbook sex/gender split.
+- Category dilemma:
+
+```text
+fixed essence -> exclusion
+no category -> weak mobilisation
+provisional, purpose-bound category -> necessary but unstable compromise
+```
+
+- Distinguish sex characteristics, assignment, identity, expression and social role.
+- Printed applications remain women-specific while the conceptual account remains inclusive.
+
+## 3. Structures, responsibility and equality
+
+- Structural injustice can arise without one designer.
+- **Young:** forward-looking responsibility is shared but graded by power, privilege, interest and
+  capacity; personal wrongdoing still attracts blame.
+- Public/private chain:
+
+```text
+unequal care / income / bodily power at home
+-> less time, mobility, security and bargaining
+-> weaker public work, property and representation
+```
+
+- **Pateman, *The Sexual Contract* (1988):** liberal public freedom can presuppose domestic
+  subordination; this is an interpretive reconstruction of contract theory’s silences, not a
+  historical-event claim.
+- **Okin, *Justice, Gender, and the Family* (1989):** household time, care and self-respect condition
+  public opportunity, so the family is an object of justice; retain bounded intimate autonomy.
+- Equality forms:
+  - **formal:** same rule;
+  - **substantive:** real capability and burden;
+  - **relational:** absence of domination, stigma and servility.
+- Sameness/difference dilemma: identical rule may encode a male norm; accommodation may essentialise.
+- Remedy test: burden-removing, capability-expanding, non-stigmatising, proportionate, revisable.
+- Adaptive preference: respect choice, but inspect alternatives and their cost.
 
 ## 4. Feminist diagnoses
 
-- Liberal: unequal rights/opportunity; remedy through education, law and access; limit—formalism.
-- Marxist: private property and class; remedy through productive transformation; limit—class reduction.
-- Socialist: capitalism and patriarchy interact; remedy includes social reproduction; limit—complexity.
-- Radical: patriarchy, body and sexuality; remedy transforms private power; limit—universalisation.
-- Intersectional: powers mutually constitute distinct mechanisms; limit—priority and fragmentation.
-- Capability: deprivation of real freedom; remedy through agency and thresholds; limit—list and paternalism.
-- Wollstonecraft: cultivated dependence and denied education.
-- Mill and Harriet Taylor Mill: law and custom jointly produce subjection.
-- Crenshaw and bell hooks: dominant accounts can universalise privileged experience.
+| Approach | Main mechanism | Remedy | Limitation |
+|---|---|---|---|
+| liberal | unequal rights/education/opportunity | legal equality and access | household power may survive |
+| radical | body, sexuality, family, violence | transform patriarchal intimate power | universalisation risk |
+| Marxist | private property and class | transform production/property | patriarchy not simply derivative |
+| socialist | capitalism + autonomous patriarchy | transform production and social reproduction | interaction can be vague |
+| intersectional | institution altered by social location | mechanism-specific anti-domination | coalition/priorities difficult |
+| capability | nominal resource without real freedom | secure effective option and bodily integrity | threshold/paternalism dispute |
 
-## 5. Structural injustice and family
+- Wollstonecraft: education rebuts cultivated dependence.
+- Mill/Taylor Mill: law and custom jointly produce subjection.
+- Socialism verdict: it can support gender equality but does not entail it; care, body, voice and
+  enforceable claims need separate reform.
 
-- Young: normal rules and repeated actions can create injustice without one designing author.
-- Blame is backward-looking and act-centred.
-- Structural responsibility is forward-looking, shared and role-graded.
-- Duties vary with power, privilege, interest and collective capacity.
-- Pateman’s sexual contract is interpretive reconstruction, not historical fact.
-- Okin: the family distributes primary goods and teaches justice; it is itself an object of justice.
-- The family is protected intimacy, not immunity for domination.
-- Multicultural protection must be joined to internal voice, equality and usable exit.
+## 5. Female foeticide
 
-## 6. Equality
+- Definition: discriminatory sex-selective termination because the foetus is identified or presumed
+  female.
+- Never conflate with:
+  - abortion generally;
+  - legitimate prenatal diagnosis;
+  - female infanticide.
+- Causal chain:
 
-- Formal equality: identical rule and equal legal standing.
-- Substantive equality: effective opportunity under unequal conditions.
-- Relational equality: standing as equals without domination.
-- Transformative equality: reform of the structure producing disadvantage.
-- Sameness can universalise a male norm.
-- Difference can freeze protective dependency.
-- Targeted measures require a demonstrated barrier, fit, proportionality and review.
-- Adaptive preference calls for better choice conditions, not administrative substitution.
+```text
+patrilineage + son support expectations + dowry + weak female property/status
+-> son preference
+-> family pressure and constrained agency
+-> discriminatory misuse of technology
+-> sex selection
+-> cumulative demographic absence / social imbalance
+```
 
-## 7. Female foeticide
+- Primary wrong: denial of equal dignity; demographic consequence is secondary.
+- **Sen:** “missing women” is a structural lens across birth, care, health and survival; no invented
+  number.
+- Technology verdict: means/enabler, not source of discriminatory motive.
+- Autonomy rule: regulate coercion and discriminatory services while protecting women’s health and
+  reproductive agency.
+- Indian anchors:
+  - PCPNDT Act, 1994 — enacted statute, not proof of successful enforcement;
+  - Beti Bachao Beti Padhao, 2015 — administrative programme, not proof of changed valuation.
+- Remedy: regulation + property/security + education/health + social support + voice/accountability.
 
-- Define as sex-selective termination because the foetus is identified or presumed female.
-- Distinguish abortion generally, sex selection, diagnostic technology and infanticide.
-- Ordered causes: patrilineal inheritance; son-support expectations; dowry/marriage costs; unequal property/earnings; family pressure and constrained agency; technology.
-- Technology supplies means; patriarchy supplies reason.
-- Primary wrong: female status used as a reason for exclusion and public devaluation.
-- Demographic imbalance is a serious consequence, not the sole moral ground.
-- Sen’s “missing women” lens connects prenatal selection with unequal nutrition, health care and survival without requiring an unverified numerical claim.
-- Feedback: discrimination causes selection; selection reaffirms discrimination.
-- PCPNDT Act, 1994: statute regulating techniques and prohibiting sex selection.
-- BBBP: 2015 administrative behavioural/social-change programme, not DBT.
-- Remedy: accountable law, provider regulation, material security, agency and norm reform.
+## 6. Land and property rights
 
-## 8. Land and property rights
+- Rights include inherit, own, use, control, manage, transfer and benefit.
+- Why property matters:
+  - livelihood and shelter;
+  - recognition of daughter as equal member;
+  - bargaining and voice;
+  - protection and exit.
+- **Agarwal, *A Field of One’s Own* (1994):**
 
-- Property rights include inherit, own, use, control, manage, transfer and benefit.
-- Agarwal: ownership, effective control and realised benefit must be distinguished.
-- Ladder: title → access → control → return → exit/security.
-- Fall-back position connects independent property with bargaining power.
-- Household allocation is a site of bargaining, not presumed altruistic unity.
-- Capability argument: shelter, livelihood, credit, security and exit.
-- Recognition argument: daughters as full members, not temporary dependants.
-- Hindu Succession (Amendment) Act, 2005: statutory coparcenary reform.
-- `Vineeta Sharma` (2020): Supreme Court holding that the right is by birth and the father need not be alive at the 2005 commencement.
-- `Ram Charan v. Sukhram` (2025): separate Supreme Court equality holding for a Scheduled Tribe succession dispute where no exclusionary custom was proved; not an extension of the Hindu Succession Act.
-- Necessary but insufficient: add possession, enforcement, education, employment, safety, credit, care and norm reform.
+```text
+TITLE -> ACCESS -> CONTROL -> RETURN -> EXIT / SECURITY
+```
 
-## 9. Empowerment
+- **Fall-back position:** what a person can command if household cooperation fails.
+- Presupposition: household allocation can involve bargaining and unequal power.
+- Indian anchors:
+  - Hindu Succession (Amendment) Act, 2005 — enacted coparcenary reform;
+  - *Vineeta Sharma* (2020) — Supreme Court clarification;
+  - neither proves possession, control, return or exit.
+- 2026 condition verdict:
+  - secure equal asset rights are normally necessary under present institutions;
+  - individual title is not universally necessary if joint/collective control is independently
+    enforceable;
+  - property is never sufficient for full social equality.
+- Objections:
+  - fragmentation → use neutral land-management responses, not sex exclusion;
+  - title failure → repair conversion, do not abandon rights;
+  - private-property bias → collective forms still require women’s enforceable control.
 
-- Kabeer: expansion of strategic life choices previously denied.
-- Resources: assets, education, time, information, networks and claims.
-- Agency: decision, refusal, negotiation, voice and collective action.
-- Achievements: realised functionings.
-- Conversion conditions mediate every arrow.
-- Power over: domination.
-- Power to: capacity.
-- Power with: collective organisation.
-- Power within: self-respect and critical awareness.
-- A bank account controlled by another person illustrates a resource that has not converted into agency.
-- The triad is diagnostic: locate failure at resources, agency or achievements instead of assigning a single pass/fail label.
-- Beneficial outcome without authorship is not complete empowerment.
-- Empowerment is necessary but not sufficient to eliminate structural discrimination.
+## 7. Empowerment, autonomy and capability
 
-## 10. Capability and care
+- Empowerment = expansion of resources, capabilities, agency, recognition and institutional
+  influence over significant choices.
+- Power:
+  - over = domination;
+  - to = capacity;
+  - with = solidarity;
+  - within = self-respect/critical consciousness.
+- **Kabeer:**
 
-- Capability asks what a person is actually able to be and do.
-- Equal goods can yield unequal freedom.
-- Adaptive preference warns against using satisfaction as the sole metric.
-- Respect agency through information, alternatives, security and participation.
-- Gilligan makes relationship, vulnerability and context visible.
-- Care is not naturally female; unequal assignment is the injustice.
-- Justice prevents domination; care prevents abstraction and indifference.
-- Time and care burden are political resources.
+```text
+RESOURCES (preconditions)
+-> AGENCY (process and strategic choice)
+-> ACHIEVEMENTS (outcomes)
+```
 
-## 11. Redistribution, recognition, representation
+- Agency test: were alternatives present, and what did exercising them cost?
+- Better provision without expanded agency is not full empowerment.
+- Strategic choices: marriage, childbearing, work, movement, body and life direction.
+- Equality/empowerment:
+  - equality is the normative standard and secure floor;
+  - empowerment is process and part of the end;
+  - each can deepen the other.
+- Elimination verdict: empowerment is necessary and transformative but not sufficient against norms,
+  care burdens, violence and institutional design.
+- Situated autonomy: choice within relationship without domination; interdependence is not
+  subordination.
+- Capability:
+  - Sen — real freedom;
+  - Nussbaum — bodily health, bodily integrity, practical reason, affiliation, control over
+    environment;
+  - resources require conversion into real options.
 
-- Redistribution addresses property, income, time, services and care burdens.
-- Recognition addresses status, stereotype and cultural devaluation.
-- Representation addresses agenda-setting, presence, voice and institutional power.
-- Isolated failures: paternalistic provision, symbolic celebration, tokenism.
-- The 106th Amendment is enacted constitutional text.
-- Article 334A links operation to census-based delimitation.
-- Do not state enactment as completed seat-level implementation.
-- Intersectionality changes mechanisms through caste, class, community, disability, sexuality and gender identity.
+## 8. Care, intersectionality and representation
 
-## 12. High-yield verdicts
+- **Gilligan, *In a Different Voice* (1982):** care foregrounds relationship, context, responsibility
+  and dependency.
+- Essentialism objection: “female care voice” can naturalise confinement.
+- Safe reading: care reflects social position and is a responsibility for all genders and
+  institutions.
+- Complementarity:
 
-- Gender is socially constituted but materially real.
-- Biology underdetermines hierarchy.
-- Feminist approaches are rival diagnoses that must be adjudicated.
-- Socialism can reduce economic dependence but cannot guarantee gender equality.
-- Technology enables sex selection; it does not originate son preference.
-- Property rights are necessary but not sufficient for social equality.
-- Empowerment is necessary and causally powerful but cannot alone dissolve structural injustice.
-- Equality supplies standing; empowerment supplies effective authorship.
-- Complete remedies require redistribution, recognition and representation.
-- Exam execution: preserve distinction, mechanism, objection and verdict; reduce decorative material before cutting these components.
+```text
+care without justice -> self-effacement / exploitation
+justice without care -> formal indifference to dependency
+```
 
-# COVERAGE MATRIX
+- Intersectionality: not arithmetic addition; it changes the mechanism.
+- **Crenshaw:** institutions can generate a distinct pattern at intersecting social locations.
+- **bell hooks:** feminism must not universalise the experience of relatively privileged women.
+- Bounded Indian caste bridge: endogamy, property and control of marriage/sexuality can jointly
+  reproduce gender hierarchy; stop there and return to Clause 9.
+- Justice dimensions:
+  - redistribution = resources/time/security;
+  - recognition = equal status;
+  - representation = authoritative voice.
+- Representation ladder:
 
-| Obligation | Lesson(s) | Practice/PYQ |
-|---|---:|---|
-| Sex, gender, hierarchy and interaction | 1 | 2019 Q3(b), 2022 Q3(b), 2025 Q1(b) |
-| Beauvoir: Other, immanence, transcendence | 2 | Construction routes |
-| Butler: performativity, category stability and dominance residual | 2 | MCQ 4–5 |
-| Trans-inclusive conceptual care | 2 | Category discussion |
-| Liberal, Marxist, socialist, radical, intersectional, capability feminisms | 3 | 2018 Q4(c), 2019 Q1(e) |
-| Wollstonecraft; Mill and Harriet Taylor Mill | 3 | Feminist diagnosis |
-| Crenshaw and bell hooks | 3, 13 | Intersectionality |
-| Young’s structural responsibility | 4 | 2020/2024 logic |
-| Pateman and Okin; public/private | 4 | Household justice |
-| Multiculturalism and internal restrictions | 4, 9 | Property/community tension |
-| Formal, substantive, relational, transformative equality | 5 | Equality–empowerment |
-| Sameness/difference and reverse-discrimination objections | 5 | MCQ 14, 16 |
-| Adaptive preference | 5, 11 | MCQ 15, 34 |
-| Female foeticide distinctions and causes | 6 | 2018, 2021 |
-| Dignity, social meaning, Sen’s “missing women” lens and imbalance | 7 | 2023, 2024 |
-| PCPNDT Act and BBBP classification | 6–7 | Source ledger |
-| Land rights and Agarwal’s five levels | 8 | 2021, 2023 |
-| HSA 2005 and `Vineeta Sharma` | 8 | Legal application |
-| `Ram Charan v. Sukhram` (2025) equality illustration | 9 | Property/personal-law conversion |
-| Necessary/sufficient condition analysis | 9 | 2026 Q2(b) |
-| Empowerment, Kabeer’s diagnostic triad and resource–agency gap | 10 | 2020 Q4(a) |
-| Power over/to/with/within | 10 | MCQ 30 |
-| Sen/Nussbaum capability | 11 | Property/empowerment |
-| Gilligan and care/justice complementarity | 11 | Original 15-mark |
-| Empowerment–equality–foeticide link | 12 | 2024 Q4(a) |
-| Redistribution, recognition, representation | 13 | Integrated remedies |
-| 106th Amendment and Article 334A condition | 13 | Constitutional application |
-| Caste/class/community/disability/sexuality mediation | 13 | Intersectional analysis |
-| Boundaries with neighbouring owners | 14 | Answer architecture |
-| Directive decoder and 10/15/20-mark execution | 14 | Timed-answer control |
-| All 13 owned PYQs through 2026 | Final PYQ section | Approach-only inventory |
-| Cumulative practice and remediation | Final sections | MCQ 44–55 |
-| Original solved 10/15/20-mark Mains | Final practice | Three model answers |
+```text
+presence -> voice -> influence -> accountability
+```
 
-# SOURCE LEDGER
+- 106th Amendment, 2023:
+  - enacted constitutional amendment;
+  - commenced 16 April 2026 through S.O. 1922(E);
+  - seat-level operation remains linked to post-Act census-based delimitation under Article 334A;
+  - status does not prove substantive representation.
+- Multicultural tension: protect groups externally without allowing internal restrictions to become
+  immune; hear affected women, protect agency/exit, apply same test to majority institutions.
 
-## Controlling repository sources
+## 9. Optional-tier deployment controls
 
-1. `upsc-ai-kit\knowledge\Philosophy\paper-2\socio-political\Gender-Discrimination.md` — canonical owner for the complete topic.
-2. `upsc-ai-kit\knowledge\Philosophy\paper-2\_PYQ-SocioPolitical-2018-2025.md` — exact wording, marks and ownership for twelve questions.
-3. `upsc-ai-kit\knowledge\Philosophy\paper-2\_PYQ-SocioPolitical-2026-Supplement.md` — exact 2026 Q2(b) wording and necessary/sufficient demand.
-4. `upsc-ai-kit\knowledge\Philosophy\_advanced\Socio-Political-Dossier.md` — structural-injustice and blame/responsibility extension; care and intersectionality confirmed as promoted Core.
-5. `upsc-ai-kit\knowledge\Philosophy\_advanced\Coverage-Matrix.md` and `Depth-Map.md` — Core/Advanced boundary checks.
+- Advanced material may refine the category dilemma, transformative equality, social organisation
+  of care, or the Pateman–Okin comparison; it supplies no missing Core demand.
+- Expert material is a precision bench, not a substitute for the Core mechanism.
+- Deploy one precise optional discriminator only after Core; explain what it changes, state its
+  limit, and return to the directive.
 
-## Cross-check materials
+## 10. Indian illustration discipline
 
-1. Prior complete learning session and solved workbook under `learning_package_final\...\09-Gender-Discrimination\` — completeness and practice audit only; not used as structural authority.
-2. `upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-09\g7\topic-09_Complete-Learning-Session_2026-09-03.md` — latest Gender Discrimination learner-v2 session, used as controlled evidence for learner sequencing, visual and example quality, doctrine/objection completeness, answer execution and register-note recall; it did not control the accepted 14-lesson structure.
-3. `upsc-ai-kit\knowledge\Learner-v2-Refreshed\Philosophy\Socio-Political\learning-sessions\topic-09\g7\topic-09_Solved-Practice-Workbook_2026-09-03.md` — latest learner-v2 workbook, used to reconcile misconception targets, applied examples, PYQ demand decoding, remediation and timed-answer compression; its solved official-PYQ answers were not imported.
-4. Deep-content review report and final audit for Topic 09 — defect and source-status cross-check.
-5. OCR-searchable `books\philosphy_books\Socio-Political Philosophy.pdf`, especially the concentrated gender chapter around PDF pages 188–205.
-6. OCR-searchable O. P. Gauba, `An Introduction to Political Theory`, for equality, feminist and representation context.
+| Illustration | State only | Always add |
+|---|---|---|
+| PCPNDT Act, 1994 | enacted regulation | law ≠ changed son preference |
+| Beti Bachao Beti Padhao, 2015 | administrative programme | programme ≠ proven outcome |
+| Hindu Succession Amendment, 2005 | enacted equal coparcenary reform | entitlement ≠ control |
+| *Vineeta Sharma*, 2020 | Supreme Court clarification | judgment ≠ social exercise |
+| 106th Amendment, 2023 / commencement 16 April 2026 | enacted and commenced | operation remains condition-linked; presence ≠ influence |
 
-## Learner-v2 reconciliation result
+## 11. PYQ answer routes
 
-- **Added:** Butler’s residual explanatory limit—reiteration explains norm reproduction more readily than why a particular norm becomes dominant.
-- **Added:** Sen’s “missing women” as a structural birth–nutrition–health–survival lens, with an explicit prohibition on unverified figures and with dignity kept prior to demographic utility.
-- **Added:** the controlled-bank-account example and the use of Kabeer’s chain as a diagnostic of where conversion fails.
-- **Added:** directive-specific 10/15/20-mark execution methods and evidence-selection discipline.
-- **Added after official verification:** `Ram Charan & Ors. v. Sukhram & Ors.` (2025 INSC 865) as a separate Scheduled Tribe inheritance/equality illustration, expressly distinguished from the Hindu Succession Act and `Vineeta Sharma`.
-- **Confirmed without duplication:** the Self/Other and performativity visuals, equality typology, foeticide causal chain, Agarwal ladder, care/justice comparison, feminist-school debate, intersectional and multicultural objections, PYQ demand routes, remediation themes and consolidated register-note coverage were already substantively present.
-- **Rejected as unverified:** learner-v2’s statement that S.O. 1922(E) brought the 106th Amendment into force on 16 April 2026; the current live edition retains only the enacted 2023 text and Article 334A sequencing condition.
+| Stem | Executable route |
+|---|---|
+| foeticide evaluation | define selection → preference structure → autonomy → technology limit → dignity verdict |
+| feminism: equality or empowerment | define both → formal-equality limit → Kabeer agency → structural limit → synthesis |
+| equality under socialism | Marxist gain → socialist/radical correction → care/body/voice → conditional yes |
+| man-made not natural | Beauvoir mechanism → Butler qualification → biology objection → interaction verdict |
+| empowerment eliminates? | Kabeer mechanism → Agarwal/collective agency → structural residue → necessary-not-sufficient |
+| property effective? | five levels → legal anchor → conversion failure → graded extent |
+| technology only? | causes → legitimate use → means/motive distinction → regulation plus social reform |
+| cultural gender/biological sex | standard distinction → construction loop → Butler cautions → qualified interaction |
+| rights have empowered? | recognition/bargaining → title-control gap → dated law → conditional yes |
+| discrimination to imbalance | valuation → pressure → selection → cumulative absence → dignity before consequence |
+| equality and foeticide two-part | equality as floor + reciprocal agency → empowerment pathways → limits |
+| construct affects opportunities/rights/resources | norm → institution → three effects → embodiment/choice/intersection caveat |
+| necessary/sufficient property | necessity test → title qualification → sufficiency failure → necessary-not-sufficient verdict |
 
-## Primary philosophical works used through verified doctrine
+## 12. Last-page traps and recall
 
-- Mary Wollstonecraft, `A Vindication of the Rights of Woman`.
-- J. S. Mill, `The Subjection of Women`, with Harriet Taylor Mill’s contribution to the liberal feminist argument.
-- Simone de Beauvoir, `The Second Sex`.
-- Judith Butler, `Gender Trouble`.
-- Carol Gilligan, `In a Different Voice` (1982).
-- Kimberlé Crenshaw on intersectionality.
-- bell hooks on margin-to-centre feminist criticism.
-- Iris Marion Young, `Responsibility for Justice`.
-- Carole Pateman, `The Sexual Contract` (1988).
-- Susan Moller Okin, `Justice, Gender, and the Family` (1989).
-- Bina Agarwal, `A Field of One’s Own` (1994).
-- Naila Kabeer on resources, agency and achievements.
-- Amartya Sen and Martha Nussbaum on capabilities and adaptive preference.
+1. Difference is not discrimination without unjust hierarchy.
+2. Sex/gender is a distinction with interaction, not an absolute binary.
+3. Construction is real and durable.
+4. Performativity is compelled reiteration.
+5. “Women” is politically useful but internally diverse and revisable.
+6. Patriarchy is structural, not only attitudinal.
+7. Structural responsibility does not erase blame.
+8. Same treatment can preserve a male norm.
+9. Accommodation can essentialise.
+10. Female foeticide is not every abortion.
+11. Technology enables; patriarchal valuation motivates.
+12. Dignity precedes demographic utility.
+13. Title is not access, control, return or exit.
+14. Law is an anchor, not proof of outcome.
+15. Resources and achievements do not by themselves prove agency.
+16. Empowerment concerns strategic choice and alternatives.
+17. Empowerment cannot privately eliminate institutional hierarchy.
+18. Care is political but not naturally female.
+19. Marxist and socialist feminism are not synonyms.
+20. Intersectionality changes mechanism; it is not a list.
+21. Representation is more than presence.
+22. Culture cannot immunise internal domination.
+23. Use caste only through a bounded gender mechanism.
+24. Answer every modal word: can, how far, necessary, sufficient, both.
 
-## Official legal and institutional sources
+## 13. Final answer spine
 
-- **India Code:** Pre-conception and Pre-natal Diagnostic Techniques (Prohibition of Sex Selection) Act, 1994. Direct page/PDF retrieval returned HTTP 403 during this audit; the official India Code record and statute identity were independently located through official-domain search.
-- **India Code:** Hindu Succession Act, 1956, Section 6 as amended in 2005. Direct landing-page retrieval returned HTTP 403; the official-domain record and amended provision were located through official search.
-- **Supreme Court of India:** `Vineeta Sharma v. Rakesh Sharma`, judgment dated 11 August 2020, official PDF route and neutral citation record located on the Court domain.
-- **Supreme Court of India:** `Ram Charan & Ors. v. Sukhram & Ors.`, 2025 INSC 865, judgment dated 17 July 2025. The official judgment holds the daughter’s legal heirs entitled to an equal ancestral share where no exclusionary tribal custom was proved, while expressly operating outside the Hindu Succession Act line.
-- **Legislative Department:** Constitution (One Hundred and Sixth Amendment) Act, 2023. The official page/PDF returned HTTP 403 through direct retrieval; the enacted text and Article 334A condition were located through the official Legislative Department index.
-- **Ministry of Women and Child Development / SPNIWCD:** official BBBP brief and operational manual. The brief identifies BBBP as a behavioural and social-change programme and states that it has no DBT provision.
+```text
+DEFINE THE OWNED CONCEPT
+        |
+DISTINGUISH THE NEAREST CONFUSABLE TERM
+        |
+STATE A DIRECT, GRADED THESIS
+        |
+BUILD NORM -> INSTITUTION -> ALLOCATION -> OUTCOME
+        |
+ADD ONE NAMED ANCHOR WITH WHAT IT PROVES
+        |
+ADD ITS LIMIT / CONVERSION CAVEAT
+        |
+PRESENT THE STRONGEST OBJECTION
+        |
+REPLY WITHOUT ERASING THE RESIDUAL
+        |
+RETURN TO THE DIRECTIVE:
+extent / evaluation / necessity / sufficiency / elimination
+```
 
-## Current-status limitation
-
-Secondary web sources reported Gazette notification S.O. 1922(E) dated 16 April 2026 as a commencement notification for the 106th Amendment. Searches of the official Gazette and Legislative Department did not yield an independently accessible authoritative record in this audit. Accordingly:
-
-- the date is **not** presented in the lessons as verified fact;
-- the enacted 2023 amendment is distinguished from its Article 334A implementation sequence;
-- no claim of completed seat-level reservation is made.
-
-## Evidence discipline
-
-- Thinker formulations are paraphrases; no invented quotation is used.
-- Statutes, constitutional text, judicial holdings, programmes and philosophical inferences are separately labelled.
-- No mutable statistic is used.
-- PYQ wording is reproduced only from the repository’s verified ledgers.
-- Qdrant was not required and did not delay the session.
+**Final qualified conclusion:** Gender discrimination converts socially interpreted difference into
+ranked power across reproduction, property, care and public voice. Equal law is indispensable, but
+gender justice is achieved only when rights become control, resources become strategic agency,
+embodiment is respected without becoming destiny, and private as well as public institutions cease
+to reproduce subordination.
