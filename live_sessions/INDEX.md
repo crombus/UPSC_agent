@@ -305,6 +305,7 @@
 | Geography | Topic 27 - Migration Theories and Patterns (India) | 16 | 11,795 | `6f4d21380d77` | [Geography/27-Migration-Theories-and-Patterns-India/Learning-Session-Live-Edition.md](Geography/27-Migration-Theories-and-Patterns-India/Learning-Session-Live-Edition.md) |
 | Geography | Topic 28 - Human Settlements and Urbanisation | 15 | 14,442 | `47a0cb840eda` | [Geography/28-Human-Settlements-and-Urbanisation/Learning-Session-Live-Edition.md](Geography/28-Human-Settlements-and-Urbanisation/Learning-Session-Live-Edition.md) |
 | Geography | Topic 29 - Regional Development and Five-Year Plans | 14 | 8,211 | `ab2b744d735a` | [Geography/29-Regional-Development-and-Five-Year-Plans/Learning-Session-Live-Edition.md](Geography/29-Regional-Development-and-Five-Year-Plans/Learning-Session-Live-Edition.md) |
+| Geography | Topic 30 - Primary Economic Activities: Agriculture | 15 | 15,884 | `4e0ad052ae03` | [Geography/30-Primary-Economic-Activities-Agriculture/Learning-Session-Live-Edition.md](Geography/30-Primary-Economic-Activities-Agriculture/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
