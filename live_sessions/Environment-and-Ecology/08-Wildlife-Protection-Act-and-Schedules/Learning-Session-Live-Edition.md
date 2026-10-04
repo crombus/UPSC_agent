@@ -75,7 +75,7 @@ Attempt each complete question before reading the related lesson. No response ch
 Progress: 1 / 7 | Stage: Foundation | Subtopic: Enactment, purposes and amendment timeline
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: The 1972 framework, 2022 amendment, commencement and present schedule architecture are separated by date.
+Book context: Queried — Topic 08 Basic/Core, the current consolidated Act, Polity owners and Laxmikanth/Courseware constitutional pages.
 CA search: "April 2026 September 2026 India Wildlife Protection Act 1972 anniversary amendment implementation site:pib.gov.in"
 CA found: No dated new amendment for this interval; the 9 July 2026 Akashvani interstate wildlife-trafficking report demonstrates application of the Act, not a new enactment.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -99,17 +99,26 @@ on-ground decision: identify act + date + relevant schedule + exception + author
 
 Think of a law as a set of instructions, not a certificate saying “this species matters”. The **Wild Life (Protection) Act, 1972** controls hunting, selected plants, protected areas and trade in wildlife and derivatives. “Poaching” describes unlawful hunting or capture, not a separate kind of schedule. An officer faced with a tiger skin must identify the animal and the act complained of, determine what law applied at the time, and follow the competent enforcement procedure.
 
+### Constitutional provenance — why a parliamentary wildlife law exists
+
+| Constitutional stage | Exam-ready significance |
+|---|---|
+| **1972 — Article 252** | Parliament enacted the Wild Life (Protection) Act after two or more State Legislatures requested parliamentary legislation on the then-State-List field. The Article 252 route explains the Act's parliamentary origin; it does not identify a species' present schedule. |
+| **1976 — 42nd Amendment** | **Forests** and **protection of wild animals and birds** moved from the State List to the Concurrent List, now Entries **17A** and **17B**. Parliament supplies the national framework while state authorities remain central to implementation. |
+
+*Caption: Constitutional competence explains who could legislate; the operative Act and Gazette still decide what is protected and how.*
+
 1. **Time comes first.** The former six-schedule structure included several animal lists, a vermin list and a plant list. The **Wild Life (Protection) Amendment Act, 2022**, in force from **1 April 2023**, recast these as two animal schedules, one plant schedule and one schedule for CITES-related international trade. A question set under earlier law is not silently rewritten by the amendment.
 2. **Separate function from label.** Domestic hunting protection and habitat management are not the same as controlling international trade. Chapter VB adds the latter's dedicated permit and institutional architecture; it does not make CITES an Indian hunting permit.
-3. **Enforcement is distributed.** A uniform parliamentary statute sets the framework; state forest/wildlife officers do much of the field work. ⚠️ *Inference:* common law does not ensure identical detection or prosecution capacity in every state. The 9 July 2026 [Akashvani report](https://newsonair.gov.in/cbi-rescue-53-protected-animals-and-birds/) of a CBI–DRI investigation across Maharashtra and West Bengal is an example of coordination; arrests are not convictions or a measure of national deterrence.
+3. **Enforcement is distributed.** Article 252 explains the original parliamentary enactment and the 42nd Amendment explains present concurrent competence; neither removes the state Chief Wild Life Warden and field departments from implementation. ⚠️ *Inference:* common law does not ensure identical detection or prosecution capacity in every state. The 9 July 2026 [Akashvani report](https://newsonair.gov.in/cbi-rescue-53-protected-animals-and-birds/) of a CBI–DRI investigation across Maharashtra and West Bengal is an example of coordination; arrests are not convictions or a measure of national deterrence.
 
 **Objection:** If the amendment is called “2022”, why not treat every 2022 examination item as post-amendment law? **Reply:** An enactment year, commencement and a question's own reference date are different. Check the operative text before classifying a specimen; a general constitutional reference cannot establish the applicable species list.
 
 **UPSC application:** GS-III demands a mechanism: statute → classification → authorised decision → implementation → outcome. For **2022 Prelims GS-I Q89**, first identify the applicable legal time point, then test each printed proposition independently. No choice is evaluated here.
 
-**Mini recap:** 1972 = principal framework; 2022 = amendment year; 1 April 2023 = operational transition; arrest ≠ successful conviction.
+**Mini recap:** Article 252 explains the 1972 parliamentary origin; the 42nd Amendment moved forests and wildlife protection to the Concurrent List; 2022 = amendment year; 1 April 2023 = operational transition; arrest ≠ successful conviction.
 
-**Revision notes:** Wild animals, birds and specified plants; hunting and trade are distinct controls; protected-area rules are additional; species classification is time-sensitive; amendment must commence before applied as operative law; trafficking involves multiple jurisdictions; a book's constitutional example cannot verify a current schedule; the 2022 amendment revised fines, but penalties depend on the offence and operative statutory version.
+**Revision notes:** Article 252 origin; 42nd Amendment and Concurrent List Entries 17A–17B; wild animals, birds and specified plants; hunting and trade are distinct controls; protected-area rules are additional; species classification is time-sensitive; amendment must commence before applied as operative law; trafficking involves multiple jurisdictions; constitutional competence cannot verify a current schedule; the 2022 amendment revised fines, but penalties depend on the offence and operative statutory version.
 
 ### Concept check
 
@@ -140,7 +149,7 @@ Think of a law as a set of instructions, not a certificate saying “this specie
 Progress: 2 / 7 | Stage: Core | Subtopic: Current animal, plant and trade schedules; cultivation licences and vermin
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Current schedule functions, historical schedule changes and plant-licensing distinctions are separated.
+Book context: Queried — Topic 08 Basic/Core, current Schedules I–IV and Sections 17A–17D and 62.
 CA search: "April 2026 September 2026 India wildlife Schedule I II III IV species notification site:moef.gov.in"
 CA found: No sufficiently authoritative schedule-changing notification dated within this interval; do not infer a fresh species listing.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -157,17 +166,17 @@ Old V (vermin) omitted; old VI (plants) → present III.
 
 | Present schedule | Listed material | Question to ask | Typical legal relevance |
 |---|---|---|---|
-| I | Specified animals, higher domestic protection | Which domestic animal protection and enhanced offence consequences apply? | Tiger and Indian elephant are established examples; confirm any other species against operative gazette. |
+| I | Specified animals, higher domestic protection | Which domestic animal protection and enhanced offence consequences apply? | Tiger (*Panthera tigris*) and **Asiatic Elephant (*Elephas maximus*)** are established examples; confirm any other species against the operative Gazette. |
 | II | Other specified protected animals | What domestic hunting controls apply, and is a valid area-and-period notification relevant? | Protected does **not** mean freely huntable. |
-| III | Specified plants | Does collection, possession or dealing involve a notified protected plant? | Not a third animal tier. |
-| IV | Scheduled specimens corresponding to CITES Appendices | Is international trade, possession or a scheduled-specimen duty engaged? | Not a rank above I or II. |
+| III | Specified plants | Does collection, possession or dealing involve a notified protected plant? | Blue Vanda (*Vanda coerulea*) and Pitcher Plant (*Nepenthes khasiana*) are current examples; this is not a third animal tier. |
+| IV | Scheduled specimens corresponding to CITES Appendices | Is international trade or another scheduled-specimen duty engaged? | Tiger also appears in Appendix I of IV; overlap triggers the Section 49R rule, not a rank above I or II. |
 
 *Caption: I–II grade domestic animal protection, III identifies protected plants, IV underpins a separate international-trade regime.*
 
 Imagine two cards for one animal: a domestic-protection card and a cross-border-trade card. They answer different questions. A specimen may trigger obligations under both; finding it in the trade architecture cannot tell you that domestic hunting is permitted.
 
 1. **Reconstruct the change, not just the number.** Earlier law had six schedules: four animal schedules, a vermin schedule (old V) and a specified-plant schedule (old VI). The amended law has **I–II animals, III plants and IV CITES scheduled specimens**. Under Section 9 the default hunting prohibition concerns animals listed in I and II; specified plants have their own control. A trade schedule is not a third animal-protection tier.
-2. **Treat the species name as evidence-sensitive.** Tiger and Indian elephant illustrate Schedule I, but a named species' precise position must be checked in the applicable gazette; do not manufacture a universal or timeless map. A description of the proposed amendment cannot establish every operative entry or later notification.
+2. **Treat the species name as evidence-sensitive.** Tiger and the Gazette-listed **Asiatic Elephant — *Elephas maximus*** illustrate Schedule I, while Blue Vanda and Pitcher Plant illustrate Schedule III. Tiger also illustrates overlap with Appendix I of Schedule IV. A named species' precise position must still be checked in the applicable Gazette; do not manufacture a universal or timeless map.
 3. **Plants: protection is not a universal cultivation ban.** Under the then-operative statute, a *specified plant* appeared in **Schedule VI**. **Section 17C** required a licence from the Chief Wild Life Warden or a state-authorised officer to cultivate it, subject to the licence's specified area and conditions. **Section 17A** separately restricts picking/uprooting subject to Section 17B's special-purpose permits; **Section 17D** requires a licence for commercial dealing. The post-amendment plant list is **Schedule III**; the functional distinction between picking, cultivating and trading remains. Picture someone growing a protected orchid in a nursery: a mere claim of domestic cultivation does not replace the Section 17C licence, but the statute also does not make all cultivation categorically impossible. The limited transitional proviso for an existing cultivator under the **1991** amendment is not a general present-day exemption.
 4. **Vermin without a permanent vermin schedule.** The standing old Schedule V was omitted; the Central Government's **Section 62** mechanism survives. A notification may deem an animal in **current Schedule II** outside that schedule for a specified **area and period**. This is not a blanket national claim that the species “is vermin”, and it does not extend to Schedule I. The *2024* flying-fox item was asked after the 2022 changes became operative: do not describe the item's legal question as if the old Schedule V were necessarily the governing text merely because the Act's title ends in 1972.
 5. **The flying fox has a second, independent dimension: diet.** The reproduced amended Act's **Schedule II** names **Indian Flying Fox / *Pteropus giganteus***; a later Section 62 area-and-period notice would need separate verification before making a local vermin claim. The [Animal Diversity Web species account](https://animaldiversity.org/accounts/Pteropus_giganteus/) documents fruit including guava, mango and fig, as well as blossoms and nectar, as its food. This is a fruit bat, not a vampire bat. Ecological feeding habits cannot themselves decide legal classification: examine the law and the biological claim separately *after* attempting both printed statements.
@@ -209,7 +218,7 @@ Imagine two cards for one animal: a domestic-protection card and a cross-border-
 Progress: 3 / 7 | Stage: Core | Subtopic: Hunting, conditional government property, permits and safeguards
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Sections 9, 11, 12 and 39 are separated into default protection, narrow exceptions, permits and conditional government property.
+Book context: Queried — current Sections 2(16), 9, 11, 12, 39–49B and 51–55, with the 2022 PYQ kept answer-neutral.
 CA search: "April 2026 September 2026 India wild animals hunting section 11 human wildlife conflict permits site:pib.gov.in"
 CA found: No sufficiently evidenced dated Section 11 permit decision in this interval; 9 July 2026 Akashvani describes trafficking, not a lawful hunting permit.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -217,37 +226,89 @@ CA found: No sufficiently evidenced dated Section 11 permit decision in this int
 ### Visual — a decision tree, not an open season
 
 ```text
-Proposed hunting of listed animal
-               │
-               ├─ Section 9: prohibited (Schedules I and II)
-               │                 │
-               │                 ├─ Section 11: exceptional danger / grave incapacity
-               │                 │    → designated authority + conditions
-               │                 └─ Section 12: specific-purpose permit
-               │                      → scientific / education / management purpose
-               │
-               └─ No valid statutory route → unlawful hunting;
-                    Section 51 penalties and possible seizure/prosecution
+Act within the wide Section 2(16) meaning of “hunting”
+        │
+        ├─ Good-faith defence of self/another? → Section 11(2)
+        │      ├─ no offence, unless the defender created the necessity
+        │      │  while contravening the Act/rule/order
+        │      └─ killed/wounded animal → Government property [s.11(3)]
+        │
+        └─ Otherwise Section 9 prohibits hunting of Schedules I–II
+                       │
+                       ├─ Section 11(1): individual danger/incapacity case
+                       │      → written reasons + authority + mandatory safeguards
+                       └─ Section 12: listed special-purpose permit
+                              → written reasons + prior Central/State permission
+
+No valid route → offence analysis under Section 51
+                 + possible search/seizure/prosecution
 ```
 
-*Caption: Exception means an authorised, case-specific route; inconvenience or crop loss alone is not an unrestricted licence to kill.*
+*Caption: “Hunting” is wider than killing, and each exception has its own facts, authority and safeguards.*
 
-Picture a village near elephant habitat: a dangerous encounter calls for prompt public safety measures, but a neighbour cannot independently declare all elephants huntable. **Hunting** includes capturing as well as killing within the Act's defined scope; an animal that causes fear is not automatically a notified vermin species.
+Picture a village near elephant habitat: a dangerous encounter calls for prompt public safety measures, but a neighbour cannot independently declare all elephants huntable. **Section 2(16)** treats hunting broadly: it includes killing or poisoning and attempts; capturing, coursing, snaring, trapping, driving or baiting and attempts; injuring, destroying or taking a body part; and, for wild birds or reptiles, damaging eggs or disturbing eggs or nests. An animal that causes fear is not automatically a notified vermin species.
 
-1. **Start at Section 9.** Hunting a wild animal listed in Schedule I or II is prohibited except under the specified statutory routes. For Schedule I, **Section 11** empowers the Chief Wild Life Warden to permit hunting by written order on the relevant statutory grounds, including a danger to human life or disability/disease beyond recovery, subject to statutory conditions. For Schedule II, Section 11 provides for the Chief Warden or authorised officer and has its own grounds; never mechanically transfer the Schedule II property-related basis to a Schedule I animal. The officer must consider lawful alternatives and procedural conditions, not simply issue a blanket permission.
-2. **Distinguish a purpose permit.** **Section 12** addresses narrowly specified purposes such as scientific management, education and scientific research, with required permissions and safeguards. Research interest alone cannot replace the permit. Nor does a captive-breeding justification make an unlicensed capture lawful.
-3. **Protected inside and outside a protected area.** The Section 9 species-based hunting prohibition does not end at a sanctuary gate: a protected animal encountered in agricultural land is still subject to its listed status. Sanctuaries and parks also have *additional place-based rules*, so identical species protection does not mean every rule governing land use, entry or habitat is identical across locations. An elephant outside a notified park illustrates the difference; location cannot turn a Schedule I animal into an unprotected one.
-4. **Government property is a conditional statutory category.** **Section 39** concerns specified events and things: for example, a non-vermin wild animal lawfully hunted under Section 11, one kept or hunted contrary to the Act, or one found dead, together with specified articles and seized instruments. Such property generally vests in the **State Government**; the provision gives a **Central Government** exception for covered hunting in a centrally declared sanctuary or national park. Neither a living free-ranging animal simply seen in the wild nor every wild animal without qualification is made the government's *sole property* by that section. For government property actually possessed, reporting and written-permission controls apply. Avoid the opposite overstatement that the government never owns an animal or wildlife article under the Act.
-5. **Apprehended danger is not established danger.** Section 11 requires the competent authority to be **satisfied** of the applicable danger or disability/disease ground and follow the statutory process. An anxious prediction that a protected animal *might* become dangerous is not itself the completed threshold or an immediate licence to kill or capture it. Humans need prompt safety measures; a lawful hunting order requires a separately justified decision.
-6. **Plants, commerce and penalties have different paths.** A specified-plant cultivation licence under **Section 17C** is distinct from a Section 11 hunting order; an elephant ivory transaction calls for trade/possession analysis as well. **Section 51** supplies imprisonment and fines with more stringent consequences for specified serious offences including those involving Schedule I animals or protected areas; the 2022 reform raised statutory fines. ⚠️ Harsher text cannot itself show higher convictions; distinguish seizure, trial and conviction.
+1. **Start at Section 9.** Hunting a wild animal listed in Schedule I or II is prohibited except under Sections 11 and 12. For a **Schedule I** animal, Section 11(1)(a) requires the Chief Wild Life Warden to be satisfied that the individual animal has become dangerous to human life or is disabled or diseased beyond recovery, and to issue a reasoned written order. It cannot be ordered killed unless capture, tranquilisation or translocation is not possible; a captured animal cannot be retained in captivity unless rehabilitation in the wild is not possible, with reasons recorded. Capture or translocation must minimise trauma.
+2. **Do not transfer the property ground to Schedule I.** For a **Schedule II** animal, Section 11(1)(b) permits the Chief Warden or authorised officer to act where the animal has become dangerous to human life **or property, including standing crops**, or is disabled/diseased beyond recovery, again through a reasoned written order. Crop damage is real, but it is not a Schedule I ground.
+3. **Good-faith defence is a separate rule.** Section 11(2) says killing or wounding a wild animal in good-faith defence of oneself or another is not an offence. It does not exonerate a person whose own contravention of the Act, a rule or an order created the necessity. Under Section 11(3), the animal killed or wounded in such defence is Government property.
+4. **Distinguish a Section 12 purpose permit.** The Chief Warden may grant a reasoned written permit for **education; scientific research; scientific management**—defined to include translocation or population management without killing, poisoning or destroying wild animals; **collection of specimens** for recognised zoos with Section 38-I permission or for museums/similar institutions; and **derivation, collection or preparation of snake venom for life-saving drugs**. A Schedule I permit needs previous Central Government permission; a permit for another wild animal needs previous State Government permission.
+5. **Protected inside and outside a protected area.** The Section 9 species-based hunting prohibition does not end at a sanctuary gate: a protected animal encountered in agricultural land is still subject to its listed status. Sanctuaries and parks add place-based controls; location cannot turn a Schedule I animal into an unprotected one.
+6. **Government property is a conditional statutory category.** **Section 39** concerns specified events and things: for example, a non-vermin wild animal lawfully hunted under an enumerated provision, kept or hunted contrary to the Act, found dead or killed by mistake, together with covered derivatives and seized offence instruments. Such property generally vests in the **State Government**, with a **Central Government** qualification for covered hunting in a centrally declared sanctuary or national park. A living free-ranging animal merely seen in the wild is not thereby the government's sole property.
+7. **Apprehended danger is not established danger.** Section 11 requires the competent authority to be **satisfied** of the applicable statutory ground and to follow the written process. A prediction that an animal *might* become dangerous is not itself a completed finding or licence to kill or capture it.
 
-**Objection:** Does every conflict justify doing nothing until a distant authority arrives? **Reply:** No. Emergency public safety and lawful non-lethal response matter, but permission to *hunt* depends on the specific statutory route. The ethical difficulty is real: protect people without recasting protected wildlife as a permanently disposable category.
+### Possession and trade vocabulary — do not collapse the objects
+
+| Act term | Current statutory meaning or role |
+|---|---|
+| **Captive animal** | A Schedule I or II animal captured, kept or bred in captivity. |
+| **Animal article** | An article made from a captive or wild animal other than vermin, including an object using its whole or any part and imported ivory or an article made from it. |
+| **Trophy** | The whole or part of a captive/wild animal, other than vermin, kept or preserved, including mounted specimens, skins, antler, horn, hair, feather, tooth, tusk, eggs or nests. |
+| **Uncured trophy** | The whole or part not subjected to taxidermy, including a freshly killed wild animal, ambergris, musk and other animal products. |
+| **Meat** | Blood, bones, sinew, eggs, shell/carapace, fat and flesh, raw or cooked, of a wild or captive animal other than vermin. |
+| **Scheduled animal / scheduled animal article (Chapter VA)** | A **Schedule I** animal, and an article made from or using such an animal, subject to the Chapter VA definition and exclusions. |
+
+```text
+Section 40 declaration where applicable
+        ↓
+Section 41 inquiry / inventory / identification mark
+        ↓
+Section 42 certificate only for lawful possession
+        ↓
+Section 43 transfer controls
+        ├─ no sale or other commercial-consideration transfer
+        └─ inter-State transfer/transport reporting; captive-elephant proviso
+        ↓
+Section 44 business/taxidermy licence, subject to Chapter VA
+        ↓
+Sections 48–49 lawful acquisition, transport and authorised source
+        ↓
+Sections 49A–49B: Schedule I “scheduled animal” business prohibitions
+```
+
+*Caption: Ownership certification, a business licence and permission for a particular transaction answer different legal questions.*
+
+8. **Plants, possession and hunting remain separate paths.** A Section 17C plant-cultivation licence, a Section 42 certificate, a Section 44 business licence and a Section 11 hunting order are not substitutes. Sections 48–49 also require lawful acquisition and an authorised source; Chapter VA separately prohibits specified commercial dealings in Schedule I animals/articles after the statutory date, subject to its limited provisions.
+
+### Central Section 51 penalty map
+
+| Offence category in the current central text | Imprisonment and fine |
+|---|---|
+| Residual contravention of the Act/rule/order or breach of licence/permit, excluding the separately treated fields | Up to **3 years**, or fine up to **₹1 lakh**, or both |
+| Offence concerning a **Schedule I animal** or its meat/article/trophy/**uncured trophy**; hunting in a sanctuary or national park; altering such boundaries; or a species specimen in **Appendix I of Schedule IV** | **3–7 years** and fine of at least **₹25,000** |
+| Second/subsequent offence in that serious category | **3–7 years** and fine of at least **₹1 lakh** |
+| Contravention of **Chapter VA** | **3–7 years** and fine of at least **₹25,000** |
+| Contravention of **Section 38J** under Section 51(1B) | Up to **6 months**, or fine up to **₹2,000**, or both; for a second/subsequent offence, up to **1 year** or fine up to **₹5,000** |
+| Compounding under Section 54(4) | Composition amount cannot exceed **₹5 lakh**, but an offence carrying a statutory minimum imprisonment under Section 51 **cannot be compounded** |
+
+⚠️ A statutory maximum, minimum or composition ceiling is not a conviction statistic. First identify the charged provision and the law applicable on the offence date.
+
+**Objection:** Does every conflict justify doing nothing until a distant authority arrives? **Reply:** No. Immediate safety and qualified good-faith defence under Section 11(2) remain available on their facts; planned hunting under Sections 11(1) or 12 still needs its statutory authority and conditions. Protect people without recasting protected wildlife as a permanently disposable category.
 
 **UPSC application:** **2022 Prelims GS-I Q89** raises *three* different questions: the scope of government property, protection of listed wildlife inside/outside a notified area, and whether apprehended danger suffices for capture or killing. Having attempted the printed question **before** this lesson, keep Sections 9, 11 and 39 separate and test the three propositions without treating a single legal word as an answer key. The 2022 exam predates the amended schedules' commencement, but these distinctions were already relevant; current schedules must be identified anew for a present-day case.
 
-**Mini recap:** Prohibition first, including outside protected areas; a feared future danger is not a completed Section 11 finding; Section 39 government property is conditional; plant licensing and trade do not collapse into hunting rules.
+**Mini recap:** Hunting is wider than killing; prohibition comes first inside and outside protected areas; Section 11 has schedule-specific grounds, non-lethal safeguards and a separate good-faith-defence rule; Section 12 has listed purposes and prior-government permissions; ownership, licensing and trade controls do not legalise hunting.
 
-**Revision notes:** Section 9 applies inside and outside protected areas; parks add territorial controls; Section 11 requires competent satisfaction, not mere apprehension; Section 12 purpose-specific permits; Schedule I danger to *human life* is not an unrestricted property exception; Section 39 government ownership attaches to listed statutory circumstances, with State/Central qualification; Section 17C plant cultivation licence; Section 51 penalty differentiation; seizure is not conviction.
+**Revision notes:** Section 2(16) includes killing/poisoning, capture methods, injury/body parts and bird/reptile eggs or nests; Section 9 applies inside and outside protected areas; Schedule I Section 11 action requires human-life/incapacity grounds plus capture/tranquilisation/translocation and rehabilitation findings; Schedule II additionally includes property/standing crops; good-faith defence under Section 11(2) is qualified and Section 11(3) makes the animal Government property; Section 12's complete special-purpose route and prior Central/State permissions; Section 39 ownership is conditional; captive animal ≠ animal article ≠ trophy ≠ uncured trophy ≠ meat; Sections 40–49B separate declaration, certificate, transfer, licence and prohibited business; exact Section 51 bands; minimum-imprisonment offences cannot be compounded.
 
 ### Concept check
 
@@ -255,7 +316,7 @@ Picture a village near elephant habitat: a dangerous encounter calls for prompt 
 
 <details><summary>Worked answer — open after your attempt</summary>
 
-**Model answer:** Verify the operative species classification; do not transfer the Schedule II property-related Section 11 route to Schedule I; an officer cannot create an unrestricted vermin category, and a Section 62 declaration is a Central Government notification limited to Schedule II, area and period. Explore lawful, immediate safety measures separately.
+**Model answer:** Verify the operative classification; do not transfer Schedule II's property ground to Schedule I; require the Section 11 written finding and the capture/tranquilisation/translocation and rehabilitation safeguards before killing or captivity. An officer cannot create an unrestricted vermin category: Section 62 is a Central notification limited to Schedule II, area and period. Immediate safety measures remain separate.
 
 **Misconception to avoid:** Suffering a real loss does not make every statutory hunting exception automatically available.
 
@@ -265,11 +326,13 @@ Picture a village near elephant habitat: a dangerous encounter calls for prompt 
 
 <details><summary>Scored model and marking notes</summary>
 
-**Model (about 186 words):** Section 9 makes non-hunting of Schedule I and II animals the starting rule, preventing a conflict incident from becoming a general open season. Section 11 then permits a bounded response under the Chief Wild Life Warden or competent authorised officer on the applicable statutory grounds. For a Schedule I animal, danger to human life and disability or disease beyond recovery are relevant, but mere damage to property must not be imported from a different schedule's route. Section 12 separately permits particular scientific, educational or management purposes under its safeguards. Section 62's Central Government notification for a Schedule II animal, specified place and specified period is not a permanent vermin list.
+**Model (about 230 words):** Section 9 makes non-hunting of Schedule I and II animals the starting rule, and Section 2(16) makes “hunting” wider than killing by including capture, trapping, poisoning, injury and specified interference with eggs or nests. Section 11 then permits a bounded response on schedule-specific grounds. For a Schedule I animal, danger to human life or disability/disease beyond recovery matters, but property damage must not be imported from Schedule II. Killing is unavailable unless capture, tranquilisation or translocation is not possible; captivity also requires a recorded finding that wild rehabilitation is not possible.
 
-For an Indian village near elephant habitat, a lawful response must take immediate human safety seriously while identifying the animal, authority, alternatives and written conditions. Stronger Section 51 fines can deter offences, but their text does not prove fewer attacks, better compensation or higher convictions. The Act works best alongside early warning, rapid response, habitat connectivity and transparent review of each exceptional order. This balances protection and life rather than treating either as absolute.
+Section 11(2) separately protects good-faith defence of oneself or another, unless the defender's own contravention created the necessity; the animal becomes Government property. Section 12 covers education, research, scientific management, specified institutional specimens and snake venom for life-saving drugs, with prior Central permission for Schedule I and prior State permission for other animals. Section 62 remains a place-and-time-specific Central notification route for a Schedule II animal, not a permanent vermin list.
 
-**Scoring (15):** Precise default and separate exceptions 5; authority/schedule distinction 3; India conflict example and safeguards 3; fair trade-off and outcome qualification 4.
+For an Indian village near elephant habitat, immediate safety, early warning and lawful non-lethal response should accompany identification, written reasons and review. Stronger Section 51 penalties may deter offences, but their text does not prove fewer attacks or more convictions. The Act balances protection and life through precise exceptions rather than treating either as absolute.
+
+**Scoring (15):** Definition/default and separate exceptions 4; authority, schedule and safeguards 4; self-defence and Section 12 completeness 3; India application and qualified verdict 4.
 
 </details>
 
@@ -280,7 +343,7 @@ For an Indian village near elephant habitat, a lawful response must take immedia
 Progress: 4 / 7 | Stage: Core | Subtopic: Chief Warden and other authorities; invasive control, management plans and surrender
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Statutory authorities, invasive control, management plans, surrender and offence procedure are distinguished by decision-maker.
+Book context: Queried — current authority provisions, Sections 33, 38(2A), 42A, 50, 54, 55 and 62A; generic protected-area detail is outside this lesson's bounded amendment focus.
 CA search: "April 2026 September 2026 India Chief Wildlife Warden National Board for Wildlife WCCB wildlife crime site:pib.gov.in"
 CA found: Akashvani, **9 July 2026**, reports a CBI–DRI joint operation in Maharashtra and West Bengal rescuing protected animals and birds; its published account does not say WCCB led this operation.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -314,18 +377,15 @@ The quickest way to fail a governance question is to name a famous body instead 
 |---|---|---|
 | A non-native species may threaten native wildlife or habitat | **Section 62A:** Central Government notification regulating/prohibiting import, trade, possession or proliferation; it may authorise seizure/disposal. | Foreign origin is not itself an operative prohibition; check actual notification and scope. |
 | A sanctuary needs consistent management | Amended **Section 33** requires the Chief Wild Life Warden to control, manage and protect sanctuaries in accordance with approved sanctuary management plans and Central guidelines; the specified Scheduled Area/FRA situation requires preparation after due consultation with the concerned Gram Sabha. | This amended Section 33 management-plan sentence is sanctuary-specific. |
-| A national park needs management and activity control | National parks remain governed through **Section 35**, including its declaration/rights-settlement structure and Section 35(6) permit control over destruction, exploitation, removal, habitat alteration and water-flow change for better wildlife management. | Do not present the amended Section 33 sanctuary-plan clause as the statutory national-park rule. |
 | Certificate-holder no longer wishes to hold a captive animal/article | **Section 42A:** give **seven working days' notice** to the Chief Wild Life Warden before voluntary surrender; certificate cancelled, **no compensation**, items vest in State Government. | Certificate-of-ownership route; not blanket amnesty for undocumented holdings. |
 
 *Caption: An enabling power, a protected-area plan and a certificate-holder's surrender are three separate legal transactions.*
 
 Consider a non-native ornamental species escaping cultivation near a sanctuary. The definition focuses on a non-native animal or plant whose introduction or spread may threaten or harm wildlife/habitat, not every foreign plant. **Section 62A** empowers the **Central Government**, *by notification*, to regulate or prohibit import, trade, possession or proliferation of an invasive alien species posing a threat in India. It may authorise an officer to seize and dispose of species referred to in the notification; the mere creation of that power is not proof that this ornamental species has actually been notified. That is a conservation and law-enforcement question distinct from a plant's Schedule III status or its Section 17C cultivation licence.
 
-Now turn to *place* rather than *species*. The 2022 amendment changed **Section 33**, whose opening rule concerns **sanctuaries**: the Chief Wild Life Warden must control, manage and protect each sanctuary in accordance with the sanctuary management plan approved by him under Central guidelines. If that sanctuary also falls in a Scheduled Area or an area where the Forest Rights Act applies, the sanctuary plan is to be prepared after due consultation with the concerned **Gram Sabha**.
+Now turn to *place* rather than *species*. The 2022 amendment changed **Section 33**, whose opening rule concerns **sanctuaries**: the Chief Wild Life Warden must manage each sanctuary under an approved plan and Central guidelines; where the specified Scheduled Area/FRA condition applies, the plan is prepared after due consultation with the concerned **Gram Sabha**. Do not extend that amended sentence to national parks: **Section 35** remains their statutory control, and the full protected-area comparison is outside this lesson's bounded amendment focus.
 
-National parks must be explained separately. **Section 35**, not the amended Section 33 opening sentence, governs their declaration and statutory controls. Section 35(6), for example, restricts destruction, exploitation or removal of wildlife/forest produce, habitat alteration and diversion or change of water flow unless the Chief Wild Life Warden grants a permit after the State Government, in consultation with the National Board, is satisfied that the action is necessary for improvement and better management of wildlife. National parks may have administrative management plans, but the amended Section 33 sanctuary-plan and special-area consultation wording must not be extended to them as if it were their statutory clause.
-
-Finally, **Section 42A** permits a person holding a **certificate of ownership** for the covered captive animal, article, trophy, meat or ivory to surrender it after **seven working days' notice** to the Chief Warden; the certificate is cancelled, no compensation is due, and the surrendered property vests in the State Government. It is not an unrestricted anonymous amnesty or a reward for illegal acquisition.
+Finally, **Section 42A** permits a person already holding a **certificate of ownership** for the covered captive animal, animal article, trophy, uncured trophy, meat, imported ivory or article made from such ivory to surrender it after **seven working days' notice** to the Chief Warden. The certificate is cancelled, no compensation is due, and the property vests in the State Government. It is not an amnesty for an undocumented holding.
 
 ### Offence procedure and the conservation-reserve amendment
 
@@ -334,13 +394,13 @@ The Wild Life (Protection) Amendment Act, 2022 came into force on **1 April 2023
 | Provision | Operative change | What it does not prove |
 |---|---|---|
 | **Section 50** | Search, seizure and related enforcement competence was extended to the Management Authority or its authorised officer; specified customs and Coast Guard officers were also added, and scheduled specimens were brought into the relevant clauses. | Possession of power does not establish lawful search, species identity or guilt in a particular case. |
-| **Section 54(4)** | The statutory ceiling connected with compounding was raised to **₹5 lakh**. | Compounding is not a universal fine for every offence and should not be confused with a court conviction. |
+| **Section 54(4)** | The statutory ceiling connected with compounding was raised to **₹5 lakh**; an offence for which Section 51 prescribes minimum imprisonment cannot be compounded. | Compounding is not a universal fine and is not a court conviction. |
 | **Section 55** | The Management Authority, or an officer including an authorised WCCB officer empowered by the Central Government, was added to the persons who may institute a complaint for court cognizance. | WCCB is not thereby made the investigating lead in every wildlife case. |
 | **Section 38(2A)** | For an area referred to in Section 38(1), the Central Government may, on being satisfied that Section 36A(1) conditions are fulfilled, declare a **conservation reserve** by notification; Sections 36A and 36B then apply as they do to a State-declared reserve. | It is a separate Central declaration route, not an automatic reserve label or an invasive-species power. |
 
-### Section 38(2A): the complete declaration chain
+### Section 38(2A): the bounded amendment connection
 
-Section 36A(1) supplies the ordinary State route: after consultation with local communities, a State may notify qualifying government-owned land—particularly land adjacent to sanctuaries or national parks or linking protected areas—as a conservation reserve. Section 38(2A) adds a carefully bounded Central route:
+The general conservation-reserve architecture is taught separately. For this amendment topic, retain only the new Central route:
 
 ```text
 area referred to in Section 38(1)
@@ -354,7 +414,7 @@ notification declaring a conservation reserve
 Sections 36A and 36B apply as for a State-declared reserve
 ```
 
-The legal effects follow only after the notification. Section 38(2A) does not allow a generic announcement to convert every centrally administered parcel into a conservation reserve, and it must not be confused with **Section 62A**, which regulates notified invasive alien species rather than land.
+The legal effects follow only after notification. Section 38(2A) cannot convert every centrally administered parcel into a reserve and must not be confused with **Section 62A**, which concerns notified invasive species rather than land.
 
 The older citizen-complaint route under Section 55 and the prescribed notice procedure remains conceptually distinct from investigation, compounding and trial. An answer should identify who may search, who may compound, who may institute a complaint and which court process follows, rather than compressing all four into “enforcement”.
 
@@ -366,7 +426,7 @@ Trace an interstate case. A forest officer detects a specimen; investigators ide
 
 **Mini recap:** Board ≠ Chief Warden ≠ crime bureau ≠ tiger authority; Section 62A requires a species-focused notification; amended Section 33's plan rule is for sanctuaries, while national parks remain under Section 35; Section 38(2A) is a notified land-declaration route; Section 42A is certificate-based and uncompensated.
 
-**Revision notes:** MoEFCC policy/notification; Chief Warden state appointment and specified permissions; Section 11 competent permission; NBWL and state boards distinct; NTCA tiger remit; WCCB organised-crime remit; Section 62A notification for harmful non-native species and possible authorised seizure/disposal; amended Section 33 sanctuary management plan and specified Gram Sabha consultation; Section 35 national-park controls remain legally distinct; Section 42A certificate, seven-working-day notice, cancelled certificate, no compensation and State vesting; amended Section 50 enforcement officers; Section 54 compounding ceiling ≠ universal fine; amended Section 55 complaint competence; Section 38(2A) requires the Section 38(1) land route, Section 36A(1) conditions and a Central notification before Sections 36A–36B apply; arrests and rescues ≠ convictions.
+**Revision notes:** MoEFCC policy/notification; Chief Warden state appointment and specified permissions; NBWL and state boards distinct; NTCA tiger remit; WCCB organised-crime remit; Section 62A notification for harmful non-native species and authorised seizure/disposal; amended Section 33 sanctuary plan and specified Gram Sabha consultation; Section 35 remains distinct and its full architecture is outside this lesson; Section 42A certificate, seven-working-day notice, cancelled certificate, no compensation and State vesting; amended Section 50 officers; Section 54 ceiling ₹5 lakh but no compounding of a Section 51 minimum-imprisonment offence; amended Section 55 complaint competence; Section 38(2A) requires the Section 38(1) land route, Section 36A(1) conditions and a Central notification; arrests and rescues ≠ convictions.
 
 ### Concept check
 
@@ -397,7 +457,7 @@ Trace an interstate case. A forest officer detects a specimen; investigators ide
 Progress: 5 / 7 | Stage: Core | Subtopic: Schedule IV, Chapter VB and trade authorities
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Chapter VB, Schedule IV and the operative 2023–24 trade, breeder, registration and licensing rules are distinguished.
+Book context: Queried — current Chapter VB, Sections 43 and 49D–49R, authority-designation notifications and operative 2023–24 rules.
 CA search: "April 2026 September 2026 CITES Management Authority Schedule IV wildlife trade India site:pib.gov.in"
 CA found: No reliably dated new Schedule IV notification in this interval. Akashvani, **9 July 2026**, documents an interstate trafficking operation; it does not itself establish an international export offence or a new CITES listing.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -416,29 +476,43 @@ CITES Appendix listing → Indian Schedule IV (domestic legal update where requi
                 └──────────────┬─────────────────┘
                                ▼
               domestic compliance + border enforcement
-      [separately: Schedules I–II still govern domestic hunting]
+      [s.49R: if also I/II, domestic I/II rules apply;
+       ss.49M/49N/49O do not apply to that overlap]
 ```
 
 *Caption: International listing, domestic scheduled-specimen duties and domestic animal hunting protection must each be checked independently.*
 
 **CITES** is a treaty about international trade in wild fauna and flora; its Appendices distinguish trade-control levels, not India's habitat-management grades. The 2022 amendment inserted **Chapter VB** and **Schedule IV** as the Indian legal apparatus for scheduled specimens listed in CITES Appendices. A **Management Authority** administers permits or certificates and a **Scientific Authority** advises on impact on species survival. The distinction matters: an ecological assessment is not a customs clearance.
 
-Under the Chapter VB framework, trade transactions and possession of covered live specimens engage reporting, registration and identification controls. The following notified rules operationalise those duties and were in force on **3 October 2026**:
+### Current statutory designations — checked 5 October 2026
+
+| Notification | Current implementation |
+|---|---|
+| **S.O. 1328(E), 13 March 2024** | Designates **Shri Gobind Sagar Bhardwaj, Additional Director General of Forests, MoEFCC**, as Management Authority until **15 August 2027 or further orders, whichever is earlier**. The office issues CITES-linked permits/certificates and performs the Section 49E reporting functions. |
+| **S.O. 3548(E), 8 August 2023** | Designates **23 institutes** as Scientific Authorities, including BSI, ZSI, WII, CMFRI, FRI and the Central Zoo Authority. Scientific advice is institutionally plural; it is not issued by the Management Authority. |
+
+The office-holder and notification status are date-sensitive. Verify a later order before using the personal name after the stated tenure.
+
+### Section 49R — the overlap firewall
+
+Where the **same species** appears in Schedule I or II and Schedule IV, Section 49R(1) makes the domestic Schedule I/II provisions and rules applicable. Section 49R(2) specifically says **Sections 49M, 49N and 49O do not apply** to that overlapping species. Other Chapter VB trade controls remain subject to the domestic chapters. Thus a tiger's Appendix I presence does not place it in the living-Schedule-IV registration or breeder-licence route; its cross-border trade still requires the applicable legal analysis.
+
+Under the Chapter VB framework, trade transactions and possession of covered live specimens engage different duties. The following notified rules were checked as in force on **5 October 2026**:
 
 | Rule | Notification and commencement | Core operation |
 |---|---|---|
-| **Breeders of Species Licence Rules, 2023** | **S.O. 1950(E), 24 April 2023**; commenced on publication that day | Captive breeding or artificial propagation of Appendix I specimens in Schedule IV requires a licence from the Chief Wild Life Warden; persons already engaged had the Act-linked ninety-day application route. |
+| **Breeders of Species Licence Rules, 2023** | **S.O. 1950(E), dated 24 April 2023**; published and commenced on **27 April 2023** | Subject to Section 49R(2), captive breeding or artificial propagation of an Appendix I Schedule IV specimen engages the Chief Warden licence route; existing operators had the Act-linked ninety-day application route. |
 | **Wild Life (Protection) International Trade of Specimens Rules, 2023** | **S.O. 5408(E), 21 December 2023**; commenced on publication that day | Electronic application to the Management Authority for an international-trade permit or certificate; separate export, import and re-export procedures, with Scientific Authority advice where prescribed. |
 | **Wild Life (Protection) Licencing (Additional Matters for Consideration) Rules, 2024** | **G.S.R. 46(E), dated 16 January 2024**; commenced on Gazette publication in the issue dated **18 January 2024**; superseded the 1983 rules | A Section 44 licence decision must consider capacity, facilities/premises, source of supply, existing licences and implications for hunting/trade; a Schedule I licence needs prior Central Government consultation. |
 | **Wild Life (Transactions and Taxidermy) Rules, 2024** | **G.S.R. 47(E), dated 16 January 2024**; commenced on Gazette publication in the issue dated **19 January 2024**; superseded the 1973 rules | A licensee needs prior authorised permission to acquire, receive, possess or taxidermically process the covered Schedule I specified animal or related article/trophy/meat, with lawful acquisition examined. |
-| **Living Animal Species (Reporting and Registration) Rules, 2024** | **G.S.R. 145(E), 28 February 2024**; commenced on publication that day | Possession of a living Schedule IV animal species must be electronically reported and registered: existing possession within six months, later possession within thirty days; births, transfers and deaths have separate reporting duties. |
-| **Captive Elephant (Transfer or Transport) Rules, 2024** | **G.S.R. 191(E), 14 March 2024**; commenced on publication that day | Applies to a captive elephant with a valid Section 42 ownership certificate; transfer begins before the jurisdictional Deputy Conservator of Forests and requires veterinary and site verification before the Chief Wild Life Warden's decision, with added inter-State controls. |
+| **Living Animal Species (Reporting and Registration) Rules, 2024** | **G.S.R. 145(E), dated 28 February 2024**; published and commenced on **29 February 2024** | Subject to Section 49R(2), existing possession of a living Schedule IV animal had a six-month reporting/application window and later possession a thirty-day window; birth, transfer and death have separate duties. |
+| **Captive Elephant (Transfer or Transport) Rules, 2024** | **G.S.R. 191(E), 14 March 2024**; commenced on publication that day | Operates beneath Section 43: a certified captive **Asiatic Elephant (*Elephas maximus*)** cannot be sold or transferred for other commercial consideration. Rule 7(1) ordinarily limits transfer to an elephant whose ownership certificate existed before the Rules commenced, except an elephant born to such elephants; verification and permissions still apply. |
 
 The table is a recall aid. Each instrument governs a different legal process:
 
 ### 1. Breeders of Species Licence Rules, 2023
 
-**S.O. 1950(E), 24 April 2023** took effect on Gazette publication. A person breeding in captivity or artificially propagating a scheduled specimen listed in **Appendix I of Schedule IV** requires a licence from the Chief Wild Life Warden. A person already engaged when the 2022 amendment commenced had the statutory ninety-day application route; a person proposing to begin, or seeking renewal, uses the prescribed application process. The application is scrutinised and field-verified through the jurisdictional forest hierarchy before the Chief Warden decides whether Convention requirements and the Act are satisfied. A granted licence lasts two years, the licensee must maintain stock records for inspection, and cancellation requires stated grounds and an opportunity of hearing.
+**S.O. 1950(E), dated 24 April 2023**, was published and took effect on **27 April 2023**. Subject to **Section 49R(2)**, a person breeding in captivity or artificially propagating a scheduled specimen listed in **Appendix I of Schedule IV** uses the Chief Wild Life Warden licence route. A person already engaged when the 2022 amendment commenced had the statutory ninety-day application route; a person proposing to begin, or seeking renewal, uses the prescribed application process. The application is scrutinised and field-verified before the Chief Warden decides whether Convention requirements and the Act are satisfied. A licence lasts two years; Rule 11 expressly requires stock records **in the case of artificially propagated specimens** and permits inspection of those records. Cancellation requires stated grounds and an opportunity of hearing.
 
 > **Exam distinction:** a breeder's licence authorises the regulated breeding or propagation facility; it is neither proof of lawful source for every specimen nor an export permit.
 
@@ -462,37 +536,37 @@ The table is a recall aid. Each instrument governs a different legal process:
 
 ### 5. Living Animal Species (Reporting and Registration) Rules, 2024
 
-**G.S.R. 145(E), 28 February 2024** commenced on publication and concerns living animal species listed in **Schedule IV**. Existing possession had to be reported electronically within six months; later possession must be reported within thirty days. The process requires acquisition evidence and physical verification of the facility before registration. Birth is reported and registered within seven days, transfer within fifteen days, and death with a veterinary post-mortem report. A registered holder must arrange six-monthly veterinary checks, prevent escape, report escape within twenty-four hours and prevent mixing or breeding with indigenous animal species.
+**G.S.R. 145(E), dated 28 February 2024**, was published and commenced on **29 February 2024** and concerns living animal species listed in **Schedule IV**, subject to the Section 49R(2) exclusion for species also listed in Schedule I or II. Existing possession had to be reported and registration applied for electronically within six months; later possession within thirty days. The process requires acquisition evidence and physical verification before registration. A birth must be **reported and an application for registration made within seven days**; the verification and certificate follow their own timelines. Transfer is reported within fifteen days, and death is reported with a veterinary post-mortem report. A registered holder must arrange six-monthly veterinary checks, prevent escape, report escape within twenty-four hours and prevent mixing or breeding with indigenous animal species.
 
-> **Exam distinction:** registration records possession and continuing duties; it is not proof that an import or earlier acquisition was lawful.
+> **Exam distinction:** registration records possession after the prescribed scrutiny; it does not replace a required import/trade document or legalise a transaction outside its scope.
 
 ### 6. Captive Elephant (Transfer or Transport) Rules, 2024
 
-**G.S.R. 191(E), 14 March 2024** commenced on publication and applies to a captive elephant for which a valid **Section 42 ownership certificate** exists. A transfer application begins before an officer not below Deputy Conservator of Forests, who obtains a veterinary certificate and verifies the present and proposed housing facilities before reporting to the Chief Wild Life Warden. An inter-State transfer adds the recipient State's Chief Warden and jurisdictional verification to the chain. Transfer is tied to specified better-upkeep circumstances and requires the elephant's genetic profile in the Ministry's electronic monitoring application. **Transport** is a separate permission: it requires a transport permit, veterinary fitness and prescribed journey safeguards, including a mahout and elephant assistant.
+**Section 43(1)** first prohibits a certificate-holder from transferring a captive animal, article, trophy or uncured trophy by sale, offer for sale or another mode of commercial consideration. Its captive-elephant proviso permits transfer or transport for a religious or other purpose only subject to prescribed conditions. **G.S.R. 191(E), 14 March 2024** supplies that procedure for a captive **Asiatic Elephant (*Elephas maximus*)** with a valid Section 42 certificate. Under **Rule 7(1)**, the Chief Warden may permit transfer where the elephant's ownership certificate existed before the Rules came into force, except for an elephant born to such elephants. The application begins before an officer not below Deputy Conservator of Forests, with veterinary and present/proposed-facility verification before the Chief Warden's decision. An inter-State transfer adds the recipient State's verification. Better-upkeep circumstances and entry of the elephant's genetic profile in the Ministry's electronic application are required. **Transport** separately requires a permit, veterinary fitness and journey safeguards, including a mahout and elephant assistant.
 
-> **Exam distinction:** ownership, transfer and transport are three separate controls; a certificate of ownership alone authorises neither a change of owner nor a journey.
+> **Exam distinction:** ownership, non-commercial transfer and transport are separate controls; the 2024 procedure does not convert a prohibited commercial sale into a lawful transfer.
 
-These instruments regulate different transactions. A breeder's licence is not an export permit; registration of possession is not proof of lawful import; a taxidermy permission is not a hunting permission; and an elephant ownership certificate does not by itself authorise every transfer or journey.
+These instruments regulate different transactions. A breeder's licence is not an export permit; registration of possession is not proof of lawful import; a taxidermy permission is not a hunting permission; and an elephant ownership certificate does not authorise commercial sale or every transfer/journey. For a species listed in both I/II and IV, apply the Section 49R overlap rule before selecting the breeder or living-registration route.
 
 Merely seeing an exotic animal in a photograph cannot prove an offence: establish identification, operative Schedule IV listing, provenance, registration, possession or transaction, necessary documentation and jurisdiction.
 
-**Challenge:** If the CITES Conference changes an Appendix, has Indian Schedule IV automatically changed that second? **Reply:** Structural correspondence is not instantaneous self-executing incorporation. Check the relevant Indian legal update/notification and the date applicable to the transaction. Nor does a specimen's Schedule IV presence erase any independent Schedule I or II domestic restriction. ⚠️ *Inference:* alignment makes cross-border classification easier, but actual deterrence needs inspection, species forensics and prosecution.
+**Challenge:** If the CITES Conference changes an Appendix, has Indian Schedule IV automatically changed that second? **Reply:** Structural correspondence is not instantaneous self-executing incorporation. Check the relevant Indian legal update/notification and the transaction date. Nor does Schedule IV erase domestic Schedule I/II control: Section 49R applies domestic protection and removes overlapping species from Sections 49M, 49N and 49O. ⚠️ *Inference:* alignment makes cross-border classification easier, but deterrence still needs inspection, forensics and prosecution.
 
 **UPSC application:** In a GS-III trafficking answer use “listing → domestic notification and duties → scientific assessment/management permit → enforcement → measured outcome”. Do not write that every July 2026 domestic rescue was an international CITES seizure; the cited Akashvani report establishes an *interstate* case.
 
-**Mini recap:** Appendix ≠ Indian hunting list; IV = trade interface; management issues documents, science assesses survival; paper alignment ≠ proven deterrence.
+**Mini recap:** Appendix ≠ Indian hunting list; IV = trade interface; Section 49R controls overlap; the Management Authority issues documents while 23 designated institutes form the Scientific Authority network; the elephant rules do not authorise commercial sale; paper alignment ≠ proven deterrence.
 
-**Revision notes:** CITES trade purpose; three Appendices versus domestic schedules; Chapter VB; IV scheduled specimens; Management Authority documents; Scientific Authority advice; S.O. 1950(E) breeder licensing; S.O. 5408(E) international-trade procedure; G.S.R. 46(E) Section 44 licence factors; G.S.R. 47(E) transaction/taxidermy permission; G.S.R. 145(E) possession/birth/transfer/death registration; G.S.R. 191(E) certified captive-elephant transfer/transport; identification and lawful provenance; no automatic Appendix-to-Indian-law jump; state and border enforcement remain indispensable.
+**Revision notes:** CITES trade purpose; three Appendices versus domestic schedules; Chapter VB; Section 49R I/II primacy and 49M/49N/49O exclusion; S.O. 1328(E) current Management Authority designation; S.O. 3548(E) 23 Scientific Authority institutes; S.O. 1950(E) breeder licensing subject to 49R and Rule 11's artificially-propagated-stock wording; S.O. 5408(E) trade procedure; G.S.R. 46(E) Section 44 factors; G.S.R. 47(E) transaction/taxidermy permission; G.S.R. 145(E) seven-day birth application and other reporting; Section 43 commercial-transfer ban plus G.S.R. 191(E) Rule 7 pre-existing-certificate eligibility, offspring exception and captive-elephant procedure; lawful provenance; no automatic Appendix-to-Indian-law jump.
 
 ### Concept check
 
-**Question:** An exporter says that a CITES meeting just changed an Appendix and therefore India's Schedule IV and all domestic hunting rules changed instantly. What must be checked separately?
+**Question:** An exporter says a CITES meeting instantly changed India's Schedule IV and that every Appendix I animal—including a tiger—must therefore use the 49M/49N registration and breeder route. What must be checked separately?
 
 <details><summary>Worked answer — open after your attempt</summary>
 
-**Model answer:** Check the operative Indian Schedule IV and any domestic update, then the Chapter VB permits and documentation for the transaction; separately check Schedules I–II and hunting rules. Treaty trade-list change is not automatically a domestic hunting-classification change.
+**Model answer:** Check the operative Indian Schedule IV and domestic update, then the Chapter VB permit/document route. Separately check Schedules I–II and Section 49R: if the species is also in I/II, domestic provisions apply and Sections 49M, 49N and 49O do not. A treaty-list change is neither an instant Indian amendment nor a domestic hunting change.
 
-**Misconception to avoid:** A global trade Appendix is neither an automatic Indian gazette notification nor a domestic hunting permit.
+**Misconception to avoid:** Schedule overlap does not mean every Chapter VB possession/breeding section applies; Section 49R removes that shortcut.
 
 </details>
 
@@ -500,7 +574,9 @@ Merely seeing an exotic animal in a photograph cannot prove an offence: establis
 
 <details><summary>Scored model and marking notes</summary>
 
-**Model (about 229 words):** CITES regulates international trade in specimens to avoid threatening species' survival; its Appendices are not India's domestic hunting hierarchy. The 2022 amendment recast the Wild Life (Protection) Act's schedules: I and II list protected animals, III specified plants and IV the scheduled specimens for the CITES-linked trade regime. Chapter VB gives domestic duties and a Management Authority for trade documents alongside a Scientific Authority to advise on survival impact. The Breeders of Species Licence Rules, 2023 regulate Appendix I captive breeding; the International Trade of Specimens Rules, 2023 prescribe permit/certificate procedures. The 2024 living-animal rules add reporting of possession, birth, transfer and death, while the licensing and transactions/taxidermy rules regulate distinct domestic business and custody decisions. This converts an international commitment into traceable Indian institutions and transactions.
+**Model (about 244 words):** CITES regulates international trade in specimens; its Appendices are not India's domestic hunting hierarchy. The 2022 amendment recast the schedules: I and II list protected animals, III specified plants and IV scheduled specimens for the CITES-linked trade regime. Chapter VB gives a Management Authority responsibility for trade documents and a Scientific Authority network for survival-impact advice. S.O. 1328(E) currently designates the Management Authority, while S.O. 3548(E) designates 23 scientific institutes.
+
+The Breeders of Species Licence Rules, 2023 regulate the applicable Appendix I breeding/propagation route; the International Trade of Specimens Rules, 2023 prescribe permit/certificate procedures. The 2024 living-animal rules add reporting and registration duties, while the licensing and transactions/taxidermy rules regulate separate domestic business and custody decisions. But Section 49R is decisive: where a species is also in Schedule I or II, domestic provisions apply and Sections 49M, 49N and 49O do not. The captive-elephant rules also operate beneath Section 43's prohibition on commercial-consideration transfers.
 
 Two limits qualify the reform. First, an Appendix decision should not be treated as an instant amendment to India's operative Schedule IV: check the applicable Indian update and transaction date. Second, a correct permit architecture is not proof of effective border checks, accurate forensic identification or successful prosecution. The July 2026 CBI–DRI rescue demonstrates inter-agency policing, but the reported case is interstate; it does not by itself prove an international trade route. Align notifications, reliable species identification and state–customs coordination, while tracking case outcomes rather than counting legal provisions.
 
@@ -515,7 +591,7 @@ Two limits qualify the reform. First, an Appendix decision should not be treated
 Progress: 6 / 7 | Stage: Advanced | Subtopic: Ecological risk, economic dependencies and implementation of the Basic statutory tools
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: The already-taught invasive-species power is applied to ecological risk, livelihoods and implementation choices.
+Book context: Queried — Topic 08 Advanced's legitimate invasive-risk analysis, tested against current Section 62A; no fresh prohibition is assumed.
 CA search: "April 2026 September 2026 invasive alien species Wildlife Protection Act regulation India site:moef.gov.in"
 CA found: No reliably dated new Section 62A invasive-species order in that interval. A statutory power must not be presented as proof of a fresh 2026 prohibition.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -582,7 +658,7 @@ The power is hard to administer. Scientists must identify ecological risk and di
 Progress: 7 / 7 | Stage: Advanced | Subtopic: CITES alignment, coordination gaps and evaluation
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Legal design, investigation, prosecution and conservation outcomes are treated as separate evidentiary stages.
+Book context: Queried — legitimate Topic 08 Advanced enforcement analysis, current offence provisions and the dated Akashvani case.
 CA search: "April 2026 September 2026 India Chief Wildlife Warden National Board for Wildlife WCCB wildlife crime site:pib.gov.in"
 CA found: Akashvani, **9 July 2026**, reports a CBI–DRI interstate trafficking rescue; no conviction, national trend or post-2022 impact estimate is supplied by that report.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -656,13 +732,13 @@ No additional 2026 question is reproduced in this Act-specific PYQ set; this mak
 
 # CUMULATIVE CONCEPT CHECKS
 
-**Try both before opening either response.**
+**Try all three before opening any response.**
 
 **C1.** A student says “Schedule IV is weaker than Schedule III, so anyone can export a listed animal if it is not in Schedule I.” What category errors occur?
 
 <details><summary>Worked response C1</summary>
 
-Schedule III concerns specified plants, IV scheduled specimens for international trade, and I–II animals' domestic protection. An export may require Chapter VB/CITES-related documents regardless of the animal's domestic schedule. Neither IV nor III measures a single descending protection ladder.
+Schedule III concerns specified plants, IV scheduled specimens for international trade, and I–II animals' domestic protection. An export may require Chapter VB documents, but Section 49R makes I/II domestic provisions apply to an overlap and excludes Sections 49M, 49N and 49O. Neither IV nor III measures a single descending protection ladder.
 
 </details>
 
@@ -704,9 +780,11 @@ Analyse the separate functions of Schedule IV and the domestic animal schedules 
 
 <details><summary>Model and 15-mark rubric</summary>
 
-**Model (about 232 words):** A suspected border transaction asks two distinct legal questions. Schedules I and II grade domestic animal protection and connect with hunting controls and offence consequences; Schedule IV provides the scheduled-specimen architecture corresponding to CITES Appendices for international trade. A species' appearance in the latter does not by itself establish its domestic hunting category, nor does domestic protection dispense with border documents. The International Trade of Specimens Rules, 2023 require the applicable Management Authority permit/certificate process; Appendix I captive breeding has a separate 2023 licence regime. The Living Animal Species Rules, 2024 add possession, birth, transfer and death registration. Domestic business licensing and taxidermy permissions remain separate again.
+**Model (about 232 words):** A border transaction raises separate domestic-protection and international-trade questions. Schedules I and II connect animals with hunting controls and offence consequences; Schedule IV supplies the CITES scheduled-specimen architecture. Presence in IV does not establish a domestic hunting category, and domestic protection does not dispense with border documents. The 2023 trade rules use Management Authority permits; S.O. 1328(E) supplies the current designation and S.O. 3548(E) designates 23 Scientific Authority institutes.
 
-For a seized specimen, first verify species identification and the date-specific Indian listings. Next establish possession, provenance, proposed import or export, applicable Chapter VB reporting, permits or registration, and the issuing Management Authority's documents. Scientific Authority advice addresses the survival consequences of trade; it does not replace permits. Customs/DRI, state wildlife agencies and other competent investigators must coordinate evidence and chain of custody. The reported July 2026 CBI–DRI interstate rescue illustrates joint enforcement, but is not evidence of an international transaction in that particular case. A CITES Appendix change also needs the applicable Indian legal update before claiming the domestic schedule changed. Thus effective alignment depends on both proper legal classification and verifiable investigation.
+Section 49R prevents category error. If the species is also in Schedule I or II, domestic provisions apply and Sections 49M, 49N and 49O do not. The Appendix I breeder licence and 2024 living-animal reporting route therefore cannot be mechanically applied to an overlapping tiger or elephant. Chapter VA business prohibitions and taxidermy permissions remain separate.
+
+For a seized specimen, verify identification and date-specific Indian listings, then establish possession, provenance, proposed import/export, applicable reporting, permits and documents. Scientific Authority advice addresses survival impact; it does not replace a permit. Customs/DRI, state wildlife agencies and other investigators must preserve evidence and chain of custody. The July 2026 CBI–DRI rescue illustrates cooperation but not an international transaction. A CITES Appendix change also needs the applicable Indian legal update before claiming that Schedule IV changed. Effective alignment therefore depends on correct classification and verifiable investigation.
 
 **Marking (15):** Distinct schedule functions 4; trade and scientific institutions 4; evidence/India application 4; notification and attribution cautions 3.
 
@@ -737,11 +815,14 @@ The reported July 2026 interstate CBI–DRI rescue shows that agencies can coope
 | “No vermin schedule means no vermin power” | Distinguish omitted former V from bounded Section 62 central notifications under current II. |
 | “Every frightening animal may be shot” | Begin with Section 9; identify Section 11/12 ground, schedule, competent authority and conditions. |
 | “Every living free-ranging animal is solely government property” | Section 39 makes specified animals or items State/Central Government property in defined circumstances; location-independent Schedule protection is a different issue. |
+| “Capture is not hunting; self-defence needs prior permission” | Apply the full Section 2(16) definition, then distinguish reasoned Section 11(1) orders from qualified good-faith defence under Section 11(2). |
+| “A certificate, licence and transaction permission are the same” | Separate Sections 40–42 ownership control, Section 43 transfer, Section 44 business licensing, Sections 48–49 lawful source and Chapter VA prohibitions. |
 | “Foreign means immediately banned; surrender is amnesty” | Require a Section 62A notification; Section 42A starts with a certificate of ownership and seven working days' notice. |
 | “WCCB rescued the animals in the July operation” | Reopen the dated report: it names CBI and DRI; describe WCCB's general mandate separately. |
 | “CITES amended Indian law overnight” | Record international decision and domestic legal update as distinct steps; check transaction date. |
-| “One wildlife licence covers breeding, export, possession, taxidermy and elephant transfer” | Match each transaction to the separate 2023–24 rule, authority, certificate and reporting duty. |
-| “A stronger fine proves a valid prosecution” | Separate Section 50 investigation, Section 54 compounding, Section 55 complaint/cognizance and the eventual court outcome. |
+| “Every Schedule IV animal uses 49M/49N/49O” | Apply Section 49R(2): those three sections do not apply when the species is also in Schedule I or II. |
+| “One wildlife licence covers breeding, export, possession, taxidermy and elephant transfer” | Match each transaction to the separate 2023–24 rule and Section 49R; Section 43 still prohibits commercial-consideration transfer. |
+| “A stronger fine proves a valid prosecution” | Apply the exact Section 51 band, then separate Section 50 investigation, non-compoundable minimum-imprisonment offences, Section 55 complaint/cognizance and court outcome. |
 | “A seizure proves falling crime” | Track investigation, charge, conviction and comparable ecological outcome independently. |
 
 # MASTER COMPARISON, CAUSAL AND ARGUMENT MAPS
@@ -754,21 +835,30 @@ DATE of incident/question
               ┌────────────────┴──────────────────┐
               │                                   │
           DOMESTIC ACT                        BORDER / TRADE
-     S.9 default no hunting              Chapter VB documentation
-     S.11 narrow exception               Management Authority → permits
-     S.12 purpose permit                 Scientific Authority → survival advice
-     S.62 II-only notification           Indian update ≠ instant CITES change
-     S.17C plant cultivation licence     S.39 ownership only on defined events
+     S.2(16) wide “hunting” meaning      Chapter VB documentation
+     S.9 default no hunting              Management Authority → permits
+     S.11 order + defence routes         23 Scientific Authorities → advice
+     S.12 complete purpose permit        Indian update ≠ instant CITES change
+     S.62 II-only notification           S.49R overlap firewall
+     S.17C plant cultivation licence     ├─ I/II domestic provisions apply
+              │                          └─ 49M/N/O excluded for overlap
+              ├─ S.39 conditional Government property
+              ├─ ss.40–42 declaration / certificate
+              ├─ s.43 no commercial-consideration transfer
+              ├─ s.44 licence; ss.48–49 lawful source
+              └─ ss.49A–49B Schedule I business prohibition
               │                                   │
               └─────────────┬─────────────────────┘
                       Who investigates?
       S.50 state/Management Authority/customs/coast-guard powers
                state officers + specialised agencies
                       ↓
-      S.54 compounding / S.55 authorised complaint
+      S.51 exact penalty band
+      S.54 ceiling + minimum-imprisonment bar
+      S.55 authorised complaint
               evidence → court → outcomes
                       ↑
-  sanctuary plan + Section 35 park controls + central conservation reserve + invasive risk
+  s.33 sanctuary plan + s.38(2A) central reserve route + s.62A invasive risk
 ```
 
 **Criticism → reply → residual:** “A tidy map proves little” → legally identifiable powers and duties are indispensable → quality of notifications, forensics, prosecution, consultation and biodiversity outcomes still has to be measured. A strong 20-mark answer travels the full chain rather than ending at the schedule table.
@@ -778,6 +868,7 @@ DATE of incident/question
 ## Statutory clock and function
 
 - **1972:** Wild Life (Protection) Act: wildlife, specified plants, hunting restrictions, protected habitats and trade. **2022:** amending Act; **1 April 2023:** amended framework in force. Date and operative text precede all species-to-schedule answers.
+- **Constitutional provenance:** the 1972 parliamentary law is an Article 252 example; the **42nd Amendment, 1976** later moved forests and protection of wild animals/birds to Concurrent List Entries **17A–17B**. This explains competence, not a species' current listing.
 - The previous **six** lists comprised four animal schedules, a vermin list (old V) and a specified-plant list (old VI); the restructured framework has **four** lists. A 2020 plant question must not inherit the new schedule number.
 - A schedule is a legal list; it does not itself prove the elements of hunting, trade, possession or a prosecution. Ask what act, which specimen, which date and which jurisdiction. A 2022 Prelims item predates the **1 April 2023** schedule reorganisation, while a 2024 item follows it.
 
@@ -785,10 +876,10 @@ DATE of incident/question
 
 | Current schedule | Recall | Trap |
 |---|---|---|
-| I | Higher domestic animal protection; tiger, Indian elephant are illustrative | “Any damage to property gives unrestricted hunting permission” is wrong. |
+| I | Higher domestic animal protection; tiger and **Asiatic Elephant (*Elephas maximus*)** illustrate | “Any damage to property gives unrestricted hunting permission” is wrong. |
 | II | Other protected animals; Section 9 still applies | “Lesser” ≠ unprotected; a Section 62 notice is local/time-bounded. |
-| III | Specified plants | Formerly old VI; not a third animal tier. |
-| IV | CITES-related scheduled specimens under Chapter VB | Trade interface; not a higher/lower domestic animal tier. |
+| III | Specified plants, including Blue Vanda and Pitcher Plant | Formerly old VI; not a third animal tier. |
+| IV | CITES-related scheduled specimens under Chapter VB | Trade interface; Section 49R governs overlap with I/II. |
 
 - **Old V omitted ≠ Section 62 repealed.** Central Government notification about a current Schedule II animal must specify area and period; no permanent nationwide species label follows without such an operative instrument. Never include Schedule I in this shortcut.
 - **Specified-plant licence:** historical **Schedule VI** was the plant list relevant to 2020. **Section 17C** licenses cultivation, specifying area/conditions; Section 17A addresses picking/uprooting and Section 17D dealing. Today's plant list is **III**; the function must not be collapsed into an absolute no-cultivation claim.
@@ -797,32 +888,34 @@ DATE of incident/question
 
 ## Exception and penalty decision path
 
-- **Section 9:** prohibition of hunting listed animals I–II. Hunting can include capturing. **Section 11:** narrowly authorised exceptional intervention; for Schedule I the Chief Wild Life Warden's written permission and applicable human-life/incapacity grounds matter. Do not transfer Schedule II's different property-related basis to I.
-- **Section 12:** permits for specified scientific, educational and management purposes under applicable safeguards; neither good intention nor institutional prestige replaces permission.
+- **Section 2(16):** hunting includes killing/poisoning and attempts; capture, coursing, snaring, trapping, driving or baiting and attempts; injury/body-part taking; and specified damage/disturbance to bird or reptile eggs/nests.
+- **Sections 9 and 11:** prohibition covers I–II. Schedule I requires human-life/incapacity grounds, written reasons, inability to capture/tranquilise/translocate before killing, and inability to rehabilitate before captivity. Schedule II additionally permits the property/standing-crop ground. Section 11(2) separately protects qualified good-faith defence; Section 11(3) makes the animal Government property.
+- **Section 12:** listed purposes are education, scientific research, scientific management, specified zoo/museum specimen collection and snake venom for life-saving drugs. Schedule I needs prior Central permission; another animal needs prior State permission.
 - **Inside/outside:** Section 9's protection of a scheduled animal is not confined to parks; additional place-based rules apply within protected areas. **Apprehension** of future danger alone cannot replace the Section 11 authority's reasoned satisfaction of a statutory ground.
 - **Section 39:** specified dead, lawfully hunted under enumerated provisions or unlawfully kept/hunted non-vermin animals, certain derivatives and seized offence instruments become government property under its defined conditions—usually State property, with a Central exception in centrally declared sanctuary/park cases. Do **not** infer universal sole government ownership of every living wild animal; written permission/reporting duties apply to covered property actually possessed.
-- **Section 51:** graded offence sanctions, with stronger consequences for specified serious offences; 2022 raised fines. Do not invent a single universal punishment; verify the charged offence and operative version.
-- **Offence procedure after commencement:** amended Section 50 includes the Management Authority/authorised officer and specified customs/Coast Guard officers in relevant enforcement powers; Section 54(4)'s compounding ceiling is ₹5 lakh; amended Section 55 adds the Management Authority or an authorised officer including an authorised WCCB officer to complaint competence. Search/seizure, compounding, complaint and conviction are not synonyms.
-- Controls on picking/collecting/dealing in specified plants and on trading animal articles are separate from the Section 11 hunting route.
+- **Possession/trade chain:** captive animal; animal article; trophy; uncured trophy; meat; and Chapter VA scheduled animal/article are distinct terms. Sections 40–42 address declaration/inventory/certificate, Section 43 transfer, Section 44 business licensing, Sections 48–49 lawful source/transport, and Sections 49A–49B Schedule I business prohibitions.
+- **Section 51 exact central bands:** residual offence—up to three years or ₹1 lakh or both; Schedule I animal or its meat/article/trophy/**uncured trophy**, protected-area boundary/hunting or Appendix-I-Schedule-IV serious offence—three to seven years plus at least ₹25,000; repeat serious offence—three to seven years plus at least ₹1 lakh; Chapter VA—three to seven years plus at least ₹25,000; Section 38J under Section 51(1B)—up to six months or ₹2,000 or both, rising on a second/subsequent offence to up to one year or ₹5,000.
+- **Offence procedure:** amended Section 50 expands relevant search/seizure competence; Section 54(4)'s ceiling is ₹5 lakh but a Section 51 minimum-imprisonment offence cannot be compounded; amended Section 55 expands complaint competence. Search, compounding, complaint and conviction are not synonyms.
 
 ## Decision makers and protected-area management
 
 - **Central Government/MoEFCC:** national notification and regulatory roles. **Chief Wild Life Warden:** state-appointed management and specific statutory permissions. **NBWL/state boards:** prescribed wildlife advice and functions, not universal hunting permissions.
 - **NTCA:** tiger-specific statutory mandate. **WCCB:** central statutory coordination and intelligence against organised wildlife crime, not automatic leadership of each case. Field departments, police, customs/DRI and CBI may have distinct roles.
-- **Basic 2022 tools:** Section 62A enables **Central Government notification** to regulate/prohibit import, trade, possession and spread of invasive aliens that threaten wildlife/habitat and authorised seizure/disposal of the notified species. Amended **Section 33** separately gives sanctuaries an approved management-plan rule and requires concerned **Gram Sabha** consultation in its specified Scheduled Area/FRA setting. **National parks are not governed by that amended Section 33 sentence**: Section 35 supplies their declaration, rights and activity-control framework, including the Section 35(6) permit safeguard for habitat or water-flow alteration.
+- **Basic 2022 tools:** Section 62A enables **Central Government notification** to regulate/prohibit import, trade, possession and spread of invasive aliens that threaten wildlife/habitat and authorised seizure/disposal of the notified species. Amended **Section 33** gives sanctuaries an approved-plan rule and specified Gram Sabha consultation. Do not extend that sentence to national parks; their complete Section 35 architecture is taught separately.
 - **Conservation-reserve amendment:** Section 38(2A) applies to an area referred to in Section 38(1), after the Central Government is satisfied that Section 36A(1) conditions are fulfilled and issues a notification. Sections 36A–36B then apply as for a State-declared reserve. This land-declaration route is distinct from Section 62A species regulation.
 - **Section 42A:** certificate-holder may voluntarily surrender specified captive animal/article after **seven working days' notice** to Chief Warden; certificate cancelled, **no compensation**, State vesting. Not automatic retrospective authorisation of an undocumented holding.
 
 ## CITES alignment, invasion and limits
 
-- CITES Appendices organise **international trade**, not domestic hunting tiers. Chapter VB/Schedule IV, the **Management Authority** (trade documents) and **Scientific Authority** (survival-impact advice) form an Indian implementation mechanism; possession/transaction duties depend on operative rules.
-- **Breeders of Species Licence Rules, 2023 — S.O. 1950(E):** Appendix I Schedule IV captive breeding/artificial propagation needs a Chief Warden licence after scrutiny and field verification; the two-year licence carries stock-record and inspection duties.
+- CITES Appendices organise **international trade**, not domestic hunting tiers. **S.O. 1328(E), 13 March 2024** designates Shri Gobind Sagar Bhardwaj as Management Authority until 15 August 2027 or further orders; **S.O. 3548(E), 8 August 2023** designates 23 Scientific Authority institutes.
+- **Section 49R:** for a species also in I/II, domestic provisions apply and Sections **49M, 49N and 49O do not**. Do not route an overlapping tiger/elephant through those living-registration or breeder sections.
+- **Breeders of Species Licence Rules, 2023 — S.O. 1950(E):** dated 24 April and published/commenced **27 April 2023**; the applicable Appendix I Schedule IV breeding/propagation route needs a Chief Warden licence, subject to Section 49R; Rule 11's stock-record wording specifically addresses artificially propagated specimens.
 - **International Trade of Specimens Rules, 2023 — S.O. 5408(E):** electronic Management Authority applications use distinct export, import, re-export and introduction-from-the-sea routes; Scientific Authority non-detriment advice applies where prescribed, and transactions are reported within thirty days.
 - **Licencing (Additional Matters for Consideration) Rules, 2024 — G.S.R. 46(E):** Section 44 decisions examine facilities, supply source, existing licences and hunting/trade implications; a Schedule I licence requires prior Central consultation.
 - **Transactions and Taxidermy Rules, 2024 — G.S.R. 47(E):** a licensee needs prior permission and proof of lawful acquisition for covered Schedule I custody, processing, sale or transport; stock reports and vouchers maintain traceability.
-- **Living Animal Species (Reporting and Registration) Rules, 2024 — G.S.R. 145(E):** living Schedule IV possession, birth, transfer and death have separate electronic reporting/registration duties, facility verification, veterinary care and escape controls.
-- **Captive Elephant (Transfer or Transport) Rules, 2024 — G.S.R. 191(E):** a valid Section 42 certificate is only the starting condition; veterinary and facility verification, Chief Warden decisions, genetic-profile entry and distinct transfer/transport permissions remain necessary.
-- A CITES listing change is not proof of an instantaneous change to an Indian schedule. Check Indian update, date, permits, species identity and provenance. A specimen can trigger both domestic and trade controls.
+- **Living Animal Species (Reporting and Registration) Rules, 2024 — G.S.R. 145(E):** dated 28 February and published/commenced **29 February 2024**; subject to Section 49R, possession and later events have distinct duties; birth is reported and registration applied for within seven days, not finally registered within that period.
+- **Captive Elephant Rules, 2024 — G.S.R. 191(E):** Section 43 first prohibits sale or other commercial-consideration transfer; Rule 7(1) ordinarily requires the elephant's ownership certificate to pre-date the Rules, except an elephant born to such elephants; transfer/transport then remains subject to veterinary, facility, genetic-profile and Chief-Warden controls.
+- A CITES listing change is not an instantaneous Indian amendment. Check the Indian update, date, Section 49R, permits, species identity and provenance.
 - **Advanced refinement, after the Basic power:** compare invasion risk, local economic use, prevention versus removal, costs of sustained monitoring and Gram Sabha/forest-rights implications. “Foreign” alone does not establish invasive status or a notified offence.
 - Stronger law → possible improved tools; actual outcomes require tested notification, inspection, forensics, chain of custody, prosecution and habitat monitoring. An arrest ≠ conviction ≠ population recovery.
 
@@ -837,18 +930,20 @@ DATE of incident/question
 | Source/learning unit | Basic/Core or Advanced | Where fully taught | Assessment/PYQ route |
 |---|---|---|---|
 | 1972 purposes, amendment/commencement and old→new timeline | Basic | Lessons 1–2; statutory clock | L1 prompt/model; 2020, 2022 historical reading |
-| Animal I/II, plant III, scheduled-specimen IV and Schedule I examples | Basic | Lesson 2; schedule comparison | L2 concept and Mains; 2020 Q81 |
+| Article 252 parliamentary origin; 42nd Amendment transfer to Concurrent List Entries 17A–17B | Cross-topic Polity prerequisite | Lesson 1 constitutional-provenance box; register | L1 legal-time and implementation framing |
+| Animal I/II, plant III, scheduled-specimen IV; tiger, Asiatic Elephant, Flying Fox, Blue Vanda and Pitcher Plant examples | Basic | Lesson 2; schedule comparison | L2 concept and Mains; 2020/2024 PYQs |
 | Former plant VI, present plant III; Section 17C cultivation licence distinct from 17A/17D | Basic | Lesson 2 and plant register note | 2020 Q81's full cultivation demand, after first attempt |
 | Former vermin V, current II Section 62 notification, Indian Flying Fox Schedule II and fruit-bat diet | Basic | Lesson 2 and schedule register note | Both dimensions of 2024 Q20, after first attempt |
-| Section 9 inside/outside protection, Section 11 proven grounds versus apprehension, Section 12 permits | Basic | Lesson 3 and exception register note | 2022 Q89's location/danger dimensions; L3 scored model |
+| Full Section 2(16) hunting definition; Section 9; Schedule-specific Section 11 grounds, non-lethal/rehabilitation safeguards and qualified self-defence; complete Section 12 purposes and permissions | Basic | Lesson 3 and exception register note | 2022 Q89's location/danger dimensions; L3 concept/model |
 | Conditional State/Central government ownership under Section 39 | Basic | Lesson 3 and Section 39 register note | 2022 Q89 property dimension |
-| Plants/trade/derivatives, Section 51 penalties and differentiated consequences | Basic | Lessons 3, 5; exception and CITES notes | L3/L5 applications and practice |
+| Captive animal, animal article, trophy, uncured trophy, meat and scheduled animal/article; Sections 40–49B possession/declaration/certificate/transfer/licensing/prohibition chain | Basic/Core | Lesson 3 vocabulary and transaction chain; register/master map | L3 practice; L5 rule application and remediation |
+| Exact Section 51 central penalty bands, including Section 51(1B)/38J and uncured trophy; Section 54 ₹5 lakh ceiling and minimum-imprisonment non-compoundability | Basic/Core | Lesson 3 penalty table; Lesson 4 procedure; register | L3/L7 and final 20-mark applications |
 | Offence procedure: amended Sections 50, 54 and 55; investigation, compounding, complaint and conviction distinctions | Basic/Core | Lesson 4; offence-procedure register note and master map | L4 authority application; final 20-mark model and remediation |
-| Central conservation-reserve power under Section 38(2A): Section 38(1) land, Section 36A(1) conditions, notification and application of Sections 36A–36B | Basic/Core with protected-area cross-owner boundary | Lesson 4 substantive declaration chain; conservation-reserve register note | L4 teaching/revision; final 20-mark model |
+| Amendment-specific Section 33 sanctuary plan and Section 38(2A) Central conservation-reserve route | Basic/Core with Topic 06 boundary | Lesson 4 bounded connections; register | L4 teaching/revision; final 20-mark model |
 | MoEFCC, Chief Warden, boards, WCCB and NTCA | Basic | Lesson 4; decision-maker notes | L4 concept and model |
-| CITES, Chapter VB, Management/Scientific Authorities and International Trade of Specimens Rules, 2023 | Basic/Core with Topic 09 treaty boundary | Lesson 5; trade map, rule table and notes | L5 concept and 15-mark models |
-| Breeders of Species Licence Rules, 2023 and International Trade of Specimens Rules, 2023 (**S.O. 1950(E), S.O. 5408(E)**); 2024 licensing, transactions/taxidermy, living-animal registration and captive-elephant rules (**G.S.R. 46(E), G.S.R. 47(E), G.S.R. 145(E), G.S.R. 191(E)**) | Basic/Core | Lesson 5 six substantive rule sections before Advanced lessons; operational-rules register note | L5 concept/model; final 15/20-mark models and remediation |
-| Section 62A invasive power; Section 33 sanctuary plan and specified Gram Sabha consultation; distinct Section 35 national-park controls; Section 42A certificate-based surrender | Basic | Lesson 4 and decision-maker register note, **before** Lesson 6 | L4 concept; L6 applied model and final 20-mark model |
+| CITES, Chapter VB, S.O. 1328(E) Management Authority, S.O. 3548(E) 23 Scientific Authorities and Section 49R overlap firewall | Basic/Core with Topic 09 treaty boundary | Lesson 5 designations, firewall and register | L5 concept and 15-mark models |
+| S.O. 1950(E), S.O. 5408(E), G.S.R. 46(E), G.S.R. 47(E), G.S.R. 145(E) and G.S.R. 191(E), including corrected commencement dates, Rule 11/birth timelines, Rule 7 elephant eligibility and Section 43 commercial-transfer bar | Basic/Core | Lesson 5 six rule sections; operational register note | L5 concept/model; final 15/20-mark models and remediation |
+| Section 62A invasive power; Section 33 sanctuary plan and specified Gram Sabha consultation; Section 42A certificate-based surrender | Basic | Lesson 4 and decision-maker register note, **before** Lesson 6 | L4 concept; L6 applied model and final 20-mark model |
 | Invasive risk, economic-use trade-off, implementation/residual and monitored outcome | Advanced | Lesson 6; advanced refinement note | L6 scored model; final 20-mark model |
 | State-capacity, forensic, prosecution, coordination and data limits | Advanced | Lessons 4 and 7; comparison and notes | L7 scored model, final 20-mark model |
 | Complete exact official 2020 Set A Q81, 2022 Set A Q89 and 2024 Set A Q20 with all options; official 2024 Q20 X/dropped status | Basic | Opening first-attempt bank before clues; Lessons 2–3; PYQ index | No resolved objective option or PYQ model; no substitute answer for dropped Q20 |
@@ -856,27 +951,31 @@ DATE of incident/question
 
 # SOURCE LEDGER
 
-**Legal and canonical grounding:** `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\08_Wildlife-Protection-Act-and-Schedules.md` and `advanced\08_Wildlife-Protection-Act-and-Schedules.md`; protected-area category detail is cross-owned by `basic\06_Protected-Area-Network-India.md` and CITES treaty detail by `basic\09_CITES-and-Wildlife-Trade.md`. The [Wild Life (Protection) Amendment Act, 2022 (Act 18 of 2022)](https://faolex.fao.org/docs/pdf/IND227113.pdf), its **S.O. 1394(E), 22 March 2023** commencement notification, and the consolidated Act control Sections 17C, 33, 35, 38(2A), 39, 42A, 50, 51, 54, 55 and 62–62A. The amendment text confirms that the management-plan substitution is in **Section 33 for sanctuaries**, while Section 38(2A) uses the Section 38(1) land route and Section 36A(1) conditions. National-park activity control is separately grounded in Section 35. [Animal Diversity Web, *Pteropus giganteus* food habits](https://animaldiversity.org/accounts/Pteropus_giganteus/) supports the independent diet proposition. No separate Section 62 notification changing the flying fox's status was identified.
+**Canonical scope and quarantine:** Topic 08 Core is taken only from `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\08_Wildlife-Protection-Act-and-Schedules.md` **lines 1–243**. Its lines **244–295** are quarantined as unrelated Social Justice contamination and supply no lesson, claim or coverage unit. The legitimate analytical material in `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\08_Wildlife-Protection-Act-and-Schedules.md` was audited, but its lines **28–29** are overridden by the official Act: amended Section 33's management-plan sentence is sanctuary-specific, and Section 42A requires an existing certificate of ownership rather than creating an undeclared-holdings amnesty. Topic 06 protected-area boundaries come from `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\06_Protected-Area-Network-India.md`; Topic 09 treaty boundaries come from `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\09_CITES-and-Wildlife-Trade.md`. No canonical owner was edited.
 
-**Operational rules in force:** [Breeders of Species Licence Rules, 2023, S.O. 1950(E), 24 April 2023](https://www.forest.cg.gov.in/cms/media/4cb1243f-6fe0-46a8-ac1c-6241a7ce59fc_WL-01052023_Gazzete_Notification_Rules.pdf); [Wild Life (Protection) International Trade of Specimens Rules, 2023, S.O. 5408(E), 21 December 2023](https://egazette.gov.in/WriteReadData/2023/250841.pdf); [Wild Life (Protection) Licencing (Additional Matters for Consideration) Rules, 2024, G.S.R. 46(E), 16 January 2024](https://moef.gov.in/storage/tender/GSR-46(E)-%5B16-01-2024%5D-WildLife-(Protection)-Licencing-(Additional-Matters-for-Consideration)-Rules-2024.pdf); [Wild Life (Transactions and Taxidermy) Rules, 2024, G.S.R. 47(E), 16 January 2024](https://moef.gov.in/storage/tender/GSR-47(E)-%5B16-01-2024%5D-WildLife-(Transactions-and-Taxidermy)-Rules-2024.pdf); [Living Animal Species (Reporting and Registration) Rules, 2024, G.S.R. 145(E), 28 February 2024](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2024/mar/doc202436319801.pdf); and [Captive Elephant (Transfer or Transport) Rules, 2024, G.S.R. 191(E), 14 March 2024](https://moef.gov.in/storage/tender/GSR-191(E)-Captive-Elephant-(Transfer-or-Transport)-Rules-2024.pdf). Each notification states commencement on Gazette publication.
+**Official Act and commencement:** the [current consolidated Wild Life (Protection) Act, 1972, official MoEFCC/Parivesh control](https://parivesh.nic.in/publicdocument/UPLOAD_OM_NOTIFICATION/WLC_DOCS/3006_06032026104558.pdf) supplies Sections 2(16), 9, 11, 12, 17A–17D, 33, 38(2A), 39–49R, 50, 51, 54, 55 and 62–62A and Schedules I–IV. [S.O. 1394(E), 22 March 2023](https://moef.gov.in/storage/tender/SO1394(E).pdf) appoints **1 April 2023** as commencement of Act 18 of 2022. The official text controls every legal proposition in this session.
 
-**Permitted complete-session evidence:** `learning_package_final\Environment-and-Ecology\Subject-wide-Syllabus\08-Wildlife-Protection-Act-and-Schedules\Learning-Session.md` was used only as a bounded coverage check; canonical and primary official sources control factual claims.
+**Constitutional and OCR control:** `upsc-ai-kit\knowledge\Polity\basic\Centre-State-Relations.md` lines 17–23 and `upsc-ai-kit\knowledge\Polity\advanced\13_Centre-State-and-Inter-State-Relations.md` lines 21–35 supply the Article 252 and 42nd-Amendment map. `books\Indian Polity by M Laxmikant.pdf` searchable PDF p. 298 and `books\Courseware on Indian Polity by M Laxmikanth.pdf` searchable PDF p. 306 identify the 1972 Act as an Article 252 example. These sources establish constitutional provenance only; the current Act/Gazette controls wildlife law.
 
-**OCR book:** `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\Indian Polity by M Laxmikant.pdf`, searchable PDF **p. 298**: includes the 1972 Act as a parliamentary law-making example, not a wildlife-schedule authority. A separate local *Courseware on Indian Polity by M Laxmikanth* PDF p. 306 yielded the same limited reference. Neither is cited for wildlife statutory wording.
+**CITES authority implementation:** [S.O. 1328(E), 13 March 2024](https://egazette.gov.in/WriteReadData/2024/252988.pdf) designates Shri Gobind Sagar Bhardwaj as Management Authority until 15 August 2027 or further orders, whichever is earlier. [S.O. 3548(E), 8 August 2023](https://egazette.gov.in/WriteReadData/2023/247931.pdf) designates 23 institutes as Scientific Authorities.
 
-**PYQ control:** exact questions, options and **Set A** metadata were checked against the local official-paper files `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\more_previous_papers\CSP_2020_GS_Paper-1.pdf` (Set A booklet-page code visible), `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\more_previous_papers\GENERAL STUDIES PAPER I.pdf` (Civil Services Preliminary Examination 2022, Set A booklet code visible) and `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\prelima_question_paper_answers\2024-GS1-Set A.pdf`. The official `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\prelima_question_paper_answers\Ans-2024-GS1.pdf` records Set A Q20 as **X (dropped)**. The 2020/2022 local control set does not contain their official keys; none is inferred. The 2026 wildlife controls were checked without adding an unrelated question to this Act-specific set.
+**Operational rules checked as in force on 5 October 2026:** [Breeders of Species Licence Rules, 2023, S.O. 1950(E), 24 April 2023](https://www.forest.cg.gov.in/cms/media/4cb1243f-6fe0-46a8-ac1c-6241a7ce59fc_WL-01052023_Gazzete_Notification_Rules.pdf); [Wild Life (Protection) International Trade of Specimens Rules, 2023, S.O. 5408(E), 21 December 2023](https://egazette.gov.in/WriteReadData/2023/250841.pdf); [Wild Life (Protection) Licencing (Additional Matters for Consideration) Rules, 2024, G.S.R. 46(E), 16 January 2024](https://moef.gov.in/storage/tender/GSR-46(E)-%5B16-01-2024%5D-WildLife-(Protection)-Licencing-(Additional-Matters-for-Consideration)-Rules-2024.pdf); [Wild Life (Transactions and Taxidermy) Rules, 2024, G.S.R. 47(E), 16 January 2024](https://moef.gov.in/storage/tender/GSR-47(E)-%5B16-01-2024%5D-WildLife-(Transactions-and-Taxidermy)-Rules-2024.pdf); [Living Animal Species (Reporting and Registration) Rules, 2024, G.S.R. 145(E), 28 February 2024](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2024/mar/doc202436319801.pdf); and [Captive Elephant (Transfer or Transport) Rules, 2024, G.S.R. 191(E), 14 March 2024](https://moef.gov.in/storage/tender/GSR-191(E)-Captive-Elephant-(Transfer-or-Transport)-Rules-2024.pdf).
 
-**Live, date-bounded linkage:** [Akashvani News, 9 July 2026, CBI–DRI interstate wildlife-crime investigation](https://newsonair.gov.in/cbi-rescue-53-protected-animals-and-birds/) establishes the named agencies, rescue/arrest report and date only; it does not establish conviction, WCCB leadership or a nationwide trafficking trend. No separate 2026 schedule-changing notification is asserted.
+**PYQ routing/audit through 2026:** exact ownership and no-route controls were checked in `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2024-2025.md`, `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2026.md`, `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`, `upsc-ai-kit\knowledge\_PYQ-GS3-2026.md`, `upsc-ai-kit\knowledge\PYQ-INTEGRATION-AUDIT-2024-2025.md` and `upsc-ai-kit\knowledge\PYQ-INTEGRATION-AUDIT-2026.md`. Exact direct questions were checked in `books\more_previous_papers\CSP_2020_GS_Paper-1.pdf`, `books\more_previous_papers\GENERAL STUDIES PAPER I.pdf` and `books\prelima_question_paper_answers\2024-GS1-Set A.pdf`; `books\prelima_question_paper_answers\Ans-2024-GS1.pdf` records Set A Q20 as **X (dropped)**. The 2025 and 2026 no-direct-Topic08 result was checked against `books\prelima_question_paper_answers\2025-GS1-Set A.pdf`, `books\prelima_question_paper_answers\Ans-2025-GS1.pdf`, `books\prelima_question_paper_answers\2026-GS1-Set A.pdf`, `books\prelima_question_paper_answers\Ans-2026-GS1-Provisional.pdf`, `books\mains\03 UPSC 2024 Paper-III.pdf`, `books\mains\UPSC Mains 2025 GS Paper 3 3.pdf` and `books\mains\2026\QP-CSM-26-010926-GENERAL-STUDIES-PAPER-III.pdf`. The 2026 key is **provisional**; no answer is recorded or inferred, and broader 2026 wildlife questions remain routed to their actual owners.
+
+**Biology and live linkage:** [Animal Diversity Web, *Pteropus giganteus* food habits](https://animaldiversity.org/accounts/Pteropus_giganteus/) supports the independent flying-fox diet proposition. [Akashvani News, 9 July 2026](https://newsonair.gov.in/cbi-rescue-53-protected-animals-and-birds/) establishes the named CBI–DRI interstate operation, rescue/arrest report and date only; it does not establish conviction, WCCB leadership or a national trend. No separate 2026 schedule-changing or Section 62 flying-fox notification is asserted.
+
+**Source exclusions:** no claim, coverage decision or repair in this edition derives from the governing permanently excluded final-package directory, any learner-v2 artifact or the optional `learning_package_final\` tree. Canonical, OCR, PYQ and official sources fully resolve the topic.
 
 ## SOURCE-MANIFEST GATE
 
 | Category | Status | Evidence or reason |
 |---|---|---|
-| Canonical Markdown | checked | Topic 08 Basic and Advanced owners plus Topic 06 protected-area and Topic 09 CITES boundaries are represented; Core statutory tools and 2023–24 operational rules precede Advanced application. |
+| Canonical Markdown | checked | Topic 08 Basic lines 1–243 only; unrelated lines 244–295 quarantined. Topic 08 Advanced was audited with lines 28–29 overridden by Sections 33 and 42A. Exact Topic 06/09 and Polity cross-owner paths are recorded above. |
 | Final learner package | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule. |
-| Layered/complete session | checked | Topic-aligned complete-session evidence was used only to cross-check substantive coverage; the exact permitted artifact is listed in the source ledger. |
+| Layered/complete session | not relevant | Not used: canonical Markdown, OCR books, verified PYQs and official law/rules fully resolved the repair. |
 | Solved workbook | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule. |
-| Advanced dossier | checked | Topic 08 Advanced §§1–13 are retained after the complete Core rule, offence-procedure and conservation-reserve treatment. |
-| OCR books | checked | `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\Indian Polity by M Laxmikant.pdf` p. 298 supplies limited parliamentary context only; all wildlife-law propositions rely on the Act, Gazette rules and official papers. |
-| PYQs through 2026 | checked | Complete official 2020 Set A Q81, 2022 Set A Q89 and 2024 Set A Q20/options are reproduced before clues; the official 2024 key's X/dropped status is stated without substituting an answer; 2026 wildlife controls checked. |
-| Official live sources | checked | Primary Gazette/MoEFCC/PIB rule texts establish the 2023–24 rule names, dates, commencement and duties; Akashvani News 9 July 2026 remains the sole current-affairs linkage. |
+| Advanced dossier | checked | Legitimate Topic 08 Advanced analysis on CITES alignment, capacity, invasive risk and outcome limits is retained in Lessons 5–7; its two conflicting claims are expressly rejected above. |
+| OCR books | checked | `books\Indian Polity by M Laxmikant.pdf` p. 298 and `books\Courseware on Indian Polity by M Laxmikanth.pdf` p. 306 establish Article 252 provenance only. |
+| PYQs through 2026 | checked | Exact ledgers, audits, 2020/2022/2024 direct papers, official 2024 X key, 2025 no-route controls and 2026 official-paper/provisional-key controls are enumerated above; no answer is inferred. |
+| Official live sources | checked | Exact consolidated-Act, commencement, Management/Scientific Authority and six operational-rule URLs are recorded above and were checked on 5 October 2026; Akashvani is the sole current-affairs example. |
