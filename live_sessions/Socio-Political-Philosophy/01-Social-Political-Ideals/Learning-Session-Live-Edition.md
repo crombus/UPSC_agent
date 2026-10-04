@@ -1,3111 +1,3859 @@
-# Social and Political Ideals
+# Equality, Liberty and Justice — Complete Learner-First Live Session
 
-> **Scope:** Philosophy Optional, Paper II, Socio-Political Philosophy, Topic 01.
+> **UPSC Philosophy Optional · Paper II · Socio-Political Philosophy**
 >
-> **Canonical syllabus:** “Social and Political Ideals: Equality, Justice, Liberty.”
+> **Syllabus text:** “Social and Political ldeals : Equality, Justice, Liberty.”
 >
-> **Evidence discipline:** ✅ marks a directly supported doctrine, constitutional text, statutory
-> status, judicial holding or verified PYQ. ⚠️ marks philosophical reconstruction, comparison,
-> evaluation or analytical inference. A legal provision or judgment is used as an illustration;
-> it is never treated as philosophical proof or as proof of social implementation.
+> **Learning promise:** The Core below independently teaches every routed demand S01-01–S01-77
+> and solves every one of the sixteen primary-owned PYQs from 2018–2026. Later tiers add
+> discrimination, not missing syllabus content.
 
-## Learner dependency roadmap
+## Evidence language used here
 
-This topic is not three dictionary definitions. It is one normative argument:
+- ✅ **Canonical:** doctrine, attribution or verified paper wording grounded in the authorised files.
+- ⚠️ **Analysis:** a reconstruction, comparison, inference or reasoned verdict.
+- 🏛️ **Bounded illustration:** a constitutional or statutory example used to illuminate a concept.
+  It does not prove that the philosophical ideal has been realised.
+- **PYQ text (verified):** exact English wording reproduced from the verified question banks.
 
-```text
-equal moral standing
-    -> asks what equality requires
-protected agency
-    -> asks what liberty protects and enables
-social cooperation, conflict and inherited power
-    -> ask what is due to each
-justice
-    -> selects criteria, procedures and priorities
-    -> orders equality and liberty without replacing either
-```
+No live-current claim is invented in this session. Dated legal anchors appear only where the
+canonical owner already verifies them.
 
-The ten lessons follow that dependency:
-
-1. the triad and the ordering problem;
-2. equality as worth, status, opportunity and outcome;
-3. Rousseau, Mill and Marx on socially produced inequality;
-4. the metric debate—Sen, Cohen, Dworkin and relational equality;
-5. Berlin and Mill on non-interference, self-mastery and harm;
-6. Hobbes, Locke, Rousseau and Green on law and effective freedom;
-7. technological power and republican non-domination;
-8. justice taxonomy, Plato, Aristotle, distributive criteria, correction, compensation and utility;
-9. Rawls, Nozick, Sen, Ambedkar and the final ordering verdict;
-10. inter-thinker debates, criticism-reply chains, traps and answer-writing synthesis.
-
-The lesson boundaries preserve the Topic 01 firewall. Sovereignty, the complete rights-duties
-theory, forms of government, political ideologies, secularism and multiculturalism, gender, caste,
-crime and development are cross-referenced only where they execute equality, liberty or justice.
-Their complete positive theories belong to their own syllabus topics.
-
-## Source and gap-audit result
-
-The repaired canonical knowledge file, learner-v2 edition, earlier complete learning session and practice workbook, advanced dossier,
-semantic-completion review, local OCR political-theory books and the verified 2018-2026 PYQ
-ledgers were audited independently. The live edition restores the main gaps of the older edition:
-formal/procedural/substantive justice; legal/political/socio-economic/status dimensions; Rawls's
-full lexical-order argument for the 2026 paper; a sharper merit/desert/need criteria problem;
-republican liberty; bounded constitutional applications; and explicit cross-topic boundaries.
-
----
-
-## Lesson 1 — The Ideals Triad: Map, Working Thesis and the Ordering Problem
-
-**Progress: 1/10 | Stage: Foundation | Subtopic: The Ideals Triad: Map, Working Thesis and the Ordering Problem**
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-**Book context:** Queried — Canonical knowledge file, learner-v2 triad map, Gauba's political-theory taxonomy, and the local Socio-Political Philosophy text.
-**CA search:** "social political ideals equality liberty justice India constitutional values 2026"
-**CA found:** No event-specific claim is needed for this conceptual map. The Preamble and Articles 14-21 remain illustrations, not proofs of the philosophical triad.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Three big words run this whole syllabus item -- EQUALITY, LIBERTY, JUSTICE. Do
-not treat them as three unrelated essays. They are one triangle, and each corner
-answers a different question.
+## How the three learning tiers work
 
 ```text
-        THE IDEALS TRIAD -- one triangle, three questions
-        =================================================
-
-        LIBERTY  <----- tension / help ----->  EQUALITY
-        "what may I     \                    /  "in what sense
-         do without      \                  /    are persons
-         interference?"   \                /     equal?"
-                           \              /
-                            \   JUSTICE  /
-                             \  is the  /
-                              \ REFEREE/
-                               \      /
-                    "what is due to each, and by
-                     what rule? which inequalities
-                     are fair, which liberties basic?"
-        -------------------------------------------------
-        Rule of thumb: liberty + equality set up the claims;
-        JUSTICE decides who wins and on what terms.
+MUST-NEEDED / CORE
+all 77 demands + all 16 solved owned PYQs
+                 |
+                 | sufficient by itself
+                 v
+OPTIONAL ADVANCED
+one selective second-order refinement
+                 |
+                 | never repairs a Core gap
+                 v
+BOUNDED EXPERT REFERENCE
+one precision distinction + explicit stop rule
 ```
 
-Plain version: give people total liberty and the strong dominate the weak; force
-total equality and you crush individuality. Neither ideal, by itself, tells you
-where to stop. Justice is the ideal that supplies the deciding rule.
+1. **Must-Needed/Core** contains every point compelled by the syllabus, coverage ledger or owned
+   PYQ, even where that point is philosophically sophisticated.
+2. **Optional Advanced** may sharpen evaluation after the direct doctrine and objection are secure.
+3. **Bounded Expert** is a reference bench. Use one discriminator only when it answers the
+   directive; then stop.
+4. **Promotion rule:** anything needed for a syllabus demand or verified PYQ belongs to Core,
+   whatever its apparent difficulty.
 
-> MEMORY: The minimum triad answer = (1) define the ideal in its strongest form,
-> (2) show the strongest objection or rival ideal, (3) reconcile -- usually
-> through justice, fair opportunity or basic liberties. Define -> Object ->
-> Reconcile.
+## Cross-topic firewalls
 
-
-
-### 0. ONE-SCREEN MAP
-
-| Ideal | Core question | Canonical pivot | Central danger if absolutised | UPSC use-case |
-|---|---|---|---|---|
-| **Equality** | In what sense are persons equal? | Equal moral worth; equal concern | Levelling sameness, neglect of merit, coercive uniformity | Distinguish legal, political, social, economic equality; opportunity vs outcome |
-| **Liberty** | What may a person do without interference, and what capacities must she possess to be truly free? | Negative vs positive liberty | Licence, domination by the strong, or paternal coercion in the name of freedom | Berlin, Mill, Hobbes–Locke–Rousseau, Green |
-| **Justice** | What is due to each, and by what rule? | Fairness, due proportion, entitlement, capability | Sacrificing persons to aggregates, or freezing historical privilege | Plato, Aristotle, Rawls, Nozick, Sen, Ambedkar |
-
-### Working thesis ⚠️
-- **Liberty** without limits can protect the freedom of the already powerful and undermine the conditions of equal citizenship.
-- **Equality** without discrimination among relevant differences can become mechanical levelling and injure individuality or excellence.
-- **Justice** supplies the **criterion of adjudication**: which inequalities are justified, which liberties are basic, and what social arrangements preserve dignity for all.
-
-### Minimum answer-formula ⚠️
-For almost every UPSC question in this cluster, a balanced answer can move through three steps:
-1. define the ideal in its strongest form;
-2. show the strongest objection or rival ideal;
-3. state a reconciliatory verdict, usually through justice, fair opportunity, or basic liberties.
-
-### India-facing constitutional or institutional application
-
-✅ Constitutional text: the Preamble names justice, liberty and equality. ⚠️ Analytical use: the constitutional sequence does not settle disputes among rival theories of each ideal.
-
-### UPSC integration
-
-This subtopic is the frame for every COMPOSITE stem that names two or three
-ideals at once.
-
-- 2018 Q2(a), 20 marks -- liberty and equality as distinctive features of
-  democracy -> open with the triad, then show justice ordering them.
-- 2024 Q2(b), 15 marks -- liberty and equality as political ideals -> the
-  conflict/complement axis is the answer.
-- 2025 Q4(a), 20 marks -- equality and liberty inadequate WITHOUT justice -> the
-  mark-bearing move is to prove each is indeterminate until justice supplies the
-  ordering criterion.
-
-> MEMORY: Composite spine -> name the two ideals -> show each is indeterminate
-> alone -> bring in justice as the ordering criterion -> graded verdict that
-> concedes something to the losing side.
-
-### Revision notes
-
-- Triad = Equality (in what sense equal?), Liberty (free from/for what?),
-  Justice (what is due, by what rule?).
-- Justice is the referee: it decides which inequalities are fair and which
-  liberties are basic.
-- Rivals only beyond a threshold; complementary at the level of basic liberties.
-- Ordering verdict formula: "Liberty and equality are indispensable but each is
-  indeterminate about which liberties and which equalities matter; justice is the
-  criterion that orders their competing claims."
-
-> WRONG: Answering a composite stem with three separate mini-essays. Adjudicate
-> the relation, do not just list.
-
----
-
-### Practice — concept-sensitive retrieval and application
-
-#### Retrieval drill
-
-Without notes, state the distinct question asked by equality, liberty and justice, then explain why justice is an ordering criterion rather than a substitute for the other two.
-
-#### Application drill
-
-A rule protects everyone's contractual liberty but leaves one class able to dictate terms to another. Diagnose the liberty, equality and justice dimensions separately.
-
-#### Lesson MCQs
-
-**MCQ 1: A**
-
-The thesis that liberty and equality are 'indeterminate until justice orders them' means that:
-
-- A. each ideal is silent about which of its own variants (which liberties, which equality) should prevail
-- B. liberty and equality are meaningless concepts
-- C. justice is the only genuine political value
-- D. equality must always defeat liberty
-
-**MCQ 2: B**
-
-Justice is called the 'architectonic' ideal of the triad because it:
-
-- A. is chronologically the oldest of the three ideals
-- B. supplies the ordering criteria that rank and reconcile liberty and equality
-- C. abolishes the need for liberty and equality
-- D. is guaranteed only by written constitutions
-
-#### Answer and option-wise explanations
-
-#### MCQ 1 explanations
-- **A - Correct.** Liberty does not by itself say which liberties are basic, and equality does not say which equality (of status, resource, welfare or capability) matters; justice supplies the ordering criteria.
-- **B - Incorrect.** Indeterminacy is not meaninglessness: liberty and equality remain indispensable claims, but each needs a criterion for choosing among its competing forms.
-- **C - Incorrect.** This overstates the architectonic role of justice. Justice orders liberty and equality; it does not erase their independent normative value.
-- **D - Incorrect.** The priority is falsely made absolute. Justice may protect basic liberty, require equality, or balance them depending on the kind and level of claim.
-
-#### MCQ 2 explanations
-- **A - Incorrect.** "Architectonic" describes a logical ordering function, not historical seniority; an ideal could be ancient without reconciling rival claims.
-- **B - Correct.** Architectonic = ordering: justice provides the criteria (desert, fairness, need, entitlement, capability) that decide the scope and priority of the other two ideals.
-- **C - Incorrect.** Ordering presupposes the values being ordered. If liberty and equality disappeared, justice would have no such claims to rank or reconcile.
-- **D - Incorrect.** This confuses philosophical validity with legal entrenchment. Conceptions of justice can assess customary and unwritten orders as well as written constitutions.
-
-#### Mains micro-practice with model
-
-**Question:** Why are liberty and equality normatively incomplete when treated as isolated ideals? Answer in about 120 words.
-
-**Model answer:** Liberty is incomplete because it does not itself identify which freedoms are basic or when one person's choice becomes another's subjection. Equality is incomplete because it does not identify the proper metric: status, opportunity, resources, capability or outcome. Justice supplies publicly defensible criteria—rights, need, desert, entitlement, capability and rectification—to order these claims. Yet justice is not a fourth substance that displaces liberty and equality. It is architectonic only in the ordering sense: liberty and equality provide indispensable claims; justice determines their fair scope, priority and institutional form.
-
----
-
-## Lesson 2 — Equality I: Equal Worth, the Four Forms, Opportunity vs Outcome
-
-**Progress: 2/10 | Stage: Foundation | Subtopic: Equality I: Equal Worth, the Four Forms, Opportunity vs Outcome**
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-**Book context:** Queried — Gauba pp. 367-412 and the canonical equality sections on equal worth, legal/political/social/economic equality, opportunity and outcome.
-**CA search:** "site:sci.gov.in substantive equality structural barriers judgment 2025 India"
-**CA found:** Jane Kaushik v. Union of India, 2025 INSC 1248, judgment dated 17 October 2025, was located on the official Supreme Court domain as a recent illustration of structural barriers and substantive equality.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Equality does NOT mean everyone is the same. It means every person counts equally
-in moral worth, so hierarchies of birth, caste, race or sex must be JUSTIFIED,
-not just assumed.
-
-```text
-     FOUR FORMS OF EQUALITY -- procedural to substantive
-     ----------------------------------------------------
-   [1] FORMAL / LEGAL   equality before law, equal protection
-          |             (rule against legal privilege)
-          v             ...but can be "paper equality"
-   [2] POLITICAL        equal vote, equal citizenship, office
-          |             ...but wealth may distort influence
-          v
-   [3] SOCIAL           no status hierarchy or stigma
-          |             ...hard to secure by law alone
-          v
-   [4] ECONOMIC         reduce unjust disparities of resource
-                        ...incentive vs redistribution debate
-
-     OPPORTUNITY  vs  OUTCOME
-     ------------------------
-     start line fair?  |  final result fair?
-     respects effort   |  corrects structural disadvantage
-     fix: FAIR (not    |  fix: floors/ceilings, least-
-     merely formal)    |       advantaged, capability
-     opportunity       |       thresholds
-```
-
-Plain version: legal equality is the floor; social and economic equality ask
-whether that floor means anything in real life. And the great modern dispute is
-whether we equalise the STARTING LINE (opportunity) or the FINISHING LINE
-(outcome).
-
-> MEMORY: Four forms = LEGAL, POLITICAL, SOCIAL, ECONOMIC (L-P-S-E). Two lenses =
-> OPPORTUNITY (start) vs OUTCOME (finish).
-
-
-
-### 1. EQUALITY
-
-### 1.1 Basic meaning
-**Statement ✅:** Equality means not sameness of all persons in all respects, but recognition of **equal moral worth** and the demand that institutions treat persons with equal concern.
-
-- **Argument ✅:** If all persons count morally, arbitrary hierarchies of birth, caste, race, sex, or inherited privilege need justification rather than presumption.
-- **Presupposition ✅:** Human beings are moral agents whose dignity does not vary with social rank.
-- **Distinction ✅:** equality of worth ≠ identity of talent, desire, capacity, or outcome.
-- **Example ⚠️:** Equality before law does not imply equal income, but it rules out legal privilege by status.
-- **Objection → Reply ⚠️:**
-  - **Objection:** natural differences make equality unreal. - **Reply:** political equality does not deny difference; it denies that natural difference by itself authorises domination.
-
-### 1.2 Formal/legal, political, social, and economic equality
-
-| Form of equality | Statement | What it secures | Main objection | Standard reply |
-|---|---|---|---|---|
-| **Formal / legal equality** ✅ | Equality before law and equal protection of laws | Rule against legal privilege | Can be merely paper equality if society is deeply unequal | Needs support from substantive opportunity |
-| **Political equality** ✅ | Equal citizenship, equal vote, eligibility for office | Non-oligarchic public standing | Wealth may distort actual influence | Institutions must curb domination and widen participation |
-| **Social equality** ✅ | Absence of status hierarchy and stigma | Equal civic respect | Hard to secure through law alone | Requires social reform, education, fraternity |
-| **Economic equality** ⚠️ | Reduction of unjust disparities in resources, wealth, and life chances | Fair background conditions | May weaken incentive or require coercive redistribution | Defenders argue some redistribution protects fair freedom |
-
-### 1.3 Equality of opportunity and equality of outcome
-
-**Statement ✅:** Modern theory distinguishes **equality of opportunity** from **equality of outcome**.
-
-| Axis | Equality of opportunity | Equality of outcome |
+| Bridge used here | What this session owns | Where the full theory remains |
 |---|---|---|
-| Core claim | Offices and advantages should be open on fair terms | Distribution should not leave large or unjust final disparities |
-| Moral focus | Fair starting point | Fair social result |
-| Liberal appeal | Respects effort and choice | Corrects structural disadvantage and inherited power |
-| Main objection | “Starting line” fairness is illusory if background inequality is severe | Risks levelling, paternalism, and reduced autonomy |
-| Best reply | Move from merely formal to **fair** equality of opportunity | Outcome concern may be limited to thresholds, needs, or least advantaged groups |
-
-- **Argument ⚠️:** Opportunity language dominates liberal societies because it seems to combine fairness with responsibility. Yet if children inherit grossly unequal education, health, culture, and social networks, opportunity may be only formally equal.
-- **Presupposition ✅:** Individuals should not be blocked by arbitrary birth-based barriers.
-- **Example ⚠️:** Open competition for office is not fully fair where one class alone can realistically prepare for it.
-- **Objection → Reply ⚠️:**
-  - **Objection:** outcome-based thinking abolishes incentive. - **Reply:** many egalitarians ask not for identical outcomes but for ceilings on avoidable deprivation and floors of decent capability.
-
-### India-facing constitutional or institutional application
-
-✅ Judicial holding/status: the cited 2025 judgment is a legal illustration of substantive equality. ⚠️ It does not establish that one philosophical metric of equality is uniquely correct.
-
-### UPSC integration
-
-This subtopic supplies the FIRST DISTINCTION for almost every equality stem.
-
-- 2024 Q2(b), 15 marks -- liberty and equality as political ideals -> lead with
-  the four forms so "equality" is specified, not vague.
-- 2022 Q1(d), 10 marks -- "complete liberty may lead to inequality" -> the
-  formal-vs-substantive gap is the pivot.
-- 2025 Q4(a), 20 marks -- inadequate without justice -> show equality is
-  under-specified (of what? status, opportunity, outcome?) until justice chooses.
-
-> MEMORY: Equality spine -> equal worth (not sameness) -> name the relevant form
-> (legal / political / social / economic) -> opportunity vs outcome -> which
-> criterion, and why, is the mark-bearing move.
-
-### Revision notes
-
-- Equality = equal moral worth and equal concern; NOT identical talent or
-  outcome.
-- Four forms: formal/legal, political, social, economic (L-P-S-E).
-- Formal equality without fair background conditions can entrench privilege.
-- Opportunity (fair, not merely formal) vs outcome (thresholds, floors,
-  least-advantaged), not flat levelling.
-
-> WRONG: Equating equality with sameness. That caps you at the average band.
-
----
-
-### Practice — concept-sensitive retrieval and application
-
-#### Retrieval drill
-
-Draw the four forms of equality from memory and give one case in which identical treatment would preserve rather than remove disadvantage.
-
-#### Application drill
-
-A competitive examination is formally open to all, but access to schooling, disability accommodation and preparation differs sharply. Identify what formal equality secures and what it misses.
-
-#### Lesson MCQs
-
-**MCQ 3: C**
-
-'Directive-sensitivity' in answering these questions means:
-
-- A. always agreeing with the statement quoted in the question
-- B. writing the longest possible answer
-- C. tailoring the answer's structure to the command word (discuss / critically evaluate / how far)
-- D. citing as many thinkers as possible regardless of relevance
-
-**MCQ 4: D**
-
-The safest general verdict pattern across liberty-equality-justice stems is that the ideals are:
-
-- A. such that liberty always trumps equality
-- B. such that equality always trumps liberty
-- C. never in conflict with one another
-- D. complementary at the base and rivalrous only beyond a threshold, ordered by justice
-
-**MCQ 5: A**
-
-The foundational premise of equality as a political ideal is:
-
-- A. the equal moral worth of persons, whatever their birth or status
-- B. that all people are identical in ability
-- C. that all incomes must be exactly equal
-- D. that relevant differences should never be recognised
-
-#### Answer and option-wise explanations
-
-#### MCQ 3 explanations
-- **A - Incorrect.** A directive controls method, not conclusion: "critically evaluate" may require disagreement, qualification, or partial agreement rather than automatic assent.
-- **B - Incorrect.** Length is not directive-sensitivity. The command word determines the argumentative operation, while relevance and proportion determine how much to write.
-- **C - Correct.** The directive fixes the required structure: 'discuss' exposes a tension, 'critically evaluate' demands objection-reply, 'how far' demands a degree judgment.
-- **D - Incorrect.** Thinker-count is a poor substitute for task-fit. Authorities matter only when they help perform the requested explanation, comparison, or evaluation.
-
-#### MCQ 4 explanations
-- **A - Incorrect.** This reverses the qualified relation into lexical supremacy for liberty. Equal basic status can be a condition of meaningful liberty, so liberty cannot win every conflict.
-- **B - Incorrect.** This makes equality mechanically supreme and ignores protected choice, individuality, and basic liberties that just equality must itself respect.
-- **C - Incorrect.** The denial of all conflict is a false universal: redistribution, regulation, and competing exercises of freedom can generate real threshold disputes.
-- **D - Correct.** Equal basic liberties are themselves an equality; conflict appears only past a threshold, where justice adjudicates. Flat 'always' claims lose the degree marks.
-
-#### MCQ 5 explanations
-- **A - Correct.** Equality begins from equal moral worth / equal consideration, not from a false claim of identical capacities or mandated identical incomes.
-- **B - Incorrect.** Equal worth is a moral-status claim, not an empirical claim that talents, needs, choices, or capacities are identical.
-- **C - Incorrect.** Exact income equality is one contested distributive pattern, not the foundation of equality across legal, political, social, and economic domains.
-- **D - Incorrect.** Ignoring relevant differences can reproduce disadvantage; equal concern may require accommodation or need-sensitive differentiation.
-
-#### Mains micro-practice with model
-
-**Question:** Can identical treatment be unequal? Explain through the distinction between formal and substantive equality.
-
-**Model answer:** Yes. Formal equality requires a common rule and guards against explicit privilege; it is therefore indispensable. But when persons begin from structurally unequal positions, identical treatment can preserve the effect of those inequalities. Substantive equality asks whether persons enjoy equal standing and genuinely usable opportunity. It may therefore justify accommodation or differentiated support, provided the distinction responds to a relevant disadvantage and remains publicly justifiable. The balanced position is not to abandon formal equality, but to treat it as a floor that requires substantive completion.
-
----
-
-## Lesson 3 — Equality II: Rousseau, Mill and Marx on Inequality, Individuality and Need
-
-**Progress: 3/10 | Stage: Core | Subtopic: Equality II: Rousseau, Mill and Marx on Inequality, Individuality and Need**
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-**Book context:** Queried — Canonical Rousseau, Mill and Marx sections; local political-theory text used to check standard distinctions and titles.
-**CA search:** "Rousseau inequality Mill equality Marx equity equality current affairs India 2026"
-**CA found:** No doctrine-specific event in the last six months was necessary. These are historical arguments; current policy examples are used only illustratively.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Three thinkers give equality three different jobs. Keep them on separate shelves.
-
-```text
-   ROUSSEAU        |   MILL            |   MARX
-   -----------------------------------------------------------
-   splits          |   liberal         |   suspicious of
-   inequality:     |   egalitarian:    |   FORMAL equality:
-                   |                   |
-   NATURAL         |   equal worth +   |   equal exchange
-   (age, strength) |   equal status +  |   hides class
-      vs           |   WOMEN'S         |   exploitation
-   ARTIFICIAL /    |   equality        |
-   MORAL           |   (Subjection     |   equity = "to each
-   (wealth, rank,  |    of Women)      |   according to NEED"
-   convention)     |   -- but keeps    |   not "same measure
-                   |   individuality   |   for all"
-   -----------------------------------------------------------
-   diagnosis:      |   extend equality |   equal RIGHT can be
-   society MAKES   |   to social life, |   a right of
-   the worst       |   esp. gender     |   INEQUALITY
-   inequalities    |                   |
-```
-
-Plain version: Rousseau says the cruelest inequalities are man-made, not natural.
-Mill says equality must reach women and social life, but must not crush
-individuality. Marx says "equal treatment" can be a mask -- real fairness is
-sensitive to NEED.
-
-> MEMORY: Rousseau = natural vs artificial; Mill = equal status + women, minus
-> levelling; Marx = equity (need) over formal equality.
-
-
-
-### 1.4 Rousseau: natural and artificial/moral inequality
-
-**Statement ✅:** Rousseau distinguishes **natural or physical inequality** from **moral/political (often called artificial) inequality**.
-
-- **Natural inequality ✅:** differences of age, strength, health, or intelligence.
-- **Artificial/moral inequality ✅:** inequalities established by convention—wealth, honour, power, dependence, and social superiority.
-
-**Argument ✅:** Natural differences become politically toxic when social institutions convert them into durable domination and vanity. Civil society, especially property and comparison, deepens dependence.
-
-**Presupposition ✅:** Human beings in the state of nature are not yet trapped by the same comparative social passions that later produce hierarchy.
-
-**Distinction ✅:** Rousseau is not saying all inequality is created by convention; he says the most oppressive forms are socially produced and socially maintained.
-
-**Example ⚠️:** One person being stronger than another is natural; one person commanding another because convention sanctifies property and status is moral/political inequality.
-
-**Objection → Reply ⚠️:**
-- **Objection:** Rousseau romanticises nature and understates the inevitability of social ranking.
-- **Reply:** the force of his distinction is diagnostic, not pastoral: institutions magnify and legitimise inequalities far beyond natural difference.
-
-**UPSC hook:** This distinction directly answers **2021: 1(b) 10m** on natural versus artificial inequality.
-
-### 1.5 J. S. Mill on equality
-
-**Statement ✅:** Mill is a liberal egalitarian in a qualified sense: he affirms equal moral standing, equal civic and legal status, and especially **gender equality**, but he resists crude levelling that suppresses individuality.
-
-### Mill's salient features of equality
-1. **Equal worth in moral accounting ✅** — each person counts, and no one is to be discounted because of birth or station. 2. **Equality before law and citizenship ✅** — privilege by status is indefensible. 3. **Women's equality ✅** — in *The Subjection of Women*, Mill attacks legal and social subordination as a relic of domination, not nature.
-4. **Equality compatible with individuality ✅** — sameness is not the goal; free self-development is. 5. **Hostility to custom-made hierarchy ✅** — inherited social subordination blocks both utility and justice. 6. **Qualified economic concern ⚠️** — Mill is open to reforming property relations and labour conditions, but not to extinguishing all differences by coercive equalisation.
-
-- **Argument ✅:** A society that excludes half its members or attaches rights to status wastes human capacities and violates utility properly understood.
-- **Presupposition ✅:** Human flourishing requires individuality and experimentation in living.
-- **Distinction ✅:** equality of status and chance ≠ uniformity of life plan.
-- **Example ✅:** Mill's feminist argument: subordination of women is not justified by nature because the “nature” appealed to is itself socially manufactured through subjection.
-- **Objection → Reply ⚠️:**
-  - **Objection:** Mill remains too individualistic to address structural economic inequality. - **Reply:** true, but within liberalism he radicalises equality by extending it beyond formal rights to social relations, especially gender.
-
-### 1.6 Marx: equality, equity, need
-
-**Statement ✅:** Marx is suspicious of merely formal equality under capitalism because formally equal exchange can conceal material exploitation.
-
-### Equality versus equity in Marxian perspective
-
-| Theme | Formal equality under capitalism | Marxian equity / communist principle |
-|---|---|---|
-| Distribution rule | Equivalent exchange among legal equals | Distribution by need in higher communism |
-| Hidden reality | Class power shapes production and appropriation | Social production organised for human flourishing |
-| Labour relation | Wage contract appears free and equal | Alienation and exploitation are overcome |
-| Moral defect | Same legal rule applied to unequals reproduces class domination | Unequal needs justify differentiated shares |
-
-**Canonical formula ✅:** “From each according to his ability, to each according to his need.”
-
-- **Argument ✅:** Bourgeois equality abstracts from class structure. Equal right, measured by a common standard, can still be a right of inequality because people differ in need, burden, family condition, and starting position.
-- **Presupposition ✅:** Human beings are socially formed producers; justice cannot be reduced to market exchange between isolated possessors.
-- **Distinction ✅:** **Equality** = same measure for all; **equity** = differentiated treatment responsive to need and actual condition.
-- **Example ⚠️:** Equal wages for all hours may still be inequitable if one worker supports dependents and another does not; Marx's deeper claim is that the wage relation itself is structurally exploitative.
-- **Objection → Reply ⚠️:**
-  - **Objection:** need-based distribution is vague and may weaken incentive. - **Reply:** Marx's principle concerns a higher stage of social cooperation where alienated labour and scarcity are transformed; it is not merely a market-time salary rule.
-
-**UPSC hook:** This directly structures **2022: 2(c) 15m** on equity versus equality in Marxian philosophy.
-
-### India-facing constitutional or institutional application
-
-⚠️ Philosophical comparison: Rousseau explains socially produced dependence, Mill protects equal status with individuality, and Marx exposes material domination behind formal equality.
-
-### UPSC integration
-
-Three directly examinable question routes meet in this lesson.
-
-- 2021 Q1(b), 10 marks -- Rousseau on natural vs artificial inequality -> this is
-  the whole answer; state the distinction and its diagnostic force.
-- 2025 Q1(e), 10 marks -- salient features of equality according to J.S. Mill ->
-  list Mill's features (equal worth, legal/civic equality, women's equality,
-  compatible with individuality, hostility to custom-hierarchy, qualified
-  economic concern).
-- 2022 Q2(c), 15 marks -- equity vs equality in Marxian philosophy -> the
-  equality/equity table is the spine. Routing note: this part is OWNED here (the
-  demanded concept is equity vs equality); Marxism-as-ideology stems belong to
-  Political Ideologies.
-
-> MEMORY: Do not import the Marx-as-ideology answer here; the demand is the
-> equity/equality DISTINCTION, framed by Marx.
-
-### Revision notes
-
-- Rousseau: natural (physical) vs artificial/moral (convention-made) inequality;
-  the worst forms are socially produced.
-- Mill: equal worth + civic equality + WOMEN'S equality, without crushing
-  individuality; The Subjection of Women.
-- Marx: formal equality hides exploitation; equity = differentiated shares by
-  need; equal right can be a right of inequality.
-
-> WRONG: Treating "equity" and "equality" as synonyms in the Marxian question.
-
----
-
-### Practice — concept-sensitive retrieval and application
-
-#### Retrieval drill
-
-Give one sentence each on Rousseau's natural/artificial distinction, Mill's anti-subordination equality, and Marx's equality/equity distinction.
-
-#### Application drill
-
-A workplace applies the same wage rule to all while bargaining power and control over production remain radically unequal. Which thinker best exposes the hidden structure, and why?
-
-#### Lesson MCQs
-
-**MCQ 6: B**
-
-'Formal / legal equality' refers to:
-
-- A. equal economic outcomes for all
-- B. equal treatment before the law and equal application of rules
-- C. proportional representation in the legislature
-- D. equality of natural talents
-
-**MCQ 7: C**
-
-Equality of opportunity differs from equality of outcome in that opportunity-equality:
-
-- A. guarantees identical final results for everyone
-- B. is simply another name for formal legal equality
-- C. equalises starting conditions and access rather than final shares
-- D. is rejected by every liberal thinker
-
-**MCQ 8: D**
-
-The reminder that 'equality is not sameness' means that:
-
-- A. equality requires abolishing every human difference
-- B. equality and identity are exact synonyms
-- C. equal treatment always requires literally identical treatment
-- D. treating people as equals can require differentiated treatment responsive to relevant differences
-
-**MCQ 9: A**
-
-Rousseau's distinction between natural and moral/political inequality holds that:
-
-- A. the most oppressive inequalities are conventionally produced, not natural
-- B. all inequality is rooted in biology
-- C. natural inequality is the only real inequality
-- D. inequality does not exist in civil society at all
-
-#### Answer and option-wise explanations
-
-#### MCQ 6 explanations
-- **A - Incorrect.** This substitutes outcome equality for a procedural-legal idea. Formal equality governs the application of law and can coexist with unequal incomes.
-- **B - Correct.** Formal/legal equality is equality before and under the law; it is necessary but, taken alone, compatible with deep social and economic disadvantage.
-- **C - Incorrect.** Legislative representation is a specific political arrangement, whereas legal equality concerns persons being subject to the same public rules without privilege.
-- **D - Incorrect.** Natural talents are neither created nor equalised by equal legal status; the option confuses a fact about endowments with a norm of law.
-
-#### MCQ 7 explanations
-- **A - Incorrect.** Identical results define a strong outcome standard, not opportunity. Fair opportunity leaves room for results to vary with choice and effort after access is secured.
-- **B - Incorrect.** Formal equality removes explicit legal barriers, but fair opportunity also addresses social and material obstacles that make nominal access ineffective.
-- **C - Correct.** Opportunity equality targets fair access and starting conditions; outcome equality targets final distributions. Fair equality of opportunity is a central liberal-egalitarian demand.
-- **D - Incorrect.** The universal attribution is false: many liberals defend fair equality of opportunity precisely because it combines open careers with individual responsibility.
-
-#### MCQ 8 explanations
-- **A - Incorrect.** Abolishing difference mistakes equality for homogenisation; the target is unjust hierarchy, not human diversity.
-- **B - Incorrect.** Identity means being the very same, while equality is a normative relation among distinct persons; the concepts are not synonyms.
-- **C - Incorrect.** Literal sameness can disadvantage differently situated people, so equal status may require ramps, reservations, or other relevant accommodations.
-- **D - Correct.** Treating people AS equals (equal concern and respect) sometimes requires unequal treatment - e.g. accommodating disability or disadvantage - so equality is not mechanical sameness.
-
-#### MCQ 9 explanations
-- **A - Correct.** Natural inequality (strength, age, health) becomes politically toxic only when institutions - property, status - convert it into durable domination.
-- **B - Incorrect.** Rousseau distinguishes physical differences from moral-political rank; property, convention, and dependence—not biology alone—produce oppressive hierarchy.
-- **C - Incorrect.** This naturalises institutions Rousseau treats as historically constructed and therefore open to criticism.
-- **D - Incorrect.** Civil society is where moral and political inequality becomes entrenched; denying it removes the object of Rousseau’s critique.
-
-#### Mains micro-practice with model
-
-**Question:** Compare Mill and Marx on equality without reducing either to a slogan.
-
-**Model answer:** Mill treats equality principally as equal moral, legal and civic status compatible with individuality. His feminist argument exposes social subordination as manufactured rather than natural, while his liberalism resists coercive levelling. Marx argues that equal legal exchange can coexist with exploitation because the wage relation and ownership structure shape the supposedly voluntary bargain. His need-sensitive equity therefore goes beyond a common measure. Mill best protects individuality and anti-status equality; Marx best diagnoses the material structure that can hollow those gains. A strong synthesis retains Mill's equal status while accepting Marx's warning about formal equality under unequal power.
-
----
-
-## Lesson 4 — Equality III: 'Equality of What?' -- Sen, Cohen and Dworkin
-
-**Progress: 4/10 | Stage: Core | Subtopic: Equality III: 'Equality of What?' -- Sen, Cohen and Dworkin**
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-**Book context:** Queried — Canonical Sen, Cohen and Dworkin sections; advanced dossier checked for luck egalitarianism and relational-equality boundaries.
-**CA search:** "capability equality resources relational equality India 2025 2026 Supreme Court"
-**CA found:** The 17 October 2025 Jane Kaushik judgment provides a current legal illustration of disability, stigma and structural barriers; the metric debate remains philosophical.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-The modern egalitarian does not ask "equality yes or no?" but "equality OF WHAT?"
--- which currency do we equalise?
-
-```text
-     "EQUALITY OF WHAT?" -- the metric ladder
-     ----------------------------------------
-     UTILITY / WELFARE  --> how happy/satisfied?      (too subjective)
-            |
-     RESOURCES / GOODS  --> how much stuff/income?    (Dworkin, Rawls)
-            |                same stuff != same freedom
-            v
-     CAPABILITIES       --> what can you actually     (SEN)
-                            DO and BE?                 real freedom, not
-                                                       just possession
-     ----------------------------------------
-     side-debate (COHEN): even just institutions can be
-     undermined by an anti-egalitarian ETHOS -- the
-     talented demanding extra reward to contribute.
-
-     side-debate (DWORKIN): equalise RESOURCES, not welfare;
-     neutralise BRUTE luck (unchosen), respect OPTION luck
-     (chosen gambles).
-```
-
-Plain version: two people with the same income are not equally free if one is
-disabled, or blocked by social norms. Sen says measure real freedoms
-(capabilities), not just the stuff people hold.
-
-> MEMORY: Ladder = UTILITY -> RESOURCES -> CAPABILITIES. Sen picks capabilities;
-> Dworkin picks resources; Cohen adds the ethos.
-
-
-
-### 1.7 “Equality of what?” — Sen and Cohen
-
-**Statement ✅:** The modern egalitarian question is not whether to value equality, but **equality of what**.
-
-### Sen
-- **Statement ✅:** Equality should focus neither only on utility nor only on primary goods, but on **capabilities**—what persons are actually able to do and to be.
-- **Argument ✅:** The same bundle of resources yields different real freedoms for different persons because of disability, age, gender, climate, health, and social position.
-- **Presupposition ✅:** Persons are diverse in conversion of resources into functioning.
-- **Distinction ✅:** resources ≠ capabilities; possession ≠ effective freedom.
-- **Example ⚠️:** Two persons with the same income may not have the same real mobility or educational possibility.
-- **Objection → Reply ⚠️:**
-  - **Objection:** capability lists can be indeterminate. - **Reply:** Sen deliberately leaves room for public reasoning rather than a rigid final list.
-
-### G. A. Cohen
-- **Statement ✅:** Cohen presses the question whether equality should concern welfare, opportunity for advantage, access to advantage, or broader community-sensitive conditions.
-- **Argument ⚠️:** If justice is compromised by incentives demanded by the talented, then unequal outcomes cannot be fully excused merely because institutions are just at the basic-structure level.
-- **Presupposition ⚠️:** personal choices and ethos matter, not only institutions.
-- **Distinction ⚠️:** institutional justice vs egalitarian social ethos.
-- **Example ⚠️:** If the talented demand extra reward to contribute, Cohen asks whether this reflects justice or moral bargaining power.
-- **Objection → Reply ⚠️:**
-  - **Objection:** Cohen's standard is too demanding of personal virtue. - **Reply:** he reveals that institutional equality can be undermined by anti-egalitarian attitudes and incentives.
-
-### 1.8 Dworkin's resource egalitarianism (brief)
-
-**Statement ✅:** Dworkin argues for **equality of resources**, not equality of welfare.
-
-- **Argument ✅:** Justice should neutralise brute luck while respecting responsible choice. His auction and insurance thought experiments try to show how equal concern can coexist with personal responsibility.
-- **Presupposition ✅:** Differences due to luck and differences due to choice should not be treated alike.
-- **Distinction ✅:** brute luck vs option luck.
-- **Example ⚠️:** Society may insure against misfortune people did not choose, without compensating every outcome of risky voluntary choices.
-- **Objection → Reply ⚠️:**
-  - **Objection:** separating luck from choice is often difficult in real life. - **Reply:** even if imperfect, the distinction clarifies why egalitarianism need not equalise every preference-satisfaction.
-
-### 1.9 Interim verdict on equality ⚠️
-Equality is strongest when treated as **equal status, fair opportunity, and protection against arbitrary domination**, while remaining alert to need, capability, and historical oppression. The deepest debates are not “equality or no equality,” but *which metric*, *what scope*, and *how far equality may justify differential treatment*.
-
-### India-facing constitutional or institutional application
-
-✅ Legal illustration: reasonable accommodation can reveal why equal resources or equal rules may not yield equal capability. ⚠️ Inference: this supports asking 'equality of what?' but does not decide the full Sen-Dworkin-Cohen debate.
-
-### UPSC integration
-
-This subtopic is depth-ammunition for equality and justice stems alike.
-
-- 2021 Q2(a), 20 marks -- Sen vs Rawls -> the capability metric and public
-  reasoning are the improvement claim (developed fully in Justice II).
-- 2024 Q2(b), 15 marks / 2025 Q4(a), 20 marks -- when the stem says "equality",
-  raise the metric question: equality of WHAT?
-
-> MEMORY: If a stem treats equality as one flat thing, win marks by asking
-> "equality of what -- welfare, resources or capabilities?" and naming Sen.
-
-### Revision notes
-
-- The modern question is "equality of WHAT?": utility -> resources ->
-  capabilities.
-- Sen: capabilities (real freedom to do and be); conversion varies by person;
-  open list via public reasoning.
-- Cohen: just institutions can be undermined by an anti-egalitarian ethos.
-- Dworkin: equalise resources; neutralise brute luck, respect option luck.
-
-> WRONG: Capability = utility, or capability = income. Both are wrong.
-
----
-
-### Practice — concept-sensitive retrieval and application
-
-#### Retrieval drill
-
-Distinguish resources, welfare, capabilities, brute luck, option luck and relational standing in one line each.
-
-#### Application drill
-
-Two citizens receive the same mobility grant, but one cannot convert it into actual movement because public infrastructure is inaccessible. Which metric identifies the failure most directly?
-
-#### Lesson MCQs
-
-**MCQ 10: B**
-
-For J.S. Mill, equality is compatible with:
-
-- A. the suppression of individuality
-- B. individuality and free self-development
-- C. legally enforced identical lifestyles
-- D. the permanent subjection of women
-
-**MCQ 11: C**
-
-Marx's claim that 'equal right is a right of inequality' is aimed at:
-
-- A. the equality of women
-- B. the political equality of votes
-- C. abstract, formally equal exchange that ignores unequal needs and class position
-- D. Rawls's difference principle
-
-**MCQ 12: D**
-
-On a disciplined reading, the Marxian principle 'to each according to his need' is:
-
-- A. an immediate market wage rule
-- B. identical to equality of opportunity
-- C. a demand for equal incomes right now
-- D. a principle for a higher stage of cooperation, not a present salary formula
-
-#### Answer and option-wise explanations
-
-#### MCQ 10 explanations
-- **A - Incorrect.** Mill treats individuality as a component of well-being and progress; equality removes inherited subjection rather than suppressing experiments in living.
-- **B - Correct.** Mill's egalitarianism prizes free self-development and expressly rejects the subjection of women; equality secures the conditions for individuality, not its suppression.
-- **C - Incorrect.** Compulsory uniform lifestyles violate Millian individuality. Equal civic standing does not require identical choices or modes of life.
-- **D - Incorrect.** The subjection of women is Mill’s paradigm of unjust custom, not a permissible exception to equality.
-
-#### MCQ 11 explanations
-- **A - Incorrect.** Women’s equality is not the target of this formula. Marx is criticising a common distributive measure that ignores unequal persons and circumstances.
-- **B - Incorrect.** Equal voting rights concern political status, whereas the passage diagnoses material inequality reproduced through formally equal economic right.
-- **C - Correct.** A single common measure applied to unequally-placed people reproduces disadvantage; Marx exposes the class content beneath formally equal exchange.
-- **D - Incorrect.** The attribution is anachronistic: Marx’s critique predates Rawls and addresses bourgeois right, not the difference principle.
-
-#### MCQ 12 explanations
-- **A - Incorrect.** The need principle belongs to higher communism after transformed productive conditions; treating it as an immediate wage rule omits that stage condition.
-- **B - Incorrect.** Opportunity concerns access and starting positions, while the maxim distributes according to need after contribution ceases to be the governing measure.
-- **C - Incorrect.** Need-sensitive distribution can give unequal amounts to unequal needs; it is not a demand for numerically identical current incomes.
-- **D - Correct.** Reading the need-principle as a present pay rule invites the 'vague / weakens incentive' objection; Marx locates it at a transformed, higher stage of production.
-
-#### Mains micro-practice with model
-
-**Question:** Is the metric question more important than the abstract commitment to equality?
-
-**Model answer:** An abstract commitment to equality is too indeterminate to guide distribution. Equal welfare can reward expensive tastes; equal resources ignore conversion differences; equal capability attends to real freedom; luck egalitarianism distinguishes brute from option luck; relational equality targets hierarchy and humiliation. The metric question is therefore indispensable because it identifies what institutions must equalise and why. Yet no metric is self-applying: capabilities can be open-ended, luck and choice are difficult to separate, and status cannot replace material distribution. The best answer is metric-plural but reasoned—select the metric that fits the good and the injustice under examination.
-
----
-
-## Lesson 5 — Liberty I: Meaning, Berlin's Two Concepts, Mill's Harm Principle
-
-**Progress: 5/10 | Stage: Core | Subtopic: Liberty I: Meaning, Berlin's Two Concepts, Mill's Harm Principle**
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-**Book context:** Queried — Berlin and Mill sections in the canonical knowledge file; Gauba used for the negative/positive taxonomy and Mill's harm principle.
-**CA search:** "India liberty privacy freedom of expression Supreme Court recent 2026 official"
-**CA found:** No new six-month holding was needed. The official Supreme Court repository continues to host the 24 August 2017 Puttaswamy privacy judgment; it is used as a settled legal illustration, not a current event.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Liberty has two classic doors, and one famous gate.
-
-```text
-     BERLIN'S TWO DOORS OF LIBERTY
-     -----------------------------------------------
-     NEGATIVE liberty        |   POSITIVE liberty
-     "freedom FROM"          |   "freedom TO"
-     Within what area am I   |   Who is my master?
-     left alone?             |   By what self am I ruled?
-     Hobbes, Locke, Mill     |   Rousseau, Kant, Green
-     value: no coercion      |   value: self-mastery
-     risk: ignores real      |   risk: coercing the
-       incapacity            |     "lower self" for the
-                             |     "real self"
-     -----------------------------------------------
-
-     MILL'S HARM-PRINCIPLE GATE
-     -----------------------------------------------
-     act primarily on YOURSELF  --> [ self-regarding ] --> leave free
-     act that harms OTHERS      --> [ other-regarding] --> may regulate
-     (mere offence/disapproval is NOT harm)
-```
-
-Plain version: negative liberty is a fence around you that the state may not
-cross. Positive liberty is being genuinely in charge of yourself. Mill's rule for
-where society may step in: only to prevent HARM TO OTHERS.
-
-> MEMORY: Negative = freedom FROM (Berlin's warning lives here). Positive =
-> freedom TO. Mill's gate = harm to others, not offence.
-
-
-
-### 2. LIBERTY
-
-### 2.1 Basic meaning
-**Statement ✅:** Liberty refers to a protected sphere of action and thought, and in richer accounts to the power of self-direction or self-realisation.
-
-- **Argument ✅:** A person is not fully human if every act depends on another's permission.
-- **Presupposition ✅:** agency has moral significance.
-- **Distinction ✅:** liberty ≠ mere power; a tyrant has power, not a right to liberty.
-- **Example ⚠️:** freedom of speech protects a domain of judgment even when one's opinions are unpopular.
-- **Objection → Reply ⚠️:**
-  - **Objection:** no one is ever absolutely unconstrained. - **Reply:** liberty theory concerns justified and unjustified constraints, not metaphysical limitlessness.
-
-### 2.2 Isaiah Berlin: negative and positive liberty
-
-| Dimension | Negative liberty | Positive liberty |
-|---|---|---|
-| Core question | Within what area am I left alone? | Who governs me? By what self am I directed? |
-| Basic sense | Freedom **from** interference ✅ | Freedom **to** be one's own master ✅ |
-| Typical lineage | Hobbes, Locke, Mill, classical liberalism | Rousseau, Kantian autonomy, Hegel, Green |
-| Main value | Protection against coercion and paternalism | Self-mastery, rational agency, self-realisation |
-| Berlin's warning | Too little positive concern may ignore actual incapacity | Positive liberty may justify coercing the “lower self” for the “real self” |
-
-**Statement ✅:** Berlin does not deny the attraction of positive liberty; he warns that when rulers claim to know a person's “true” interests better than the person herself, coercion can masquerade as emancipation.
-
-- **Argument ✅:** The split between “real self” and “empirical self” permits authoritarian paternalism.
-- **Presupposition ✅:** value pluralism; human goods are many and not always harmonisable.
-- **Distinction ✅:** enabling conditions for freedom are different from a doctrine authorising forced perfection.
-- **Example ⚠️:** A state claiming to silence dissent “for citizens' true freedom” illustrates the danger Berlin saw.
-- **Objection → Reply ⚠️:**
-  - **Objection:** pure negative liberty ignores poverty, addiction, illiteracy, and dependency. - **Reply:** Berlin's distinction need not deny social preconditions; it warns against totalising political projects in the name of liberation.
-
-### 2.3 Mill: harm principle; self-regarding and other-regarding acts
-
-**Statement ✅:** In *On Liberty*, Mill holds that the only legitimate reason for coercing an individual against her will is to prevent **harm to others**.
-
-### Mill's doctrine
-- **Self-regarding acts ✅:** actions whose primary effects fall on the agent herself should generally not be coercively restrained.
-- **Other-regarding acts ✅:** actions harming others may be regulated or punished.
-
-- **Argument ✅:** Individuality, experimentation, and freedom of discussion are essential both for truth and for human development.
-- **Presupposition ✅:** competent adults are generally the best judges of their own good.
-- **Distinction ✅:** offence or disapproval ≠ harm; moral dislike alone is insufficient ground for coercion.
-- **Example ✅:** Heterodox opinion should not be suppressed merely because the majority finds it false or offensive.
-- **Standard objection ✅/⚠️:**
-  - Many acts are not cleanly self-regarding; private conduct may have social spillovers.
-  - Harm is itself contestable: is moral corruption, dependency, or public indecency a harm?
-- **Reply ⚠️:** Mill's doctrine is a presumption for liberty, not a denial of all regulation. The burden of proof lies on coercion, and paternalism must remain exceptional.
-
-### India-facing constitutional or institutional application
-
-✅ Judicial holding: Puttaswamy recognises privacy as constitutionally protected under the fundamental-rights framework. ⚠️ Philosophical inference: privacy illustrates a protected sphere, but Berlin's negative liberty is broader than one legal right.
-
-### UPSC integration
-
-Berlin and Mill are the two highest-yield names on any liberty stem.
-
-- 2020 Q1(a), 10 marks -- liberty in technological society -> Berlin's negative
-  pole plus the surveillance worry (developed in Liberty III).
-- 2022 Q1(d), 10 marks -- "complete liberty may lead to inequality" -> Mill's
-  harm principle sets the limit of self-regarding freedom.
-- 2024 Q2(b), 15 marks -- liberty and equality as political ideals -> Berlin's
-  pair fixes WHICH liberty is meant.
-
-> MEMORY: 10-mark liberty spine -> negative/positive distinction -> Berlin's
-> warning OR Mill's harm gate -> one evidence unit -> graded verdict.
-- **2026 Q3(c), 15 marks:** negative liberty as ultimate personal freedom versus positive liberty as the route to full potential. Discuss Berlin's warning, Green's enabling reply and republican non-domination as a third position.
-
-### Revision notes
-
-- Negative liberty = freedom FROM interference (Hobbes, Locke, Mill).
-- Positive liberty = freedom TO be self-directed (Rousseau, Kant, Green).
-- Berlin's warning: the real-self/empirical-self split can license coercion.
-- Mill's harm principle: coerce only to prevent harm to OTHERS; offence is not
-  harm; it is a presumption for liberty.
-
-> WRONG: Saying Berlin rejects positive liberty outright.
-
----
-
-### Practice — concept-sensitive retrieval and application
-
-#### Retrieval drill
-
-State Berlin's two questions and Mill's coercion test. Then identify the point at which offence must not be confused with harm.
-
-#### Application drill
-
-A platform leaves every formal option open but manipulates users through opaque defaults. Is this only a harm-principle issue, or also a question about effective autonomy?
-
-#### Lesson MCQs
-
-**MCQ 13: A**
-
-Amartya Sen's answer to 'equality of what?' foregrounds:
-
-- A. capabilities - the real freedom to achieve valued functionings
-- B. equality of subjective welfare only
-- C. equality of primary goods only
-- D. strict equality of money income
-
-**MCQ 14: B**
-
-Sen's critique of resourcism (e.g. Rawlsian primary goods) is that:
-
-- A. resources are wholly irrelevant to justice
-- B. equal resources yield unequal real freedom because people differ in conversion
-- C. capabilities can never be compared
-- D. income is the only measure that matters
-
-#### Answer and option-wise explanations
-
-#### MCQ 13 explanations
-- **A - Correct.** Sen shifts the metric from resources/welfare to capabilities: the effective freedom to be and do what one has reason to value.
-- **B - Incorrect.** Welfare is only one candidate metric and can reflect adaptive preferences; Sen asks what people are substantively able to do and be.
-- **C - Incorrect.** Primary goods are means, not Sen’s informational focus; persons with the same goods may have very different conversion capacities.
-- **D - Incorrect.** Money income is an input whose value depends on personal and social conversion factors, so strict monetary equality can leave capability inequality intact.
-
-#### MCQ 14 explanations
-- **A - Incorrect.** Sen does not discard resources; he denies that resource totals alone reveal the real freedoms those resources enable.
-- **B - Correct.** People convert resources into functionings at different rates (disability, metabolism, social role), so equal primary goods can still leave unequal real freedom.
-- **C - Incorrect.** Capabilities pose informational and evaluative difficulties, but public reasoning permits comparison without reducing all values to one commodity.
-- **D - Incorrect.** This repeats the resourcist error in its narrowest form: income cannot register disability, care burdens, public goods, or conversion differences.
-
-#### Mains micro-practice with model
-
-**Question:** Does Berlin reject positive liberty? Give a qualified answer.
-
-**Model answer:** Berlin does not reject the aspiration to self-mastery. He distinguishes positive liberty from negative liberty and warns that the former can be politicised dangerously. Once rulers claim access to a person's 'real' rational self, coercion may be redescribed as liberation. His criticism is therefore directed at authoritarian transformation, not at education, capacity or agency as such. A balanced answer preserves a protected sphere against interference while recognising that severe incapacity can make formal choice hollow. Positive liberty is legitimate when enabling and pluralistic, but dangerous when it authorises a single imposed conception of the good.
-
----
-
-## Lesson 6 — Liberty II: Hobbes, Locke, Rousseau, Green and the Liberty-Equality Relation
-
-**Progress: 6/10 | Stage: Core | Subtopic: Liberty II: Hobbes, Locke, Rousseau, Green and the Liberty-Equality Relation**
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-**Book context:** Queried — Canonical Hobbes-Locke-Rousseau-Green comparison and the liberty-equality threshold argument.
-**CA search:** "Hobbes Locke Rousseau Green liberty equality contemporary India 2026"
-**CA found:** No genuine date-specific linkage was required. The lesson concerns rival conceptions of law, security, consent, autonomy and enabling freedom.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-The social-contract trio and Green give four different answers to "what makes a
-person free?" -- then we test liberty against equality.
-
-```text
-   WHAT IS THE ESSENCE OF FREEDOM?
-   ----------------------------------------------------
-   HOBBES   | free where the law is SILENT; order first
-   LOCKE    | free under KNOWN LAW that protects rights;
-            | licence is not liberty
-   ROUSSEAU | free by obeying the GENERAL WILL you help make
-            | ("forced to be free")
-   GREEN    | free = the POSITIVE POWER to do worthwhile
-            | things; education enables agency
-   ----------------------------------------------------
-
-   LIBERTY vs EQUALITY -- rivals or partners?
-   ----------------------------------------------------
-   CONFLICT                    | COMPLEMENT
-   - unrestricted liberty      | - equal basic liberties
-     breeds inequality         |   ARE a form of equality
-   - forced equalising         | - equality secures the
-     curbs choice              |   conditions for real freedom
-   - social bases of freedom   | - Rawlsian priority: liberty
-     unequally spread          |   not traded for welfare
-   ----------------------------------------------------
-   verdict: rivals mainly BEYOND a threshold; partners at the
-   level of basic liberties and equal civic standing.
-```
-
-> MEMORY: Contract trio = ORDER (Hobbes) / RIGHTS-UNDER-LAW (Locke) / GENERAL
-> WILL (Rousseau); Green adds ENABLING freedom. Liberty vs equality = rivals at
-> the margin, partners at the base.
-
-
-
-### 2.4 Hobbes, Locke, Rousseau on liberty
-
-| Thinker | Statement of liberty | Presupposition | Main gain | Main risk / objection |
-|---|---|---|---|---|
-| **Hobbes** ✅ | Liberty is absence of external impediments; under law, one is free where law is silent | Security is primary; fear defines the state of nature | Strong state ends civil war | Liberty becomes thin and subordinated to sovereign order |
-| **Locke** ✅ | Liberty is not licence; it is freedom under known law preserving life, liberty, property | Natural rights pre-exist government | Constitutional limits and consent | Property-centred liberty may mask inequality |
-| **Rousseau** ✅ | True liberty is obedience to a law one prescribes to oneself as part of the general will | Freedom requires participation and moral autonomy | Citizens become self-legislating | General will may be misread in majoritarian or authoritarian ways |
-
-### Hobbes
-- **Statement ✅:** Liberty is the absence of impediments to motion; politically, subjects are free where the sovereign has not prohibited action.
-- **Argument ✅:** Without order, liberty is insecure because all fear violent death.
-- **Objection → Reply ⚠️:**
-  - **Objection:** this reduces liberty to a residual gap tolerated by power. - **Reply:** Hobbes's point is that stable freedom presupposes peace.
-
-### Locke
-- **Statement ✅:** Liberty exists under law, not outside it; arbitrary power is the enemy of freedom.
-- **Argument ✅:** Since persons have natural rights, government is fiduciary and limited.
-- **Objection → Reply ⚠️:**
-  - **Objection:** emphasis on property privileges possessive individualism. - **Reply:** Locke nonetheless grounds liberty in anti-arbitrariness and consent, crucial for constitutionalism.
-
-### Rousseau
-- **Statement ✅:** Civil liberty and moral freedom arise when each, in obeying the general will, obeys a law one gives oneself collectively.
-- **Argument ✅:** Mere appetite is slavery; autonomy requires participation in a common rational will.
-- **Objection → Reply ⚠️:**
-  - **Objection:** “forced to be free” invites authoritarian interpretation. - **Reply:** defenders insist the doctrine concerns legitimate collective self-rule, not private domination by rulers.
-
-### 2.5 T. H. Green and positive freedom
-
-**Statement ✅:** Green redefines liberty as the **positive power** to do or enjoy something worth doing or enjoying; freedom is tied to self-realisation.
-
-- **Argument ✅:** Mere non-interference is hollow where persons are crippled by ignorance, addiction, destitution, or social subordination.
-- **Presupposition ✅:** the self has higher capacities that social conditions can foster or deform.
-- **Distinction ✅:** coercion is not the only enemy of freedom; disabling conditions also matter.
-- **Example ⚠️:** Education can enhance liberty because it equips agency rather than merely leaving persons alone.
-- **Objection → Reply ⚠️:**
-  - **Objection:** the state may paternalistically impose a preferred conception of the good. - **Reply:** Green's strongest reading is enabling, not perfectionist domination: institutions should enlarge the effective capacity for worthwhile action.
-
-### 2.6 Liberty and equality: conflict and complementarity
-
-**Statement ⚠️:** Liberty and equality are often presented as rivals, but they are most plausibly rivals only beyond a certain threshold; at the level of **basic liberties**, they are mutually reinforcing.
-
-### Why they conflict
-1. **Unrestricted liberty can generate inequality ✅** — freedom of contract, property accumulation, or market power may let the strong dominate the weak. 2. **Aggressive equalisation can curb liberty ✅** — heavy control of choice, association, or property may suppress individuality. 3. **The social bases of freedom are unequally distributed ⚠️** — formal liberty means little where persons lack education, health, or resources.
-
-### Why they complement
-1. **Equal basic liberties are themselves a form of equality ✅.**
-2. **Substantive equality may secure the conditions for effective liberty ⚠️.**
-3. **Rawlsian priority rules show that liberty need not be traded away for aggregate welfare or arbitrary equality ✅.**
-
-| Claim | Strong version | Counter-position | Balanced verdict |
-|---|---|---|---|
-| Liberty limits equality | Too much equalisation kills initiative and choice | Without background equality, liberty is class privilege | Some inequalities may remain, but only under fair terms |
-| Equality limits liberty | Redistributive control invades private domain | Basic inequalities also coerce by dependence | Basic liberties must be secured for all before market advantage expands |
-| They are complementary | Equal civic standing sustains freedom | Complementarity may break at higher distributive demands | Complementarity is strongest at the level of rights and opportunities |
-
-- **Example ⚠️:** Freedom of speech for all is both a liberty and an equality of civic standing.
-- **Objection → Reply ⚠️:**
-  - **Objection:** any redistribution violates liberty. - **Reply:** if deprivation places persons under domination, some redistribution protects rather than negates freedom.
-
-**UPSC hook:** This section directly answers **2019: 4(b)**, **2022: 1(d)**, **2024: 2(b)**, and helps with **2018: 2(a)**.
-
-### India-facing constitutional or institutional application
-
-⚠️ Analytical inference: law can be liberty-restricting, liberty-protecting or liberty-enabling depending on the conception adopted; no current statute by itself settles that conceptual issue.
-
-### UPSC integration
-
-This is the HOME subtopic for the recurring liberty-equality parts.
-
-- 2018 Q2(a), 20 marks -- liberty and equality as distinctive features of
-  democracy -> run the conflict/complement table, then justice as arbiter.
-- 2019 Q4(b), 15 marks -- does liberty put limitations to equality -> a "how far"
-  stem; the conditional verdict is the mark-bearing move.
-- 2022 Q1(d), 10 marks -- complete liberty -> inequality, order -> loss of
-  freedom -> both halves are true only past the threshold.
-- 2024 Q2(b), 15 marks -- liberty and equality as political ideals -> critical
-  evaluation of both.
-
-> MEMORY: "How far" = degree judgment compulsory. Name the conditions under which
-> liberty limits equality and the conditions under which they reinforce.
-
-### Revision notes
-
-- Hobbes: free where law is silent (order first). Locke: free under known law,
-  licence != liberty. Rousseau: free via the general will ("forced to be free").
-- Green: positive/enabling freedom -- the power to do worthwhile things.
-- Liberty vs equality: conflict beyond a threshold, complement at the base
-  (equal basic liberties are themselves an equality).
-- "How far" stems demand a conditional verdict, never a flat yes/no.
-
-> WRONG: Treating liberty and equality as permanent, level-independent enemies.
-
----
-
-### Practice — concept-sensitive retrieval and application
-
-#### Retrieval drill
-
-Complete the sequence: Hobbes—security; Locke—known law and rights; Rousseau—collective self-legislation; Green—effective capacity.
-
-#### Application drill
-
-A compulsory education law restricts parental choice while enlarging children's future agency. Analyse it from Hobbesian, Lockean, Rousseauian and Greenian angles.
-
-#### Lesson MCQs
-
-**MCQ 15: C**
-
-Dworkin's 'equality of resources' is distinctive for being:
-
-- A. indifferent to personal responsibility
-- B. a direct equalisation of welfare
-- C. ambition-sensitive but endowment-insensitive - holding people responsible for choices, not brute luck
-- D. a rejection of all markets and prices
-
-**MCQ 16: D**
-
-The shared upshot of the 'equality of what?' debate is that:
-
-- A. equality is a single, self-evident quantity
-- B. only money-income equality matters
-- C. the metric of equality is ultimately irrelevant
-- D. specifying the metric (welfare / resources / capability) is unavoidable and shapes the institutions required
-
-**MCQ 17: A**
-
-Berlin's NEGATIVE liberty is:
-
-- A. the absence of deliberate interference by others within one's area of action
-- B. self-mastery achieved through rational autonomy
-- C. participation in collective self-rule
-- D. freedom understood as non-domination
-
-**MCQ 18: B**
-
-Berlin warned that POSITIVE liberty can be perverted when:
-
-- A. it is defined merely as non-interference
-- B. a 'higher self' is invoked to coerce people 'for their own good'
-- C. it is applied only to economic life
-- D. it is limited by Mill's harm principle
-
-#### Answer and option-wise explanations
-
-#### MCQ 15 explanations
-- **A - Incorrect.** Dworkin explicitly incorporates responsibility by allowing ambition-sensitive consequences while insuring against unchosen endowment disadvantage.
-- **B - Incorrect.** Equal welfare is the rival metric Dworkin rejects because tastes and preferences can make welfare demands expensive or responsibility-insensitive.
-- **C - Correct.** Dworkin's scheme (hypothetical auction and insurance) lets outcomes track chosen ambitions while neutralising unchosen brute-luck disadvantages in endowment.
-- **D - Incorrect.** The hypothetical auction uses market-like prices to test equal resources; the theory regulates markets rather than abolishing every market mechanism.
-
-#### MCQ 16 explanations
-- **A - Incorrect.** The debate exists because equality has no self-selecting metric; equal welfare, resources, and capability identify different inequalities.
-- **B - Incorrect.** Income is one resource and cannot capture welfare, social status, or differential ability to convert means into valued lives.
-- **C - Incorrect.** Metric choice changes who counts as disadvantaged and what remedy follows, so it is constitutive rather than incidental.
-- **D - Correct.** There is no metric-free equality: choosing welfare, resources or capability changes both the diagnosis of injustice and the remedies demanded.
-
-#### MCQ 17 explanations
-- **A - Correct.** Negative liberty answers 'how many doors are open?' - the extent of the area within which one is left un-interfered with.
-- **B - Incorrect.** Self-mastery is Berlin’s positive-liberty question—who or what controls me—not the negative question of how far interference is absent.
-- **C - Incorrect.** Collective self-rule is a possible positive or republican account; negative liberty does not require participation in making the law.
-- **D - Incorrect.** Non-domination targets exposure to arbitrary power even without interference, making it distinct from Berlin’s interference-centred metric.
-
-#### MCQ 18 explanations
-- **A - Incorrect.** Mere non-interference defines negative liberty, so it cannot illustrate the paternalistic corruption Berlin fears within positive liberty.
-- **B - Correct.** The danger is the split-self move: identifying a 'real' self whose freedom justifies coercing the actual person - the pathway from self-mastery to authoritarian control.
-- **C - Incorrect.** Berlin’s warning is not confined to an economic domain; it concerns any coercive identification of a person’s "real" rational self.
-- **D - Incorrect.** The harm principle restrains coercion rather than enabling higher-self paternalism, so it answers the danger instead of exemplifying it.
-
-#### Mains micro-practice with model
-
-**Question:** When can law increase rather than reduce liberty?
-
-**Model answer:** On a thin negative view, law is an interference that requires justification. Hobbes justifies it through security; Locke through known, limited law protecting rights; Rousseau through collective self-legislation; Green through the creation of capacities for worthwhile agency. Law can therefore increase liberty when it removes arbitrary private power, protects an equal sphere of rights, or supplies enabling conditions without dictating one life-plan. The limiting condition is non-arbitrariness: law must be public, contestable, proportionate and compatible with equal citizenship. Otherwise the language of positive freedom becomes a cover for paternalism.
-
----
-
-## Lesson 7 — Liberty III: Technological Society and Republican Non-Domination
-
-**Progress: 7/10 | Stage: Advanced | Subtopic: Liberty III: Technological Society and Republican Non-Domination**
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-**Book context:** Queried — Canonical technology and republican-liberty modules; Pettit and Skinner roles checked against the advanced dossier.
-**CA search:** "India digital privacy algorithmic manipulation non domination current 2026 official"
-**CA found:** No single official event was used as proof. The current legal-status illustration is Gazette S.O. 5322(E), dated 21 November 2025, commencing specified Code on Wages provisions; the Gazette PDF was retrieved on 25 September 2026.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Two frontier ideas: liberty under technology, and a THIRD kind of liberty beyond
-Berlin's pair.
-
-```text
-   LIBERTY IN A TECH SOCIETY
-   -----------------------------------------------
-   expands: knowledge, mobility, communication, choice
-   threatens: surveillance, manipulation, nudging,
-              concentration of INFORMATIONAL power
-   key line: convenience != autonomy
-   demand: transparency, accountability, zones of
-           non-domination
-   -----------------------------------------------
-
-   THE THIRD FAMILY -- FREEDOM AS NON-DOMINATION (Pettit)
-   -----------------------------------------------
-   the un-interfered-with SLAVE / the indulgent master:
-     - not currently interfered with  --> "free"?
-     - but must flatter, self-censor, live at another's
-       DISCRETION, because the master CAN interfere
-       arbitrarily and with impunity
-   => real unfreedom an interference-count cannot see
-   -----------------------------------------------
-   INTERFERENCE = an act
-   DOMINATION   = a standing CAPACITY to interfere arbitrarily
-   => non-arbitrary law can interfere WITHOUT dominating;
-      a kind master can dominate WITHOUT interfering.
-```
-
-> MEMORY: Non-domination = being free from another's CAPACITY for arbitrary
-> interference, exercised or not. Interference is an act; domination is a status.
-
-
-
-### 2.7 Liberty in modern technological society
-
-**Statement ⚠️:** Liberty is realisable in technological society, but only under vigilance against surveillance, manipulation, and concentration of informational power.
-
-- **Argument ⚠️:** technology can expand knowledge, mobility, communication, and choice, yet also create subtle dependence and behavioural steering.
-- **Presupposition ⚠️:** coercion today may be infrastructural and informational, not only legal.
-- **Distinction ⚠️:** convenience ≠ autonomy.
-- **Example ⚠️:** algorithmic nudging may leave formal options open while shaping choices invisibly.
-- **Objection → Reply ⚠️:**
-  - **Objection:** modern complexity requires pervasive management. - **Reply:** even where coordination is needed, liberty demands transparency, accountability, and zones of non-domination.
-
-**UPSC hook:** Useful for **2020: 1(a) 10m**.
-
-### 2.8 Republican liberty as non-domination (Pettit)
-
-**Statement ⚠️:** A **third family** of liberty, irreducible to Berlin's pair, defines freedom as **non-domination** — not being subject to another agent's *capacity* for arbitrary interference, whether or not that capacity is currently being exercised. The normative theory is associated with **Philip Pettit**, *Republicanism: A Theory of Freedom and Government* (**1997**); the historical recovery of the pre-liberal republican tradition is associated with **Quentin Skinner**, *Liberty before Liberalism* (**1998**). ⚠️ Keep the two roles separate: Pettit supplies the theory, Skinner the intellectual history. ❌ Do not quote either, and do not attach page, chapter or edition detail.
-
-**Reconstructed argument ⚠️:**
-
-1. the negative conception measures freedom by *actual* interference with an agent's options;
-2. but consider a person under a kind master, an indulgent husband, an unusually generous employer, or a benevolent ruler who happens not to interfere;
-3. that person is not interfered with, so on the negative count is free;
-4. yet she must flatter, anticipate, self-censor and live at another's discretion, because the other retains the power to interfere **arbitrarily and with impunity**;
-5. this dependence is a real unfreedom that an interference-count cannot register;
-6. therefore liberty is best specified as a **secured status** — non-domination — rather than as an event-count of non-interference.
-
-**Presupposition ⚠️:** freedom is a social and institutional standing, not a description of an agent's momentarily unobstructed path; unexercised power is still power.
-
-**Controlling distinction ⚠️:** *interference* is an act; *domination* is a standing capacity to interfere arbitrarily. Law that tracks the interests of those it governs and remains publicly contestable can **interfere without dominating**; a master's forbearance can **dominate without interfering**.
-
-**Consequence for the liberty–law relation ⚠️:** on the negative view, every law is *prima facie* a subtraction from liberty, justified only as a lesser evil. On the republican view, law of the right kind is **freedom-constituting**, because it strips private persons of arbitrary power. This is the sharpest analytical payoff of the third family and should be stated explicitly in any liberty answer that reaches 15 or 20 marks.
-
-| Diagnostic question | Negative liberty | Positive liberty | Republican non-domination |
-|---|---|---|---|
-| What is the freedom-destroying variable? | external obstruction by others | internal disorder, ignorance, want of enabling conditions | another's arbitrary and unaccountable power |
-| Is an un-interfered-with slave free? | ⚠️ yes, to that extent | ⚠️ contested — depends on self-mastery | ⚠️ no, and unfree *as a slave* |
-| Is law a loss of freedom? | ⚠️ yes, requiring justification | ⚠️ may be freedom-enabling | ⚠️ non-arbitrary law is freedom-constituting |
-| Institutional demand | restrain the state | develop capacities and provide conditions | contestability, publicity, review, interest-tracking |
-| Named anchors | ⚠️ Berlin's negative pole; Mill's harm principle | ⚠️ Green's enabling freedom; Rousseau's moral freedom | ⚠️ Pettit (1997); Skinner (1998) |
-
-**Objection → Reply (use one, not both, at 10 marks) ⚠️:**
-
-- **Objection 1 (redundancy):** everything non-domination names could be redescribed as a high *probability* of future interference, so the third family adds a label, not a concept.
-  **Reply:** ⚠️ probability of interference is contingent and can be low precisely where dependence is total; the republican point is about the *standing* of the relation, and it also explains why the dependent person's own conduct — deference, anticipation, self-silencing — changes, which an interference-count cannot explain.
-- **Objection 2 (indeterminacy of "arbitrary"):** who decides which interferences are arbitrary? The theory risks smuggling in a substantive conception of the common good. **Reply:** ⚠️ republicans specify arbitrariness procedurally — interference is non-arbitrary when it is forced to track the avowable interests of the governed and remains open to effective contestation. The reply reduces, but does not eliminate, the indeterminacy; the residual problem is genuine and should be conceded in an answer.
-
-**Relation to the ideals in this file ⚠️:** non-domination reframes the classic liberty–equality "trade-off" of §2.6. On the negative reading, redistributive or regulatory equality subtracts liberty. On the republican reading, material dependence *is* a source of domination, so certain equalising measures **increase** freedom rather than trading against it — a decisive line for 2019 Q4(b), 2022 Q1(d) and 2024 Q2(b).
-
-**Indian application (legal-status caution) ⚠️:** the vocabulary is an analytical lens, not an empirical verdict about any Indian government, party or period. ✅ The Bonded Labour System (Abolition) Act, **1976** is an **enacted statute** that legally dissolves a relation of personal dependence; ✅ the Minimum Wages Act, **1948** and the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act, **2013** are enacted statutes that replace employer discretion with rule-governed entitlement and complaint machinery. ⚠️ Enactment is not implementation, and none of these establishes that domination has in fact ended; cite them as dated illustrations of the *form* of a non-domination remedy, never as proof of a philosophical thesis.
-
-**UPSC hook:** the strongest depth marker available on any liberty question; also usable as a supplement in **2018: 2(a) 20m** (liberty and equality as democratic features).
-
-### India-facing constitutional or institutional application
-
-✅ Statutory status: commencement of provisions is a legal fact. ⚠️ It is not evidence of implementation or of the elimination of workplace domination. Puttaswamy remains a separate privacy illustration.
-
-### UPSC integration
-
-- 2020 Q1(a), 10 marks -- is liberty realizable in modern technological society
-  -> yes, but only under vigilance against surveillance and informational power;
-  convenience is not autonomy.
-- 2019 Q4(b) / 2022 Q1(d) / 2024 Q2(b) -- non-domination DISSOLVES the
-  liberty-equality trade-off: material dependence IS domination, so some
-  equalising measures INCREASE freedom rather than trading against it. This is
-  the single highest-value depth marker on liberty stems.
-
-> MEMORY: On any liberty-vs-equality stem, deploy non-domination to show that
-> certain equalisations are freedom-INCREASING, not freedom-reducing.
-
-### Revision notes
-
-- Tech society: liberty survives only with transparency, accountability and
-  zones of non-domination; convenience != autonomy.
-- Third family (Pettit): freedom as non-domination -- absence of another's
-  capacity for ARBITRARY interference.
-- Interference (act) != domination (standing capacity); non-arbitrary law is
-  freedom-constituting.
-- Pettit (1997) = theory; Skinner (1998) = history; no quotes, title+year only.
-
-> WRONG: Confusing an un-interfered-with dependent with a free person.
-
----
-
-### Practice — concept-sensitive retrieval and application
-
-#### Retrieval drill
-
-Explain the benevolent-master example and why low actual interference can coexist with complete domination.
-
-#### Application drill
-
-An employer rarely interferes but may change wages or dismiss workers without reasons or review. Compare negative liberty and non-domination.
-
-#### Lesson MCQs
-
-**MCQ 19: C**
-
-Mill's harm principle holds that power may be exercised over an individual against their will only to:
-
-- A. improve their moral character
-- B. enforce the majority's morality
-- C. prevent harm to others
-- D. maximise their own happiness
-
-**MCQ 20: D**
-
-A common misreading of Mill's On Liberty treats it as:
-
-- A. a defence of free discussion
-- B. a limit on paternalism
-- C. a defence of individuality
-- D. an endorsement of unlimited licence with no regard for others
-
-**MCQ 21: A**
-
-For Locke, liberty is best described as:
-
-- A. freedom under known, settled law that protects natural rights - licence is not liberty
-- B. freedom wherever the law happens to be silent
-- C. obedience to the general will
-- D. the positive power to flourish
-
-#### Answer and option-wise explanations
-
-#### MCQ 19 explanations
-- **A - Incorrect.** Moral improvement alone is paternalism: Mill protects self-regarding error unless it harms others.
-- **B - Incorrect.** Majority disapproval is not harm. Enforcing conventional morality would expose individuality and dissent to social tyranny.
-- **C - Correct.** The sole legitimate ground for coercion is preventing harm to others; purely self-regarding conduct lies outside rightful interference.
-- **D - Incorrect.** A person’s own good, physical or moral, may justify persuasion but not coercion on Mill’s stated principle.
-
-#### MCQ 20 explanations
-- **A - Incorrect.** Free discussion is central to Mill because suppressed opinion may be true or partly true; it is doctrine, not the misreading.
-- **B - Incorrect.** Mill’s argument restricts paternal coercion over competent adults, so describing it as anti-paternalist is accurate.
-- **C - Incorrect.** Individuality and experiments in living are positive Millian goods, bounded by duties not to harm others.
-- **D - Correct.** Mill defends liberty of self-regarding action and discussion, not licence: the harm principle itself sets the boundary against injury to others.
-
-#### MCQ 21 explanations
-- **A - Correct.** Locke ties liberty to life under settled, rights-protecting law and sharply distinguishes liberty from licence.
-- **B - Incorrect.** This is closer to Hobbes’s residual-liberty formula. Locke’s liberty operates within standing law and is not merely whatever legislation leaves untouched.
-- **C - Incorrect.** Obedience to a self-authored general will is Rousseau’s formulation, not Locke’s rights-protecting rule of law.
-- **D - Incorrect.** Effective power to pursue worthwhile ends is Green’s positive account; Locke stresses non-arbitrary law and natural-right security.
-
-#### Mains micro-practice with model
-
-**Question:** Does republican liberty dissolve the liberty-equality conflict?
-
-**Model answer:** Republican liberty reframes the conflict rather than eliminating every trade-off. If freedom means only non-interference, regulation and redistribution appear as losses of liberty. If freedom means non-domination, severe material dependence and unchecked private power are themselves forms of unfreedom; some equalising measures can therefore increase liberty. The view explains why a benevolent master still dominates and why contestable law may constitute freedom. Its residual problem is defining 'arbitrary' power without importing a contested common good. Thus non-domination dissolves the crude conflict but leaves institutional questions of scope, procedure and proportionality.
-
----
-
-## Lesson 8 — Justice I: Meaning, Plato, Aristotle, the Criteria Problem and Corrective Justice
-
-**Progress: 8/10 | Stage: Core | Subtopic: Justice I: Meaning, Plato, Aristotle, the Criteria Problem and Corrective Justice**
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-**Book context:** Queried — Gauba pp. 432-453, Socio-Political Philosophy pp. 40 and 47-54, Cambridge Dictionary pp. 489-490, and the repaired canonical justice taxonomy.
-**CA search:** "Constitution of India Articles 14 16 justice equality official status 2026"
-**CA found:** The official Legislative Department page returned HTTP 403 to automated retrieval on 25 September 2026; the repository-captured constitutional text and stable Articles 14-16 references were used with that limitation recorded.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Justice asks: what is DUE to each, and by what RULE? Start with the two ancients,
-then the criteria problem.
-
-```text
-   PLATO -- justice as HARMONY
-   -----------------------------------------------
-   each part does its OWN proper work, no usurping:
-     reason rules spirit + appetite (soul)
-     rulers / auxiliaries / producers (city)
-   justice = right-order, inner and civic
-   -----------------------------------------------
-
-   ARISTOTLE -- two justices
-   -----------------------------------------------
-   DISTRIBUTIVE  | shares track relevant merit
-                 | => PROPORTIONAL equality
-   CORRECTIVE    | restore balance after a wrong
-                 | => ARITHMETIC equality
-   -----------------------------------------------
-
-   THE CRITERIA PROBLEM (what is "relevant"?)
-   -----------------------------------------------
-   NEED | DESERT | MERIT | CONTRIBUTION | EQUAL SHARE |
-   COMPENSATION  -- each governs a DIFFERENT sphere.
-   injustice = exporting a criterion out of its sphere
-   (e.g. wealth buying political power).
-```
-
-Plain version: Plato ties justice to harmony; Aristotle splits it into
-distributing fairly (by proportion) and correcting wrongs (by equal restoration);
-the modern twist is that "fair share" depends on WHICH criterion fits WHICH good.
-
-> MEMORY: Plato = harmony/function. Aristotle = distributive (proportional) +
-> corrective (arithmetic). Criteria = NEED/DESERT/MERIT/CONTRIBUTION/EQUAL-SHARE/
-> COMPENSATION, one per sphere.
-
-
-
-### 3. JUSTICE
-
-### 3.1 Basic meaning
-**Statement ✅:** Justice concerns what is due to each person and the principles that govern distribution, rectification, rights, and the moral structure of institutions.
-
-- **Argument ✅:** social cooperation creates benefits and burdens; justice decides their proper terms.
-- **Presupposition ✅:** persons are owed reasons, not merely outcomes.
-- **Distinction ✅:** legality ≠ justice; a law may be valid yet unjust.
-- **Example ⚠️:** equal legal punishment for unequal wrongdoing would violate corrective fairness.
-- **Objection → Reply ⚠️:**
-  - **Objection:** justice is only what the sovereign says. - **Reply:** most traditions in political philosophy distinguish enacted law from moral legitimacy.
-
-### 3.1A Formal, procedural and substantive justice
-
-| Form | Exact question | Core demand | Failure if isolated |
-|---|---|---|---|
-| **Formal justice** ✅ | Are the announced principles applied impartially and consistently to like cases? | Generality, consistency and absence of personal favour | An unjust principle can still be applied consistently |
-| **Procedural justice** ✅ | Is the decision or allocation produced by fair rules, hearing, publicity, impartiality and non-cheating? | A just process that excludes arbitrary power and allows relevant claims to be considered | A fair-looking procedure can operate against a grossly unequal background |
-| **Substantive justice** ✅ | Are the governing principles, distribution and social relations themselves just? | Rights, fair life-chances, protection against deprivation and status subordination | A desired outcome imposed without due process can become arbitrary |
-
-**Controlling distinction ✅:** formal justice concerns consistent application; procedural
-justice concerns the fairness of the decision-producing process; substantive justice concerns
-the justice of the standard, distribution or social relation produced. The terms overlap in some
-texts but are not interchangeable.
-
-**Reconstructed argument ⚠️:**
-
-1. a procedure can be impartial while starting positions remain radically unequal;
-2. the resulting outcome can therefore satisfy a rule yet preserve domination or deprivation;
-3. but substantive correction without publicity, hearing and consistent limits can itself become
-   arbitrary;
-4. justice consequently requires **fair procedure plus a defensible substantive criterion**.
-
-**Rawls–Nozick placement ⚠️:** Rawls uses a fair choice situation and a just basic structure to
-discipline permissible outcomes; Nozick asks whether acquisition, transfer and rectification
-followed a just history. Neither view licenses the inference that any outcome produced by any
-procedure is automatically just.
-
-**Source control ✅:** This taxonomy is directly corroborated by O. P. Gauba, *An Introduction
-to Political Theory*, searchable local PDF pp. 442–445; *Socio-Political Philosophy*, searchable
-local PDF pp. 40 and 47–54; and *The Cambridge Dictionary of Philosophy*, searchable local PDF
-pp. 489–490.
-
-### 3.1B Legal, political, socio-economic and recognition/status dimensions
-
-| Dimension | What justice evaluates | Triad connection | Boundary |
-|---|---|---|---|
-| **Legal justice** ✅ | Impartial administration **and** whether law itself answers to justice | Equal legal status and protected liberty | Detailed constitutional doctrine is not owned here |
-| **Political justice** ✅ | Equal citizenship, voice, participation and non-arbitrary public power | Political equality plus civic liberty | Forms of government belong to the separate Forms of Government topic |
-| **Socio-economic justice** ✅ | Distribution of benefits, burdens and real opportunities | Substantive equality and effective liberty | Development/welfare programmes are later-topic applications |
-| **Recognition/status justice** ⚠️ | Whether institutions reproduce stigma, humiliation or second-class standing | Social equality and Ambedkar's fraternity-based criticism | Full recognition theory belongs to the separate Multiculturalism topic |
-
-**Legality and legitimacy bridge ⚠️:** legality identifies a rule's valid place in a legal
-system; legitimacy asks whether the exercise of authority is morally justified to those subject
-to it. Justice supplies the critical standpoint, while the complete theories of sovereign
-authority and political obligation remain cross-owned as stated above.
-
-### 3.2 Plato: justice as each doing one's own work
-
-**Statement ✅:** In Plato, justice is a principle of **order and harmony** in both soul and city: each part performs its own proper function without usurping another's role.
-
-- **Argument ✅:** Disorder comes when appetite rules reason, or when classes intrude into functions for which they are not suited. Justice therefore coordinates plurality into a harmonious whole.
-- **Presupposition ✅:** human beings and the polis have natural functional differentiation.
-- **Distinction ✅:** justice is not merely external distribution; it is inner and civic right-order.
-- **Example ✅:** rulers rule, auxiliaries defend, producers provide; similarly, reason should govern spirit and appetite.
-- **Objection → Reply ⚠️:**
-  - **Objection:** Plato subordinates individuality to fixed hierarchy. - **Reply:** defenders say his aim is not arbitrary privilege but a norm of competence and organic harmony.
-
-**UPSC hook:** Essential for **2024** discussions of justice and for **2019: 1(a)** asking whether Rawls continues Plato.
-
-### 3.3 Aristotle: distributive and corrective justice
-
-| Type | Principle | Equality involved | Example | Objection |
-|---|---|---|---|---|
-| **Distributive justice** ✅ | Shares should track relevant merit or contribution | **Proportional equality** | Offices or honours allocated by relevant desert | Disputes over what counts as merit |
-| **Corrective / rectificatory justice** ✅ | Restore balance after wrong or unfair gain/loss | **Arithmetic equality** | Compensation, restitution, punishment | May ignore structural context |
-
-- **Argument ✅:** Treating equals equally and unequals unequally is just only when the basis of comparison is relevant.
-- **Presupposition ✅:** political community has a telos and offices have functions.
-- **Distinction ✅:** proportional equality ≠ simple sameness.
-- **Example ⚠️:** Equal shares for unequal contribution may be unjust in some contexts; equal correction for similar injury is required in another.
-- **Objection → Reply ⚠️:**
-  - **Objection:** merit is socially biased. - **Reply:** Aristotle's framework still matters because it shows why justice cannot be reduced to one flat formula.
-
-### 3.3A Merit, need and desert: the criteria problem inside distributive justice
-
-✅ Aristotle's proportional formula — shares should track *relevant* desert — is **formally correct but materially empty** until the relevant basis is named. Almost every modern distributive controversy is a dispute about which criterion governs which good. Naming the criteria explicitly is the single fastest way to lift a justice answer above narration.
-
-| Criterion | Formula | Best justified for | Strongest objection |
-|---|---|---|---|
-| **Need** ✅ | to each according to need | subsistence, health care, basic education, disability support | needs are elastic and contested; may weaken incentive and responsibility |
-| **Desert (moral)** ✅ | to each according to effort, sacrifice or virtue | honours, recognition, praise and blame | effort is unobservable and is itself shaped by unchosen advantage |
-| **Merit (qualification)** ✅ | to each according to demonstrated competence for a role | public offices, admissions, professional appointments | measured merit encodes prior access to nutrition, language, coaching and networks |
-| **Contribution / entitlement** ✅ | to each according to productive value or voluntary transfer | wages, exchange, property titles | market price tracks scarcity and bargaining power, not moral worth |
-| **Equal share** ✅ | to each equally | civil and political rights, one person–one vote | flattens relevant difference outside the political sphere |
-| **Compensation** ✅ | to each according to unjustified prior loss | rectification of wrongful harm and structural disadvantage | how far back, whose loss, and who bears the cost |
-
-**Reconstructed argument ⚠️:**
-
-1. justice requires treating like cases alike and unlike cases differently;
-2. "likeness" must be assessed against some criterion;
-3. no single criterion fits every social good — political rights answer to equal status, offices to competence, subsistence to need, honours to desert;
-4. therefore justice is **pluralist about criteria but not arbitrary**: each good has an internal logic that identifies its proper basis of distribution;
-5. injustice typically consists in exporting a criterion out of its proper sphere — for example, allowing wealth to purchase political influence, or letting caste rank govern access to office.
-
-**Presupposition ⚠️:** goods have social meanings, and those meanings constrain what may count as a relevant reason for unequal shares.
-
-**Merit vs desert — the distinction examiners reward ⚠️:** *desert* is backward-looking and moralised (what a person has done or suffered); *merit* is forward-looking and functional (who will discharge the office well). A candidate may have great desert and little merit, or great merit and no desert. Collapsing the two produces the standard bad answer that "merit is a moral entitlement."
-
-**Objection → Reply ⚠️:**
-
-- **Objection (Rawlsian):** desert-based distribution is unjustified because natural talent, family advantage and even the capacity for effort are **morally arbitrary** — nobody deserves the starting position from which effort is exerted. **Reply:** ✅ Rawls's own reply is not that desert is meaningless but that it cannot be the *foundational* principle of institutional design; legitimate expectations generated *within* just institutions remain valid, and honour and gratitude remain intelligible responses to effort.
-- **Objection (Nozickian):** any patterned criterion — need, desert, merit — requires continuous interference with voluntary transfers. **Reply:** ⚠️ patterns need only be maintained at the level of background institutions, not transaction by transaction; and Nozick's own rectification principle concedes that a historical entitlement theory still needs a criterion for correcting past injustice.
-
-**Interim verdict ⚠️:** distributive justice is criterion-plural and sphere-sensitive; the examiner's real question is almost always *which criterion, for which good, and why*.
-
-### 3.3B Corrective justice and the compensatory principle
-
-✅ Aristotle's corrective justice is **transactional**: it restores an arithmetic balance between two parties after a wrongful gain or loss, without regard to the parties' merit. This is the conceptual ancestor of damages, restitution and, on retributive readings, of punishment.
-
-**The extension problem ⚠️:** corrective justice as Aristotle states it presupposes (i) an identifiable wrongdoer, (ii) an identifiable victim, and (iii) a discrete transaction. Structural disadvantage satisfies none of the three cleanly: the harm is cumulative, the beneficiaries are diffuse, and the wrong is embedded in institutions rather than in a single act.
-
-**The compensatory principle, reconstructed ⚠️:**
-
-1. a group has suffered systematic, historically identifiable and legally sanctioned exclusion from land, education, office and honour;
-2. that exclusion continues to depress present capability, not only past holdings — it transmits through wealth, networks, schooling, health and social confidence;
-3. formal equality from today onward therefore ratifies an unequal starting line rather than correcting it;
-4. corrective justice, generalised from transactions to structures, requires positive measures that offset the transmitted disadvantage;
-5. therefore compensatory measures are demanded **by** equality, not as an exception to it.
-
-**Presupposition ⚠️:** disadvantage caused by institutions can be traced with sufficient reliability to justify group-directed remedy — a factual premise that must be argued, not assumed.
-
-**Objection → Reply ⚠️:**
-
-- **Objection:** compensation imposes a cost on present individuals who committed no wrong, and treats persons as group-members rather than as individuals. **Reply:** ⚠️ the claim is not that present individuals are guilty but that they are **unjustly advantaged** by a continuing distribution; and where the *disadvantage itself* was inflicted group-wise, an individualised remedy cannot reach it. The residual difficulty — over-inclusion of the already-advantaged within a beneficiary group — is real and is exactly why an internal filter is defended.
-- **Objection:** compensation has no natural terminus. **Reply:** ⚠️ the principle supplies its own terminus — it lapses when the transmitted disadvantage it targets no longer operates. Refusal to measure that condition is a policy failure, not a defect of the principle.
-
-**Boundary note ⚠️:** this lesson explains the **general principle** of compensatory justice as a criterion of distribution. The affirmative-action debate proper — its competing justifications, the reverse-discrimination objection, and the Indian constitutional and judicial record — is owned by Caste Discrimination: Gandhi and Ambedkar §5A. Do not duplicate the policy argument here; state the principle and route.
-
-**Indian application (legal-status caution) ⚠️:** ✅ Articles 14–16 of the Constitution of India establish equality before law, prohibition of discrimination and equality of opportunity in public employment, and Articles 15 and 16 contain enabling clauses permitting special provision for specified disadvantaged classes. ⚠️ An enabling constitutional clause is a **permission**, not a philosophical justification; the argument for using it must still be made on one of the criteria in §3.3A.
-
-### 3.4 Utilitarian justice and the aggregation objection
-
-**Statement ✅:** Utilitarianism tends to judge arrangements by aggregate happiness or utility.
-
-- **Argument ✅:** Institutions are just if they maximise overall welfare.
-- **Presupposition ✅:** social choice can be guided by the greatest good of the greatest number.
-- **Distinction ✅:** rightness is consequence-based, not prior-rights-based.
-- **Example ⚠️:** A policy that raises total welfare may be preferred even if some persons lose significantly.
-- **Objection ✅:** **aggregation objection** — utilitarianism can sacrifice the claims of individuals, minorities, or the least advantaged if doing so increases total utility.
-- **Reply ⚠️:** rule-utilitarian and indirect utilitarian strategies attempt to protect rights by showing that secure liberties and stable rules maximise welfare over time; critics reply that these protections remain contingent.
-
-### India-facing constitutional or institutional application
-
-✅ Constitutional text: Articles 14-16 supply legal equality and enabling provisions. ⚠️ Philosophical distinction: legality, fair procedure and substantive justice are not interchangeable.
-
-### UPSC integration
-
-- 2024 Q1(a), 10 marks -- Plato's concept of justice -> harmony/function in soul
-  and city; note it is not democratic equality but role-fitting order.
-- 2022 Q2(c) (equity/equality) and any social-justice stem -> the criteria grid
-  (need/desert/merit/contribution/equal-share/compensation) is the analytical
-  engine.
-- "Equity vs equality", reservation-adjacent stems -> route the general
-  compensatory PRINCIPLE here; route the policy debate to the separate Caste Discrimination topic.
-
-> MEMORY: Justice-first distinction = proportional (distributive) vs arithmetic
-> (corrective); then name the criterion for the specific good in dispute.
-
-### Revision notes
-
-- Plato: justice = harmony; each part/class its own function.
-- Aristotle: distributive (proportional equality) + corrective (arithmetic
-  equality).
-- Criteria problem: need / desert / merit / contribution / equal share /
-  compensation -- one per sphere; injustice = exporting a criterion.
-- Merit (forward, functional) != desert (backward, moralised).
-- Compensatory principle: corrective justice generalised to structures;
-  concede terminus + over-inclusion.
-
-> WRONG: Reducing justice to "whatever the law says"; legality is not legitimacy.
-
----
-
-### Practice — concept-sensitive retrieval and application
-
-#### Retrieval drill
-
-Give separate tests for formal, procedural and substantive justice, then list legal, political, socio-economic and recognition/status dimensions.
-
-#### Application drill
-
-A benefit is allocated by a perfectly impartial lottery after inherited barriers excluded most candidates from eligibility. Which forms of justice are satisfied and which remain open?
-
-#### Lesson MCQs
-
-**MCQ 22: B**
-
-Rousseau's phrase that a citizen may be 'forced to be free' is examiner-bait because it:
-
-- A. clearly endorses anarchism
-- B. can be read as legitimate collective self-rule OR as a licence for coercion
-- C. openly rejects the general will
-- D. denies that any law can bind
-
-**MCQ 23: C**
-
-T.H. Green's contribution to the concept of liberty is:
-
-- A. reducing liberty to bare non-interference
-- B. equating liberty with security
-- C. positive / enabling freedom - the power to do worthwhile things
-- D. denying that education has any bearing on freedom
-
-**MCQ 24: D**
-
-The best statement of the liberty-equality relation is that they:
-
-- A. are permanent, level-independent enemies
-- B. are always exactly identical
-- C. require equality to be sacrificed to liberty in every case
-- D. reinforce at the level of basic liberties and conflict mainly beyond a threshold
-
-**MCQ 25: A**
-
-Republican freedom as non-domination is the absence of:
-
-- A. another's capacity for arbitrary interference, whether exercised or not
-- B. all law and government
-- C. any inequality of wealth whatsoever
-- D. positive self-mastery
-
-#### Answer and option-wise explanations
-
-#### MCQ 22 explanations
-- **A - Incorrect.** Being bound by a collectively self-given law is the opposite of anarchism; the controversy concerns the legitimacy and identification of that collective will.
-- **B - Correct.** Both readings are textually available - co-authored law vs majoritarian coercion - which is exactly why it must be handled with a balanced verdict.
-- **C - Incorrect.** The phrase presupposes the general will as the source of civic freedom, though critics question who may speak in its name.
-- **D - Incorrect.** Rousseau does not deny binding law; he argues that legitimate law can express citizens’ common authorship.
-
-#### MCQ 23 explanations
-- **A - Incorrect.** Bare non-interference is the negative view Green regards as insufficient where poverty, ignorance, or addiction destroy effective agency.
-- **B - Incorrect.** Security may support freedom, but equating the two omits Green’s moral-capacity and self-realisation dimension.
-- **C - Correct.** Green's freedom is enabling: non-interference is hollow for someone disabled by ignorance or destitution, so institutions should widen worthwhile options.
-- **D - Incorrect.** Education can enlarge the capacities needed for worthwhile agency, making this denial the reverse of Green’s enabling view.
-
-#### MCQ 24 explanations
-- **A - Incorrect.** The relation varies by level: equal legal status and basic liberties reinforce each other even though later distributive choices may conflict.
-- **B - Incorrect.** The ideals overlap but answer different questions; identity would erase disputes over resources, interference, and priority.
-- **C - Incorrect.** An unconditional sacrifice rule ignores cases where concentrated power makes nominal liberty unequal or where basic equality secures freedom for all.
-- **D - Correct.** Equal basic liberties are themselves an equality; the clash is a matter of degree that appears only when demands rise above a threshold.
-
-#### MCQ 25 explanations
-- **A - Correct.** Domination is a standing capacity to interfere arbitrarily; one is unfree when subject to it even if the power is never actually used.
-- **B - Incorrect.** Republicanism does not demand statelessness; suitably controlled law can reduce private domination and constitute freedom.
-- **C - Incorrect.** Wealth inequality matters when it creates arbitrary dependence, but non-domination is not defined as complete material equality.
-- **D - Incorrect.** Positive self-mastery concerns control by one’s rational self, whereas republican liberty concerns subjection to another’s uncontrolled power.
-
-#### Mains micro-practice with model
-
-**Question:** Why can neither fair procedure nor a desirable outcome alone exhaust justice?
-
-**Model answer:** Fair procedure matters because hearing, publicity, impartiality and contestability restrain arbitrary power. Yet a procedure can operate on unjust starting conditions or apply an indefensible rule consistently. Substantive justice therefore asks whether the governing rights, distribution and status relations are themselves acceptable. The reverse danger also exists: officials may impose a desired outcome without due process or stable limits. Justice consequently requires a defensible substantive criterion pursued through rights-bound, public and contestable procedures. Formal consistency, procedural fairness and substantive justification are distinct but mutually corrective.
-
----
-
-## Lesson 9 — Justice II: Rawls, Nozick, Sen, Ambedkar and the Ordering Verdict
-
-**Progress: 9/10 | Stage: Advanced | Subtopic: Justice II: Rawls, Nozick, Sen, Ambedkar and the Ordering Verdict**
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-**Book context:** Queried — Canonical Rawls, Nozick, Sen, Ambedkar and triad-ordering sections, including the repaired 2026 lexical-order argument.
-**CA search:** "Rawls lexical order negative positive liberty UPSC Philosophy 2026 official"
-**CA found:** The repository's OCR-verified official-paper ledger records code KVMS-B-PHL and exact 2026 wording. A public UPSC-hosted copy was not located by web search on 25 September 2026, so the repository provenance is stated explicitly.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-The four modern anchors -- and the closing move that justice orders the whole
-triad.
-
-```text
-   RAWLS -- justice as fairness
-   -----------------------------------------------
-   choose principles behind a VEIL OF IGNORANCE
-   (not knowing class, sex, talents, religion):
-     1. equal BASIC LIBERTIES        (lexically FIRST)
-     2a. FAIR equality of opportunity
-     2b. DIFFERENCE PRINCIPLE: inequality OK only if it
-         benefits the LEAST ADVANTAGED
-   -----------------------------------------------
-   NOZICK -- entitlement, not pattern
-     just acquisition + transfer + rectification
-     Wilt Chamberlain: voluntary transfers upset any
-     fixed pattern; minimal state only
-   -----------------------------------------------
-   SEN -- realisation, not just design
-     NITI (correct rules) vs NYAYA (justice in lives)
-     comparative, not transcendental; capabilities +
-     public reasoning
-   -----------------------------------------------
-   AMBEDKAR -- political democracy needs SOCIAL democracy
-     liberty + equality + FRATERNITY; caste hollows rights
-```
-
-> MEMORY: Rawls = liberty FIRST, then fair opportunity, then difference
-> principle. Nozick = history not pattern. Sen = niti/nyaya, capabilities.
-> Ambedkar = liberty-equality-FRATERNITY.
-
-
-
-### 3.5 Rawls: justice as fairness
-
-**Statement ✅:** Rawls constructs principles of justice from a fair choice situation—the **original position** under a **veil of ignorance**.
-
-### 3.5.1 Original position and veil of ignorance
-- **Statement ✅:** Parties choose principles for the basic structure of society without knowing their class, gender, race, natural talents, religion, or conception of the good.
-- **Argument ✅:** Ignorance of arbitrary advantages yields fairness because no one can tailor principles to personal fortune.
-- **Presupposition ✅:** free and equal moral persons can reason impartially under fair constraints.
-- **Distinction ✅:** this is a device of representation, not an actual historical contract.
-- **Example ⚠️:** Not knowing whether one will be rich or poor encourages principles safe for the least advantaged.
-- **Objection → Reply ⚠️:**
-  - **Objection:** the chooser is too abstract and socially unencumbered. - **Reply:** abstraction is methodological, designed to filter morally arbitrary facts.
-
-### 3.5.2 Two principles of justice
-
-| Principle | Content | Priority | Why it matters |
-|---|---|---|---|
-| **First principle** ✅ | Each person has an equal claim to a fully adequate scheme of equal **basic liberties**, compatible with the same scheme for all | **Lexically prior** to the second principle | Liberty cannot be traded away for economic gain |
-| **Second principle (a)** ✅ | **Fair equality of opportunity** | Prior within the second principle to the difference principle | Offices must be genuinely open, not merely formally open |
-| **Second principle (b)** ✅ | **Difference principle**: inequalities are just only if they benefit the **least advantaged** | Applies after fair equality of opportunity | Permits inequality only under a justificatory burden |
-
-### 3.5.3 Priority rules
-- **Priority of liberty ✅:** basic liberties cannot be reduced for greater social or economic advantage.
-- **Priority within the second principle ✅:** fair equality of opportunity precedes the difference principle.
-
-### 3.5.3A Why the lexical order is *necessary* — the argument in full
-
-Direct Core route for **2026 Q1(a)** — *"Why does Rawls consider it necessary that the two
-principles of justice be applied in lexical order? Explain."* §3.5.3 states the rules; this
-sub-section supplies the justification the stem asks for.
-
-**Doctrine statement.** ✅ **Lexical (serial) order** means the first principle must be satisfied
-**before** the second is applied at all, and fair equality of opportunity before the difference
-principle; a deficiency at an earlier position cannot be compensated by a gain at a later one. ⚠️
-The stem asks not *what* the order is but *why* Rawls thinks it necessary.
-
-**The argument, numbered**
-
-1. **To exclude aggregation.** ✅ Rawls's target is the utilitarian licence to trade one person's
-   liberty for a larger sum of advantage. Only a priority rule — not a weighting — blocks this
-   structurally.
-2. **Because the parties in the original position would choose it.** ✅ Behind the veil of ignorance
-   the parties do not know their conception of the good, so they will not gamble on the liberty
-   needed to revise and pursue **any** conception; they secure it first (§3.5.1).
-3. **To avoid intuitionism.** ✅ If the principles merely had to be "balanced", their application
-   would depend on the intuitions of whoever is balancing, and justice as fairness would lose
-   determinacy. Lexical order gives a **public, checkable** decision procedure.
-4. **Because self-respect is the most important primary good.** ✅ Equal basic liberties are the
-   institutional expression of equal citizenship; their curtailment injures self-respect in a way
-   that additional income does not compensate.
-5. **Because the priority is conditional on circumstances, not absolute in the abstract.** ✅ Rawls
-   holds the priority of liberty to apply once favourable conditions obtain — that is, once
-   material and educational conditions permit the effective exercise of basic liberties; under
-   severely unfavourable conditions the priority may be qualified.
-6. **Because fair equality of opportunity must precede the difference principle.** ✅ Otherwise
-   inequalities benefiting the least advantaged could be purchased at the cost of closed careers,
-   reintroducing status hierarchy through the back door.
-7. **For stability and publicity.** ⚠️ Citizens can only affirm principles over time if the
-   principles' application does not depend on contested case-by-case trade-offs; the order is part
-   of what makes justice as fairness publicly justifiable.
-
-**Presuppositions.** ✅ Persons have two moral powers — a sense of justice and a capacity for a
-conception of the good — and liberty is the condition of exercising them. ⚠️ Basic liberties form a
-**scheme**, so they may be adjusted against **one another**, but not against economic gains. ❓
-Whether "favourable conditions" can be specified non-arbitrarily is contested.
-
-**Comparison chart — three ways of relating the principles**
-
-| Axis | Utilitarian aggregation | Intuitionist balancing | Rawls's lexical order |
-|---|---|---|---|
-| **Can liberty be traded for welfare?** | ✅ yes, if the sum rises | ⚠️ sometimes, on judgment | ❌ no, under favourable conditions |
-| **Determinacy** | high, but morally unconstrained | low | high and constrained |
-| **Protection of minorities** | weak | unpredictable | strong |
-| **Basis** | maximising the sum | plural principles, no ordering | rational choice under the veil |
-| **Treatment of self-respect** | one good among others | contextual | the most important primary good |
-| **Main objection** | permits sacrifice of persons | no decision procedure | rigidity where the poor might prefer welfare to liberty |
-
-**Objections and replies.**
-**(i) The rigidity objection** — the very poor might rationally trade some liberty for subsistence.
-**Reply:** ✅ the priority holds under **favourable conditions**; Rawls himself allows qualification
-where conditions are severely unfavourable. **Residual:** ❓ the threshold is imprecise.
-**(ii) The abstraction objection** (communitarian) — the veil produces an unencumbered self.
-**Reply:** ⚠️ the veil is a device of representation for fairness, not a metaphysics of the person.
-**Residual:** ⚠️ the device still encodes liberal priorities.
-**(iii) The capability objection** (Sen) — primary goods ignore conversion differences.
-**Reply:** ⚠️ this challenges the currency of justice more than the ordering itself.
-
-**Traps (this stem only)**
-
-| ❌ Trap | ✅ Correction |
-|---|---|
-| Describing the two principles and stopping | the stem asks **why the order is necessary**; the justification is the answer |
-| Saying "liberty is more important" without argument | give the anti-aggregation, anti-intuitionist and self-respect arguments |
-| Calling the priority unconditional | ✅ it holds under favourable conditions |
-| Forgetting the **internal** priority | fair equality of opportunity precedes the difference principle |
-| Treating lexical order as a tie-breaker | it is a **serial** rule: the later principle applies only after the earlier is satisfied |
-
-**Answer spine — 10 marks (~150 words, the 2026 format).** State the rule in one line → the
-anti-aggregation reason → the original-position choice reason → the anti-intuitionism/determinacy
-reason → self-respect → the internal priority → one-line conditionality caveat and verdict.
-
-**Exact 2026 PYQ route:** 2026 Q1(a) [10] → §3.5.3A, with §3.5.1, §3.5.2 and §3.5.3.
-
-**Sources for §3.5.3A:** John Rawls, *A Theory of Justice* (**1971**; revised edition **1999**) and
-*Political Liberalism* (**1993**), cited by title and year only;
-[Stanford Encyclopedia of Philosophy, "John Rawls"](https://plato.stanford.edu/entries/rawls/) and
-["Original Position"](https://plato.stanford.edu/entries/original-position/). ⚠️ Paraphrased
-throughout; no verbatim passage is reproduced.
-
-### 3.5.4 Reflective equilibrium
-**Statement ✅:** Justification involves **reflective equilibrium**—mutual adjustment between general principles and considered judgments.
-
-- **Argument ✅:** Political philosophy should neither start from raw intuitions alone nor impose principles insensitive to our firm moral judgments.
-- **Presupposition ✅:** moral reasoning is revisable and coherentist.
-- **Distinction ✅:** equilibrium is not mere compromise; it seeks principled fit.
-- **Example ⚠️:** If a principle licenses slavery or caste despite our deepest judgments against them, revision is required.
-- **Objection → Reply ⚠️:**
-  - **Objection:** considered judgments may reflect bias. - **Reply:** public reason, criticism, and coherence-testing purge many distortions.
-
-### 3.5.5 Rawls in one evaluative sentence ⚠️
-Rawls offers a **deontological liberal egalitarianism**: liberty is basic, inequality is tolerated only under fair opportunity and benefit to the least advantaged.
-
-### 3.6 Nozick: entitlement theory and minimal state
-
-**Statement ✅:** Nozick rejects patterned distributive justice and defends a **historical** account of justice in holdings.
-
-### Core components
-1. **Justice in acquisition ✅** — how previously unowned things may be justly acquired. 2. **Justice in transfer ✅** — voluntary exchange, gift, and transfer. 3. **Justice in rectification ✅** — correction of past injustice.
-
-| Nozick's contrast | Patterned principle | Historical principle |
-|---|---|---|
-| Question asked | Does the current distribution fit a preferred pattern (equality, need, merit)? | Did each holding arise through just acquisition and transfer? |
-| Main criticism | Requires continuous interference to maintain the pattern | Respects side-constraints and self-ownership |
-| Famous example | **Wilt Chamberlain** argument ✅ | Voluntary exchanges upset any fixed pattern |
-
-- **Argument ✅:** If people are entitled to holdings, redistributive taxation for pattern maintenance partly appropriates their labour.
-- **Presupposition ✅:** individuals have strong self-ownership rights.
-- **Distinction ✅:** **patterned** principles judge by end-state shape; **historical** principles judge by process.
-- **Example ✅:** In the Wilt Chamberlain case, many freely pay to watch him; the new inequality is just if transfers were voluntary.
-- **Objection → Reply ⚠️:**
-  - **Objection:** starting distributions are rarely clean; historical injustice, power asymmetry, and coercive necessity undermine voluntariness. - **Reply:** Nozick includes rectification, though critics say he under-specifies it and that real societies cannot bypass background injustice so easily.
-
-**Minimal state ✅:** The state should be limited to protection against force, theft, fraud, and enforcement of contracts; anything more violates rights.
-
-**UPSC hook:** Directly answers **2021: 1(a) 10m**.
-
-### 3.7 Sen: *The Idea of Justice*
-
-**Statement ✅:** Sen shifts the focus from identifying a perfectly just social order to comparing actual arrangements and removing remediable injustice.
-
-### 3.7.1 Institutional justice (nīti) and realised justice (nyāya)
-- **Institutional justice (nīti) ✅:** correctness of institutions, rules, and procedures.
-- **Realised justice (nyāya) ✅:** realised justice in social life—how people actually fare.
-
-**Argument ✅:** A society may have fine rules on paper and yet produce grave injustice in practice. Therefore institutional design, though important, is insufficient.
-
-### 3.7.2 Comparative rather than transcendental institutionalism
-**Statement ✅:** Sen criticises approaches that seek the one perfectly just basic structure before making comparative judgments.
-
-- **Argument ✅:** We often can identify clear injustices and better alternatives without agreeing on a complete ideal theory.
-- **Presupposition ✅:** practical reason can rank social states comparatively.
-- **Distinction ✅:** “Which arrangement is more just?” differs from “What is the perfectly just society?”
-- **Example ⚠️:** One can condemn famine, exclusion, or preventable incapability without first solving every problem of ideal institutional design.
-- **Objection → Reply ⚠️:**
-  - **Objection:** comparison without a full ideal lacks firm direction. - **Reply:** Sen argues public reasoning and manifest injustice supply enough orientation for political action.
-
-### 3.7.3 Capability approach and public reasoning
-- **Statement ✅:** What matters is what people are actually able to be and do; justice must therefore attend to capabilities and democratic public reasoning.
-- **Argument ✅:** Resources and formal rights matter, but they matter through their effect on substantive freedoms.
-- **Presupposition ✅:** human diversity affects conversion of goods into real freedom.
-- **Distinction ✅:** capability ≠ utility; capability ≠ mere income.
-- **Example ⚠️:** Equal income does not produce equal mobility or voice where bodily condition or social norms differ.
-- **Objection → Reply ⚠️:**
-  - **Objection:** capability comparison is measurement-heavy and open-ended. - **Reply:** Sen prefers reasoned public assessment to spurious exactness.
-
-**UPSC hook:** This section directly addresses **2021: 2(a) 20m** asking whether Sen improves on Rawls.
-
-### 3.8 Ambedkar as foil: social justice, liberty, equality, fraternity
-
-**Statement ✅:** Ambedkar treats political democracy as unstable without social democracy rooted in **liberty, equality, and fraternity**.
-
-- **Argument ✅:** Formal rights are undermined where caste hierarchy denies equal social standing and fraternity.
-- **Presupposition ✅:** justice is not merely procedural; it requires annihilation of graded inequality and humiliation.
-- **Distinction ✅:** constitutional form ≠ lived social democracy.
-- **Example ⚠️:** A society may grant one vote to each citizen yet preserve deep civic humiliation and exclusion.
-- **Objection → Reply ⚠️:**
-  - **Objection:** social justice talk can subordinate liberty to reformist control. - **Reply:** Ambedkar's point is the reverse: liberty without equal status and fraternity becomes empty for the oppressed.
-
-### 3.9 Are liberty and equality inadequate without justice?
-
-**Statement ⚠️:** Yes—considered separately, liberty and equality remain indeterminate ideals; justice tells us **which liberties matter**, **what kind of equality is relevant**, and **when inequalities are justified or condemned**.
-
-### Why they are inadequate by themselves
-1. **Liberty alone is under-specified ✅:** whose liberty, to do what, against whom, and with what effect on others? 2. **Equality alone is under-specified ✅:** equality of status, rights, opportunity, welfare, resources, capabilities, or outcome? 3. **Justice supplies adjudicatory criteria ✅:** desert, fairness, entitlement, need, capability, rectification, and public reason become competing standards of justice.
-
-### Composite evaluation with positions
-| Position | Strength | Weakness | Verdict |
-|---|---|---|---|
-| Liberty-first (Nozickian) | Strong protection of self-ownership and anti-paternalism | Background injustice and deprivation can hollow out real freedom | Insightful but incomplete |
-| Equality-first levelling | Highlights structural oppression | May flatten choice, desert, and pluralism | Necessary warning, not sufficient ideal |
-| Justice as ordering ideal | Balances liberty and equality by principle | Competing theories of justice remain | Best exam verdict |
-
-**Suggested conclusion ⚠️:** liberty and equality are indispensable, but justice is the architectonic ideal that disciplines and coordinates them.
-
-### India-facing constitutional or institutional application
-
-✅ PYQ provenance: 2026 Q1(a) and Q3(c) are transcribed in the repository from the official paper. ⚠️ Source limitation: external public-page discovery was unsuccessful at retrieval time.
-
-### UPSC integration
-
-The heaviest exam subtopic -- five directly examinable question routes meet here.
-
-- 2019 Q1(a), 10 marks -- is Rawls continuing Plato's justice -> continuity only
-  in the broad sense that justice structures a well-ordered society; radical
-  break in method, egalitarian citizenship and rejection of fixed hierarchy.
-- 2021 Q1(a), 10 marks -- Nozick's distributive/entitlement theory -> historical
-  vs patterned; Wilt Chamberlain; minimal state; concede acquisition/rectification
-  weakness.
-- 2021 Q2(a), 20 marks -- Sen an improvement on Rawls -> name the criterion, then
-  adjudicate (niti/nyaya, capabilities, public reasoning).
-- 2023 Q1(a), 10 marks -- justice as fairness -> original position, veil, two
-  principles, priority rules.
-- 2025 Q4(a), 20 marks -- equality and liberty inadequate without justice -> the
-  ordering verdict is the whole answer.
-
-> MEMORY: For "is X an improvement upon Y?", the criterion of improvement must be
-> named BEFORE you apply it.
-- **2026 Q1(a), 10 marks:** explain why Rawls requires lexical order. The answer must justify the order through anti-aggregation, original-position choice, determinacy, self-respect, favourable conditions and the internal priority of fair opportunity.
-
-### Revision notes
-
-- Rawls: original position + veil -> equal basic liberties (FIRST) -> fair
-  equality of opportunity -> difference principle (benefit the least advantaged);
-  reflective equilibrium.
-- Nozick: justice in holdings = acquisition + transfer + rectification; historical
-  not patterned; Wilt Chamberlain; minimal state.
-- Sen: niti (rules) vs nyaya (realised justice); comparative not transcendental;
-  capabilities + public reasoning.
-- Ambedkar: liberty + equality + FRATERNITY; social democracy underwrites
-  political democracy.
-- Ordering verdict: liberty + equality indispensable but indeterminate; justice
-  orders them.
-
-> WRONG: "Rawls's first principle is equality." It is equal LIBERTY (lexically
-> prior).
-
----
-
-### Practice — concept-sensitive retrieval and application
-
-#### Retrieval drill
-
-Reconstruct Rawls's lexical-order argument, Nozick's three entitlement principles, Sen's niti/nyaya distinction and Ambedkar's fraternity correction.
-
-#### Application drill
-
-A policy improves the least advantaged but closes offices to one inherited group. Test it under Rawls's internal lexical order.
-
-#### Lesson MCQs
-
-**MCQ 26: B**
-
-The 'un-interfered-with slave' example shows that:
-
-- A. interference and domination are identical
-- B. one can be dominated (and so unfree) even without any actual interference
-- C. domination requires physical force
-- D. non-interference always guarantees freedom
-
-**MCQ 27: C**
-
-On the republican view, non-arbitrary law is:
-
-- A. always a pure subtraction from liberty
-- B. wholly irrelevant to freedom
-- C. freedom-constituting, because it strips others of arbitrary power
-- D. identical to domination
-
-**MCQ 28: D**
-
-The correct provenance discipline for the non-domination module is to:
-
-- A. quote Pettit's page numbers freely
-- B. treat Skinner as the normative theorist
-- C. attribute the historical recovery to Pettit
-- D. cite Pettit (1997) for theory and Skinner (1998) for history, by title and year, without quotation
-
-#### Answer and option-wise explanations
-
-#### MCQ 26 explanations
-- **A - Incorrect.** The example is designed to separate the concepts: a master may refrain from interfering while retaining dominating power.
-- **B - Correct.** A slave with an indulgent master suffers no interference yet must defer and self-censor - real unfreedom an interference-count cannot detect.
-- **C - Incorrect.** Domination rests on uncontrolled capacity and dependency, not only on the use or threat of bodily force.
-- **D - Incorrect.** Non-interference can be contingent on another’s goodwill; republican freedom requires secure independence from that discretionary power.
-
-#### MCQ 27 explanations
-- **A - Incorrect.** This assumes every legal constraint diminishes freedom, overlooking laws that remove a master’s discretionary control and secure equal standing.
-- **B - Incorrect.** Institutions determine whether interference is arbitrary and contestable, so law is central rather than irrelevant to republican freedom.
-- **C - Correct.** Where the negative view sees every law as a cost to liberty, republicanism sees non-arbitrary, contestable law as constitutive of freedom.
-- **D - Incorrect.** Non-arbitrary, publicly controlled law checks domination; identifying it with domination reverses the republican criterion.
-
-#### MCQ 28 explanations
-- **A - Incorrect.** Unverified page quotations breach source discipline; the module permits title-year attribution without pretending to possess exact textual wording.
-- **B - Incorrect.** Skinner supplies the historical genealogy, while Pettit develops the contemporary normative theory; the roles are reversed here.
-- **C - Incorrect.** Pettit systematises non-domination normatively, but the historical recovery is assigned to Skinner.
-- **D - Correct.** Pettit supplies the normative theory and Skinner the historical recovery; cite by title and year only, with no quoted text or page detail.
-
-#### Mains micro-practice with model
-
-**Question:** Is Sen an improvement on Rawls? State the criterion before giving the verdict.
-
-**Model answer:** Judged by realised freedom, human diversity and the comparative removal of manifest injustice, Sen improves on Rawls. Capabilities reveal differences in converting primary goods into actual agency, while public reasoning avoids waiting for agreement on a perfectly just society. Judged by institutional determinacy, however, Rawls retains an advantage: the original position, equal basic liberties, fair opportunity and the difference principle provide a clearer basic-structure standard. Sen is therefore an improvement on one criterion, not a wholesale supersession. The best answer combines Rawlsian institutional guarantees with Sen's scrutiny of actual lives and remediable injustice.
-
----
-
-## Lesson 10 — Debates, Criticisms and Traps: Synthesis Across the Triad
-
-**Progress: 10/10 | Stage: Advanced | Subtopic: Debates, Criticisms and Traps: Synthesis Across the Triad**
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-**Book context:** Queried — Canonical inter-thinker debates, criticism-reply bank, UPSC traps, answer architecture and the advanced dossier's bounded enrichment.
-**CA search:** "equality liberty justice political ideals India 2026 philosophy debate"
-**CA found:** No single current event controls the synthesis. Previously verified constitutional, statutory and judicial illustrations are reused only where they sharpen a philosophical distinction.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-This subtopic is the synthesis: the standing debates, the standard
-criticisms-and-replies, and the ten traps that cost marks.
-
-```text
-   THE STANDING DEBATES -- fix axes, then adjudicate
-   -----------------------------------------------------
-   BERLIN  vs GREEN     | coercion-fear   vs hollow freedom
-   RAWLS   vs NOZICK    | fair agreement  vs self-ownership
-   RAWLS   vs SEN       | ideal design    vs realised lives
-   MILL    vs MARX      | individuality   vs class exploitation
-   PLATO/ARIST/RAWLS    | harmony / proportion / fair terms
-   -----------------------------------------------------
-
-   HOW TO COMPARE (mark-bearing method)
-   -----------------------------------------------------
-   fix 3-4 shared AXES -> run BOTH thinkers down each axis
-   -> adjudicate. NEVER write two separate biographies.
-```
-
-> MEMORY: A comparison answer = shared axes + adjudication, not two mini-essays.
-
-
-
-### 4. INTER-THINKER / INTER-SCHOOL DEBATES
-
-### 4.1 Hobbes vs Locke vs Rousseau on liberty
-See §2.4. The debate turns on whether order, rights, or collective autonomy is the essence of freedom.
-
-### 4.2 Berlin vs Green
-
-| Issue | Berlin | Green |
-|---|---|---|
-| Core anxiety | Coercion in the name of higher freedom | Formal liberty without real power to use it |
-| Preferred emphasis | Negative liberty | Positive freedom / self-realisation |
-| Risk diagnosed | Authoritarian paternalism | Social abandonment and hollow freedom |
-| Best synthesis ⚠️ | Preserve a protected sphere against coercion | Add enabling conditions without paternalistic control |
-
-### 4.3 Rawls vs Nozick
-
-| Issue | Rawls | Nozick |
-|---|---|---|
-| Moral starting point | Fair agreement among free and equal persons | Self-ownership and inviolable rights |
-| Distribution | Inequalities allowed only if they aid least advantaged | No end-state pattern required |
-| State | More than minimal if needed for just basic structure | Minimal state only |
-| Critique of other | Entitlement ignores fair background conditions | Patterned principles violate liberty |
-
-### 4.4 Rawls vs Sen
-
-| Issue | Rawls | Sen |
-|---|---|---|
-| Main focus | Just basic structure and ideal principles | Comparative justice and removal of remediable injustice |
-| Metric | Primary goods | Capabilities |
-| Method | Original position; institutional design | Public reasoning; actual social outcomes |
-| Sen's criticism | Too transcendental / institution-focused | — |
-| Rawlsian reply ⚠️ | Institutions remain indispensable preconditions for justice | — |
-
-### 4.5 Mill vs Marx on equality
-
-| Issue | Mill | Marx |
-|---|---|---|
-| Core worry | Suppression of individuality and legal/social subordination | Class exploitation hidden by formal equality |
-| Favoured equality | Equal status, liberty, women's emancipation | Need-sensitive social transformation |
-| View of market society | Reformable liberal order | Structurally exploitative capitalism |
-| Best exam use ⚠️ | Defend equal status and individuality | Expose the material limits of merely formal equality |
-
-### 4.6 Plato, Aristotle, Rawls: continuities and breaks
-
-| Question | Plato | Aristotle | Rawls |
-|---|---|---|---|
-| What is justice? | Functional harmony | Proportion / rectification | Fair terms of cooperation |
-| Unit of analysis | Soul and polis | Polis and transactions | Basic structure of society |
-| Equality idea | Role-fitting order, not democratic equality | Proportional equality | Equal basic liberties + fair opportunity |
-| Link to UPSC | 2019 asks if Rawls continues Plato | Helps compare proportionality | Shows modern contractarian transformation |
-
-**Analytical verdict ⚠️:** Rawls continues Plato only in a very broad sense that justice structures a well-ordered society; he departs radically in method, egalitarian citizenship, and rejection of fixed functional hierarchy.
-
-### 5. CRITICISMS AND REPLIES
-
-### 5.1 Equality
-1. **Criticism:** Equality ignores natural difference. - **Reply ⚠️:** Political equality concerns status and treatment, not denial of difference. 2. **Criticism:** Equality of outcome destroys incentive. - **Reply ⚠️:** Many egalitarians defend thresholds, fair opportunity, capability floors, or least-advantaged gains—not flat sameness. 3. **Criticism:** Differential treatment for the disadvantaged violates equality. - **Reply ⚠️:** Equity may be required to make equality substantive rather than merely formal.
-
-### 5.2 Liberty
-1. **Criticism:** Negative liberty serves the already powerful. - **Reply ⚠️:** True if isolated from fair background conditions; false if combined with equal basic rights and anti-domination safeguards. 2. **Criticism:** Positive liberty invites paternalism. - **Reply ⚠️:** The danger is real, but enabling conditions like education can expand freedom without dictating a single life-plan. 3. **Criticism:** Mill's self-/other-regarding line is unstable. - **Reply ⚠️:** It remains a valuable presumption placing the burden of proof on coercion.
-
-### 5.3 Justice
-1. **Criticism of Plato:** Functional justice freezes hierarchy. - **Reply ⚠️:** Its enduring value lies in the idea of harmony and appropriate function, not in rigid class closure. 2. **Criticism of Aristotle:** merit is contestable and exclusionary. - **Reply ⚠️:** Even so, proportionality explains why justice is not flat arithmetic in every sphere. 3. **Criticism of Rawls:** too abstract, insufficiently historical. - **Reply ⚠️:** abstraction is a fairness-device; many real injustices can still be judged through his principles. 4. **Criticism of Nozick:** ignores structural injustice and unfair starting points. - **Reply ⚠️:** His side-constraint view remains a major warning against overreaching state redistribution. 5. **Criticism of Sen:** too open-ended and less institutionally determinate. - **Reply ⚠️:** openness is deliberate; public reasoning and comparative assessment suit plural societies.
-
-### 6. COMMON UPSC TRAPS
-
-1. **Trap:** Treating equality as sameness. - **Correction:** equality usually means equal worth, status, concern, rights, opportunity, or capability—not identical outcomes. 2. **Trap:** Saying Berlin supports only negative liberty and rejects all positive liberty. - **Correction:** Berlin distinguishes them and warns about positive liberty's authoritarian misuse; he does not deny the human appeal of self-mastery. 3. **Trap:** Reducing Mill to laissez-faire licence. - **Correction:** Mill defends liberty through the harm principle, supports individuality, and is strongly committed to women's equality. 4. **Trap:** Confusing Rousseau's natural inequality with natural rightlessness. - **Correction:** Rousseau distinguishes natural/physical differences from convention-produced moral/political inequality. 5. **Trap:** Writing Rawls as if equality is his first principle. - **Correction:** Rawls gives lexical priority to equal basic liberties; distributive principles come after. 6. **Trap:** Calling Nozick a patterned theorist. - **Correction:** Nozick explicitly opposes patterned principles and defends a historical entitlement theory. 7. **Trap:** Explaining Sen only as welfare economics. - **Correction:** In political philosophy, stress institutional justice (nīti) and realised justice (nyāya), comparative justice, capability, and public reasoning. 8. **Trap:** Using Ambedkar merely as a constitutional name-drop. - **Correction:** Use him philosophically—as a critic of social inequality that hollows out liberty and justice. 9. **Trap:** Collapsing justice into law. - **Correction:** legality may diverge from legitimacy; justice evaluates law itself. 10. **Trap:** Forgetting balanced evaluation. - **Correction:** UPSC rewards thesis + strongest counter-position + reasoned verdict, not one-sided advocacy.
-
-### India-facing constitutional or institutional application
-
-⚠️ Analytical synthesis: Indian constitutional practice illustrates that equal legal status, protected liberty, fair procedure and substantive correction can support yet also constrain one another. No institution or judgment eliminates the underlying philosophical dispute.
-
-### UPSC integration
-
-- 2019 Q1(a), 10 marks -- Rawls continuing Plato -> a continuity/break comparison;
-  fix axes (what is justice / unit of analysis / equality idea).
-- Any "compare / distinguish" stem -> insert a 3-axis table and adjudicate.
-- Any "critically evaluate" stem -> lead with the strongest objection, give the
-  best reply, then a residual problem that survives the reply.
-
-> MEMORY: Directive first. "Discuss" = expose one live tension; "critically
-> evaluate" = objection-reply is the answer; "how far" = degree judgment; "is X
-> an improvement?" = name the criterion first.
-
-### Revision notes
-
-- Debates: Berlin/Green, Rawls/Nozick, Rawls/Sen, Mill/Marx, Plato-Aristotle-
-  Rawls. Compare on shared axes; adjudicate conditionally.
-- Ten traps: sameness; Berlin; Mill-as-licence; Rousseau; Rawls-first-principle;
-  Nozick-as-patterned; Sen-as-welfare-economics; Ambedkar-name-drop;
-  justice=law; one-sided advocacy.
-- Balanced evaluation = thesis + strongest counter-position + reasoned verdict.
-
-> WRONG: Two-biography comparisons and one-sided demolitions.
-
----
-
-### Practice — concept-sensitive retrieval and application
-
-#### Retrieval drill
-
-On one page, compare Berlin-Green, Mill-Marx, Rawls-Nozick, Rawls-Sen and Plato-Aristotle-Rawls. Give the presupposition that produces each disagreement.
-
-#### Application drill
-
-A policy is lawful, welfare-enhancing and equally administered, but removes a basic liberty from a minority. Use at least three theories to explain why legality, utility and equal administration do not settle justice.
-
-#### Lesson MCQs
-
-**MCQ 29: A**
-
-Plato's concept of justice is:
-
-- A. harmony - each part of soul and city performing its own proper function
-- B. the equal distribution of income
-- C. the will of the stronger
-- D. the maximisation of aggregate utility
-
-**MCQ 30: B**
-
-Aristotle's DISTRIBUTIVE justice requires:
-
-- A. arithmetic equality for all regardless of merit
-- B. proportional shares that track relevant merit
-- C. the rectification of transactional wrongs
-- D. the abolition of private property
-
-#### Answer and option-wise explanations
-
-#### MCQ 29 explanations
-- **A - Correct.** For Plato justice is right-order: reason ruling the soul and each class doing its own work in the city, not external distribution.
-- **B - Incorrect.** Equal income is a distributive pattern alien to Plato’s functional account of each part doing its own work.
-- **C - Incorrect.** "The will of the stronger" is Thrasymachus’s challenge in the Republic, which Plato’s account of harmonious order answers rather than adopts.
-- **D - Incorrect.** Aggregate utility belongs to utilitarianism; Plato evaluates the ordered soul and city, not summed welfare.
-
-#### MCQ 30 explanations
-- **A - Incorrect.** Arithmetic equality belongs to corrective justice; distributive justice is geometrical or proportional because shares track a relevant criterion.
-- **B - Correct.** Distributive justice allocates goods in proportion to relevant desert or merit - proportional, not arithmetic, equality.
-- **C - Incorrect.** Rectifying a wrong restores an antecedent balance between parties and is Aristotle’s corrective, not distributive, category.
-- **D - Incorrect.** Aristotle’s classification allocates honours or goods by proportion; it does not entail abolishing private ownership.
-
-#### Mains micro-practice with model
-
-**Question:** How should a critical Philosophy Optional answer move from comparison to adjudication?
-
-**Model answer:** A critical answer must first fix a shared axis—such as the metric of equality, the threat to liberty or the criterion of distribution. It should then reconstruct each position from its presupposition rather than list conclusions. The strongest objection must be answered by the best available reply, followed by a residual problem that survives. Adjudication is conditional: Berlin wins against paternalism, Green against hollow formal freedom; Rawls against arbitrary starting positions, Nozick against continuous pattern-maintenance; Sen on realised freedom, Rawls on institutional determinacy. The conclusion should therefore rank positions by a named criterion, not declare a context-free winner.
-
----
-
-# VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
-
-The wording, year and marks below follow the repository's official-paper transcriptions. These are
-linkages and approaches only; solved PYQ answers are deliberately not reproduced.
-
-| Year | Question | Marks | Exact demand |
+| Democracy and citizenship | equality of civic standing, protected political liberty, and the 2018 “distinctive features” judgement | Forms of Government |
+| Rights and duties | basic liberties and the limit needed to prevent one agent’s freedom becoming another’s subjection | Individual and State |
+| Authority and legitimacy | why coercion needs public justification; legality is not identical with justice | Sovereignty; Individual and State |
+| Welfare | aggregate welfare as a utilitarian test; enabling provision as a condition of effective freedom | Development and Social Progress |
+| Recognition | stigma and humiliation as failures of status equality | Humanism, Secularism and Multiculturalism |
+| Affirmative action | the general compensatory principle | Caste Discrimination: Gandhi and Ambedkar |
+
+**Firewall rule:** an illustration may cross a boundary; ownership does not. Do not turn an answer
+on the three ideals into a full essay on democracy, reservation, welfare, sovereignty or caste.
+
+## Dependency-led roadmap
+
+| Tier | Stage | Lesson | Dependency and output |
 |---|---|---:|---|
-| 2018 | Q2(a) | 20 | How far can liberty and equality be considered as distinctive features of democracy ? Discuss. |
-| 2019 | Q1(a) | 10 | How far do you think John Rawls is continuing with Plato's concept of justice? |
-| 2019 | Q4(b) | 15 | Does liberty put limitations to equality? Discuss. |
-| 2020 | Q1(a) | 10 | Is the concept of liberty realizable in the modern technological society? Explain. |
-| 2021 | Q1(a) | 10 | Discuss critically the distributive theory of justice as propounded by R. Nozick. |
-| 2021 | Q1(b) | 10 | How does Rousseau distinguish between natural and artificial inequality ? Explain. |
-| 2021 | Q2(a) | 20 | Discuss whether Amartya Sen's idea of justice is an improvement upon Rawl's theory of justice. |
-| 2022 | Q1(d) | 10 | "Complete liberty may lead to inequality while order and restrictions imply a necessary loss of freedom." Critically discuss. |
-| 2022 | Q2(c) | 15 | Explain the difference between the notion of equity and equality with reference to Marxian philosophy. |
-| 2023 | Q1(a) | 10 | What is meant by justice as fairness? Explain Rawls' theory of justice. |
-| 2024 | Q1(a) | 10 | Briefly discuss Plato's concept of justice. |
-| 2024 | Q2(b) | 15 | Critically evaluate the concepts of liberty and equality as political ideals. |
-| 2025 | Q1(e) | 10 | Discuss the salient features of equality according to J.S. Mill. |
-| 2025 | Q4(a) | 20 | How are both equality and liberty inadequate as social and political ideals without justice? Discuss. |
-| 2026 | Q1(a) | 10 | Why does Rawls consider it necessary that the two principles of justice be applied in lexical order? Explain. |
-| 2026 | Q3(c) | 15 | Negative liberty seems to embody the idea of ultimate personal freedom, whereas positive liberty enables individuals to achieve their full potential. Discuss. |
+| Core | Foundation | 1 | Learn the three distinct questions—equal standing, free agency, and what is due |
+| Core | Equality | 2 | Move from equal worth to domains, opportunity, outcome, equity and metrics |
+| Core | Equality | 3 | Apply the grammar through Rousseau, Mill and Marx |
+| Core | Liberty | 4 | Distinguish Berlin, Mill, Hobbes, Locke, Rousseau and Green |
+| Core | Liberty synthesis | 5 | Join liberty to equality, democracy, technology and republican non-domination |
+| Core | Justice foundation | 6 | Separate formal, procedural and substantive justice; choose distributive criteria |
+| Core | Classical justice | 7 | Plato, Aristotle, compensation and the Plato–Rawls bridge |
+| Core | Rawls | 8 | Original position, two principles, lexical order and reflective equilibrium |
+| Core | Nozick | 9 | Acquisition, transfer, rectification, side-constraints and minimal state |
+| Core | Sen and Ambedkar | 10 | Institutional correctness, realised justice, capability and social democracy |
+| Core | Triad synthesis | 11 | Adjudicate Rawls/Nozick, Rawls/Sen, Berlin/Green and liberty/equality/justice |
+| Core | Answer craft | 12 | Convert doctrine into directive-sensitive 10/15/20-mark answers |
+| Core | Solved assessment | PYQ workshop | Sixteen complete model routes and answers |
+| Core | Consolidation | Practice | cumulative MCQs, retrieval, Mains models and remediation |
+| Advanced | Enrichment | A1–A3 | selective metric, ethos and institutional refinements |
+| Expert | Precision | E1–E2 | near-neighbour distinctions, deployment and stop rules |
 
-## Demand-wise answer routes
+The order is cumulative. Equality supplies the standing problem; liberty supplies the agency
+problem; justice supplies criteria for arranging rights, opportunities, burdens and remedies.
 
-| PYQ | Directive and real demand | Concise answer approach |
+---
+
+# MUST-NEEDED / CORE LEARNING SESSION
+
+## Lesson 1 — Three ideals, three questions, one political problem
+
+**Progress:** 1/12 · **Stage:** Foundation · **Demand anchors:** S01-01, S01-19, S01-43
+
+### Visual: the triad is a decision system, not a word list
+
+```text
+PERSONS ENTER SOCIAL COOPERATION
+             |
+     +-------+-------+
+     |               |
+ equal standing?   free agency?
+  EQUALITY          LIBERTY
+     \               /
+      \             /
+       v           v
+       WHAT TERMS ARE DUE?
+             JUSTICE
+                |
+     rights · opportunities · shares
+     procedures · burdens · remedies
+```
+
+*Equality identifies who counts; liberty protects agency; justice specifies defensible terms.*
+
+### Plain-language entry
+
+Imagine three students sitting one examination. Equality asks whether each counts as a person of
+the same basic worth. Liberty asks whether each can think, speak and choose without wrongful
+control. Justice asks which rules, preparation conditions and remedies make the competition
+defensible. Giving everyone the same pen may be equal in one sense but irrelevant to unequal
+schooling; allowing unrestricted choice may enable cheating; enforcing rules consistently may
+still preserve an unfair starting structure.
+
+### Canonical doctrine
+
+✅ **Equality** is not universal sameness. Its starting point is equal moral standing and equal
+concern. Differences in talent, preference or achievement do not by themselves authorise caste,
+sex, race or inherited-status domination.
+
+✅ **Liberty** is more than physical power. It is a protected status of agency: a person may form
+judgements and act within a justified sphere. A tyrant may possess vast power while denying equal
+liberty to others.
+
+✅ **Justice** concerns what persons are due and which principles should govern cooperation,
+distribution, procedure, punishment and rectification. A valid law can be unjust; legality and
+legitimacy are therefore distinct.
+
+### Argument, presupposition and distinction
+
+1. Social cooperation allocates benefits and burdens.
+2. Persons subjected to those terms are owed reasons.
+3. Equal standing forbids reasons based merely on inherited rank.
+4. Liberty forbids treating agents only as instruments.
+5. Justice tests whether remaining inequalities and restraints are publicly defensible.
+
+✅ **Presupposition:** persons possess moral agency and are not merely units of social output.
+
+✅ **Controlling distinction:** equal worth does not entail identical treatment; protected liberty
+does not entail absence of every rule; justice does not mean any preferred result.
+
+### Example with limit
+
+🏛️ Articles 14–16 of the Constitution of India can illustrate formal equality, non-discrimination
+and equality of opportunity. **Limit:** constitutional permission or prohibition is not itself a
+complete philosophical defence, nor does legal text establish lived equality.
+
+### Strongest objection and reply
+
+**Objection:** The triad is too indeterminate. Every political camp invokes equality, liberty and
+justice while reaching different conclusions.
+
+**Reply:** ⚠️ The objection identifies why definitions alone are insufficient, not why the ideals
+are useless. Philosophical work consists in naming the metric of equality, the obstacle to
+liberty, and the criterion of justice, then exposing the cost of each choice.
+
+**Residual:** Rival accounts may remain reasonable; a strong answer gives a graded judgement
+rather than pretending to eliminate pluralism.
+
+### UPSC application
+
+- **Discuss:** explain a doctrine and expose one real tension.
+- **Critically evaluate:** present the strongest objection, best reply and surviving difficulty.
+- **How far:** identify the conditions under which a claim holds and fails.
+- **Explain:** reconstruct the internal logic before offering criticism.
+
+> **Answer-grabbing line:** ⚠️ Equality fixes standing, liberty protects agency, and justice
+> decides which inequalities, restraints and remedies can be justified to all.
+
+### Revision notes
+
+1. Equality begins with equal moral worth, not equal talent.
+2. Liberty is a protected status, not the powerful person’s licence.
+3. Justice allocates due claims and supplies reasons.
+4. Legal validity and moral legitimacy can diverge.
+5. Identical treatment can be unjust where relevant conditions differ.
+6. Every answer must specify the operative metric or criterion.
+7. The triad is mutually corrective, but no automatic harmony follows.
+8. Cross-topic examples illustrate; they do not transfer ownership.
+
+### Retrieval and application drill
+
+1. In one sentence, distinguish equal worth from identical treatment.
+2. Give one case in which a rule reduces an option yet protects liberty as status.
+3. Why is “justice means fairness” incomplete until a criterion is supplied?
+
+### Local practice — questions
+
+**MCQ 1.** Which statement most accurately expresses equal moral worth?
+
+A. Natural differences do not by themselves justify unequal civic standing.
+B. Every person must receive the same income in every circumstance.
+C. All differences in ability are politically fabricated.
+D. Equality requires the abolition of every role distinction.
+
+**MCQ 2.** Which claim best distinguishes liberty from power?
+
+A. Liberty is whatever an agent can physically accomplish.
+B. Liberty is a justified sphere or status of agency, while power may be exercised dominantly.
+C. Liberty exists only where no law applies.
+D. Greater wealth always entails greater liberty by definition.
+
+### Local practice — answers and option-wise explanations
+
+**MCQ 1**
+
+**Correct answer: A**
+
+- **A — Correct:** equal standing denies an automatic route from difference to domination.
+- **B — Incorrect:** equal worth does not settle every distributive outcome.
+- **C — Incorrect:** Rousseau and other egalitarians can acknowledge natural differences.
+- **D — Incorrect:** functional differences can be justified if they do not create arbitrary rank.
+
+**MCQ 2**
+
+**Correct answer: B**
+
+- **A — Incorrect:** capacity to overpower others is not an equal right.
+- **B — Correct:** the distinction preserves a normative idea of agency against brute control.
+- **C — Incorrect:** law can secure liberty when it is non-arbitrary and equally applicable.
+- **D — Incorrect:** resources may enable options, but wealth and liberty are not definitionally identical.
+
+---
+
+## Lesson 2 — Equality: domains, starting points, outcomes and metrics
+
+**Progress:** 2/12 · **Stage:** Core equality · **Demand anchors:** S01-01–S01-08, S01-17–S01-18
+
+### Visual: equality changes when its object changes
+
+```text
+EQUAL MORAL STANDING
+        |
+        +--> LAW: no status privilege
+        +--> POLITICS: equal citizenship, vote, office access
+        +--> SOCIETY: no stigma or inherited civic inferiority
+        +--> ECONOMY: no indefensible life-chance deprivation
+        |
+        +--> OPPORTUNITY
+        |      formal opening -> fair access to preparation
+        |
+        +--> OUTCOME
+        |      identical result? threshold? least-advantaged gain?
+        |
+        +--> METRIC
+               resources? welfare? capabilities? advantage?
+```
+
+*Most equality disputes are disagreements about domain, baseline and metric.*
+
+### Plain-language entry
+
+“Treat everyone equally” sounds clear until we ask: equally before law, equally influential,
+equally respected, equally resourced or equally capable? A race can have one rule for all while
+some runners begin far behind. Correcting the starting line may require unequal assistance. That
+is not automatically a betrayal of equality; it may be the means of making the relevant equality
+real.
+
+### The four domains
+
+| Domain | Canonical demand | Characteristic failure |
 |---|---|---|
-| 2018 Q2(a) | **How far + discuss**; degree judgment on democracy | Define equal civic standing and basic liberty; show their democratic complementarity; concede material and majoritarian limits; use justice and non-domination for the conditional verdict. |
-| 2019 Q1(a) | **How far** Rawls continues Plato | Continuity: justice orders a well-ordered society. Break: functional hierarchy versus free and equal citizens, philosopher-rule versus fair choice, harmony versus basic-structure fairness. |
-| 2019 Q4(b) | Does liberty limit equality? | Separate basic from marginal claims; show unrestricted property/contract liberty can generate inequality and aggressive levelling can restrict choice; conclude conflict is threshold-dependent. |
-| 2020 Q1(a) | **Explain** technological liberty | State gains in communication and knowledge; diagnose surveillance, manipulation and infrastructural dependence; distinguish convenience from autonomy; close with transparency, privacy and contestability. |
-| 2021 Q1(a) | **Critically discuss** Nozick | Acquisition-transfer-rectification; historical versus patterned justice; Wilt Chamberlain; minimal state; strongest objection is dirty history and under-specified rectification. |
-| 2021 Q1(b) | **Explain** Rousseau | Natural/physical versus moral/political inequality; property, comparison and dependence; stress diagnostic force and avoid saying every difference is conventional. |
-| 2021 Q2(a) | Is Sen an improvement on Rawls? | Name the criterion first: realised freedom and human diversity favour Sen; institutional determinacy favours Rawls; conclude criterion-relative improvement. |
-| 2022 Q1(d) | **Critically discuss** embedded tension | Concede both halves; distinguish licence, order, enabling conditions and non-domination; show why the degree and form of restriction matter. |
-| 2022 Q2(c) | **Explain difference** in Marx | Common measure versus need-sensitive equity; formal legal equality and material exploitation; place the need formula in higher communism and avoid treating it as a wage rule. |
-| 2023 Q1(a) | **Explain** justice as fairness | Original position, veil, two principles, internal priority and reflective equilibrium; one objection, one reply, no biography. |
-| 2024 Q1(a) | **Briefly discuss** Plato | Tripartite soul/city analogy, each part doing its work, harmony; then one hierarchy objection and qualified value. |
-| 2024 Q2(b) | **Critically evaluate** two ideals | Define variants, not slogans; conflict/complementarity; Berlin/Green, opportunity/capability and non-domination; justice-mediated verdict. |
-| 2025 Q1(e) | **Discuss features** of Mill's equality | Equal moral/civic status, women's equality, individuality, anti-custom hierarchy and qualified economic reform; avoid converting Mill into a leveller. |
-| 2025 Q4(a) | Why inadequate without justice? | Prove indeterminacy: which liberties and equality of what? Then show justice supplies criteria and priority without replacing the two ideals. |
-| 2026 Q1(a) | **Explain necessity**, not merely the principles | Serial rule; anti-aggregation; original-position choice; anti-intuitionism; self-respect; favourable-conditions caveat; fair opportunity before difference principle. |
-| 2026 Q3(c) | **Discuss** an embedded contrast | Negative liberty and its strength; positive liberty and its enabling force; Berlin's paternalism warning; Green's reply; non-domination as the third position. |
+| **Formal/legal equality** ✅ | general law applied without inherited privilege | consistent law can leave material exclusion untouched |
+| **Political equality** ✅ | equal citizenship, vote and eligibility for office | wealth and social power can create unequal effective influence |
+| **Social/status equality** ✅ | absence of stigma, humiliation and graded civic worth | rights on paper coexist with inherited deference |
+| **Economic equality** ⚠️ | reduce unjust resource and life-chance gaps | flat equalisation can ignore incentive, responsibility or plural aims |
 
----
+### Formal opportunity, fair opportunity and outcomes
 
-# CUMULATIVE MCQS
+✅ **Formal equality of opportunity:** careers are legally open to all who meet the stated
+qualification.
 
-These questions mix equality, liberty and justice so that recall cannot depend on the lesson in
-which a concept first appeared.
+✅ **Fair equality of opportunity:** persons with similar motivation and ability should have
+roughly comparable prospects despite class of origin. Health, schooling, nutrition and networks
+therefore matter.
 
-**MCQ 31: C**
+⚠️ **Outcome concern:** final distributions may be assessed through a floor, threshold,
+least-advantaged test, capability test or need—not necessarily compulsory identical results.
 
-Aristotle's CORRECTIVE justice is characterised by:
+### Argument and presupposition
 
-- A. proportional distribution by desert
-- B. harmony of the parts of the soul
-- C. arithmetic restoration of a balance disturbed by a wrong
-- D. the maximisation of capability
+1. Open competition is morally attractive because it respects choice and effort.
+2. Yet inherited conditions shape whether one can become competitive.
+3. Formal opening without accessible preparation can legitimise privilege.
+4. Fair opportunity therefore requires background institutions, not only non-discrimination at
+   the final selection stage.
 
-**MCQ 32: D**
+✅ **Presupposition:** birth is morally arbitrary as a basis for access to civic advantages.
 
-The 'criteria problem' in the theory of justice is:
+### Equity is not the opposite of equality
 
-- A. deciding whether justice exists at all
-- B. proving that Plato was correct
-- C. abolishing all distributive criteria
-- D. identifying which criterion (need / desert / merit / contribution / equal share / compensation) governs which sphere
+✅ **Equity** means differential treatment based on a relevant difference such as need,
+disability, transmitted disadvantage or prior loss.
 
-**MCQ 33: A**
+```text
+SAME TREATMENT
+    is fair only if relevant conditions are alike
+                     |
+                     v
+RELEVANT DIFFERENCE EXISTS?
+   no  -> equal rule
+   yes -> reasoned differential response
+```
 
-In Rawls's theory the lexically FIRST principle is:
+⚠️ Equity implements equality when the difference is relevant and the remedy is proportionate.
+It violates equality when the classification is arbitrary or entrenches status privilege.
 
-- A. equal basic liberties for all
-- B. the difference principle
-- C. fair equality of opportunity
-- D. the maximisation of average utility
+### “Equality of what?”
 
-**MCQ 34: B**
-
-Nozick's entitlement theory of justice is:
-
-- A. a patterned principle of distribution
-- B. a historical theory: justice depends on just acquisition, transfer and rectification
-- C. a defence of the difference principle
-- D. a capability metric
-
-**MCQ 35: C**
-
-Sen's distinction between niti and nyaya emphasises:
-
-- A. rules to the exclusion of outcomes
-- B. purely transcendental institutional design
-- C. justice realised in actual lives, not merely correct institutions
-- D. the abolition of public reasoning
-
-**MCQ 36: D**
-
-Ambedkar's political philosophy insists that political democracy is unstable without:
-
-- A. a minimal, night-watchman state
-- B. the veil of ignorance
-- C. the entitlement theory of holdings
-- D. social democracy grounded in liberty, equality and fraternity
-
-**MCQ 37: A**
-
-A high-scoring 'compare Rawls and Nozick' answer should:
-
-- A. fix shared axes and adjudicate, rather than write two separate biographies
-- B. narrate each thinker's life story in turn
-- C. avoid reaching any verdict
-- D. consist mainly of long quotations from both
-
-**MCQ 38: B**
-
-Which is a genuine 'trap' the canonical file warns against?
-
-- A. distinguishing negative from positive liberty
-- B. saying Rawls's first principle is equality rather than liberty
-- C. citing Ambedkar philosophically
-- D. giving a graded, balanced verdict
-
-**MCQ 39: C**
-
-The directive 'critically evaluate' primarily rewards:
-
-- A. one-sided advocacy for a favoured thinker
-- B. a bare list of definitions
-- C. an objection-and-reply structure closing with a graded verdict
-- D. the longest possible introduction
-
-**MCQ 40: D**
-
-The claim 'justice is not identical to law' means that:
-
-- A. all laws are necessarily unjust
-- B. justice is whatever the sovereign commands
-- C. legality and legitimacy are the same thing
-- D. a legally valid rule can still be unjust - legality is not sufficient for justice
-
-## Answer and option-wise explanations
-
-#### MCQ 31 explanations
-- **A - Incorrect.** Proportion to desert characterises distributive justice, whereas correction abstracts from status to restore the loss and gain between parties.
-- **B - Incorrect.** Harmony of functional parts is Plato’s account of justice in soul and city, not Aristotle’s arithmetic rectification.
-- **C - Correct.** Corrective justice restores the prior balance between two parties after a transaction or wrong, treating them as arithmetically equal.
-- **D - Incorrect.** Capability is Sen’s metric of real freedom; corrective justice instead addresses a bilateral wrong or unfair transaction.
-
-#### MCQ 32 explanations
-- **A - Incorrect.** The criteria problem arises within theories that already affirm justice; it asks how rival distributive reasons should be assigned to goods and spheres.
-- **B - Incorrect.** Vindicating one ancient theory would not decide when need, desert, contribution, equality, or compensation properly governs distribution.
-- **C - Incorrect.** Distribution cannot avoid criteria: even equal shares embody a rule. The problem is justified selection, not criterion-free allocation.
-- **D - Correct.** Injustice often consists in exporting a criterion out of its proper sphere (e.g. wealth buying political power); the task is to match criterion to good.
-
-#### MCQ 33 explanations
-- **A - Correct.** Equal basic liberty is lexically prior and is never traded for economic gain; it is therefore false to say Rawls's first principle is equality.
-- **B - Incorrect.** The difference principle is part of the second principle and operates only after equal basic liberties and fair opportunity are secured.
-- **C - Incorrect.** Fair equality of opportunity has priority over the difference principle but remains lexically subsequent to the first principle of liberty.
-- **D - Incorrect.** Average utility permits gains that burden some for a larger sum, precisely the aggregation Rawls’s priority of basic liberties rejects.
-
-#### MCQ 34 explanations
-- **A - Incorrect.** Nozick rejects continuously maintained end-state patterns because voluntary transfers predictably disturb them.
-- **B - Correct.** For Nozick a distribution is just if it arose by just steps, whatever its shape; the Wilt Chamberlain case shows patterns require constant interference with free transfers.
-- **C - Incorrect.** The difference principle is Rawlsian and assesses institutional shares by their effect on the least advantaged, unlike Nozick’s procedural history.
-- **D - Incorrect.** Capability evaluates substantive freedom in Sen’s framework; Nozick asks whether holdings arose through legitimate acquisition, transfer, and rectification.
-
-#### MCQ 35 explanations
-- **A - Incorrect.** Exclusive attention to correct rules is the niti side Sen considers insufficient when actual lives still display remediable injustice.
-- **B - Incorrect.** Transcendental design seeks a perfectly just scheme; Sen favours comparative judgments that reduce manifest injustice in the world.
-- **C - Correct.** Niti is the correctness of rules/institutions; nyaya is justice as it is realised in people's lives - Sen prioritises comparative removal of manifest injustice.
-- **D - Incorrect.** Public reasoning is a core method for comparing freedoms and injustices, not something the nyaya approach abolishes.
-
-#### MCQ 36 explanations
-- **A - Incorrect.** A night-watchman state is associated with minimal-state libertarianism and cannot address the status hierarchy Ambedkar sees undermining democracy.
-- **B - Incorrect.** The veil of ignorance is Rawls’s device of representation, not Ambedkar’s social foundation for democratic life.
-- **C - Incorrect.** Entitlement theory is Nozick’s account of holdings; Ambedkar instead stresses fraternity and the transformation of graded social inequality.
-- **D - Correct.** For Ambedkar formal political equality is hollow while social hierarchy (caste) persists; fraternity and social democracy underwrite political democracy.
-
-#### MCQ 37 explanations
-- **A - Correct.** Comparison marks reward shared axes (starting point, unit of concern, role of the state) run down for both thinkers, followed by a reasoned adjudication.
-- **B - Incorrect.** Parallel biographies never create an actual comparison; the same philosophical questions must be asked of both theories.
-- **C - Incorrect.** Without adjudication the answer remains descriptive and fails the directive’s demand to assess the rival starting points and consequences.
-- **D - Incorrect.** Quotations cannot replace common axes, argument, and verdict; long extracts also consume space without demonstrating comparison.
-
-#### MCQ 38 explanations
-- **A - Incorrect.** This is a necessary conceptual distinction, not a trap; the error would be collapsing or caricaturing the two liberties.
-- **B - Correct.** Rawls's first principle is equal LIBERTY; misstating it as equality is a classic error the traps section flags.
-- **C - Incorrect.** Ambedkar is a substantive theorist of social democracy and graded inequality, so philosophically relevant use is legitimate.
-- **D - Incorrect.** A qualified verdict is good evaluative method; the warned-against error is an inaccurate doctrinal statement, not balance.
-
-#### MCQ 39 explanations
-- **A - Incorrect.** Advocacy suppresses the strongest objection and therefore performs persuasion, not critical evaluation.
-- **B - Incorrect.** Definitions establish terms but do not test reasons, answer objections, or justify a degree-sensitive conclusion.
-- **C - Correct.** 'Critically evaluate' scores the objection-reply structure and a verdict that concedes something to the losing side, not one-sided praise or demolition.
-- **D - Incorrect.** An oversized introduction displaces analysis; marks attach to the objection-reply chain and reasoned verdict, not preamble length.
-
-#### MCQ 40 explanations
-- **A - Incorrect.** The distinction allows that laws may be just or unjust; it denies only the universal inference from legal validity to justice.
-- **B - Incorrect.** Command theory explains one source of legal validity, but making sovereign will the measure of justice eliminates moral criticism of valid law.
-- **C - Incorrect.** Legality asks whether a rule is validly made; legitimacy asks whether its authority is justified, so equivalence erases the very distinction.
-- **D - Correct.** Legal validity and moral justice can diverge; conflating them collapses the critical standpoint from which laws are judged unjust.
-
----
-
-# ORIGINAL 10-, 15- AND 20-MARK MAINS MODEL PRACTICE
-
-> Three original questions authored for this session (not PYQs), one each at 10, 15 and 20 marks, with full model solutions.
-
-### Original Mains 1
-
-> Original 10-marker - Social and Political Ideals - approx. 150 words.
-
-**Question:** Distinguish formal equality from substantive equality. Can formal equality itself entrench substantive disadvantage? Answer in 150 words.
-
-**Model solution**
-
-**Thesis.** Formal equality (identical treatment under identical rules) and
-substantive equality (equal real standing and capability) can diverge, and formal
-equality applied to unequally-placed people can freeze existing disadvantage.
-
-- **Formal equality.** Equality before the law and equal application of rules;
-  necessary against arbitrary privilege.
-- **Substantive equality.** Equal effective freedom to participate and flourish -
-  Sen's capability register, not mere legal identity.
-- **How formal equality entrenches disadvantage.** A single common measure ignores
-  unequal starting points; "the same rule for all" can ratify an unequal race
-  (Rousseau's converted inequality; Marx's "equal right is a right of
-  inequality"). Formal equality is then a floor, not the whole of equality.
-
-**Verdict.** Formal equality is indispensable but incomplete; substantive equality
-supplies what identical treatment cannot, so justice must decide when equal
-treatment requires differentiated response.
-
-> MEMORY: Why this earns marks - it fixes the two senses precisely, names the
-> mechanism of entrenchment, and grades formal equality as necessary-but-partial
-> rather than dismissing it.
-
-### Original Mains 2
-
-> Original 15-marker - Social and Political Ideals - approx. 250 words.
-
-**Question:** Berlin distinguished two concepts of liberty. Is a third concept of liberty needed? Critically examine. Answer in 250 words.
-
-**Model solution**
-
-**Thesis.** Berlin's negative/positive pair is powerful but incomplete; the
-republican concept of freedom as NON-DOMINATION captures an unfreedom neither of
-Berlin's concepts sees, so a third concept is defensible - though it can be
-partially absorbed by a demanding negative liberty.
-
-- **Berlin's pair.** Negative liberty = absence of interference; positive liberty
-  = self-mastery. Berlin's warning: positive liberty invites a coercive "higher
-  self".
-- **The gap.** On a pure interference-count, a slave with an indulgent master is
-  "free" because not currently interfered with. Intuitively he is unfree: he must
-  defer, flatter and self-censor because the master CAN interfere arbitrarily.
-  Neither non-interference (there is none) nor self-mastery (the point is
-  external) explains this.
-- **The third concept.** Freedom as non-domination = absence of another's standing
-  CAPACITY for arbitrary interference. Interference is an act; domination is a
-  status. Non-arbitrary, contestable law becomes freedom-constituting.
-- **Objection and reply.** A Berlinian may say non-domination is just a high
-  probability of future interference - reducible to negative liberty. Reply:
-  probability can be LOW precisely where dependence is total, and domination also
-  explains the dependent's own deference, which a bare interference-count cannot.
-  Concede that the boundary of "arbitrary" remains contestable.
-
-**Verdict.** A third concept earns its place by naming dependence as unfreedom;
-whether it is genuinely irreducible or a refined negative liberty is the live
-debate - the defensible answer is a qualified "yes".
-
-> MEMORY: Why this earns marks - it states Berlin accurately, uses the
-> un-interfered-with dependent as argument, gives objection-reply, and returns a
-> qualified verdict rather than a flat one.
-
-### Original Mains 3
-
-> Original 20-marker - Social and Political Ideals - approx. 250 words.
-
-**Question:** 'Justice is the architectonic political ideal that orders liberty and equality.' Critically evaluate. Answer in 250 words.
-
-**Model solution**
-
-**Thesis.** The statement is largely defensible: because liberty and equality are
-each indeterminate about their own content, justice supplies the ordering
-criteria that fix their scope and priority - though "architectonic" must not be
-read as justice replacing the other two.
-
-- **Why liberty is indeterminate.** "Liberty" does not say which liberties are
-  basic or how to weigh one person's freedom against another's; negative, positive
-  and republican conceptions pull apart. Rawls's lexical priority of equal basic
-  liberties is a JUSTICE-supplied ranking.
-- **Why equality is indeterminate.** "Equality of what?" - status, opportunity,
-  resources, welfare, capability - yields different institutions. Without a
-  criterion, equality collapses into mechanical levelling or empty formalism.
-- **What justice supplies.** Desert, fairness, entitlement, need, capability,
-  rectification and public reason - the criteria that say which inequalities are
-  justified and which liberties are protected. Compare orderings: Nozick
-  (liberty-first) protects self-ownership but lets background injustice hollow
-  real freedom; crude equality-first flattens choice and desert; Rawlsian
-  justice-as-ordering balances them by principle. Ambedkar adds that political
-  liberty and equality are unstable without fraternity and social democracy.
-- **Objection and reply.** Objection: this inflates justice into a master-value
-  and demotes liberty/equality to mere inputs. Reply: justice is the FORM, not a
-  rival substance - it orders the very ideals it presupposes; without them there
-  is nothing to order.
-
-**Verdict.** Justice is architectonic in the ordering sense: liberty and equality
-are the substance, justice the discipline - each incomplete without the others.
-
-> MEMORY: Why this earns marks - it proves the thesis by demonstrating the
-> indeterminacy of both ideals, compares three ordering positions, meets the
-> master-value objection, and lands a precise architectonic verdict.
-
----
-
-# REMEDIATION
-
-## Predictable error map
-
-| Error | Why it fails | Repair move |
-|---|---|---|
-| Equality means sameness | It denies relevant difference and misses equal status | Name the metric and distinguish equal worth from identical shares |
-| Berlin rejects positive liberty | He warns against its authoritarian misuse | State both concepts, then identify the danger in politicising the “real self” |
-| Mill permits unlimited self-regarding conduct | The self/other boundary is difficult and harm is contested | Present the harm principle as a presumption with the burden on coercion |
-| Non-interference exhausts liberty | Dependence can exist without current interference | Use the benevolent-master test and the concept of non-domination |
-| Fair procedure guarantees justice | Unjust starting conditions and standards can survive | Add substantive scrutiny while preserving due process |
-| Rawls's first principle is equality of income | The first principle protects equal basic liberties | Write the lexical sequence before discussing distribution |
-| Nozick has no corrective dimension | Rectification is his third principle | Criticise its under-specification, not its absence |
-| Sen simply replaces Rawls | The comparison depends on a criterion | Name realised freedom versus institutional determinacy before judging |
-
-## Remedial MCQs
-
-**MCQ 41: A**
-
-REMEDIAL (corrects 'Rawls makes equality his first principle'): the accurate statement is that:
-
-- A. Rawls's first principle is equal LIBERTY, lexically prior to the difference principle
-- B. Rawls has no priority rules among principles
-- C. Rawls rejects basic liberties
-- D. Rawls simply maximises aggregate welfare
-
-**MCQ 42: B**
-
-REMEDIAL (corrects 'Berlin rejects positive liberty'): in fact Berlin:
-
-- A. equates the two liberties as one concept
-- B. distinguishes (does not reject) positive liberty, warning only against its abuse
-- C. denies that negative liberty exists
-- D. defends positive liberty exclusively
-
-**MCQ 43: C**
-
-REMEDIAL (corrects 'equity and equality are the same'): correctly stated:
-
-- A. equity means identical shares for everyone
-- B. equality means need-adjusted shares
-- C. equality applies a common measure, whereas equity differentiates by need
-- D. neither concept has anything to do with distribution
-
-**MCQ 44: D**
-
-REMEDIAL (corrects 'Nozick defends a patterned distribution'): in fact Nozick:
-
-- A. endorses the difference principle
-- B. requires an end-state of equality
-- C. is a welfare egalitarian
-- D. is historical / entitlement-based and rejects fixed patterns (Wilt Chamberlain)
-
-**MCQ 45: A**
-
-REMEDIAL (corrects 'Mill's harm principle allows coercion for a person's own good'): correctly stated, the harm principle:
-
-- A. restricts coercion to preventing harm to OTHERS, not self-regarding conduct
-- B. authorises censorship of unpopular opinion
-- C. requires the suppression of individuality
-- D. permits coercion to enforce the majority's tastes
-
-**MCQ 46: B**
-
-REMEDIAL (corrects 'non-interference guarantees freedom'): the republican correction is that:
-
-- A. interference and domination are identical
-- B. a dependent who is not currently interfered with may still be dominated and unfree
-- C. law can never constitute freedom
-- D. domination requires actual physical force
-
-**MCQ 47: C**
-
-REMEDIAL (corrects 'Sen's capability approach is mere welfare economics'): correctly stated, Sen's account:
-
-- A. equates capability with money income
-- B. abandons freedom as a central value
-- C. is political-philosophical - capabilities as freedom, refined through public reasoning
-- D. rejects any comparison of social states
-
-**MCQ 48: D**
-
-REMEDIAL (corrects 'justice as fairness means identical shares for all'): correctly stated, Rawls holds that:
-
-- A. all inequality whatsoever is banned
-- B. the difference principle forbids every inequality
-- C. fairness requires strictly equal outcomes
-- D. inequalities are permitted if they meet fair equality of opportunity and benefit the least advantaged
-
-## Answer and option-wise explanations
-
-#### MCQ 41 explanations
-- **A - Correct.** The equal-basic-liberties principle is lexically first; economic principles (fair opportunity, difference principle) are subordinate to it.
-- **B - Incorrect.** Rawls uses explicit priority rules: equal basic liberties precede the second principle, and fair opportunity precedes the difference principle.
-- **C - Incorrect.** Basic liberties are the subject of Rawls’s first principle, so rejection would invert the architecture of justice as fairness.
-- **D - Incorrect.** Aggregate maximisation is utilitarian; Rawls protects each person through lexical priority and the separateness-of-persons objection.
-
-#### MCQ 42 explanations
-- **A - Incorrect.** Berlin treats negative and positive liberty as distinct answers to different questions; merging them loses both the contrast and the danger he identifies.
-- **B - Correct.** Berlin analyses both concepts; his target is the perversion of positive liberty via a coercive 'higher self', not positive liberty as such.
-- **C - Incorrect.** Negative liberty is one of Berlin’s two central concepts, not a notion he denies.
-- **D - Incorrect.** Berlin recognises the aspiration to self-mastery but does not make it exclusive; his pluralism resists one final master value.
-
-#### MCQ 43 explanations
-- **A - Incorrect.** Identical shares express one form of equality, while equity adjusts treatment to relevant need or disadvantage.
-- **B - Incorrect.** This swaps the terms: need-sensitive differentiation is the equity side of the contrast, not equality by a common measure.
-- **C - Correct.** Equality = one measure for all; equity = differentiated response to unequal need. Treating unequally-placed people identically can be inequitable.
-- **D - Incorrect.** Both concepts structure distributive judgments; denying that relation empties the distinction the question asks the learner to make.
-
-#### MCQ 44 explanations
-- **A - Incorrect.** The difference principle is Rawls’s patterned constraint; Nozick criticises such end-state interference with legitimate holdings.
-- **B - Incorrect.** A mandated equal end-state ignores whether unequal holdings emerged through just voluntary transfers.
-- **C - Incorrect.** Welfare egalitarianism distributes by experienced welfare, whereas Nozick’s unit of assessment is the historical title to holdings.
-- **D - Correct.** Nozick's justice-in-holdings judges the PROCESS (acquisition, transfer, rectification), not the shape; maintaining a pattern would violate free transfer.
-
-#### MCQ 45 explanations
-- **A - Correct.** Self-regarding conduct is protected; only conduct that harms others is a legitimate ground for interference - the opposite of paternalism.
-- **B - Incorrect.** Censoring unpopular opinion contradicts Mill’s epistemic defence of discussion unless expression becomes a direct harm in context.
-- **C - Incorrect.** Individuality is a Millian good and a barrier to social tyranny; the harm principle does not authorise its suppression.
-- **D - Incorrect.** Majority taste supplies neither harm nor a rights violation, so coercing conformity would convert social preference into tyranny.
-
-#### MCQ 46 explanations
-- **A - Incorrect.** Republican theory separates actual interference from standing subjection to arbitrary power; identity would make the dependent-but-unmolested case unintelligible.
-- **B - Correct.** Freedom is absence of DOMINATION (arbitrary power), not merely absence of interference; the un-interfered-with dependent is still unfree.
-- **C - Incorrect.** Contestable, non-arbitrary law can secure freedom by removing private mastery; the categorical denial retains a purely negative metric.
-- **D - Incorrect.** Physical force is unnecessary where livelihood or status depends on another’s unchecked discretion; the capacity for arbitrary control is enough.
-
-#### MCQ 47 explanations
-- **A - Incorrect.** Income is only a means and cannot represent variations in conversion into health, mobility, participation, or other functionings.
-- **B - Incorrect.** Capability is defined as substantive freedom among valuable functionings, so abandoning freedom would remove the approach’s evaluative core.
-- **C - Correct.** Sen's capabilities are about real freedom and are shaped by public reasoning and comparative assessment - not a narrow welfarist metric.
-- **D - Incorrect.** Sen rejects a single complete metric, not comparison itself; public reasoning supports partial rankings and action against manifest injustice.
-
-#### MCQ 48 explanations
-- **A - Incorrect.** Rawls permits inequalities under demanding conditions; banning every inequality would erase the difference principle rather than apply it.
-- **B - Incorrect.** The difference principle regulates inequalities by requiring benefit to the least advantaged; it does not prohibit them categorically.
-- **C - Incorrect.** Fairness is not numerical sameness: equal liberties, fair opportunity, and least-advantaged benefit can justify unequal outcomes.
-- **D - Correct.** Justice as fairness tolerates inequalities that satisfy fair equality of opportunity and improve the position of the least advantaged - not equal outcomes.
-
-## Short remedial writing drills
-
-1. Rewrite “equality requires identical treatment” as a defensible two-sentence claim.
-2. Rewrite “all law reduces liberty” from Lockean, Greenian and republican perspectives.
-3. Explain why an impartial procedure may still be substantively unjust.
-4. Give the Rawls sequence without using the phrase “equality comes first”.
-5. State one criterion on which Sen improves Rawls and one on which he does not.
-
----
-
-# MASTER COMPARISON, CAUSAL AND ARGUMENT MAPS
-
-## Master comparison
-
-| Problem | Main positions | Decisive question | Qualified synthesis |
+| Thinker | Metric | Gain | Objection and reply |
 |---|---|---|---|
-| Equality | Formal, opportunity, outcome, resources, capability, relation | Equality of what, among whom and for which good? | Equal status plus a context-sensitive metric |
-| Liberty | Non-interference, self-mastery, non-domination | Is the threat an act, incapacity or standing arbitrary power? | Protected sphere, enabling conditions and contestability |
-| Justice | Harmony, proportion, utility, fairness, entitlement, capability | What criterion and procedure can all affected persons reasonably face? | Fair process plus defensible substance |
-| Liberty-equality relation | Liberty-first, equality-first, justice-ordering | Are we at the level of basic status or marginal distribution? | Complementary at the base, potentially rivalrous beyond it |
+| **Amartya Sen** ✅ | capabilities—real opportunities to be and do | attends to human diversity and conversion factors | list/measurement indeterminacy; reply: public reasoning is preferable to false precision |
+| **G. A. Cohen** ✅/⚠️ | opportunity for advantage plus egalitarian ethos | asks whether talented people’s incentive demands are themselves just | may demand too much personal virtue; reply: just institutions can be undermined by anti-egalitarian conduct |
+| **Ronald Dworkin** ✅ | equality of resources; brute luck versus option luck | combines equal concern with responsibility | real lives blur luck and choice; reply: the distinction remains a useful moral test |
 
-## Rawls argument map
+### Example with limit
+
+Two persons receive the same mobility allowance. One has no mobility impairment; the other faces
+high conversion costs. Equal resources do not yield equal capability. **Limit:** capability
+language does not mechanically determine a single policy or complete list.
+
+### Strongest objection and reply
+
+**Objection:** Substantive equality rewards circumstance claims, weakens responsibility and
+licenses limitless state correction.
+
+**Reply:** ⚠️ A defensible egalitarianism distinguishes avoidable choice from brute circumstance,
+sets a public criterion, and protects a threshold or fair opportunity rather than promising equal
+success.
+
+**Residual:** Luck and choice are interwoven, so institutional judgement cannot become perfectly
+fine-grained.
+
+### UPSC application
+
+- On “equality,” state the domain before defending the ideal.
+- On “opportunity,” distinguish legal access from realistic preparation.
+- On “equity,” identify the relevant difference and the limit of correction.
+- On “equality of what,” compare resources with capability rather than listing thinkers.
+
+### Revision notes
+
+1. Legal equality prohibits status privilege.
+2. Political equality can be formal while influence remains unequal.
+3. Social equality targets stigma and inherited rank.
+4. Economic equality need not mean equal incomes.
+5. Formal opportunity opens the gate; fair opportunity addresses access to the gate.
+6. Outcome concern can use floors, thresholds or least-advantaged tests.
+7. Equity is relevant differential treatment.
+8. Resources and capabilities diverge through conversion factors.
+9. Cohen adds ethos; Dworkin separates brute luck from option luck.
+10. Always name the equalised object.
+
+### Retrieval and application drill
+
+1. Why can identical treatment be inequitable?
+2. Give one example of political equality without equal effective influence.
+3. State Sen’s metric objection to resource equality in two premises.
+
+### Local practice — questions
+
+**MCQ 3.** Which example best captures fair rather than merely formal equality of opportunity?
+
+A. Publishing a vacancy without removing inherited exclusion from preparation.
+B. Giving every candidate the same final score.
+C. Keeping offices open while making quality preparation realistically accessible across social origins.
+D. Reserving every office for one historically dominant group.
+
+**MCQ 4.** Which statement about equity is most defensible?
+
+A. Equity always suspends equality.
+B. Equity means distributing identical shares.
+C. Equity is justified whenever any group requests preference.
+D. Equity can realise equality when differential treatment responds to a relevant disadvantage.
+
+### Local practice — answers and option-wise explanations
+
+**MCQ 3**
+
+**Correct answer: C**
+
+- **A — Incorrect:** publication alone creates formal access.
+- **B — Incorrect:** equal scores concern an outcome, not opportunity.
+- **C — Correct:** fair opportunity addresses the social conditions needed to compete.
+- **D — Incorrect:** inherited closure contradicts equal opportunity.
+
+**MCQ 4**
+
+**Correct answer: D**
+
+- **A — Incorrect:** relevant differentiation can be equality’s instrument.
+- **B — Incorrect:** identical shares may ignore need or prior loss.
+- **C — Incorrect:** a public relevance and proportionality test is still required.
+- **D — Correct:** the reason for unequal treatment determines whether it is equitable.
+
+---
+
+## Lesson 3 — Rousseau, Mill and Marx: three diagnoses of inequality
+
+**Progress:** 3/12 · **Stage:** Core equality · **Demand anchors:** S01-09–S01-16
+
+### Visual: difference becomes injustice through different mechanisms
 
 ```text
-free and equal moral persons
-    -> choose without knowledge of arbitrary fortune
-    -> protect a fully adequate scheme of equal basic liberties
-    -> secure fair equality of opportunity
-    -> allow inequality only if it benefits the least advantaged
-    -> apply serially, not as a welfare trade-off
+ROUSSEAU                   MILL                       MARX
+natural difference        inherited custom          equal market form
+      |                         |                           |
+property + comparison     status subordination       class ownership
+      |                         |                           |
+moral/political rank      wasted individuality       exploitation hidden
+      |                         |                           |
+socially made dependence  equal civic/gender status  need-sensitive transformation
 ```
 
-## Non-domination argument map
+*Rousseau diagnoses social manufacture, Mill attacks status hierarchy, and Marx exposes class
+power concealed by formal equality.*
+
+### Plain-language entry
+
+The three thinkers agree that merely announcing equal treatment is not enough, but they locate the
+failure differently. Rousseau asks how convention turns difference into rank; Mill asks how custom
+suppresses equal status and individuality; Marx asks how a formally equal exchange can conceal
+control over productive life.
+
+### Rousseau: natural and artificial inequality
+
+✅ **Natural or physical inequality** includes differences of age, health, strength and similar
+features.
+
+✅ **Moral or political inequality**, often called artificial inequality, is sustained by
+convention: wealth, honour, command and dependence.
+
+**Argument:**
+
+1. Natural differences exist without automatically creating authority.
+2. Property, comparison and convention magnify differences.
+3. Institutions stabilise superiority and dependence.
+4. Therefore oppressive hierarchy is not a simple political translation of nature.
+
+✅ **Presupposition:** social comparison changes human motivation and dependence.
+
+✅ **Distinction:** Rousseau does not claim that every difference is invented; he claims that
+durable rank requires social mediation.
+
+**Example with limit:** Greater physical strength is natural; a hereditary right to rule is not.
+**Limit:** Rousseau’s genealogy can diagnose origin without by itself selecting a modern remedy.
+
+**Objection:** the natural/social boundary is too neat and the state of nature speculative.
+
+**Reply:** ⚠️ The enduring point is institutional amplification: even if the genealogy is
+hypothetical, biology alone cannot justify conventional domination.
+
+### J. S. Mill: equality without uniformity
+
+✅ Mill’s salient equality commitments are:
+
+1. equal weight in moral and utilitarian consideration;
+2. civic and legal equality against inherited privilege;
+3. equality of women, argued in *The Subjection of Women*;
+4. individuality and experiments in living;
+5. opposition to hierarchy maintained by custom;
+6. qualified openness to economic and labour reform without flat outcome equalisation.
+
+**Argument:** Social subordination both wrongs the person and wastes human capacity. The alleged
+“nature” of women cannot be inferred from behaviour formed under subjection.
+
+✅ **Presupposition:** human development requires freedom to test ways of life.
+
+✅ **Distinction:** equal status and opportunity are compatible with diverse achievements and life
+plans.
+
+**Example with limit:** Equal civil standing permits women to choose education, work and public
+participation. **Limit:** removing legal barriers does not by itself dissolve unpaid-care burdens
+or economic hierarchy.
+
+**Strong objection:** Mill’s liberal individualism underestimates structural class power.
+
+**Reply:** ⚠️ The criticism is substantial, but Mill transforms liberal equality by carrying it
+into family and gender relations rather than stopping at male civic status.
+
+### Marx: formal equality, equity and need
+
+✅ In capitalism, the worker and owner meet as legal equals and exchange under a common form.
+Marx’s criticism is that this equality can conceal unequal control of productive conditions and
+the appropriation of surplus.
+
+| Axis | Formal equality | Marxian need-sensitive equity |
+|---|---|---|
+| Rule | common measure applied to all | differing need can justify differing share |
+| Social appearance | free wage contract and equal exchange | cooperation organised beyond class exploitation |
+| Hidden issue | ownership structures bargaining power | need cannot be reduced to hours or identical shares |
+| Stage caution | bourgeois right persists under scarcity | “to each according to need” concerns a higher phase |
+
+✅ **Equality** here can mean the same measure. ✅ **Equity** attends to relevant need and actual
+condition.
+
+**Argument:** A universal rule can generate unequal effects when persons carry different needs
+and burdens. Hence an equal right measured by one standard may remain a “right of inequality.”
+
+✅ **Presupposition:** persons are socially situated producers, not isolated exchangers.
+
+**Example with limit:** Identical transfers may not meet unequal disability-related needs.
+**Limit:** Marx’s claim is not a formula for adjusting individual wages within an unchanged
+capitalist labour relation.
+
+**Strong objection:** need is difficult to measure and weakens incentive.
+
+**Reply:** ✅ Marx locates the full need principle in a transformed stage of production and social
+cooperation, not under unchanged scarcity and alienated labour.
+
+**Residual:** The feasibility and institutional form of that higher stage remain under-specified.
+
+### UPSC application
+
+- **Rousseau:** define both inequalities, explain conversion of difference into rank, then qualify
+  the genealogy.
+- **Mill:** answer through six salient features, not through the harm principle alone.
+- **Marx:** explain why common measure can be inequitable; do not reduce “equity” to generic
+  compassion.
+
+### Revision notes
+
+1. Rousseau: natural/physical differs from moral/political inequality.
+2. Convention converts difference into durable dependence.
+3. Mill defends civic, legal and gender equality.
+4. Mill’s equality protects individuality rather than sameness.
+5. Mill treats women’s alleged nature as socially manufactured under subjection.
+6. Marx attacks formal market equality as compatible with class power.
+7. Equal right can disadvantage persons with different needs.
+8. Need-based distribution belongs to a higher communist phase.
+9. Marxian equity is not merely an adjusted wage rule.
+10. Each thinker identifies a different generator of hierarchy.
+
+### Retrieval and application drill
+
+1. Why does Rousseau’s natural/artificial distinction not deny biology?
+2. Give the inferential steps in Mill’s argument for women’s equality.
+3. Explain the phrase “equal right can be a right of inequality.”
+
+### Local practice — questions
+
+**MCQ 5.** Which statement is Rousseau’s central distinction?
+
+A. Natural differences do not themselves establish conventionally enforced political rank.
+B. Every inequality originates in biology.
+C. Moral inequality is another name for differences of health.
+D. Property relations are natural facts beyond political judgement.
+
+**MCQ 6.** Which account best states Marxian equity in the 2022 PYQ context?
+
+A. Equal shares regardless of need or stage of development.
+B. Differentiated distribution responsive to need, with the higher-phase and structural context retained.
+C. Reward according only to market price.
+D. Legal equality of contracting parties as sufficient justice.
+
+### Local practice — answers and option-wise explanations
+
+**MCQ 5**
+
+**Correct answer: A**
+
+- **A — Correct:** social institutions, not natural variation alone, create authoritative hierarchy.
+- **B — Incorrect:** the distinction reserves an important role for convention.
+- **C — Incorrect:** health belongs to natural or physical inequality.
+- **D — Incorrect:** Rousseau treats property and comparison as central social mechanisms.
+
+**MCQ 6**
+
+**Correct answer: B**
+
+- **A — Incorrect:** identical shares can reproduce inequality of need.
+- **B — Correct:** it preserves both the metric and Marx’s stage qualification.
+- **C — Incorrect:** market valuation is part of the formal equality Marx criticises.
+- **D — Incorrect:** legal equality can conceal class power.
+
+---
+
+## Lesson 4 — Liberty: non-interference, self-direction and the danger of coercive freedom
+
+**Progress:** 4/12 · **Stage:** Core liberty · **Demand anchors:** S01-19–S01-29
+
+### Visual: six liberty profiles
 
 ```text
-no current interference
-    does not imply
-no standing power of arbitrary interference
-    -> dependence, deference and self-censorship remain
-    -> freedom must be a secured status
-    -> contestable, interest-tracking law may constitute liberty
+HOBBES      LOCKE       MILL        BERLIN        ROUSSEAU       GREEN
+space       known law   harm limit  two concepts  self-rule      effective power
+without     + rights    + dissent   + warning     + general will + self-realisation
+impediment
+    \          |           |            |              |              /
+     \---------+-----------+------------+--------------+-------------/
+                         CENTRAL TEST
+          What blocks agency: interference, arbitrariness,
+          dependence, incapacity, appetite or another's harm?
 ```
 
-## Criteria map for distributive justice
+*The word liberty changes with the obstacle each theory treats as decisive.*
+
+### Plain-language entry
+
+A locked door removes freedom by interference. Illiteracy may leave the door open but make the
+option unusable. Dependence on a powerful person may produce self-censorship even if that person
+does not issue a command. A theory of liberty must therefore state what counts as an obstacle and
+who may remove it.
+
+### Berlin: negative and positive liberty
+
+| Axis | Negative liberty ✅ | Positive liberty ✅ |
+|---|---|---|
+| Governing question | What area is free from human obstruction? | Who directs me, and can I govern myself? |
+| Core value | non-interference | autonomy or self-mastery |
+| Typical danger | ignores disabling conditions | “true self” rhetoric can authorise paternal coercion |
+| Best use | protected private and civic sphere | capacity and rational self-direction |
+
+✅ Berlin does not simply praise one and deny the other. His famous warning concerns the political
+move from a person’s rational or “higher” self to a ruler who claims authority to coerce the
+empirical person for her “real” freedom.
+
+✅ **Presupposition:** human values are plural and cannot always be merged into one rational end.
+
+✅ **Distinction:** enabling a choice is not identical with imposing an official conception of
+perfection.
+
+**Example with limit:** Prohibiting dissent “for citizens’ authentic liberation” displays the
+danger. **Limit:** condemning that coercion does not prove that poverty, disability or illiteracy
+are irrelevant to freedom.
+
+**Objection:** Negative liberty protects only those already able to use options.
+
+**Reply:** ⚠️ The criticism supports social preconditions, but Berlin’s anti-paternal warning still
+constrains how institutions provide them.
+
+### Mill: harm, self-regarding action and dissent
+
+✅ Mill’s harm principle permits coercion against a competent adult to prevent harm to others, not
+merely to make that person morally better.
+
+- **Self-regarding conduct:** primary effects fall on the agent; liberty receives a presumption.
+- **Other-regarding conduct:** injury to others can justify proportionate regulation.
+- **Offence versus harm:** dislike, shock or majority disapproval is not yet injury.
+
+**Argument:** suppressed opinion may be true, partly true or useful in keeping accepted truth
+alive. Experiments in living also cultivate individuality.
+
+✅ **Presupposition:** competent adults usually know their own good better than paternal rulers.
+
+**Example with limit:** An unpopular opinion should not be silenced merely because it offends.
+**Limit:** speech can participate in threats, fraud or targeted injury; “harm” requires analysis.
+
+**Strong objection:** almost no conduct is wholly self-regarding.
+
+**Reply:** ⚠️ The principle works as a burden-of-proof rule: social effects must be shown as harm,
+not asserted as moral discomfort.
+
+### Hobbes, Locke and Rousseau
+
+| Thinker | Canonical position | Gain | Strong objection and reply |
+|---|---|---|---|
+| **Hobbes** ✅ | liberty is absence of external impediment; subjects act freely where law is silent | security makes stable action possible | freedom becomes a residue allowed by sovereignty; reply: civil peace is a precondition of durable options |
+| **Locke** ✅ | liberty under known, standing law protecting natural rights and consent | attacks arbitrary rule | property-centred liberty can preserve inequality; reply: fiduciary and limited government remains an anti-arbitrary breakthrough |
+| **Rousseau** ✅ | obedience to a law one gives oneself through legitimate collective self-rule | links freedom with participation and autonomy | “forced to be free” invites authoritarian appropriation; reply: general will is not the private will of rulers |
+
+### T. H. Green: positive freedom without merging him into Berlin
+
+✅ Green understands freedom as the positive capacity to do or enjoy something worth doing. A
+person formally left alone can remain unfree through ignorance, addiction, destitution or
+subordination.
+
+**Argument:**
+
+1. agency requires developed capacities;
+2. institutions can create or destroy those capacities;
+3. education and health may therefore enlarge freedom rather than compensate for its loss.
+
+✅ **Presupposition:** the self has capacities whose development is socially conditioned.
+
+✅ **Critical distinction:** Berlin’s positive liberty is a conceptual family centred on
+self-mastery and its dangers; Green offers a substantive ethical theory of self-realisation.
+They overlap, but they are not synonyms.
+
+**Example with limit:** Public education can expand a person’s range of meaningful choice.
+**Limit:** an enabling state becomes paternalistic if it dictates one authorised life plan.
+
+### The 2026 contrast
+
+⚠️ Negative liberty can represent a powerful claim to personal non-interference, but “ultimate”
+freedom is too strong if arbitrary power, manipulation or severe incapacity remains. Positive
+liberty can enable fuller development, but “full potential” becomes dangerous when defined by the
+state for the person. The defensible conclusion is complementary but guarded: a protected sphere,
+enabling conditions and anti-domination safeguards.
+
+### UPSC application
+
+- Define Berlin before bringing Green.
+- Do not say poverty is direct interference; explain why it affects effective freedom.
+- On Mill, distinguish offence from harm and concede difficult spillovers.
+- On Rousseau, distinguish collective self-legislation from rulers’ commands.
+
+### Revision notes
+
+1. Negative liberty asks how far one is left unobstructed by others.
+2. Positive liberty asks who governs the self.
+3. Berlin warns against political coercion by appeal to a “real self.”
+4. Mill’s harm principle creates a presumption against paternalism.
+5. Offence is not automatically harm.
+6. Hobbes joins liberty to security and spaces where law is silent.
+7. Locke identifies arbitrary power, not law as such, as freedom’s enemy.
+8. Rousseau connects freedom with collective self-legislation.
+9. Green adds enabling capacity and self-realisation.
+10. Berlin and Green must not be collapsed.
+
+### Retrieval and application drill
+
+1. Why is Berlin not adequately described as an opponent of all positive liberty?
+2. State Mill’s harm principle as a burden-of-proof rule.
+3. What is gained and risked by Green’s enabling account?
+
+### Local practice — questions
+
+**MCQ 7.** Which statement best preserves Berlin’s position?
+
+A. Positive liberty is meaningless.
+B. Negative liberty requires the state to supply one true life plan.
+C. Self-mastery is intelligible, but its political use can let rulers coerce an empirical person in the name of a “real self.”
+D. Poverty and interference are definitionally identical.
+
+**MCQ 8.** Which distinction most accurately separates Berlin and Green?
+
+A. Berlin alone recognises agency.
+B. Green rejects every protected private sphere.
+C. Both use “positive liberty” in exactly the same theoretical sense.
+D. Berlin maps a conceptual pole and its authoritarian risk; Green develops an enabling theory of self-realisation.
+
+### Local practice — answers and option-wise explanations
+
+**MCQ 7**
+
+**Correct answer: C**
+
+- **A — Incorrect:** Berlin recognises the attraction of self-mastery.
+- **B — Incorrect:** official perfectionism is the danger he identifies.
+- **C — Correct:** it states both the value and the characteristic political risk.
+- **D — Incorrect:** deprivation may disable freedom without being a direct act of obstruction.
+
+**MCQ 8**
+
+**Correct answer: D**
+
+- **A — Incorrect:** both are theories of agency.
+- **B — Incorrect:** Green’s enabling view need not erase non-interference.
+- **C — Incorrect:** conceptual family and substantive ideal overlap without identity.
+- **D — Correct:** this avoids the common conflation while preserving a usable comparison.
+
+---
+
+## Lesson 5 — Liberty with equality: democracy, technology and non-domination
+
+**Progress:** 5/12 · **Stage:** Liberty synthesis · **Demand anchors:** S01-30–S01-42
+
+### Visual: the trade-off changes when liberty is measured differently
 
 ```text
-political rights -> equal share
-public office -> relevant competence
-subsistence -> need
-honour/blame -> desert
-market holding -> contribution or entitlement, subject to background justice
-wrongful loss -> correction or compensation
+UNRESTRICTED PRIVATE POWER
+          |
+          +--> more options for the powerful
+          +--> bargaining dependence for others
+          |
+          v
+IS LIBERTY ONLY NON-INTERFERENCE?
+   |                  |
+  yes                no
+   |                  |
+every rule is a       non-arbitrary rules may
+prima facie loss      secure equal liberty/status
+                          |
+          +---------------+----------------+
+          |                                |
+   effective capacity                non-domination
+   (Green/Sen link)                  (Pettit)
 ```
 
-## Ten-panel master concept flow
+*Equality can constrain a particular option while enlarging liberty as equal and secure status.*
 
-### Panel — PANEL 1/10: The triad and the ordering problem
+### Plain-language entry
 
-```ascii-master
-START -> political institutions distribute status, choice, burdens and benefits
-EQUALITY asks: in what respect must persons be treated as equals?
-LIBERTY asks: what protected sphere and effective agency must each person have?
-JUSTICE asks: what is due, by which rule, and with which rectification?
-liberty without fair conditions can protect accumulated power
-equality without relevant differentiation can become mechanical levelling
-justice mediates basic liberties, justified inequalities and equal civic dignity
-answer thesis -> the three ideals are distinct but institutionally interdependent
+Suppose an employer has unchecked power to dismiss a worker but rarely uses it. The worker may
+face no present interference yet still flatter, self-censor and anticipate the employer’s will.
+Suppose a public rule limits arbitrary dismissal and allows review. It interferes with the
+employer’s option but reduces the worker’s dependence. Whether equality “limits liberty” therefore
+depends on whose liberty and which measure.
+
+### Why liberty and equality can conflict
+
+1. ✅ Unrestricted property and contract can accumulate power and produce unequal bargaining.
+2. ✅ Aggressive levelling can curtail association, choice and legitimate personal control.
+3. ⚠️ Formal options can be unusable where education, health or resources are severely unequal.
+4. ✅ Basic equal liberties differ from treating every economic option as lexically protected.
+
+### Why they can complement one another
+
+1. Equal civic liberty is itself an equality of status.
+2. Fair opportunity helps persons exercise liberties rather than merely possess them on paper.
+3. Rules against domination can reduce one person’s arbitrary option while securing everyone’s
+   freedom as standing.
+4. Rawls protects equal basic liberties before applying distributive principles.
+
+### Republican freedom as non-domination
+
+✅/⚠️ The republican account associated with Philip Pettit defines liberty as absence of
+subjection to another’s **arbitrary capacity** to interfere. Quentin Skinner is used for the
+historical recovery of the republican tradition; do not merge their roles.
+
+```text
+INTERFERENCE = an act that obstructs
+DOMINATION   = a standing, uncontrolled power to obstruct
+
+forbearing master: domination without present interference
+contestable law:   interference without domination
 ```
 
-### Panel — PANEL 2/10: Equality from equal worth to real opportunity
+**Argument:**
 
-```ascii-master
-equal moral worth -> arbitrary birth hierarchy bears the burden of justification
-formal or legal equality -> equality before law and equal protection
-political equality -> equal citizenship, vote and eligibility for public office
-social equality -> freedom from stigma, caste rank and inherited civic humiliation
-economic equality -> limits on disparities that destroy fair background conditions
-formal opportunity -> offices are legally open
-fair opportunity -> education, health and social power make access realistically open
-outcome concern -> use thresholds, needs or protection of the least advantaged
-trap -> equality is not sameness of talent, choice or final result
+1. Counting only actual interference misclassifies the dependent person under a kind master as
+   free.
+2. Dependence changes conduct through fear, deference and anticipation.
+3. Freedom must therefore include secure standing against arbitrary power.
+4. Public, interest-tracking and contestable law can constitute freedom by removing private
+   mastery.
+
+✅ **Presupposition:** social relations and unexercised powers can affect freedom.
+
+**Strong objection:** “Arbitrary” is indeterminate; officials can label their own power
+non-arbitrary.
+
+**Reply:** ⚠️ Publicity, review, reason-giving and effective contestability discipline the term.
+
+**Residual:** Procedures reduce but do not eliminate disagreement over whose interests count.
+
+### The 2022 restriction thesis
+
+✅ The first half is plausible: complete contractual or property liberty may let strong actors
+produce inequality and subjection.
+
+⚠️ The second half—order necessarily causes a loss of freedom—is false without specifying the
+metric. A rule against threat removes an aggressor’s option while securing the target’s protected
+range. On the negative measure there is some interference; on the republican measure,
+non-arbitrary order can enlarge liberty.
+
+**Guardrail:** order can also conceal surveillance, paternalism or majoritarian control. Require
+proportionality, due process, equal status and contestability.
+
+### Liberty in a technological society
+
+| Technological pathway | Freedom gain | Freedom threat | Philosophical control |
+|---|---|---|---|
+| communication platforms | expression and association | profiling, opaque moderation, concentrated gatekeeping | negative liberty + due process |
+| data-intensive governance | convenient access and coordination | surveillance and function creep | privacy, publicity, review |
+| automated decisions | speed and consistency | hidden steering, bias and unappealable classification | contestability and reasons |
+| digital services | expanded practical options | exclusion through access and literacy gaps | positive capability |
+
+⚠️ **Verdict:** liberty is realisable, not automatic. Formal availability of an option does not
+prove autonomous choice; technological coordination does not by itself prove unfreedom.
+
+🏛️ **Bounded illustrations:** the Bonded Labour System (Abolition) Act, 1976 and the Sexual
+Harassment of Women at Workplace Act, 2013 illustrate attempts to replace personal dependence or
+unchecked discretion with public rules and complaint mechanisms. Their enactment does not prove
+that domination ended. The canonical owner also verifies Gazette notification S.O. 5322(E) of
+21 November 2025 concerning relevant Code on Wages, 2019 provisions; use it only as legal-status
+context, never as proof of implementation.
+
+### Are liberty and equality distinctive of democracy?
+
+| Democratic commitment | Why distinctive | Why not exclusive or sufficient |
+|---|---|---|
+| equal citizenship | rejects hereditary civic rank | equal voting can coexist with unequal influence |
+| protected speech and opposition | makes rulers answerable and decisions revisable | selective private liberty can exist outside democracy |
+| equal liberties together | gives every citizen a standing to contest rule | elections can coexist with domination or exclusion |
+
+⚠️ **How-far verdict:** liberty and equality are joint normative commitments that make democratic
+rule justifiable, but they are neither empirically guaranteed by every democracy nor possessed
+only by democracies. Accountable institutions and effective contestation are also required.
+
+### Strongest objection and reply
+
+**Objection:** Redistribution and regulation necessarily reduce liberty because they coerce.
+
+**Reply:** ⚠️ Every enforceable property regime is already coercively structured. The relevant
+question is whether background rules secure equal basic liberty and restrain domination, not
+whether a rule exists.
+
+**Residual:** Over-regulation can itself become domination; equality cannot become a blank cheque.
+
+### UPSC application
+
+- On “Does liberty limit equality?”, open by defining both variables.
+- On technology, use all three diagnostics: interference, capability and domination.
+- On democracy, answer “how far,” not a simple yes.
+- On order, distinguish loss of an option from gain in secured status.
+
+### Revision notes
+
+1. Unbounded liberty can produce unequal private power.
+2. Levelling can restrict legitimate choice.
+3. Equal basic liberty is both liberty and equality.
+4. Non-domination detects unexercised arbitrary power.
+5. Interference and domination are not coextensive.
+6. Contestable public law may be freedom-constituting.
+7. Technology expands and manipulates choice through the same infrastructure.
+8. Privacy, literacy, reasons and appeal support technological freedom.
+9. Democracy joins equal standing with protected dissent.
+10. Neither liberty nor equality alone is a sufficient definition of democracy.
+
+### Retrieval and application drill
+
+1. Explain the “kind master” example without relying on slogan.
+2. Why does a restriction not always reduce total or equal liberty?
+3. Give a four-part answer to whether technological liberty is possible.
+
+### Local practice — questions
+
+**MCQ 9.** Which case most directly demonstrates domination without actual interference?
+
+A. A dependent person lives at a master’s discretion although the master presently refrains from commanding.
+B. A public court reviews an administrative order.
+C. A person freely changes occupation.
+D. A general law prohibits assault.
+
+**MCQ 10.** What is the strongest answer to the claim that every restriction causes a necessary loss of freedom?
+
+A. Restrictions never affect options.
+B. A restriction may reduce one option yet secure equal liberty or remove arbitrary domination; its justification still needs scrutiny.
+C. Order is always more valuable than liberty.
+D. Any democratically enacted restriction is non-arbitrary.
+
+### Local practice — answers and option-wise explanations
+
+**MCQ 9**
+
+**Correct answer: A**
+
+- **A — Correct:** the uncontrolled capacity, not its present exercise, produces dependence.
+- **B — Incorrect:** review is a device for reducing arbitrariness.
+- **C — Incorrect:** the example supplies no standing relation of subjection.
+- **D — Incorrect:** a general protective rule interferes but can secure non-domination.
+
+**MCQ 10**
+
+**Correct answer: B**
+
+- **A — Incorrect:** restrictions plainly alter available actions.
+- **B — Correct:** it distinguishes option-loss, status-gain and the continuing burden of justification.
+- **C — Incorrect:** it simply reverses absolutism.
+- **D — Incorrect:** electoral pedigree alone does not guarantee proportionality or contestability.
+
+---
+
+## Lesson 6 — Justice: rules, procedures, outcomes and distributive criteria
+
+**Progress:** 6/12 · **Stage:** Justice foundation · **Demand anchors:** S01-43–S01-47, S01-53–S01-56
+
+### Visual: four questions before calling a distribution just
+
+```text
+1. FORMAL      Was the announced rule applied consistently?
+        |
+2. PROCEDURAL  Was the decision public, impartial and contestable?
+        |
+3. SUBSTANTIVE Is the governing standard and social relation defensible?
+        |
+4. CRITERION   Need, desert, merit, entitlement, equal share or compensation?
+        |
+        v
+   QUALIFIED JUDGEMENT
 ```
 
-### Panel — PANEL 3/10: Rousseau Mill and Marx on unequal social power
+*Consistency, fair process and defensible substance are distinct tests.*
 
-```ascii-master
-ROUSSEAU -> natural differences become domination through convention and property
-natural inequality -> age, strength, health and intelligence
-moral or political inequality -> wealth, honour, power and dependence
-MILL -> equal legal and civic status plus individuality and women's equality
-The Subjection of Women -> alleged natural subordination is socially manufactured
-MARX -> formally equal exchange can conceal class exploitation
-equal right can reproduce inequality when persons and needs differ
-higher communist rule -> contribution by ability and distribution by need
-comparison -> status equality, anti-subordination and material structure must connect
+### Plain-language entry
+
+A discriminatory rule can be applied perfectly consistently. A transparent lottery can be fair as
+a procedure yet absurd for choosing a surgeon. A beneficial outcome can be imposed through an
+arbitrary hearing. Justice therefore asks both how a decision was made and what standard governs
+it.
+
+### Formal, procedural and substantive justice
+
+| Form | Exact test | Necessary contribution | Failure when isolated |
+|---|---|---|---|
+| **Formal justice** ✅ | are like cases treated alike under general rules? | consistency and absence of personal favour | a uniformly applied rule can still be unjust |
+| **Procedural justice** ✅ | were hearing, publicity, impartiality and non-cheating secured? | checks arbitrary decision-making | fair-looking process can inherit unequal starting power |
+| **Substantive justice** ✅ | are the principle, distribution and status relation themselves just? | rights, fair life chances and non-subordination | desired outcomes can be imposed without due process |
+
+⚠️ **Synthesis:** fair procedure needs a defensible substantive standard; substantive correction
+must remain public, rights-bound and contestable.
+
+### Dimensions of justice
+
+- ✅ **Legal:** impartial administration and the justice of law itself.
+- ✅ **Political:** equal voice, citizenship and non-arbitrary public power.
+- ✅ **Socio-economic:** fair benefits, burdens and effective opportunities.
+- ⚠️ **Recognition/status:** whether institutions reproduce stigma or second-class standing.
+
+**Firewall:** detailed recognition theory and democracy institutions retain their own owners.
+
+### The criteria problem
+
+| Criterion | Appropriate use | Central objection |
+|---|---|---|
+| **Need** ✅ | subsistence, health, disability-related support | need can be elastic or disputed |
+| **Moral desert** ✅ | praise, blame, honour for effort or sacrifice | effort is shaped by unchosen advantage |
+| **Merit/qualification** ✅ | fitness for a role or office | tests can encode prior privilege |
+| **Contribution/entitlement** ✅ | exchange or holdings with a valid history | market value does not equal moral worth |
+| **Equal share** ✅ | equal citizenship and basic political rights | sameness is misplaced outside the relevant sphere |
+| **Compensation** ✅ | remedy for unjustified loss or transmitted disadvantage | causation, duration and cost are contested |
+
+✅ **Merit–desert distinction:** merit is forward-looking and role-specific—who can perform the
+office? Desert is backward-looking and moralised—what has someone done or suffered?
+
+### Sphere-sensitive argument
+
+1. Justice treats relevantly alike cases alike.
+2. Relevance depends on the good being allocated.
+3. Voting answers to equal status; an expert office answers partly to competence; subsistence
+   answers to need; rectification answers to unjust loss.
+4. No single distributive rule governs every good.
+5. Plural criteria are not arbitrary when publicly tied to the good’s purpose.
+
+**Example with limit:** Wealth should not purchase additional votes even if market contribution
+justifies unequal income. **Limit:** the boundaries and social meanings of goods can themselves be
+contested.
+
+### Utilitarian aggregation
+
+✅ Utilitarian justice assesses institutions through aggregate welfare.
+
+**Argument:** if each person’s welfare counts, the arrangement producing the greatest total
+appears impartial.
+
+✅ **Presupposition:** interpersonal effects can be combined into a social evaluation.
+
+✅ **Distinction:** rightness depends on consequences rather than inviolable prior claims.
+
+**Strong objection:** aggregation can impose severe loss on a minority when the total rises.
+
+**Reply:** rule- or indirect-utilitarian approaches defend stable liberties because they improve
+long-run welfare.
+
+**Residual:** the protection remains contingent; a different calculation could authorise
+sacrifice.
+
+### Compensatory justice in outline
+
+⚠️ Generalising correction from a discrete transaction to structure requires:
+
+1. historically identifiable institutional exclusion;
+2. continuing transmission through wealth, health, education, networks or status;
+3. evidence that formal equality would preserve the inherited starting gap;
+4. a targeted and reviewable measure;
+5. a terminus linked to the disadvantage being remedied.
+
+**Objection:** current individuals bear costs for wrongs they did not commit.
+
+**Reply:** the claim concerns continuing unjust advantage and institutional correction, not
+inherited personal guilt.
+
+**Residual:** over-inclusion and identifying the proper terminus remain real problems.
+
+### UPSC application
+
+- Never write “procedural justice = justice” without testing the starting structure.
+- Do not use merit and desert as synonyms.
+- On equity, name the criterion and the good.
+- On utilitarianism, present its impartial appeal before the aggregation objection.
+
+### Revision notes
+
+1. Formal justice is consistent application.
+2. Procedural justice concerns decision-producing rules.
+3. Substantive justice tests the governing standard and relation.
+4. Legal, political, socio-economic and status justice are distinct dimensions.
+5. Merit is role-fitness; desert is moral and backward-looking.
+6. Need, equal share, entitlement and compensation suit different goods.
+7. Justice can be pluralist without becoming arbitrary.
+8. Utilitarianism aggregates welfare.
+9. Aggregation can sacrifice individuals or minorities.
+10. Compensation corrects continuing transmitted disadvantage, not ancestral guilt.
+
+### Retrieval and application drill
+
+1. Give an example of a formally fair but substantively unjust rule.
+2. Distinguish merit from desert through one office-allocation case.
+3. State the strongest utilitarian reply to the minority-sacrifice objection.
+
+### Local practice — questions
+
+**MCQ 11.** Which claim best distinguishes procedural from substantive justice?
+
+A. Procedural justice asks only whether outcomes are equal.
+B. Substantive justice asks only whether a hearing occurred.
+C. Procedure tests how a decision is produced; substance tests the governing standard and relation.
+D. The two terms are always interchangeable.
+
+**MCQ 12.** Which allocation most clearly answers to equal share rather than need or merit?
+
+A. Emergency medicine allocated by clinical urgency.
+B. A technical post allocated by demonstrated competence.
+C. Compensation allocated for verified wrongful loss.
+D. One citizen, one vote.
+
+### Local practice — answers and option-wise explanations
+
+**MCQ 11**
+
+**Correct answer: C**
+
+- **A — Incorrect:** procedure focuses on decision rules, not a specific distributive pattern.
+- **B — Incorrect:** hearing belongs to procedure.
+- **C — Correct:** the distinction allows each dimension to criticise the other.
+- **D — Incorrect:** overlap in some usage does not erase their different questions.
+
+**MCQ 12**
+
+**Correct answer: D**
+
+- **A — Incorrect:** urgency invokes need.
+- **B — Incorrect:** competence invokes merit.
+- **C — Incorrect:** prior unjust loss invokes compensation.
+- **D — Correct:** equal political standing supports equal votes.
+
+---
+
+## Lesson 7 — Plato, Aristotle and the architecture of classical justice
+
+**Progress:** 7/12 · **Stage:** Classical justice · **Demand anchors:** S01-48–S01-55, S01-77
+
+### Visual: harmony, proportion and correction
+
+```text
+PLATO
+SOUL: reason governs spirit and appetite
+CITY: rulers, auxiliaries, producers perform proper functions
+                    |
+                    v
+             JUSTICE AS HARMONY
+
+ARISTOTLE
+distribution -> proportional equality by relevant criterion
+wrong/loss    -> arithmetic correction between parties
+                    |
+                    v
+          JUSTICE AS PROPORTION/RECTIFICATION
 ```
 
-### Panel — PANEL 4/10: Equality of what and the metric decision
+*Plato asks how a whole is rightly ordered; Aristotle separates fair shares from correction.*
 
-```ascii-master
-RESOURCE METRIC -> Dworkin equalises resources while distinguishing brute and option luck
-CAPABILITY METRIC -> Sen asks what persons are actually able to do and be
-same resources can yield unequal freedom because conversion conditions differ
-COHEN -> institutions alone are insufficient when incentives express an unequal ethos
-LUCK EGALITARIANISM -> correct disadvantage traceable to brute luck
-RELATIONAL EQUALITY -> end hierarchy, humiliation and second-class civic standing
-Indian use -> distinguish equal rule, access, capability and equal social status
-trap -> no single metric settles every question of need, choice, disability and dignity
+### Plain-language entry
+
+One dispute asks whether justice is the right arrangement of a whole; another asks how shares or
+losses should be allocated. Plato develops the first through harmony of soul and city. Aristotle
+separates the second into proportionate distribution and arithmetic correction.
+
+### Plato’s just soul
+
+✅ The soul contains rational, spirited and appetitive elements. Justice exists when reason rules,
+spirit supports reason and appetite performs its proper role without usurpation.
+
+**Argument:** inner conflict becomes order when each element performs its function under rational
+direction.
+
+✅ **Presupposition:** psychic elements have distinguishable functions and reason is fit to rule.
+
+✅ **Distinction:** this is harmony, not equal shares among psychic elements.
+
+**Example with limit:** courage directed by reason differs from uncontrolled aggression.
+**Limit:** the psychological analogy does not establish a modern theory of rights.
+
+### Plato’s just city
+
+✅ The city parallels the soul: rulers deliberate, auxiliaries defend, and producers meet material
+needs. Justice is each part doing its own work without seizing another’s function.
+
+**Argument:** functional specialisation coordinated by wisdom creates civic order.
+
+✅ **Presupposition:** differentiated aptitude and an organic relation between person and polis.
+
+**Strong objection:** fixed functions subordinate individuality and legitimise hierarchy.
+
+**Reply:** defenders reconstruct the insight as competence and non-usurpation rather than
+hereditary privilege.
+
+**Residual:** Plato’s institutional restrictions and class structure remain far from equal liberal
+citizenship.
+
+### Aristotle’s distributive justice
+
+✅ Distributive justice uses **proportional equality**: shares differ with a relevant criterion,
+commonly described through merit or contribution.
+
+**Argument:** numerical sameness can be unjust where the relevant relation differs.
+
+✅ **Presupposition:** goods and offices have purposes that identify relevant qualifications.
+
+**Strong objection:** Aristotle’s actual citizenship was exclusionary, and “merit” can reproduce
+social bias.
+
+**Reply:** ⚠️ The formal insight survives: unequal shares require a relevant public reason.
+
+### Aristotle’s corrective justice
+
+✅ Corrective or rectificatory justice restores arithmetic balance after wrongful gain or loss,
+without distributing by the parties’ virtue or social rank.
+
+**Example with limit:** restitution after wrongful taking. **Limit:** a two-party model struggles
+with diffuse structural injury, multiple beneficiaries and intergenerational transmission.
+
+### Plato and Rawls: continuity and break
+
+| Axis | Plato | Rawls |
+|---|---|---|
+| organising role | justice orders soul and city | justice is the first virtue of the basic structure |
+| moral subjects | functionally differentiated parts/classes | free and equal persons |
+| method | philosophical account of proper function | hypothetical fair agreement |
+| central principle | each part performs its own task | equal basic liberties, fair opportunity, difference principle |
+| equality | not democratic equal citizenship | explicit equal status and liberty |
+
+⚠️ **How-far judgement:** Rawls continues Plato only in treating justice as architectonic for a
+well-ordered society. He transforms the answer through free and equal citizenship, contractarian
+representation and justified inequality. The shared problem is substantial; the method and
+solution are discontinuous.
+
+### Compensatory bridge
+
+Aristotle’s correction addresses a transaction. Modern compensatory justice extends the logic
+where institutionally produced disadvantage persists. That extension must prove transmission and
+remain targeted. The detailed affirmative-action debate is outside this owner.
+
+### UPSC application
+
+- A brief Plato answer must include both soul and city.
+- Do not attribute Rawls’s liberties or contract to Plato.
+- On Aristotle, state the relevant criterion problem.
+- On compensation, distinguish structural remedy from personal guilt.
+
+### Revision notes
+
+1. Platonic justice is order and harmony.
+2. The tripartite soul parallels the three civic classes.
+3. “Each doing its own” is functional, not distributive equality.
+4. Plato’s strength is integration; his weakness is hierarchy.
+5. Aristotle separates distributive and corrective justice.
+6. Distribution uses proportional equality.
+7. Correction restores arithmetic balance after wrong.
+8. Merit requires a relevant public criterion.
+9. Structural compensation extends but also strains the transactional model.
+10. Rawls continues Plato’s architectonic question but rejects fixed hierarchy.
+
+### Retrieval and application drill
+
+1. Explain the soul–city analogy in four steps.
+2. Why is Plato’s justice not a theory of equal shares?
+3. Give two continuities and three breaks between Plato and Rawls.
+
+### Local practice — questions
+
+**MCQ 13.** Which statement best describes Platonic justice?
+
+A. Harmony arises when each element of soul and city performs its proper function under right order.
+B. Justice requires equal income for all classes.
+C. Justice is only compensation after injury.
+D. Justice is chosen behind a veil of ignorance.
+
+**MCQ 14.** What is Aristotle’s corrective justice primarily designed to do?
+
+A. Allocate offices by proportional merit.
+B. Restore balance after wrongful gain or loss without ranking the parties by merit.
+C. Maximise aggregate welfare.
+D. Preserve any voluntary transfer regardless of prior injustice.
+
+### Local practice — answers and option-wise explanations
+
+**MCQ 13**
+
+**Correct answer: A**
+
+- **A — Correct:** function and non-usurpation structure both soul and city.
+- **B — Incorrect:** Platonic justice is not flat distributive equality.
+- **C — Incorrect:** that describes a corrective family.
+- **D — Incorrect:** the device belongs to Rawls.
+
+**MCQ 14**
+
+**Correct answer: B**
+
+- **A — Incorrect:** proportional allocation belongs to distributive justice.
+- **B — Correct:** correction targets the transaction’s imbalance.
+- **C — Incorrect:** that is utilitarian aggregation.
+- **D — Incorrect:** prior injustice is precisely what correction addresses.
+
+---
+
+## Lesson 8 — Rawls: fairness, two principles and the necessity of lexical order
+
+**Progress:** 8/12 · **Stage:** Rawlsian justice · **Demand anchors:** S01-57–S01-65
+
+### Visual: the serial architecture
+
+```text
+ORIGINAL POSITION
+free and equal representatives
+behind a veil of ignorance
+          |
+          v
+FIRST PRINCIPLE
+fully adequate scheme of equal basic liberties
+          |
+          | lexical priority under favourable conditions
+          v
+SECOND PRINCIPLE (a)
+fair equality of opportunity
+          |
+          | priority within the second principle
+          v
+SECOND PRINCIPLE (b)
+difference principle: inequality must benefit the least advantaged
 ```
 
-### Panel — PANEL 5/10: Berlin and Mill on the protected sphere
+*Later gains cannot compensate for failure at an earlier stage of the sequence.*
 
-```ascii-master
-NEGATIVE LIBERTY -> area in which one is left free from interference
-POSITIVE LIBERTY -> self-direction, autonomy and being one's own master
-Berlin warns -> rulers may coerce the empirical self for an alleged true self
-value pluralism -> political goods can conflict without one final harmony
-MILL'S HARM PRINCIPLE -> coercion is justified to prevent harm to others
-self-regarding conduct receives a strong presumption of liberty
-other-regarding harm permits regulation, but offence alone is not harm
-reply to spillovers -> liberty shifts the burden of proof onto coercion
+### Plain-language entry
+
+Suppose you must design society without knowing your class, religion, sex, talents or life plan.
+You would want liberties usable under any reasonable conception of the good, genuine access to
+offices, and protection if you occupy the least advantaged position. Rawls turns that intuition
+into a public construction of fair terms.
+
+### Original position and veil of ignorance
+
+✅ The original position is a device of representation, not an historical contract. Parties lack
+knowledge of morally arbitrary advantages and select principles for society’s basic structure.
+
+**Argument:**
+
+1. Tailoring principles to one’s fortune is unfair.
+2. The veil removes knowledge that permits such tailoring.
+3. Parties still know general social facts and seek primary goods.
+4. The resulting agreement models fair representation of free and equal persons.
+
+✅ **Presupposition:** citizens possess two moral powers—a capacity for a conception of the good
+and a sense of justice.
+
+**Objection:** the chooser is too abstract and detached from community.
+
+**Reply:** ✅ Abstraction filters bargaining advantage; it need not deny that real persons are
+socially embedded.
+
+**Residual:** the device still reflects liberal assumptions about personhood and choice.
+
+### The two principles
+
+1. ✅ **Equal basic liberties:** each person has an equal claim to a fully adequate scheme
+   compatible with the same scheme for all.
+2. ✅ **Fair equality of opportunity:** offices are not only formally open; comparable talent and
+   motivation should have comparable prospects across class origins.
+3. ✅ **Difference principle:** social and economic inequalities must work to the benefit of the
+   least advantaged.
+
+**Trap:** not every preference or economic freedom is a basic liberty. Basic liberties form a
+scheme and can be adjusted internally for compatibility.
+
+### What lexical order means
+
+✅ Lexical or serial order means:
+
+- the first principle is satisfied before the second is applied;
+- within the second principle, fair equality of opportunity precedes the difference principle;
+- a shortfall at an earlier level cannot be compensated by additional gain at a later level.
+
+### Why Rawls regards the order as necessary
+
+1. **Anti-aggregation ✅:** it prevents sacrificing basic liberty for a larger social sum.
+2. **Original-position security ✅:** parties protect liberties required to form, revise and pursue
+   any conception of the good.
+3. **Public determinacy ✅:** a serial rule avoids case-by-case intuitionist balancing with no
+   publicly checkable priority.
+4. **Self-respect ✅:** equal liberty expresses the standing of equal citizens; extra income is not
+   an adequate compensation for civic inferiority.
+5. **Opportunity before difference ✅:** otherwise closed careers could be defended by claiming
+   that the resulting inequality benefits the least advantaged.
+6. **Stability and publicity ⚠️:** citizens can understand and affirm an ordered public scheme.
+
+### The favourable-conditions qualification
+
+✅ The liberty priority applies under **favourable conditions**—where material and educational
+conditions make effective exercise of basic liberties possible. It is not an unconditional rule
+for every catastrophe or stage of development.
+
+**Strong objection:** the poor might rationally trade some liberty for subsistence.
+
+**Reply:** the qualification recognises severely unfavourable conditions; within favourable
+conditions, basic civic status is not for sale.
+
+**Residual:** the threshold separating favourable from unfavourable conditions remains imprecise.
+
+### Reflective equilibrium
+
+✅ Justification moves between principles and considered judgements, revising each to improve
+coherence. This is not a bargain or simple average; it is disciplined mutual adjustment.
+
+**Example with limit:** a principle that permits slavery or caste domination conflicts with firm
+judgements and requires revision. **Limit:** considered judgements may themselves carry bias, so
+public criticism remains necessary.
+
+### Justice as fairness in one answer
+
+⚠️ Rawls offers a deontological liberal egalitarianism: equal basic liberties have priority, fair
+opportunity controls access to offices, and inequality is allowed only under benefit to the least
+advantaged.
+
+### UPSC application
+
+- For 2026, answer **why the order is necessary**, not merely what the principles are.
+- For 2023, explain the fair choice situation and both principles.
+- State opportunity before the difference principle.
+- State favourable conditions whenever claiming lexical liberty priority.
+
+### Revision notes
+
+1. The original position is hypothetical representation, not history.
+2. The veil excludes knowledge of personal fortune.
+3. Parties represent free and equal citizens.
+4. Equal basic liberties form the first principle.
+5. Fair equality of opportunity comes before the difference principle.
+6. The difference principle permits, rather than abolishes, inequality.
+7. Lexical order blocks compensation across levels.
+8. Anti-aggregation, self-respect and determinacy justify priority.
+9. Liberty priority operates under favourable conditions.
+10. Reflective equilibrium revises principles and judgements together.
+
+### Retrieval and application drill
+
+1. Explain the anti-aggregation reason for lexical priority.
+2. Why must fair opportunity precede the difference principle?
+3. What does the favourable-conditions qualification prevent you from claiming?
+
+### Local practice — questions
+
+**MCQ 15.** Which sequence states Rawls’s order correctly?
+
+A. Difference principle → fair opportunity → equal basic liberties.
+B. Fair opportunity → equal basic liberties → difference principle.
+C. Equal basic liberties → fair equality of opportunity → difference principle.
+D. Equal income → liberty → merit.
+
+**MCQ 16.** Why does fair equality of opportunity precede the difference principle?
+
+A. Because opportunity always produces identical outcomes.
+B. Because the difference principle abolishes offices.
+C. Because liberty has no relation to public status.
+D. Because benefits to the least advantaged cannot justify a structure that closes offices through inherited status.
+
+### Local practice — answers and option-wise explanations
+
+**MCQ 15**
+
+**Correct answer: C**
+
+- **A — Incorrect:** it reverses both priorities.
+- **B — Incorrect:** the first principle must precede the entire second principle.
+- **C — Correct:** it states the external and internal lexical ordering.
+- **D — Incorrect:** neither equal income nor merit occupies that serial structure.
+
+**MCQ 16**
+
+**Correct answer: D**
+
+- **A — Incorrect:** fair opportunity does not promise equal results.
+- **B — Incorrect:** the difference principle regulates inequalities associated with social cooperation.
+- **C — Incorrect:** access to office directly concerns equal civic standing.
+- **D — Correct:** the internal priority blocks status closure disguised as beneficial inequality.
+
+---
+
+## Lesson 9 — Nozick: entitlement, history and the limits of patterned justice
+
+**Progress:** 9/12 · **Stage:** Libertarian justice · **Demand anchors:** S01-66–S01-69
+
+### Visual: a holding is just only if its history is just
+
+```text
+UNOWNED HOLDING
+      |
+      v
+JUST ACQUISITION?
+      |
+      v
+VOLUNTARY TRANSFER?
+      |
+      v
+PRESENT ENTITLEMENT
+
+If either stage was unjust:
+      |
+      v
+RECTIFICATION REQUIRED
 ```
 
-### Panel — PANEL 6/10: From contract liberty to effective freedom
+*Nozick asks how holdings arose, not whether the final distribution resembles a preferred pattern.*
 
-```ascii-master
-HOBBES -> absence of external impediment; secure order makes residual liberty possible
-LOCKE -> liberty under known law protects life, liberty, property and consent
-ROUSSEAU -> autonomy is obedience to a law citizens prescribe through the general will
-GREEN -> real freedom is the capacity to develop and pursue worthwhile purposes
-poverty, ignorance and dependency can hollow out merely formal non-interference
-conflict -> unrestricted economic liberty can generate unequal social power
-complementarity -> a minimum equal status protects everyone's usable liberty
-qualified verdict -> enabling freedom must not become perfectionist compulsion
+### Plain-language entry
+
+Two distributions can look equally unequal. One might arise from theft; the other from repeated
+voluntary exchanges beginning from legitimate holdings. Nozick says the shapes alone do not settle
+justice. History does.
+
+### The three principles
+
+1. ✅ **Justice in acquisition:** a person must acquire previously unowned resources legitimately.
+2. ✅ **Justice in transfer:** exchange, gift or other transfer must be voluntary and rights-respecting.
+3. ✅ **Justice in rectification:** earlier acquisition or transfer injustice must be corrected.
+
+**Critical warning:** Nozick’s theory is not “whatever exists now is deserved.” Present holdings
+are protected only if their history satisfies all three principles.
+
+### Patterned versus historical theories
+
+| Question | Patterned/end-state approach | Nozick’s historical approach |
+|---|---|---|
+| test | does the distribution fit equality, need or merit? | did each holding arise through just steps? |
+| time | present shape dominates | sequence and title dominate |
+| liberty concern | pattern may require continual adjustment | voluntary transfers can upset patterns |
+| weak point | recurrent interference | acquisition and rectification need criteria |
+
+### The Wilt Chamberlain argument
+
+✅ Begin with a distribution that a patterned theorist accepts. Many persons voluntarily pay a
+small amount to watch a popular player. The player becomes richer and the original pattern changes.
+If the starting holdings and transfers were just, restoring the pattern requires interfering with
+persons’ choices.
+
+**Argument:**
+
+1. individuals are entitled to control just holdings;
+2. voluntary transfers express that control;
+3. free transfers predictably disrupt fixed patterns;
+4. maintaining a pattern therefore needs repeated interference.
+
+✅ **Presupposition:** strong self-ownership and side-constraints limit how persons may be used for
+others’ ends.
+
+### Side-constraints and minimal state
+
+✅ Rights act as constraints on pursuit of social goals; persons cannot simply be sacrificed for
+aggregate welfare. The legitimate state protects against force, theft and fraud and enforces
+contracts.
+
+**Distinction:** side-constraints differ from maximising rights-satisfaction. They restrict the
+means institutions may use.
+
+### Strongest objections and replies
+
+**Objection 1—acquisition:** “First acquisition” can appropriate common resources and exclude
+others; the legitimacy test is underdeveloped.
+
+**Reply:** Nozick invokes a constraint broadly associated with not worsening others, but critics
+dispute whether real acquisition satisfies it.
+
+**Objection 2—transfer:** necessity and unequal bargaining can make formally voluntary exchange
+substantively coercive.
+
+**Reply:** Nozick can prohibit force and fraud, but background deprivation remains difficult for a
+thin voluntariness test.
+
+**Objection 3—rectification:** actual societies contain conquest, enslavement, caste exclusion and
+other historical wrongs.
+
+**Reply:** ✅ Rectification is part of the theory.
+
+**Residual:** the theory does not provide a determinate formula for wide, intergenerational
+rectification. This weakens any easy defence of the status quo.
+
+### Example with limit
+
+A voluntary gift from a legitimate holding supports transfer. **Limit:** calling a transaction
+voluntary does not prove that the acquisition was just or that coercive necessity was absent.
+
+### UPSC application
+
+- Always state acquisition, transfer **and rectification**.
+- Use Wilt Chamberlain to attack patterns, not to prove all market outcomes just.
+- A critical answer should target the historical starting point and voluntariness.
+- End by conceding Nozick’s warning against treating persons as resources for a pattern.
+
+### Revision notes
+
+1. Nozick’s theory is historical, not patterned.
+2. Acquisition, transfer and rectification are jointly necessary.
+3. Present inequality is not automatically entitled.
+4. Wilt Chamberlain shows how voluntary transfer disrupts patterns.
+5. Side-constraints limit permissible means.
+6. Self-ownership grounds the anti-redistributive argument.
+7. The minimal state protects force, fraud, theft and contract.
+8. Acquisition needs a defensible initial-appropriation test.
+9. Necessity complicates voluntary transfer.
+10. Rectification is indispensable but under-specified.
+
+### Retrieval and application drill
+
+1. Why is Nozick not a defender of every existing distribution?
+2. Reconstruct Wilt Chamberlain without using the phrase “taxation is theft.”
+3. Which of the three principles is most important for criticising inherited injustice?
+
+### Local practice — questions
+
+**MCQ 17.** Which statement accurately presents Nozick’s entitlement theory?
+
+A. Justice in holdings depends on just acquisition, voluntary transfer and rectification of injustice.
+B. Any unequal end-state is unjust.
+C. A holding is just whenever the owner is productive.
+D. Rectification is external to the theory.
+
+**MCQ 18.** What does the Wilt Chamberlain example establish most directly?
+
+A. Every starting distribution is just.
+B. Voluntary transfers from a just starting point can upset a preferred pattern, so restoring it requires interference.
+C. Market price equals moral desert.
+D. Historical injustice is irrelevant.
+
+### Local practice — answers and option-wise explanations
+
+**MCQ 17**
+
+**Correct answer: A**
+
+- **A — Correct:** all three historical principles control entitlement.
+- **B — Incorrect:** inequality of shape is not decisive.
+- **C — Incorrect:** productivity is neither acquisition nor title history.
+- **D — Incorrect:** rectification is the third core principle.
+
+**MCQ 18**
+
+**Correct answer: B**
+
+- **A — Incorrect:** the example assumes a just start for argumentative purposes.
+- **B — Correct:** it connects free transfer with pattern disruption.
+- **C — Incorrect:** voluntary demand does not establish moral desert.
+- **D — Incorrect:** the example does not cancel the rectification requirement.
+
+---
+
+## Lesson 10 — Sen and Ambedkar: realised freedom and social standing
+
+**Progress:** 10/12 · **Stage:** Comparative justice · **Demand anchors:** S01-70–S01-74
+
+### Visual: institutions matter, but people’s lives are the test
+
+```text
+CORRECT INSTITUTIONS / RULES
+institutional correctness (nīti)
+             |
+             | may fail in practice
+             v
+ACTUAL FREEDOMS AND SOCIAL OUTCOMES
+realised justice (nyāya)
+             |
+     +-------+-------+
+     |               |
+capability        public reasoning
+real opportunity open comparative scrutiny
+     |
+     v
+remove identifiable remediable injustice
 ```
 
-### Panel — PANEL 7/10: Technology domination and republican liberty
+*Sen changes the evaluative focus from a perfectly just blueprint to comparative improvement in
+actual lives.*
 
-```ascii-master
-modern technology expands communication, association and access to knowledge
-surveillance, behavioural profiling and platform dependence alter the freedom relation
-INTERFERENCE is an act; DOMINATION is exposure to uncontrolled arbitrary power
-Pettit's test -> can the affected person contest power on equal public terms?
-an indulgent master may not interfere yet still dominates through standing capacity
-rule-bound contestable law can constitute freedom rather than merely restrict it
-trap -> privacy, access and security must be analysed as liberty conditions, not slogans
-PYQ route -> assess whether technological society makes liberty unreal or differently fragile
+### Plain-language entry
+
+Two citizens can possess the same legal right and income while one cannot convert either into
+mobility, safety or voice. A constitution may be well designed while social hierarchy prevents
+some persons from living as equals. Sen and Ambedkar, in different ways, insist that institutional
+form must be tested through realised freedom and standing.
+
+### Institutional correctness and realised justice
+
+✅ **Institutional correctness (nīti)** concerns proper rules, institutions and conduct.
+
+✅ **Realised justice (nyāya)** concerns how people actually fare in the social world produced by
+institutions.
+
+**Argument:**
+
+1. correct-looking rules can coexist with famine, exclusion or incapability;
+2. justice must therefore assess realised consequences and social relations;
+3. institutions remain important, but they are means and objects of evaluation, not the whole of
+justice.
+
+✅ **Presupposition:** practical reason can identify serious injustice without first agreeing on a
+complete perfect society.
+
+### Comparative rather than transcendental justice
+
+✅ Sen asks which available arrangement is less unjust and how manifest remediable injustice can
+be removed. He criticises the demand to identify one fully just institutional order before making
+comparisons.
+
+**Example with limit:** one can judge that preventable exclusion is worse than an available
+alternative without ranking every imaginable society. **Limit:** comparison still needs reasons
+and can underdetermine choice among several improvements.
+
+### Capability and public reasoning
+
+✅ Capabilities are substantive opportunities—what persons are genuinely able to be and do.
+Resources matter through diverse conversion factors such as health, age, disability, climate and
+social norms.
+
+✅ Public reasoning exposes valuations and rankings to open scrutiny rather than a fixed,
+technocratic list.
+
+**Strong objection:** the capability space is open-ended and difficult to measure.
+
+**Reply:** ✅ Sen treats public reasoning and partial rankings as more honest than a false exact
+metric.
+
+**Residual:** institutional decision still requires thresholds, priorities and administrable
+indicators.
+
+### Is Sen an improvement on Rawls?
+
+| Criterion | Rawls | Sen | Comparative judgement |
+|---|---|---|---|
+| basic institutional rights | strong, determinate | presupposed but less systematised | Rawls advantage |
+| human diversity | primary goods can miss conversion | capability foregrounds conversion | Sen advantage |
+| method | fair principles for the basic structure | comparison of actual alternatives | different tasks |
+| injustice response | ideal framework guides institutions | removal of manifest remediable wrong | Sen more action-directing |
+| public reason | present in later Rawls | central to comparative assessment | shared but differently placed |
+
+⚠️ **Verdict:** Sen improves Rawls when the criterion is sensitivity to actual lives, diversity and
+comparative remedy. Rawls retains the advantage when the criterion is a determinate structure of
+equal basic liberties and institutional priority. “Improvement” is therefore criterion-relative,
+not total replacement.
+
+### Ambedkar: liberty, equality and fraternity
+
+✅ Ambedkar warns that political democracy cannot remain stable without social democracy grounded
+in liberty, equality and fraternity.
+
+**Argument:**
+
+1. one person, one vote establishes formal political equality;
+2. caste and inherited hierarchy deny equal social standing;
+3. humiliated or segregated citizens cannot exercise liberty as equals;
+4. fraternity—associated living and mutual recognition—is therefore structurally necessary.
+
+✅ **Distinction:** constitutional form is not identical with lived social democracy.
+
+**Example with limit:** equal franchise can coexist with social exclusion. **Limit:** the example
+does not make all detailed caste doctrine part of this topic; the full owner is separate.
+
+**Strong objection:** social reform in the name of equality may curtail liberty.
+
+**Reply:** Ambedkar’s point is that graded hierarchy already curtails the liberty of subordinated
+persons; fraternity prevents equality from becoming mechanical and liberty from becoming
+privilege.
+
+### UPSC application
+
+- Translate nīti and nyāya immediately; do not leave them unexplained.
+- Define the criterion of “improvement” before comparing Sen and Rawls.
+- Do not claim Sen makes institutions unnecessary.
+- Use Ambedkar as a philosophical account of social standing, not a decorative name.
+
+### Revision notes
+
+1. Institutional correctness (nīti) concerns rules and institutions.
+2. Realised justice (nyāya) concerns actual social life.
+3. Sen prefers comparative reduction of remediable injustice.
+4. A complete ideal ranking is not always needed for action.
+5. Capabilities are real opportunities to be and do.
+6. Conversion factors separate resources from freedom.
+7. Public reasoning handles plural valuations.
+8. Sen improves Rawls on realised diversity, not on every criterion.
+9. Rawls remains stronger on ordered basic institutional liberties.
+10. Ambedkar joins liberty, equality and fraternity in social democracy.
+
+### Retrieval and application drill
+
+1. Give an example of sound institutional form with deficient realised justice.
+2. State the standard by which Sen can be called an improvement on Rawls.
+3. Why is fraternity not merely emotional goodwill in Ambedkar’s argument?
+
+### Local practice — questions
+
+**MCQ 19.** Which contrast best states Sen’s institutional correctness (nīti) and realised justice (nyāya)?
+
+A. Law versus morality in the abstract.
+B. Equality versus liberty.
+C. Correct institutions and conduct versus how people actually live under social arrangements.
+D. Idealism versus materialism.
+
+**MCQ 20.** Which verdict on Sen and Rawls is most defensible?
+
+A. Sen makes rights and institutions irrelevant.
+B. Rawls and Sen use identical metrics and methods.
+C. Sen wholly refutes Rawls on every criterion.
+D. Sen is stronger on capability diversity and comparative outcomes, while Rawls retains strength in ordered basic liberties and institutional design.
+
+### Local practice — answers and option-wise explanations
+
+**MCQ 19**
+
+**Correct answer: C**
+
+- **A — Incorrect:** the contrast is not simply positive law against morality.
+- **B — Incorrect:** both terms belong to a justice distinction.
+- **C — Correct:** it captures institutional form and realised social life.
+- **D — Incorrect:** neither label maps the operative distinction.
+
+**MCQ 20**
+
+**Correct answer: D**
+
+- **A — Incorrect:** Sen criticises institutional exclusivity, not institutions as such.
+- **B — Incorrect:** primary goods and capabilities differ.
+- **C — Incorrect:** “improvement” must be criterion-relative.
+- **D — Correct:** it states a balanced comparative judgement.
+
+---
+
+## Lesson 11 — The triad under pressure: comparison and adjudication
+
+**Progress:** 11/12 · **Stage:** Core synthesis · **Demand anchors:** S01-30–S01-39, S01-73, S01-75–S01-77
+
+### Visual: justice mediates but does not erase disagreement
+
+```text
+LIBERTY CLAIM                      EQUALITY CLAIM
+"protect this choice"              "remove this hierarchy"
+         \                              /
+          \                            /
+           v                          v
+             JUSTICE TESTS
+      1. Is the liberty basic?
+      2. Equality of what?
+      3. Which criterion fits the good?
+      4. What procedure is legitimate?
+      5. What objection survives?
+                  |
+                  v
+        CONDITIONAL, REASONED VERDICT
 ```
 
-### Panel — PANEL 8/10: Justice from harmony to proportion and repair
+*Justice coordinates the ideals by reasons; it is not a magic midpoint.*
 
-```ascii-master
-PLATO -> justice is harmony when each part performs its proper function
-city and soul analogy -> reason governs with spirit while appetite remains ordered
-objection -> functional harmony can freeze hierarchy and suppress individual claims
-ARISTOTLE DISTRIBUTIVE JUSTICE -> proportionate shares by a relevant criterion
-criteria dispute -> merit, need, equality and desert produce rival distributions
-CORRECTIVE JUSTICE -> restore balance after voluntary or involuntary wrong
-compensation asks what loss occurred, who caused it and what repair is proportionate
-UTILITARIAN TEST -> aggregate welfare can sacrifice separate persons or minorities
-justice therefore needs both allocation and rectification
+### Plain-language entry
+
+Political ideals become difficult when each can criticise the others. Liberty can expose coercive
+equality; equality can expose privileged liberty; both can expose a theory of justice that hides
+its criterion. Comparison is therefore useful only when every theory is judged on the same axis.
+
+### Berlin versus Green
+
+| Axis | Berlin | Green | Synthesis |
+|---|---|---|---|
+| central fear | coercion disguised as liberation | formal options without real agency | protect a sphere and enable its use |
+| obstacle | human interference | incapacitating social conditions and undeveloped power | interference and capability are distinct |
+| state risk | paternal perfectionism | abandonment if state does nothing | enabling provision must preserve plural life plans |
+
+⚠️ **Verdict:** Berlin supplies the anti-authoritarian constraint; Green supplies the anti-hollow
+freedom challenge. Neither should swallow the other.
+
+### Rawls versus Nozick
+
+| Axis | Rawls | Nozick |
+|---|---|---|
+| moral starting point | fair terms among free and equal citizens | self-ownership and side-constraints |
+| distribution | background institutions plus least-advantaged test | historical entitlement |
+| state | more than minimal where justice requires | minimal rights-protecting state |
+| best criticism of rival | title ignores morally arbitrary starting conditions | patterns override voluntary choice |
+| unresolved pressure | abstraction and incentive | acquisition, necessity and rectification |
+
+⚠️ **Adjudication:** Nozick rightly warns that persons cannot be used merely to engineer a pattern.
+Rawls more adequately explains why the background structure and social origins are objects of
+justice.
+
+### Rawls versus Sen
+
+Rawls asks what fair principles should govern the basic structure. Sen asks how actual alternatives
+compare and whether persons possess substantive freedom. A strong answer treats them as partially
+complementary: institutions provide durable rights; capability and realised-justice analysis tests
+their human effects.
+
+### Mill versus Marx
+
+| Question | Mill | Marx |
+|---|---|---|
+| main wrong | inherited legal/social subordination | class exploitation under formal equality |
+| equality | civic status, women’s equality, individuality | need-sensitive transformation beyond bourgeois right |
+| market order | reformable with liberty | structurally shaped by ownership |
+| best retained insight | equality must preserve plural self-development | equal form can conceal material domination |
+
+### Why liberty and equality are inadequate without justice
+
+✅ Liberty alone is under-specified: which liberty, for whom, against which power and with what
+effect on others?
+
+✅ Equality alone is under-specified: status, rights, opportunity, resources, capability or
+outcome?
+
+✅ Justice supplies competing criteria—fairness, need, entitlement, capability, desert,
+rectification—and demands public reasons for selecting among them.
+
+**Strong objection:** Calling justice the coordinating ideal merely relocates disagreement because
+theories of justice conflict.
+
+**Reply:** ⚠️ Correct. Justice does not mechanically solve conflict; it makes the conflict
+arguable by requiring explicit principles, procedures and burdens of justification.
+
+**Residual:** No neutral algorithm chooses once and for all between Rawls, Nozick, Sen, Aristotle
+and other standards.
+
+### Plato–Rawls continuity revisited
+
+✅ Both make justice architectonic for an ordered society. ⚠️ Rawls does not continue Plato’s
+functional hierarchy, censorship or conception of persons. He reopens the problem through free
+and equal representation and a publicly ordered set of principles.
+
+### The 2024 critical evaluation
+
+**Liberty—strength:** protects agency, dissent and individuality.
+**Liberty—objection:** non-interference can coexist with deprivation and domination.
+**Equality—strength:** rejects arbitrary rank and supports fair opportunity.
+**Equality—objection:** flat levelling can suppress choice and relevant difference.
+**Reconciliation:** equal basic liberty, fair opportunity and a justified distributive criterion,
+with republican vigilance against domination.
+
+### UPSC application
+
+- Comparison requires common axes, not two mini-biographies.
+- “Without justice” requires showing why the first two ideals are indeterminate.
+- “Critically evaluate” requires a real surviving objection.
+- “How far” ends in a degree judgement with conditions.
+
+### Revision notes
+
+1. Berlin constrains coercive perfectionism.
+2. Green addresses effective agency.
+3. Rawls regulates background institutions.
+4. Nozick protects historical entitlement and side-constraints.
+5. Sen tests actual capabilities and remediable injustice.
+6. Mill protects equality with individuality.
+7. Marx exposes material power beneath formal equality.
+8. Justice coordinates by criteria and reasons, not compromise alone.
+9. Competing justice theories keep adjudication open.
+10. Plato and Rawls share an architectonic problem, not a common solution.
+
+### Retrieval and application drill
+
+1. Give a three-axis Berlin–Green comparison.
+2. State one concession Rawls should make to Nozick and one Nozick should make to Rawls.
+3. Why is “justice balances liberty and equality” too vague?
+
+### Local practice — questions
+
+**MCQ 21.** Why are equality and liberty normatively incomplete without justice?
+
+A. Each remains indeterminate about its relevant scope and metric, while justice requires reasons for ordering claims.
+B. Justice always mandates equal outcomes.
+C. Liberty and equality have no independent value.
+D. Justice eliminates all reasonable disagreement.
+
+**MCQ 22.** Which statement best captures Rawls’s continuity with Plato?
+
+A. Both derive justice through a veil of ignorance.
+B. Both treat justice as organising a well-ordered whole, while Rawls replaces fixed function with principles for free and equal citizens.
+C. Both reject equal basic liberties.
+D. Rawls simply modernises Plato’s class structure.
+
+### Local practice — answers and option-wise explanations
+
+**MCQ 21**
+
+**Correct answer: A**
+
+- **A — Correct:** justice turns vague ideals into contestable standards and priorities.
+- **B — Incorrect:** Nozickian and Rawlsian justice both reject that universal formula.
+- **C — Incorrect:** the argument calls them indispensable but incomplete.
+- **D — Incorrect:** justice frames disagreement rather than abolishing it.
+
+**MCQ 22**
+
+**Correct answer: B**
+
+- **A — Incorrect:** only Rawls uses the device.
+- **B — Correct:** it states the broad continuity and decisive discontinuity.
+- **C — Incorrect:** Rawls gives basic liberties lexical priority.
+- **D — Incorrect:** Rawls’s persons, method and principles reject fixed Platonic hierarchy.
+
+---
+
+## Lesson 12 — Directive-sensitive answer construction
+
+**Progress:** 12/12 · **Stage:** Core synthesis · **Demand anchors:** all S01 demands
+
+### Visual: the six-move answer engine
+
+```text
+1. DECODE DIRECTIVE
+          |
+2. DEFINE OPERATIVE TERM / CRITERION
+          |
+3. RECONSTRUCT ARGUMENT
+          |
+4. ADD DISTINCTION + EXAMPLE WITH LIMIT
+          |
+5. STRONGEST OBJECTION -> BEST REPLY -> RESIDUAL
+          |
+6. GRADED VERDICT IN THE STEM'S LANGUAGE
 ```
 
-### Panel — PANEL 9/10: Rawls Nozick Sen and Ambedkar
+*An answer earns depth by reasoning through the demand, not by displaying an inventory of names.*
 
-```ascii-master
-RAWLS -> original position plus veil of ignorance models fair choice
-first principle -> equal basic liberties with lexical priority
-second principle -> fair equality of opportunity plus the difference principle
-NOZICK -> justice depends on acquisition, transfer and rectification, not a pattern
-minimal state protects entitlement but may preserve unequal starting structures
-SEN -> compare remediable injustice through capability and public reasoning
-institutional justice (nīti) differs from realised justice (nyāya) in actual lives
-AMBEDKAR -> political democracy fails without social equality and fraternity
-comparison -> fairness, entitlement, capability and anti-caste dignity order differently
+### Plain-language entry
+
+Knowing a doctrine and answering a question are different skills. The examiner’s directive tells
+you whether to reconstruct, compare, criticise or judge degree. The same Rawls material must be
+organised differently for “Explain,” “Critically evaluate” and “Why is the order necessary?”
+
+### Directive decoder
+
+| Directive | What the examiner is testing | Mandatory ending |
+|---|---|---|
+| **Explain** | internal logic and connection of premises | clear account of why the conclusion follows |
+| **Discuss** | exposition plus a genuine tension | balanced but committed judgement |
+| **Critically discuss/evaluate** | doctrine under its strongest objection | reply, residual and graded verdict |
+| **How far** | degree and conditions | explicit scope where claim holds/fails |
+| **Compare/distinguish** | fixed common axes | adjudication, not parallel summaries |
+| **Improvement upon** | a named criterion of improvement | criterion-relative conclusion |
+
+### 10-mark architecture
+
+1. Define the exact doctrine in two sentences.
+2. Give the argument in three or four steps.
+3. Add one distinction or example with its limit.
+4. State one objection and a one-sentence judgement.
+
+**Do not:** spend half the answer on biography or two unrelated critics.
+
+### 15-mark architecture
+
+1. Frame the axis of dispute.
+2. Present the first position at full strength.
+3. Present the rival on the same axis.
+4. Work one objection–reply chain.
+5. Use one bounded illustration if relevant.
+6. Give a conditional verdict.
+
+### 20-mark architecture
+
+1. Provisional thesis.
+2. Concept map or comparison criteria.
+3. Strongest case for the proposition.
+4. Strongest rival.
+5. Two objection–reply–residual chains.
+6. Comparative adjudication.
+7. One constitutional/statutory illustration with caveat where useful.
+8. Graded conclusion conceding value to the losing side.
+
+### Evidence deployment rule
+
+```text
+CLAIM
+  -> named thinker/doctrine
+  -> analysis of why it supports the claim
+  -> qualification or limit
 ```
 
-### Panel — PANEL 10/10: Integrated verdict PYQ traps and answer spine
+Merely mentioning Rawls, Ambedkar or an Article is not evidence. The named anchor must perform an
+argumentative function.
 
-```ascii-master
-DEFINE -> state the strongest sense of the ideal named in the question
-DISTINGUISH -> status, opportunity, outcome; interference, mastery, domination
-ARGUE -> use one named thinker and explain the mechanism, not a decorative quotation
-COUNTER -> present the strongest objection or rival ordering principle
-INDIA -> use caste, gender, reservation or digital power only when concept-led
-PYQ anchors -> Mill, Rousseau, Marx, Berlin, Plato, Rawls, Nozick and Sen
-close-option trap -> liberty is not licence; equality is not sameness; justice is not law
-10 marks -> definition, distinction, thinker, objection, verdict
-15 or 20 marks -> compare positions, add Indian application and qualify the synthesis
-END -> justice orders liberty and equality without replacing either ideal
+### UPSC application
+
+- Use the stem’s verb to choose the answer architecture.
+- Make every named thinker perform a specific argumentative role.
+- Keep one example proportionate to the marks and state its limit.
+- Reserve the final two sentences for the degree, condition or residual problem demanded.
+
+### Common failure clinic
+
+| Failure | Repair |
+|---|---|
+| equality = sameness | state domain and metric |
+| Berlin = negative liberty only | explain both concepts and his warning |
+| Green = Berlin’s positive pole without remainder | distinguish conceptual family from ethical self-realisation |
+| Rawls = difference principle | state liberties, opportunity and serial order |
+| Nozick = defence of status quo | include acquisition and rectification |
+| Sen = welfare economics | use realised justice, comparison, capability and public reason |
+| Plato = class allocation only | include soul–city harmony |
+| justice = law | distinguish validity, procedure and substance |
+| illustration = proof | add the bounded-use caveat |
+
+### Model judgement formulas
+
+- **How far:** “The claim holds at the level of ___, but fails where ___; its validity is therefore
+  conditional rather than complete.”
+- **Improvement:** “Judged by ___, A improves B; judged by ___, B retains an advantage.”
+- **Critical:** “The objection defeats the doctrine’s unrestricted form, while a constrained form
+  survives under ___.”
+- **Triad:** “Liberty and equality remain indispensable, but justice supplies the contested
+  criteria by which their scope and priority become publicly arguable.”
+
+### Core completion checklist
+
+You are Core-ready only if you can:
+
+- distinguish all equality domains, opportunity/outcome and equity;
+- state Rousseau, Mill and Marx without conflation;
+- distinguish Berlin, Green and republican non-domination;
+- evaluate liberty/equality under democracy and technology;
+- separate formal, procedural and substantive justice;
+- distinguish Plato and Aristotle;
+- state Rawls’s order, reasons and favourable-conditions qualification;
+- state Nozick’s acquisition, transfer and rectification;
+- compare Rawls and Sen through an explicit criterion;
+- explain why justice coordinates but does not automatically reconcile the triad.
+
+### Revision notes
+
+1. Directive fidelity controls structure.
+2. Define before evaluating.
+3. Reconstruct premises rather than list adjectives.
+4. Use common axes in comparisons.
+5. Give examples with limits.
+6. State the best objection, not a weak target.
+7. Replies should leave a residual where appropriate.
+8. Constitutional and statutory examples illustrate rather than prove.
+9. Ten markers reward economy; twenty markers reward structured adjudication.
+10. Conclusions must answer the directive, not repeat the introduction.
+
+### Retrieval and application drill
+
+1. Convert “Discuss critically Nozick” into a six-move plan.
+2. What must precede an “improvement upon” comparison?
+3. Write a two-sentence conditional verdict on technological liberty.
+
+### Local practice — questions
+
+**MCQ 23.** What is the first requirement in answering whether Sen improves on Rawls?
+
+A. List every book written by both thinkers.
+B. Assert that capability is superior.
+C. Name the criterion of improvement before comparing the theories.
+D. Replace Rawls with Ambedkar.
+
+**MCQ 24.** Which conclusion best fits a “how far” directive?
+
+A. “Both sides have advantages and disadvantages.”
+B. “The issue is very complex.”
+C. “Therefore the thinker is important.”
+D. “The claim holds under specified conditions but fails beyond them, so its validity is limited in degree.”
+
+### Local practice — answers and option-wise explanations
+
+**MCQ 23**
+
+**Correct answer: C**
+
+- **A — Incorrect:** biography displaces philosophical comparison.
+- **B — Incorrect:** assertion without a standard begs the question.
+- **C — Correct:** “improvement” has meaning only relative to a stated evaluative test.
+- **D — Incorrect:** it avoids rather than answers the comparison.
+
+**MCQ 24**
+
+**Correct answer: D**
+
+- **A — Incorrect:** it balances without adjudicating degree.
+- **B — Incorrect:** complexity is not a verdict.
+- **C — Incorrect:** importance does not answer extent.
+- **D — Correct:** conditions and limits satisfy the directive.
+
+## Must-Needed/Core completion checkpoint
+
+Every demand S01-01–S01-77 has now been taught in the lesson sequence. The next Core block solves
+all sixteen primary-owned PYQs. Optional Advanced and Bounded Expert material must not be used to
+repair a missing definition, doctrine or answer route.
+
+# CORE SOLVED PYQ WORKSHOP — ALL 16 OWNED QUESTIONS
+
+> Each item preserves the verified wording, decodes the directive, gives an executable answer
+> spine and supplies a complete model answer. These solutions belong to Core.
+
+## PYQ 1 — 2018 Q2(a), 20 marks
+
+**PYQ text (verified):** How far can liberty and equality be considered as distinctive features
+of democracy ? Discuss.
+
+**Demand:** “How far” requires a degree judgement. Explain why both ideals are constitutive
+democratic aspirations, then show why neither is exclusive to, sufficient for, or automatically
+realised by democracy.
+
+**Answer spine:** definitions → joint democratic role → three limits → Ambedkar/social-standing
+test → qualified verdict.
+
+### Model answer
+
+Liberty and equality are distinctive of democracy chiefly as **joint normative commitments**.
+Political equality treats citizens as members of equal standing through franchise, eligibility
+for office and a right to participate in public justification. Political liberty—speech,
+association, conscience and opposition—allows those citizens to criticise rulers and revise
+collective decisions. Equality without dissent reduces citizens to equally counted subjects;
+liberty possessed unequally can produce oligarchy rather than self-government.
+
+Their distinctiveness is nevertheless qualified. First, selective private or economic liberties
+may exist under non-democratic regimes. Second, universal voting can coexist with wealth-driven
+influence, caste exclusion or inaccessible public forums. Third, elections, liberty and formal
+equality do not alone guarantee accountability, minority protection or effective contestation.
+Republican non-domination sharpens the point: citizens are not free merely because rulers happen
+not to interfere; power must be public and contestable. Ambedkar’s idea of social democracy adds
+that one person–one vote remains fragile where inherited hierarchy denies equal status and
+fraternity.
+
+An objection says democracy is only a procedure for selecting rulers, making liberty and equality
+external liberal additions. That thin definition identifies a mechanism but cannot justify why
+all citizens should count or freely oppose government. Thus the ideals are distinctive in the
+substantive justification of democracy, not exclusive properties or empirical guarantees of
+every democratic system.
+
+## PYQ 2 — 2019 Q1(a), 10 marks
+
+**PYQ text (verified):** How far do you think John Rawls is continuing with Plato's concept of
+justice?
+
+**Demand:** Compare on a fixed axis and state the extent of continuity.
+
+**Answer spine:** architectonic continuity → Plato’s function → Rawls’s fair cooperation → decisive
+breaks → degree verdict.
+
+### Model answer
+
+Rawls continues Plato only at a high level: both treat justice as the organising virtue of a
+well-ordered society. Plato locates justice in harmony. Reason, spirit and appetite perform their
+proper functions in the soul; rulers, auxiliaries and producers do the same in the city. Justice
+is “each doing its own” without usurpation.
+
+Rawls likewise makes justice primary for society’s basic structure, but he transforms the problem.
+Principles are selected by representatives of free and equal persons behind a veil of ignorance.
+The outcome is equal basic liberties, fair equality of opportunity and inequalities justified to
+the least advantaged. Plato begins from differentiated function and rational hierarchy; Rawls
+begins from equal citizenship and fair agreement.
+
+The continuity therefore lies in justice’s architectonic role and concern for stable social
+order. It does not extend to method, moral personhood or institutional principle. Rawls reopens a
+Platonic question but gives an anti-hierarchical, contractarian answer.
+
+## PYQ 3 — 2019 Q4(b), 15 marks
+
+**PYQ text (verified):** Does liberty put limitations to equality? Discuss.
+
+**Demand:** Define both variables and distinguish basic liberty from unrestricted property or
+contract options.
+
+**Answer spine:** case for limitation → equality as a condition of liberty → Rawls/Nozick contrast
+→ non-domination → conditional verdict.
+
+### Model answer
+
+Liberty can limit equality, but only after specifying which liberty and which equality. A strong
+liberty of property, contract and association can resist redistributive equalisation. Nozick
+argues that if holdings arise through just acquisition and transfer, maintaining a distributive
+pattern requires repeated interference with choice. Equal outcome imposed coercively may also
+suppress individuality and legitimate difference.
+
+Yet unrestricted private liberty can itself destroy equal freedom. Accumulated property and
+bargaining power may place others in dependency. Formal freedom of contract is thin where severe
+deprivation makes refusal impossible. Republican non-domination shows that a dependent person can
+remain unfree even without actual interference. Some equalising background rules therefore secure,
+rather than reduce, liberty as status.
+
+Rawls offers a principled reconciliation. Equal basic liberties have priority and cannot be
+traded for economic gain under favourable conditions. Fair equality of opportunity then precedes
+the difference principle. Equality is constrained from levelling basic liberty, while liberty is
+constrained from legitimising inherited closure.
+
+The objection is that redistribution still uses coercion. The reply is that property itself
+depends on coercively maintained rules; justice must compare rule systems, not regulated society
+with a rule-free baseline. Liberty limits mechanical equality, but fair background equality limits
+dominating liberty. The relationship is conditional, not a simple trade-off.
+
+## PYQ 4 — 2020 Q1(a), 10 marks
+
+**PYQ text (verified):** Is the concept of liberty realizable in the modern technological
+society? Explain.
+
+**Demand:** Give a mechanism-based possibility judgement, not a general essay on technology.
+
+**Answer spine:** gains → three threats → three liberty lenses → safeguards → qualified answer.
+
+### Model answer
+
+Liberty is realisable in technological society, but it is neither automatic nor exhausted by
+formal choice. Digital communication can enlarge expression, association, information and access
+to services. The same infrastructure can enable surveillance, profiling, opaque automated
+decisions and exclusion of persons lacking access or literacy.
+
+Negative liberty detects direct legal or technical obstruction. Green’s positive freedom asks
+whether persons possess the knowledge and capability needed to use an option. Republican
+non-domination detects unaccountable control by a platform, employer or state even where no
+particular command is issued. Thus convenient use of technology does not prove autonomy, while
+technical coordination does not prove unfreedom.
+
+Liberty requires privacy safeguards, accessible digital literacy, transparent reasons,
+appealable automated decisions and limits on arbitrary public and private power. These measures
+may restrict some actors’ options while securing equal freedom for users. Therefore technological
+society changes the forms of power but does not make liberty impossible; liberty remains possible
+where technological infrastructures are public, contestable and capability-enhancing.
+
+## PYQ 5 — 2021 Q1(a), 10 marks
+
+**PYQ text (verified):** Discuss critically the distributive theory of justice as propounded by
+R. Nozick.
+
+**Demand:** State the entitlement theory accurately and criticise its weakest links.
+
+**Answer spine:** historical theory → three principles → Wilt Chamberlain → objections → retained
+insight.
+
+### Model answer
+
+Nozick rejects patterned distributive justice in favour of a historical entitlement theory. A
+holding is just when it results from legitimate acquisition, voluntary transfer and rectification
+of earlier injustice. The Wilt Chamberlain example argues that even a distribution initially
+accepted as equal will be altered by voluntary payments; restoring the pattern requires recurring
+interference. Strong self-ownership therefore supports side-constraints and a minimal
+rights-protecting state.
+
+The theory’s force lies in treating persons as agents rather than resources for an imposed
+pattern. Its criticism is strongest, however, at the points it least specifies. Acquisition of
+unowned resources can exclude others; formally voluntary transfers may occur under necessity and
+unequal bargaining; and actual holdings commonly reflect historical wrong. Nozick includes
+rectification, so he cannot simply defend the status quo, but offers no determinate method for
+large-scale, intergenerational correction.
+
+Thus Nozick provides an indispensable warning against distributive engineering that ignores
+rights. Yet entitlement cannot validate current inequality until acquisition, voluntariness and
+rectification are convincingly established.
+
+## PYQ 6 — 2021 Q1(b), 10 marks
+
+**PYQ text (verified):** How does Rousseau distinguish between natural and artificial inequality
+? Explain.
+
+**Demand:** Explain the distinction and the mechanism converting difference into domination.
+
+**Answer spine:** definitions → property/comparison/convention → example → objection/reply.
+
+### Model answer
+
+Rousseau distinguishes **natural or physical inequality** from **moral or political inequality**,
+often called artificial inequality. Natural inequality consists in differences such as age,
+health, strength and similar capacities. Artificial inequality depends on convention and includes
+wealth, honour, command and socially sanctioned dependence.
+
+The distinction is not a denial of natural difference. Rousseau’s argument is that physical
+difference does not by itself create a right to rule. With property, social comparison and
+institutional recognition, difference is magnified into durable rank. One person’s greater
+strength is natural; hereditary authority or another’s dependence on accumulated property is
+politically created.
+
+The state-of-nature narrative is criticised as speculative and as drawing too sharp a boundary
+between nature and society. Its diagnostic value nevertheless survives: oppressive hierarchy
+requires conventions that convert facts into status and power. Rousseau therefore shifts scrutiny
+from unequal persons to the institutions that authorise inequality.
+
+## PYQ 7 — 2021 Q2(a), 20 marks
+
+**PYQ text (verified):** Discuss whether Amartya Sen's idea of justice is an improvement upon
+Rawl's theory of justice.
+
+**Demand:** Define “improvement” through explicit criteria; compare without treating Sen as a
+total replacement.
+
+**Answer spine:** Rawls → Sen’s three shifts → criteria table in prose → objections both ways →
+criterion-relative verdict.
+
+### Model answer
+
+Whether Sen improves Rawls depends on the criterion of improvement. Rawls constructs justice as
+fairness for society’s basic structure. Free and equal representatives in an original position
+choose equal basic liberties, fair equality of opportunity and the difference principle. The
+scheme gives rights a public order and protects the least advantaged against aggregate
+maximisation.
+
+Sen changes three emphases. First, he contrasts institutional correctness (nīti) with realised
+justice (nyāya): correct rules may coexist with severe actual injustice. Second, he prefers
+comparative judgement and removal of manifest remediable wrong to identifying one perfectly just
+order. Third, capability replaces exclusive reliance on primary goods because persons convert
+resources differently through health, disability, social norms and other conditions. Public
+reasoning supplies open scrutiny.
+
+By sensitivity to diversity, actual lives and immediately available comparisons, Sen improves
+Rawls. Equal primary goods can yield unequal substantive freedom, and agreement on a complete
+ideal is unnecessary before condemning famine or exclusion. Yet Sen’s openness creates
+measurement and priority problems. Partial rankings may not choose between rival reforms. Rawls
+also retains a decisive institutional advantage: ordered basic liberties and fair opportunity
+cannot be replaced by outcome comparison alone.
+
+A Rawlsian reply says institutions are the stable background that capabilities presuppose. Sen’s
+counter is that institutional justice must be evaluated through what people can actually do. The
+best conclusion is complementary but asymmetric: Sen improves Rawls as an informational and
+comparative theory of realised freedom; Rawls remains stronger as a determinate account of the
+basic structure and priority of rights.
+
+## PYQ 8 — 2022 Q1(d), 10 marks
+
+**PYQ text (verified):** "Complete liberty may lead to inequality while order and restrictions
+imply a necessary loss of freedom." Critically discuss.
+
+**Demand:** Test both halves independently and challenge “necessary.”
+
+**Answer spine:** accept first half conditionally → distinguish option/status → non-domination →
+warning about oppressive order → verdict.
+
+### Model answer
+
+The first claim is plausible where “complete liberty” means unregulated property, contract or
+bargaining power. The strong can accumulate control and place others in dependence, converting
+their own options into inequality and reduced freedom for the weak.
+
+The second claim is too strong. Order and restriction reduce some available actions, but need not
+produce a net loss of liberty as secure status. A prohibition on threat removes an aggressor’s
+option while enlarging the target’s protected sphere. Republican theory adds that contestable,
+non-arbitrary law can constitute freedom by removing private domination. Green similarly shows
+that education or protective institutions can increase the effective power to choose.
+
+However, “order” can also cloak surveillance, paternalism or majority control. Restriction is
+freedom-enhancing only when proportionate, publicly justified, equally applicable and open to
+review. Thus unbounded liberty can generate inequality, but restrictions do not **necessarily**
+reduce freedom; the answer depends on whose freedom, which option and whether the rule restrains
+or creates domination.
+
+## PYQ 9 — 2022 Q2(c), 15 marks
+
+**PYQ text (verified):** Explain the difference between the notion of equity and equality with
+reference to Marxian philosophy.
+
+**Demand:** Distinguish common measure from need-sensitive shares while retaining Marx’s stage and
+production context.
+
+**Answer spine:** formal equality → hidden class relation → equal right as unequal effect → equity
+and need → objection/reply.
+
+### Model answer
+
+In the Marxian context, **equality** can describe a common legal or distributive measure, whereas
+**equity** responds to differences in need and actual condition. Capitalism presents worker and
+owner as equal legal persons entering free exchange. This formal equality conceals unequal
+ownership of productive conditions and the exploitation embodied in the wage relation.
+
+Marx’s deeper criticism is that even a post-capitalist equal right measured by labour can remain a
+“right of inequality.” Persons differ in capacity, dependants and need; applying one measure to
+all produces unequal human effects. Equity therefore points toward differentiated shares rather
+than mechanical sameness, expressed in the higher-phase formula “from each according to his
+ability, to each according to his need.”
+
+This formula must not be treated as a proposal for adjusting wages inside unchanged capitalism.
+It presupposes transformed production, cooperation and scarcity conditions. The incentive
+objection says need is vague and contribution will collapse. Marx’s stage reply is that
+contribution-based limits persist before the higher phase; the full need principle belongs to a
+different social condition.
+
+Marxian equity thus exposes how equal form can preserve material inequality. Its strength is
+sensitivity to need and class power; its weakness is the under-specified institutional route to
+the higher phase.
+
+## PYQ 10 — 2023 Q1(a), 10 marks
+
+**PYQ text (verified):** What is meant by justice as fairness? Explain Rawls' theory of justice.
+
+**Demand:** Explain the fair choice device and complete ordered principles within short-answer
+economy.
+
+**Answer spine:** meaning → original position → two principles in order → difference principle →
+one qualification.
+
+### Model answer
+
+Justice as fairness means that principles for society’s basic structure are fair when chosen from
+a fair representative situation. Rawls imagines free and equal representatives in an original
+position behind a veil of ignorance. They do not know their class, religion, talents, sex or
+conception of the good, and therefore cannot design principles for private advantage.
+
+They select two principles in lexical order. First, each person has an equal claim to a fully
+adequate scheme of basic liberties compatible with the same scheme for all. Second, social and
+economic inequalities must satisfy fair equality of opportunity and benefit the least advantaged.
+Within the second principle, opportunity precedes the difference principle.
+
+The theory is egalitarian without demanding identical outcomes: inequality is permitted only
+under a justificatory burden. Its abstraction is criticised for neglecting history and social
+identity, but Rawls replies that the veil is a device for filtering morally arbitrary bargaining
+power. Justice as fairness therefore combines liberty priority, fair access and controlled
+inequality.
+
+## PYQ 11 — 2024 Q1(a), 10 marks
+
+**PYQ text (verified):** Briefly discuss Plato's concept of justice.
+
+**Demand:** Briefly include the soul, city, argument and hierarchy qualification.
+
+**Answer spine:** definition → tripartite soul → three classes → objection → limited defence.
+
+### Model answer
+
+For Plato, justice is harmony produced when each part performs its proper function and does not
+usurp another’s work. In the soul, reason should govern, spirit should support reason, and appetite
+should accept rational order. A just person is therefore internally integrated rather than ruled
+by conflicting desire.
+
+The city mirrors the soul. Philosophic rulers deliberate, auxiliaries defend, and producers meet
+material needs. Justice is not equal distribution among the classes but right functional order.
+Its appeal lies in linking political justice to character, competence and coordination rather
+than reducing it to external obedience.
+
+The principal objection is that fixed functions subordinate individuality and can legitimise a
+rigid hierarchy. A limited defence says Plato targets rule by appetite and arbitrary usurpation,
+not inherited privilege as such. Even so, his model lacks modern equal citizenship and individual
+rights. Its enduring contribution is the architectonic idea of justice as harmony; its
+institutional form remains illiberal.
+
+## PYQ 12 — 2024 Q2(b), 15 marks
+
+**PYQ text (verified):** Critically evaluate the concepts of liberty and equality as political
+ideals.
+
+**Demand:** Give both ideals their strongest formulation, each one’s strongest criticism and a
+principled reconciliation.
+
+**Answer spine:** define → liberty gain/risk → equality gain/risk → intersection → justice-based
+verdict.
+
+### Model answer
+
+Liberty protects a sphere of thought and action and, in richer accounts, the capacity for
+self-direction. Its negative form guards against coercion; Mill’s harm principle places the burden
+of proof on restrictions. Its positive form, developed by Green, asks whether persons possess the
+education and conditions needed for meaningful agency.
+
+Liberty’s weakness appears when non-interference coexists with poverty, manipulation or
+dependence. Conversely, positive freedom can become paternalism when rulers impose a “true” self,
+as Berlin warns. Republican non-domination improves the analysis by treating unchecked standing
+power as unfreedom even before interference occurs.
+
+Equality begins from equal moral worth and opposes inherited legal, political and social rank. It
+supports equal citizenship and fair opportunity. Yet equality becomes oppressive when confused
+with identical outcome, when relevant differences are ignored, or when levelling destroys basic
+choice and plural life plans.
+
+The two ideals conflict where unregulated property creates inequality or coercive levelling
+curtails association. They complement one another at the level of equal basic liberties and fair
+opportunity. Rawls’s serial principles express this intersection: liberty has priority, while
+opportunity and benefit to the least advantaged constrain social inequality.
+
+Neither ideal should be absolutised. A defensible polity protects equal basic liberty, supplies
+non-paternal enabling conditions and restrains domination through public, contestable rules.
+
+## PYQ 13 — 2025 Q1(e), 10 marks
+
+**PYQ text (verified):** Discuss the salient features of equality according to J.S. Mill.
+
+**Demand:** State Mill’s equality features rather than answering a generic liberty question.
+
+**Answer spine:** equal consideration → legal/civic status → women → individuality → economic
+qualification → criticism.
+
+### Model answer
+
+Mill’s equality is liberal and anti-hierarchical rather than a doctrine of identical outcome.
+First, each person’s good receives equal weight in moral calculation; inherited station does not
+reduce moral standing. Second, legal and civic privilege attached to birth is indefensible.
+
+Third, *The Subjection of Women* extends equality into family and gender relations. Mill argues
+that women’s alleged “nature” cannot be known from conduct produced under social subordination;
+exclusion both wrongs women and wastes human capacities. Fourth, equality remains compatible with
+individuality, experiments in living and diverse achievement. Fifth, Mill criticises
+custom-made hierarchy and is open to reform of property and labour arrangements, though he does
+not endorse coercive uniformity.
+
+The objection is that this focus on status and individual development does not adequately explain
+structural class power. That limitation is real. Still, Mill’s distinctive achievement is to
+combine equal civic and gender standing with strong protection of plural self-development.
+
+## PYQ 14 — 2025 Q4(a), 20 marks
+
+**PYQ text (verified):** How are both equality and liberty inadequate as social and political
+ideals without justice? Discuss.
+
+**Demand:** Show **why** both ideals are individually indeterminate and what justice contributes,
+without treating justice as an uncontested compromise.
+
+**Answer spine:** liberty’s incompleteness → equality’s incompleteness → rival justice criteria →
+applications → objection that justice is plural → qualified conclusion.
+
+### Model answer
+
+Equality and liberty are indispensable political ideals, but neither tells us enough to order
+social cooperation. Liberty is under-specified until we ask whose freedom, to perform which act,
+against what form of power and at whose cost. Unrestricted contract or property liberty may
+increase the options of the strong while placing others in dependence. Positive liberty repairs
+formal incapacity but can become paternalistic if the state defines a person’s “real” good.
+
+Equality is equally incomplete. Equal moral worth does not determine whether law, vote,
+opportunity, income, resources, welfare or capability should be equalised. Identical treatment may
+ignore disability or inherited disadvantage; outcome equalisation may suppress responsibility,
+merit and plural choice.
+
+Justice supplies the missing justificatory criteria. Aristotle asks which relevant criterion
+governs a good: need, merit, desert or correction. Rawls protects equal basic liberties, then fair
+opportunity, and allows inequality only when it benefits the least advantaged. Nozick makes
+historical entitlement and rectification central. Sen tests institutions by capabilities and
+realised justice. These theories disagree, but each converts vague aspiration into reasoned
+standards, procedures and burdens of proof.
+
+For example, a compensatory measure may treat persons differently yet serve equality by correcting
+transmitted disadvantage; it remains just only if targeted, reviewable and rights-bound. A law may
+restrict threat or arbitrary dismissal yet increase liberty as non-domination.
+
+The strongest objection is that “justice” merely relocates disagreement. This is correct if
+justice is used as a slogan. Its philosophical value is not a neutral algorithm but a requirement
+to specify the relevant liberty, equality, criterion, procedure and remedy. Thus equality fixes
+standing and liberty protects agency; justice makes their scope and priority publicly arguable.
+
+## PYQ 15 — 2026 Q1(a), 10 marks
+
+**PYQ text (verified):** Why does Rawls consider it necessary that the two principles of justice
+be applied in lexical order ? Explain.
+
+**Demand:** Explain necessity, including both priority rules and the favourable-conditions
+qualification.
+
+**Answer spine:** define serial order → anti-aggregation → original position → determinacy and
+self-respect → internal priority → caveat.
+
+### Model answer
+
+Lexical order means that Rawls’s first principle—equal basic liberties—must be satisfied before the
+second principle is applied; within the second principle, fair equality of opportunity precedes
+the difference principle. A later gain cannot compensate for an earlier deficiency.
+
+Rawls considers this order necessary, first, to block utilitarian aggregation: one person’s basic
+liberty cannot be sacrificed for greater total wealth. Second, parties behind the veil of
+ignorance secure liberties needed to form and revise any conception of the good rather than gamble
+on their future position. Third, serial priority gives a public and determinate rule instead of
+leaving trade-offs to variable intuition. Equal liberties also express civic self-respect, which
+additional income cannot replace.
+
+Fair opportunity must precede the difference principle because benefits to the least advantaged
+cannot justify inherited closure of offices. The priority of liberty is qualified by favourable
+conditions in which basic liberties can be effectively exercised. Thus lexical order protects
+equal citizenship, excludes compensation across principles and disciplines public justification.
+
+## PYQ 16 — 2026 Q3(c), 15 marks
+
+**PYQ text (verified):** Negative liberty seems to embody the idea of ultimate personal freedom,
+whereas positive liberty enables individuals to achieve their full potential. Discuss.
+
+**Demand:** Discuss the embedded contrast, Berlin’s warning, Green’s enabling reply and
+non-domination as a third diagnostic.
+
+**Answer spine:** negative strength/limit → positive strength/risk → Berlin/Green distinction →
+republican supplement → guarded synthesis.
+
+### Model answer
+
+Negative liberty protects an area in which a person is unobstructed by others. Its attraction is
+anti-paternal: speech, conscience and personal choice do not require official approval merely
+because authorities dislike them. Calling it “ultimate” personal freedom is nevertheless
+excessive. A person may face no current interference while lacking education, living under
+dependency or being invisibly manipulated.
+
+Positive liberty concerns self-direction and the power to develop one’s capacities. Green argues
+that ignorance, addiction and destitution can make formal options hollow; enabling education or
+health may therefore expand freedom. Yet Berlin warns that rulers can divide a “higher” rational
+self from the empirical person and coerce the latter for an alleged true freedom. Green’s ethical
+self-realisation should consequently not be equated with every use of Berlin’s positive pole.
+
+Republican non-domination provides a third test. A forbearant master does not interfere but retains
+arbitrary power; a contestable law may interfere while removing such domination. This shows why
+neither an event-count of interference nor an official programme of fulfilment is sufficient.
+
+The defensible synthesis protects a sphere of non-interference, creates non-paternal conditions of
+effective agency and subjects public and private power to contestation. Negative liberty guards
+plural choice; positive freedom enables its use; non-domination secures the standing in which both
+can operate.
+
+## PYQ workshop synthesis
+
+Across the sixteen questions, five recurrent examiner moves appear:
+
+1. **Specify the variable:** liberty, equality and justice each have rival meanings.
+2. **Answer the qualifier:** “how far,” “critically,” “why necessary” and “improvement” determine
+   the structure.
+3. **Preserve internal order:** Rawls’s opportunity precedes difference; Nozick includes
+   rectification; Sen does not abolish institutions.
+4. **Compare through one axis:** standing, interference, history, capability or realised outcome.
+5. **Conclude conditionally:** state what survives, under which constraints and at what cost.
+
+# CORE CUMULATIVE PRACTICE
+
+## Cumulative MCQs — questions
+
+**MCQ 25.** Which sequence best diagnoses an equality dispute?
+
+A. Identify domain → specify metric → test relevant difference → state the remedy’s limit.
+B. Assert sameness → cite a thinker → conclude.
+C. Begin with justice → ignore equality’s object.
+D. Count legal rights only.
+
+**MCQ 26.** Which pair is correctly matched?
+
+A. Rousseau—every inequality is physical.
+B. Mill—women’s subordination cannot establish women’s natural incapacity because subjection shaped the evidence.
+C. Marx—formal market equality eliminates class power.
+D. Dworkin—equality of welfare without responsibility.
+
+**MCQ 27.** Which statement about republican liberty is accurate?
+
+A. Every interference is domination.
+B. Non-domination means achievement of one rational life plan.
+C. Arbitrary standing power can make a person unfree even without a present act of interference.
+D. Contestability is irrelevant.
+
+**MCQ 28.** Which Rawlsian claim is incorrect?
+
+A. The original position is hypothetical.
+B. Basic liberties form a compatible scheme.
+C. Fair opportunity precedes the difference principle.
+D. The difference principle precedes equal basic liberties whenever total wealth rises.
+
+**MCQ 29.** Which criticism most directly targets Nozick’s easy use as a defence of present
+inequality?
+
+A. Current holdings cannot be justified without establishing acquisition, transfer and rectification.
+B. He supports patterned equality.
+C. He rejects voluntary transfer.
+D. He denies side-constraints.
+
+**MCQ 30.** Which claim best states Sen’s comparative method?
+
+A. No judgement is possible without a full ranking of perfect societies.
+B. Clear remediable injustice can be reduced through reasoned comparison without first specifying one perfectly just order.
+C. Institutional rules never matter.
+D. Capability is identical with income.
+
+**MCQ 31.** Which statement best relates Platonic and Rawlsian justice?
+
+A. Both begin from equal democratic citizenship.
+B. Both allocate resources through need.
+C. Both give justice an organising role, but Plato uses functional harmony while Rawls uses fair terms among free and equal persons.
+D. Rawls preserves Plato’s fixed civic classes.
+
+**MCQ 32.** Which conclusion most accurately integrates liberty, equality and justice?
+
+A. Equality should always override liberty.
+B. Liberty makes distributive criteria unnecessary.
+C. Justice is a neutral midpoint chosen without reasons.
+D. Justice requires public reasons for deciding which liberties, equalities, procedures and remedies are defensible.
+
+## Cumulative MCQs — answers and option-wise explanations
+
+**MCQ 25**
+
+**Correct answer: A**
+
+- **A — Correct:** it converts a slogan into an examinable analytic sequence.
+- **B — Incorrect:** sameness is only one and often the wrong metric.
+- **C — Incorrect:** justice cannot adjudicate an unnamed equality claim.
+- **D — Incorrect:** legal status is only one equality domain.
+
+**MCQ 26**
+
+**Correct answer: B**
+
+- **A — Incorrect:** Rousseau preserves natural differences.
+- **B — Correct:** the argument attacks inference from socially conditioned behaviour to nature.
+- **C — Incorrect:** formal equality can conceal class ownership.
+- **D — Incorrect:** Dworkin favours resources and responsibility-sensitive distinctions.
+
+**MCQ 27**
+
+**Correct answer: C**
+
+- **A — Incorrect:** non-arbitrary public law may interfere without dominating.
+- **B — Incorrect:** that would turn liberty into perfectionism.
+- **C — Correct:** standing power and dependence are the theory’s distinctive focus.
+- **D — Incorrect:** effective contestability helps distinguish arbitrary from controlled power.
+
+**MCQ 28**
+
+**Correct answer: D**
+
+- **A — Incorrect as a choice because it is true:** the original position is representational.
+- **B — Incorrect as a choice because it is true:** liberties must be mutually compatible.
+- **C — Incorrect as a choice because it is true:** the internal priority is essential.
+- **D — Correct:** Rawls blocks trade of basic liberty for economic aggregate.
+
+**MCQ 29**
+
+**Correct answer: A**
+
+- **A — Correct:** entitlement is historical and must pass all three tests.
+- **B — Incorrect:** Nozick opposes patterns.
+- **C — Incorrect:** voluntary transfer is central.
+- **D — Incorrect:** rights operate as side-constraints.
+
+**MCQ 30**
+
+**Correct answer: B**
+
+- **A — Incorrect:** this is the transcendental requirement Sen resists.
+- **B — Correct:** partial comparison can guide action against manifest injustice.
+- **C — Incorrect:** Sen rejects institutional sufficiency, not institutional importance.
+- **D — Incorrect:** conversion diversity separates capability from income.
+
+**MCQ 31**
+
+**Correct answer: C**
+
+- **A — Incorrect:** Plato does not begin from modern equal citizenship.
+- **B — Incorrect:** neither theory is captured by a universal need rule.
+- **C — Correct:** it identifies both continuity and break.
+- **D — Incorrect:** Rawls’s persons and principles reject fixed functions.
+
+**MCQ 32**
+
+**Correct answer: D**
+
+- **A — Incorrect:** basic liberties can have priority.
+- **B — Incorrect:** liberty claims themselves require a theory of just scope.
+- **C — Incorrect:** justice contains rival argued criteria.
+- **D — Correct:** coordination occurs through justification, not arithmetic compromise.
+
+## Rapid retrieval ladder
+
+Answer each without notes in no more than three sentences.
+
+1. What is equal moral worth?
+2. What distinguishes formal from fair opportunity?
+3. Why can equity implement equality?
+4. What is Rousseau’s mechanism of artificial inequality?
+5. State Mill’s equality doctrine without discussing harm.
+6. Why is Marxian equity not a wage-adjustment rule?
+7. What is Berlin’s warning about positive liberty?
+8. How does Green differ from Berlin?
+9. What does the “kind master” show?
+10. How can technology preserve options while reducing autonomy?
+11. Distinguish formal, procedural and substantive justice.
+12. Distinguish merit from desert.
+13. What does corrective justice fail to capture structurally?
+14. Why does utilitarian aggregation threaten persons?
+15. State Rawls’s order exactly.
+16. Give three reasons for lexical priority.
+17. What are Nozick’s three principles?
+18. State the strongest objection to acquisition and to transfer.
+19. Translate and distinguish institutional correctness (nīti) and realised justice (nyāya).
+20. State the criterion-relative verdict on Sen versus Rawls.
+21. Why does Ambedkar add fraternity?
+22. In what sense does Rawls continue Plato?
+23. Why are liberty and equality inadequate without justice?
+24. What does a “how far” conclusion have to do?
+
+## Application drills
+
+### Drill 1 — classify the equality claim
+
+For each case, identify the domain, metric and main objection:
+
+1. every citizen has one vote, but campaign wealth produces unequal access;
+2. a formally open examination requires resources available mainly to one class;
+3. identical assistance is given to persons with unequal disability-related costs;
+4. a community retains legal rights while suffering inherited stigma.
+
+**Model classification:**
+
+1. political equality; effective influence; wealth-distortion objection;
+2. opportunity; fair rather than formal access; background-condition objection;
+3. capability/equity; conversion factors; measurement objection;
+4. status equality; equal civic respect; law-alone objection.
+
+### Drill 2 — diagnose the liberty obstacle
+
+| Case | Primary diagnosis | Secondary test |
+|---|---|---|
+| direct censorship | negative interference | procedural justification |
+| no schooling despite formal job access | positive capability deficit | equality of opportunity |
+| unchecked employer power not presently used | domination | voluntariness |
+| official imposition of one “true” life | positive-liberty paternalism | Berlin’s pluralism |
+| opaque algorithmic denial with no appeal | informational/arbitrary power | contestability |
+
+### Drill 3 — choose the justice criterion
+
+1. one person–one vote → **equal civic share**;
+2. emergency treatment → **need**;
+3. selection of an air-traffic controller → **role-specific merit**;
+4. restitution after wrongful taking → **correction/compensation**;
+5. voluntary gift from a clean title → **entitlement/transfer**;
+6. fair access to a public office → **fair opportunity**.
+
+# ORIGINAL MAINS PRACTICE WITH MODEL ANSWERS
+
+## Original 10-marker
+
+**Question:** Explain why equal treatment and equitable treatment can diverge without becoming
+opposites. Answer in about 150 words.
+
+### Model answer
+
+Equal treatment applies one rule or share to persons regarded as relevantly alike. Equitable
+treatment asks whether a relevant difference—need, disability, inherited disadvantage or prior
+loss—requires a differentiated response. The two diverge when identical inputs produce unequal
+effective conditions.
+
+For example, equal resources may yield unequal mobility because persons convert goods differently.
+Sen’s capability approach therefore tests actual opportunity, not possession alone. Similarly,
+formal equality of opportunity opens an office to all, while fair opportunity asks whether social
+origins make preparation realistically accessible. Differential support can then realise, rather
+than suspend, the equality at stake.
+
+The danger is that every requested preference is labelled equity. A just distinction needs a
+publicly relevant basis, proportionate means, review and a stated terminus. Equality and equity
+are thus not opposites: equality identifies the status or metric to be secured; equity adjusts
+treatment where relevant difference would otherwise make that equality merely formal.
+
+## Original 15-marker
+
+**Question:** “A non-interfered-with citizen may still be unfree.” Discuss with reference to
+negative, positive and republican liberty. Answer in about 220 words.
+
+### Model answer
+
+Negative liberty measures freedom through absence of human obstruction. Its strength is protection
+against censorship and paternal coercion. Yet a person may encounter no present prohibition while
+lacking the capacity to use an option or living under another’s uncontrolled power.
+
+Green’s positive freedom addresses the first problem. Illiteracy, addiction or destitution can
+make formal choice hollow; education may enlarge agency. Berlin’s warning remains essential:
+officials may impose a supposed “higher self” and coerce citizens for their alleged fulfilment.
+Enabling provision is therefore freedom-enhancing only when it preserves plural life plans.
+
+Republican non-domination addresses the second problem. A dependent person under a forbearant
+master is not presently interfered with but must anticipate the master’s will. The unfreedom lies
+in arbitrary standing power. Conversely, contestable public law can interfere while reducing
+domination.
+
+The objection is that “capacity” and “arbitrariness” let the state redescribe control as freedom.
+The reply is institutional: protection of a non-interference sphere, public reasons, proportional
+means, review and effective contestability. Thus absence of interference is necessary but not
+always sufficient. Freedom also requires usable agency and a status secure against arbitrary
+power.
+
+## Original 20-marker
+
+**Question:** Compare Rawls, Nozick and Sen as rival answers to the question, “What makes a social
+distribution just?” Answer in about 300 words.
+
+### Model answer
+
+The three theories differ over the unit, history and informational basis of justice. Rawls asks
+which principles free and equal representatives would choose for society’s basic structure.
+Behind a veil of ignorance they select equal basic liberties, fair equality of opportunity and
+the difference principle. A distribution is just when embedded in fair institutions and when
+permitted inequality benefits the least advantaged. Rawls’s strength is ordered public rights; his
+pressure is abstraction from conversion diversity and history.
+
+Nozick rejects patterned evaluation. Justice is historical: holdings must arise through just
+acquisition and voluntary transfer, with rectification for injustice. The Wilt Chamberlain
+argument shows that free exchange disrupts patterns, while side-constraints protect persons from
+being used for collective goals. Its strength is agency and title; its weakness is that real
+acquisition, bargaining and rectification are deeply contested. It cannot validate current
+holdings by shape alone.
+
+Sen changes the informational focus from primary goods or title to actual capability and realised
+justice (nyāya). Correct institutions (nīti) can coexist with severe incapability. Comparative
+public reasoning can remove manifest injustice without first identifying a perfect order. Sen
+captures diversity and practical improvement, but open-ended capability rankings can be less
+institutionally determinate.
+
+Rawls therefore asks whether the basic structure is fair; Nozick whether each historical step is
+entitled; Sen whether people actually possess substantive freedom and whether alternatives reduce
+injustice. A defensible synthesis cannot simply combine all three. Rawls supplies equal civic
+status, Nozick supplies a rights-based warning about means, and Sen supplies the realised-freedom
+test. The final judgement depends on whether institutional fairness, historical title or actual
+capability is treated as primary.
+
+# CORE REMEDIATION
+
+## Misconception repair table
+
+| Misconception | Why it fails | Repair question |
+|---|---|---|
+| Equality means identical outcome | ignores domain, relevant difference and metric | equality of what, and for which good? |
+| Equity is an exception to equality | relevant differentiation may realise substantive equality | what disadvantage or need makes treatment relevant? |
+| Mill’s equality is just utilitarian arithmetic | omits civic status, women and individuality | which hierarchy does Mill attack? |
+| Marx wants equal wages for everyone | confuses higher-phase need with an unchanged wage relation | what stage and production structure are assumed? |
+| Berlin and Green say the same thing | conceptual positive liberty and ethical self-realisation overlap without identity | what danger does each thinker foreground? |
+| Every law reduces freedom | ignores non-domination and protected status | whose option is reduced, whose standing secured? |
+| Rawls is the difference principle | omits liberty and fair opportunity priorities | what comes first, and under what conditions? |
+| Nozick validates current inequality | ignores acquisition and rectification | is the title history clean? |
+| Sen replaces institutions with outcomes | confuses critique of sufficiency with rejection | how are actual lives related to rules? |
+| Plato and Rawls share one theory | turns broad architectonic continuity into identity | what changes in person, method and principle? |
+| Justice is simply law | valid rules can be illegitimate or substantively unjust | what moral standard tests legality? |
+| A constitutional Article proves social justice | legal status is evidence of form, not realised outcome | what implementation or philosophical argument is still needed? |
+
+## Remedial MCQs — questions
+
+**MCQ 33.** A learner writes, “Equal concern requires identical assistance.” What is the first
+repair?
+
+A. Equal concern may require differentiated assistance where relevant needs or conversion costs differ.
+B. Equal concern has no institutional implications.
+C. Identical assistance always produces equal capability.
+D. Need is never a justice criterion.
+
+**MCQ 34.** A learner says, “Mill defended equality by suppressing individuality.” Which correction
+is exact?
+
+A. Mill rejected women’s equality.
+B. Mill joined equal civic and gender status with protection of diverse experiments in living.
+C. Mill defended only economic equality.
+D. Mill treated custom as natural authority.
+
+**MCQ 35.** A learner equates Green’s positive freedom with Berlin’s warning about the “higher
+self.” What must be added?
+
+A. Green defends arbitrary coercion.
+B. Berlin denies every enabling condition.
+C. Green offers an enabling self-realisation theory, while Berlin maps a broader concept and warns about its political misuse.
+D. Both thinkers define freedom as non-domination.
+
+**MCQ 36.** A learner states, “Under Rawls, any increase for the least advantaged justifies unequal
+access to office.” Which correction is necessary?
+
+A. The difference principle comes first.
+B. Opportunity is merely formal.
+C. Offices may remain hereditary.
+D. Fair equality of opportunity precedes the difference principle, so benefit cannot excuse status closure.
+
+**MCQ 37.** A learner calls Nozick’s theory an end-state defence of unequal shares. What is the
+repair?
+
+A. It is a historical theory of acquisition, transfer and rectification, not a judgement by distributional shape.
+B. It requires equal outcomes.
+C. It ignores voluntary exchange.
+D. It denies property rights.
+
+**MCQ 38.** A learner writes, “Realised justice (nyāya) means that institutions do not matter.”
+What is the best response?
+
+A. Sen denies public reasoning.
+B. Sen denies that correct institutions are sufficient; he does not deny that they are important.
+C. Sen replaces capability with happiness.
+D. Sen requires a perfect-society blueprint.
+
+**MCQ 39.** A learner argues, “Plato and Rawls are continuous because both support equal basic
+liberties.” What is wrong?
+
+A. Neither discusses justice.
+B. Plato uses the veil of ignorance.
+C. The continuity is justice’s organising role; equal basic liberties belong to Rawls, not Plato.
+D. Rawls endorses fixed class function.
+
+**MCQ 40.** A learner cites Articles 14–16 as proof that Indian society has achieved equality.
+Which correction follows the evidence discipline?
+
+A. Constitutional text has no relevance.
+B. Philosophical argument should never use legal examples.
+C. Equality is only economic.
+D. The Articles illustrate legal commitments and enabling structures; they do not prove lived social equality.
+
+## Remedial MCQs — answers and option-wise explanations
+
+**MCQ 33**
+
+**Correct answer: A**
+
+- **A — Correct:** relevance and conversion differences can justify differentiated means.
+- **B — Incorrect:** equal concern guides legal and distributive institutions.
+- **C — Incorrect:** equal inputs can yield unequal capability.
+- **D — Incorrect:** need is a recognised criterion for appropriate goods.
+
+**MCQ 34**
+
+**Correct answer: B**
+
+- **A — Incorrect:** women’s equality is central to Mill.
+- **B — Correct:** his equality opposes status domination without demanding uniform lives.
+- **C — Incorrect:** civic, legal and gender dimensions are indispensable.
+- **D — Incorrect:** Mill attacks hierarchy sanctified by custom.
+
+**MCQ 35**
+
+**Correct answer: C**
+
+- **A — Incorrect:** the strongest Green reading is enabling, not arbitrary.
+- **B — Incorrect:** Berlin’s distinction does not make deprivation irrelevant.
+- **C — Correct:** it preserves conceptual relation without conflation.
+- **D — Incorrect:** non-domination is a republican third family.
+
+**MCQ 36**
+
+**Correct answer: D**
+
+- **A — Incorrect:** it reverses the internal serial order.
+- **B — Incorrect:** Rawls explicitly moves beyond formal opening.
+- **C — Incorrect:** inherited closure violates fair opportunity.
+- **D — Correct:** opportunity blocks using aggregate or least-advantaged gain to excuse office exclusion.
+
+**MCQ 37**
+
+**Correct answer: A**
+
+- **A — Correct:** process and history, including correction, control entitlement.
+- **B — Incorrect:** patterns are the target of criticism.
+- **C — Incorrect:** transfer is one of the three principles.
+- **D — Incorrect:** strong property claims follow from self-ownership.
+
+**MCQ 38**
+
+**Correct answer: B**
+
+- **A — Incorrect:** public reasoning is central.
+- **B — Correct:** realised-outcome scrutiny supplements and evaluates institutions.
+- **C — Incorrect:** capability is not utility.
+- **D — Incorrect:** Sen resists the transcendental prerequisite.
+
+**MCQ 39**
+
+**Correct answer: C**
+
+- **A — Incorrect:** both make justice central.
+- **B — Incorrect:** the veil is Rawlsian.
+- **C — Correct:** it identifies the broad continuity without importing modern rights into Plato.
+- **D — Incorrect:** Rawls rejects fixed civic hierarchy.
+
+**MCQ 40**
+
+**Correct answer: D**
+
+- **A — Incorrect:** constitutional provisions are useful bounded illustrations.
+- **B — Incorrect:** legal examples are legitimate when their role is stated accurately.
+- **C — Incorrect:** equality has legal, political, social and economic domains.
+- **D — Correct:** legal commitment and social realisation must not be conflated.
+
+# CORE MASTER MAPS
+
+## Master flow: from equal worth to justified institutions
+
+```text
+EQUAL MORAL WORTH
+      |
+      +--> legal equality
+      +--> political equality
+      +--> social/status equality
+      +--> economic/life-chance concern
+      |
+      v
+FORMAL OPPORTUNITY ----insufficient where background is unequal----+
+      |                                                           |
+      v                                                           v
+FAIR OPPORTUNITY                                           EQUITY / COMPENSATION
+      |                                                           |
+      +-----------------------> EFFECTIVE AGENCY <----------------+
+                                      |
+                         +------------+------------+
+                         |                         |
+                 NON-INTERFERENCE            NON-DOMINATION
+                         |                         |
+                         +------------+------------+
+                                      v
+                              JUSTICE CRITERIA
+              need · merit · desert · entitlement · capability
+                          procedure · rectification
+                                      |
+                         +------------+------------+
+                         |                         |
+                    RAWLS ORDER                SEN TEST
+              liberty -> opportunity ->     actual capability and
+                 difference principle       remediable injustice
+                         |
+                         v
+                  QUALIFIED POLITICAL ORDER
+       equal standing + protected agency + public justification
 ```
+
+## Thinker decision tree
+
+```text
+QUESTION EMPHASISES...
+|
++-- social manufacture of rank? ---------------- Rousseau
++-- civic/gender equality with individuality? -- Mill
++-- class power beneath equal exchange? -------- Marx
++-- absence of interference / its danger? ------ Berlin
++-- harm and dissent? --------------------------- Mill
++-- enabling self-realisation? ----------------- Green
++-- arbitrary standing power? ------------------ Pettit
++-- harmony of soul and city? ------------------ Plato
++-- proportion or correction? ------------------ Aristotle
++-- fair basic structure and priority? --------- Rawls
++-- historical title and side-constraints? ----- Nozick
++-- capability and comparative justice? -------- Sen
++-- social democracy and fraternity? ----------- Ambedkar
+```
+
+## High-risk close distinctions
+
+| Do not merge | Exact separation |
+|---|---|
+| equal worth / same outcome | standing does not determine one distribution |
+| formal / fair opportunity | legal opening differs from accessible preparation |
+| equity / privilege | relevant disadvantage differs from arbitrary preference |
+| negative / positive / republican liberty | interference, self-direction and domination identify different obstacles |
+| Berlin / Green | conceptual warning differs from substantive self-realisation theory |
+| formal / procedural / substantive justice | consistent rule, fair process and just standard are separate |
+| merit / desert | role-fitness differs from moralised past effort or sacrifice |
+| Rawlsian inequality / equal shares | inequality is permitted under ordered conditions |
+| Nozickian title / status quo | rectification may unsettle existing holdings |
+| institutional correctness / realised justice | correct rules differ from actual social achievement |
+
+---
+
+# OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
+
+> **Entry condition:** use this tier only after the Core completion checklist and all sixteen PYQ
+> routes can be reproduced. One integrated refinement is usually enough.
+
+## Visual: the Advanced deployment rule
+
+```text
+DIRECT CORE DOCTRINE
+        |
+        v
+STRONGEST CORE OBJECTION
+        |
+        v
+ONE ADVANCED REFINEMENT
+        |
+        v
+NAME THE GAIN AND THE PRICE
+        |
+        v
+RETURN TO THE DIRECTIVE
+```
+
+*Advanced material earns value only by sharpening a dispute already explained in Core.*
+
+## A1. Equality beyond shares: threshold, relation and ethos
+
+### Three different advanced questions
+
+| Refinement | Question asked | Gain | Price or objection |
+|---|---|---|---|
+| **Threshold focus** ⚠️ | does everyone possess enough for a decent or capable life? | avoids demanding flat equality above a sufficient floor | “enough” can be set too low and ignore domination above it |
+| **Relational equality** ⚠️ | do persons stand as equals without servility, stigma or mastery? | links resources to social status and non-domination | can under-specify distributive shares |
+| **Egalitarian ethos** ✅/⚠️ | do everyday incentive demands undermine just institutions? | Cohen shows that conduct can defeat institutional equality | may demand intrusive or heroic personal virtue |
+
+### Argument map
+
+```text
+RESOURCE DISTRIBUTION
+        |
+        +--> Are basic capabilities above a threshold?
+        +--> Do social relations remain hierarchical?
+        +--> Do personal choices reproduce inequality?
+        |
+        v
+EQUALITY CANNOT BE READ FROM ONE SNAPSHOT ALONE
+```
+
+**Advanced use:** In a 20-marker, this map can explain why equal shares, adequate capability and
+equal status are different evaluative achievements.
+
+**Do not use it to evade Core:** first state legal, political, social and economic equality,
+opportunity/outcome and the named thinker required by the stem.
+
+### Objection, reply and residual
+
+**Objection:** Multiplying metrics makes equality impossible to administer.
+
+**Reply:** ⚠️ The metrics need not all govern every good. A sphere-sensitive approach assigns
+political rights to equal standing, subsistence to need and office to competence.
+
+**Residual:** Sphere boundaries remain contestable and institutions require practical
+simplification.
+
+## A2. Responsibility, luck and the background structure
+
+### Dworkin and Cohen as two pressures
+
+✅ Dworkin’s brute-luck/option-luck distinction asks which disadvantages arise from circumstance
+and which from deliberate risk. The gain is responsibility-sensitive equal concern.
+
+⚠️ Cohen asks whether unequal incentives demanded by talented persons are consistent with an
+egalitarian ethos. The gain is to show that a just basic structure may be undermined by private
+conduct.
+
+```text
+OUTCOME DIFFERENCE
+       |
+       +--> brute circumstance? -> possible compensation
+       |
+       +--> informed voluntary risk? -> stronger responsibility claim
+       |
+       +--> choice formed by unjust background? -> classification becomes unstable
+```
+
+**Strong objection:** real choice is socially formed, so the luck/choice line can blame vulnerable
+persons for constrained decisions.
+
+**Reply:** the distinction should allocate a burden of inquiry, not mechanically deny assistance.
+
+**Residual:** no institution can know the full causal history of every choice.
+
+### Rawlsian response
+
+Rawls can concede that ethos matters while retaining the basic structure as the primary subject of
+justice. Institutions set incentives, education and social expectations; they should not require
+official surveillance of every personal motive.
+
+## A3. Refined liberty–equality reconciliation
+
+### Three levels of a “trade-off”
+
+| Level | Possible relation | Best answer move |
+|---|---|---|
+| basic civic rights | strong complementarity | equal liberty is a status possessed by all |
+| background opportunity | enabling complementarity | some provision makes liberty usable |
+| discretionary resources and choices | genuine conflict can emerge | state the liberty protected and equality sought |
+
+⚠️ This layered approach prevents two extremes: “liberty and equality always conflict” and “they
+never conflict.”
+
+### Advanced answer lines
+
+Use as reasoning patterns, not quotations:
+
+- ⚠️ “A distributive metric can miss a relational hierarchy; adequate shares do not by themselves
+  remove mastery or stigma.”
+- ⚠️ “Luck-sensitive equality gains responsibility but risks mistaking constrained adaptation for
+  autonomous choice.”
+- ⚠️ “Liberty and equality are most complementary at the level of equal civic status and become
+  more conflict-prone in contested economic domains.”
+- ⚠️ “The basic structure is primary because it shapes options, but realised justice remains the
+  test of whether those options became substantive freedoms.”
+
+### Advanced stop rules
+
+- Use at most one of threshold, relational or ethos refinements in a 15-marker.
+- Use no Advanced vocabulary before defining the Core metric.
+- Do not turn the answer into a survey of contemporary egalitarianism.
+- State the institutional or evaluative consequence in the next sentence.
+- Return to the named thinker and directive.
+
+### Advanced retrieval checks
+
+1. **Why can a threshold be met while relational inequality survives?**
+   Because persons may possess enough resources yet remain exposed to stigma, dependency or
+   mastery.
+
+2. **What does Cohen add to institutional equality?**
+   He asks whether personal incentive demands and social ethos reproduce inequality even under
+   formally just rules.
+
+3. **Why is brute luck versus option luck difficult to administer?**
+   Choices are made under unequal information, social formation and constrained alternatives.
+
+---
+
+# BOUNDED EXPERT REFERENCE — USE SELECTIVELY
+
+> **Purpose:** resolve one high-risk conceptual merger. Expert material never replaces a direct
+> answer and never appears merely to display vocabulary.
+
+## Visual: Expert deployment and stop
+
+```text
+IS THE CORE ANSWER COMPLETE?
+        |
+   no --+--> return to Core
+        |
+       yes
+        |
+DOES ONE DISTINCTION RESOLVE THE STEM?
+        |
+   no --+--> omit Expert material
+        |
+       yes
+        |
+state discriminator -> explain consequence -> STOP -> conclude
+```
+
+## E1. Precision bench
+
+| Near-neighbour confusion | Expert discriminator | Why it matters | Stop boundary |
+|---|---|---|---|
+| equality / equity / justice | equality names a metric or standing; equity adjusts for relevant difference; justice supplies and defends the criterion | prevents “equity” becoming a vague synonym for goodness | do not import full affirmative-action policy |
+| Berlin positive liberty / Green | Berlin identifies self-mastery and its authoritarian mutation; Green gives a substantive enabling account of worthwhile agency | preserves attribution accuracy | do not claim Berlin is Green’s opponent on every welfare measure |
+| non-interference / non-domination | the former counts obstruction; the latter tests uncontrolled standing power | explains why a forbearant master remains a master | do not treat all regulation as republican freedom |
+| fair equality of opportunity / difference principle | opportunity regulates genuine access to offices; difference regulates permitted inequality after that | protects Rawls’s internal priority | do not reverse the serial order |
+| Rawlsian basic liberty / every liberty | the priority protects a specified compatible scheme of basic liberties | avoids claiming absolute priority for property or any preference | state favourable conditions |
+| Nozickian transfer / voluntariness under necessity | consent to a transaction does not by itself prove a fair background or clean title | prevents status-quo reasoning | return to acquisition and rectification |
+| institutional correctness (nīti) / realised justice (nyāya) | one concerns correct arrangements; the other actual social achievement | preserves Sen’s shift without institutional nihilism | do not use the terms untranslated |
+| Platonic harmony / Rawlsian fairness | harmony orders differentiated functions; fairness models agreement among free and equal persons | limits the continuity thesis | never attribute the two principles to Plato |
+
+## E2. Deployment rules
+
+### Use an Expert distinction when
+
+- the question is comparative or critical;
+- the named Core doctrine is already complete;
+- the distinction prevents a likely attribution error;
+- the consequence can be explained in two or three sentences;
+- it directly improves the final judgement.
+
+### Omit Expert material when
+
+- the question is a narrow 10-marker needing direct economy;
+- it would displace a required thinker or priority rule;
+- the terminology cannot be translated immediately;
+- it crosses into another syllabus owner;
+- it has no clear argumentative consequence.
+
+### Model of disciplined use
+
+```text
+Core:
+Rawls protects liberty before applying distributive principles.
+
+Expert discriminator:
+The priority concerns a compatible scheme of basic liberties,
+not every economically useful option or property preference.
+
+Consequence:
+Therefore regulation is not refuted merely by invoking "liberty";
+the answer must identify whether a basic liberty is actually at stake.
+
+STOP.
+```
+
+### Expert retrieval checks
+
+1. **Why is non-domination not simply a high probability of interference?**
+   Because dependence concerns an uncontrolled status and changes conduct even when expected
+   interference is low.
+
+2. **Why is Rawls’s liberty priority not unconditional libertarianism?**
+   It protects a specified equal scheme under favourable conditions and permits regulation
+   consistent with that scheme.
+
+3. **When should the Plato–Rawls precision point stop?**
+   After stating architectonic continuity and the free/equal contractarian break; broader Platonic
+   state theory belongs elsewhere unless the stem asks for it.
+
+## Expert last-page rule
+
+> One exact discriminator is expert. Three unexplained names are not. Once the distinction has
+> changed the judgement, conclude.
+
+# COVERAGE AND PROVENANCE LEDGER
+
+## All 77 demands mapped to Core
+
+| ID | Core location | Coverage proof |
+|---|---|---|
+| S01-01 | Lessons 1–2 | equal moral worth distinguished from sameness; natural-difference objection answered |
+| S01-02 | Lesson 2 | formal/legal equality, strength and paper-equality limit |
+| S01-03 | Lessons 2 and 5 | equal citizenship and unequal effective influence |
+| S01-04 | Lessons 2 and 10 | stigma, social standing and Ambedkar’s social-democracy test |
+| S01-05 | Lesson 2 | economic life-chance concern without identical-income claim |
+| S01-06 | Lessons 2 and 8 | formal versus fair opportunity; Rawlsian office-access priority |
+| S01-07 | Lesson 2 | opportunity/outcome distinction and limited outcome metrics |
+| S01-08 | Lessons 2 and 6 | equity as relevant differentiation; criteria and compensation |
+| S01-09 | Lesson 3 | Rousseau’s natural/physical inequality |
+| S01-10 | Lesson 3 | artificial/moral-political inequality and boundary objection |
+| S01-11 | Lesson 3 | Mill’s civic and legal equality |
+| S01-12 | Lesson 3 | Mill on women and socially manufactured subordination |
+| S01-13 | Lesson 3 | individuality plus qualified economic reform |
+| S01-14 | Lesson 3 | equal market form concealing class power |
+| S01-15 | Lesson 3 | common measure, unequal need and higher-phase distribution |
+| S01-16 | Lesson 3; solved 2022 Q2(c) | Marxian equity/equality, incentive challenge and stage reply |
+| S01-17 | Lessons 2 and 10 | capability, resources and conversion diversity |
+| S01-18 | Lesson 2 | Cohen’s ethos and Dworkin’s resource/luck metrics in bounded Core form |
+| S01-19 | Lessons 1 and 4 | liberty distinguished from power and licence |
+| S01-20 | Lesson 4 | Berlin’s negative liberty |
+| S01-21 | Lesson 4 | Berlin’s positive liberty and “true self” risk |
+| S01-22 | Lesson 4; solved 2026 Q3(c) | non-interference strength and insufficiency |
+| S01-23 | Lesson 4; solved 2026 Q3(c) | enabling potential without conflating Berlin and Green |
+| S01-24 | Lesson 4 | Mill’s harm principle |
+| S01-25 | Lesson 4 | harm/offence and spillover difficulty |
+| S01-26 | Lesson 4 | Hobbes, security and liberty where law is silent |
+| S01-27 | Lesson 4 | Locke, known law, consent and property objection |
+| S01-28 | Lesson 4 | Rousseau, general will and forced-freedom risk |
+| S01-29 | Lesson 4 | Green’s effective capacity and paternalism reply |
+| S01-30 | Lesson 5 | unrestricted private liberty producing inequality |
+| S01-31 | Lesson 5 | equalisation constraining particular liberties; basic-liberty distinction |
+| S01-32 | Lesson 5 | equal liberty as shared civic standing |
+| S01-33 | Lesson 5; solved 2022 Q1(d) | restriction, option-loss, status-gain and oppressive-order guardrail |
+| S01-34 | Lesson 5; solved 2019 Q4(b) | liberty limiting equality through Rawls/Nozick/republican comparison |
+| S01-35 | Lesson 5 | technological gains in expression, information and association |
+| S01-36 | Lesson 5 | surveillance, profiling, exclusion, remedies and conditional verdict |
+| S01-37 | Lesson 5 | Pettit’s domination/interference distinction |
+| S01-38 | Lesson 5 | non-arbitrary law, interest-tracking and contestability problem |
+| S01-39 | Lessons 5 and 11; solved 2024 Q2(b) | critical evaluation of both ideals and principled reconciliation |
+| S01-40 | Lesson 5 | democracy and equal citizen standing |
+| S01-41 | Lesson 5 | protected opposition and non-exclusive liberty |
+| S01-42 | Lesson 5; solved 2018 Q2(a) | “how far distinctive” with joint-but-insufficient verdict |
+| S01-43 | Lessons 1 and 6 | what is due; reasons, distribution and rectification |
+| S01-44 | Lesson 6 | formal justice and uniformly unjust rules |
+| S01-45 | Lesson 6 | procedural justice and unequal starting positions |
+| S01-46 | Lesson 6 | substantive justice and due-process limit |
+| S01-47 | Lesson 6 | legal, political, socio-economic and status dimensions |
+| S01-48 | Lesson 7 | Plato’s just soul |
+| S01-49 | Lesson 7 | Plato’s just city and hierarchy objection |
+| S01-50 | Lesson 7; solved 2024 Q1(a) | brief soul/city answer with qualifier |
+| S01-51 | Lessons 6–7 | Aristotle’s distributive proportion and contested merit |
+| S01-52 | Lesson 7 | corrective arithmetic and structural limit |
+| S01-53 | Lesson 6 | need, desert and merit distinguished |
+| S01-54 | Lesson 6 | entitlement, compensation and equal-share criteria |
+| S01-55 | Lessons 6–7 | general compensatory principle and cross-owner boundary |
+| S01-56 | Lesson 6 | utilitarian aggregate and minority-sacrifice objection |
+| S01-57 | Lesson 8 | original position and veil as fair representation |
+| S01-58 | Lesson 8 | equal basic liberties and compatible scheme |
+| S01-59 | Lesson 8 | fair equality of opportunity before difference |
+| S01-60 | Lesson 8 | difference principle and least-advantaged test |
+| S01-61 | Lesson 8 | lexical liberty priority under favourable conditions |
+| S01-62 | Lesson 8; solved 2026 Q1(a) | anti-aggregation, moral powers and self-respect |
+| S01-63 | Lesson 8; solved 2026 Q1(a) | why opportunity precedes the difference principle |
+| S01-64 | Lesson 8 | reflective equilibrium |
+| S01-65 | Lesson 8; solved 2023 Q1(a) | complete justice-as-fairness explanation and evaluation |
+| S01-66 | Lesson 9 | Nozickian acquisition and starting-title problem |
+| S01-67 | Lesson 9 | transfer, Wilt Chamberlain and constrained voluntariness |
+| S01-68 | Lesson 9 | rectification and status-quo warning |
+| S01-69 | Lesson 9 | side-constraints, minimal state and background objections |
+| S01-70 | Lesson 10 | institutional correctness (nīti) versus realised justice (nyāya) |
+| S01-71 | Lesson 10 | comparative removal of remediable injustice |
+| S01-72 | Lessons 2 and 10 | capability, conversion and public reasoning |
+| S01-73 | Lesson 10; solved 2021 Q2(a) | criterion-relative Sen/Rawls improvement judgement |
+| S01-74 | Lesson 10 | Ambedkar’s liberty, equality, fraternity and social democracy |
+| S01-75 | Lesson 11 | justice as reasoned coordination, not automatic compromise |
+| S01-76 | Lesson 11; solved 2025 Q4(a) | both ideals’ indeterminacy and plural-justice objection |
+| S01-77 | Lessons 7 and 11; solved 2019 Q1(a) | Plato/Rawls architectonic continuity plus egalitarian break |
+
+## All 16 primary-owned PYQs mapped to Core solutions
+
+| Year / part | Marks | Core doctrine location | Complete solved location |
+|---|---:|---|---|
+| 2018 Q2(a) | 20 | Lesson 5 | Core Solved PYQ Workshop, PYQ 1 |
+| 2019 Q1(a) | 10 | Lessons 7 and 11 | PYQ 2 |
+| 2019 Q4(b) | 15 | Lessons 5 and 11 | PYQ 3 |
+| 2020 Q1(a) | 10 | Lesson 5 | PYQ 4 |
+| 2021 Q1(a) | 10 | Lesson 9 | PYQ 5 |
+| 2021 Q1(b) | 10 | Lesson 3 | PYQ 6 |
+| 2021 Q2(a) | 20 | Lesson 10 | PYQ 7 |
+| 2022 Q1(d) | 10 | Lesson 5 | PYQ 8 |
+| 2022 Q2(c) | 15 | Lesson 3 | PYQ 9 |
+| 2023 Q1(a) | 10 | Lesson 8 | PYQ 10 |
+| 2024 Q1(a) | 10 | Lesson 7 | PYQ 11 |
+| 2024 Q2(b) | 15 | Lessons 5 and 11 | PYQ 12 |
+| 2025 Q1(e) | 10 | Lesson 3 | PYQ 13 |
+| 2025 Q4(a) | 20 | Lesson 11 | PYQ 14 |
+| 2026 Q1(a) | 10 | Lesson 8 | PYQ 15 |
+| 2026 Q3(c) | 15 | Lessons 4–5 | PYQ 16 |
+
+## MCQ key audit
+
+The forty explained MCQs follow the strict sequence:
+
+```text
+1–4   A B C D
+5–8   A B C D
+9–12  A B C D
+13–16 A B C D
+17–20 A B C D
+21–24 A B C D
+25–28 A B C D
+29–32 A B C D
+33–36 A B C D
+37–40 A B C D
+```
+
+Question headings remain answer-neutral; keys appear only in separate explanation blocks.
+
+## Provenance ledger
+
+### Authoritative content sources used
+
+1. `upsc-ai-kit\knowledge\Philosophy\paper-2\socio-political\Social-Political-Ideals.md` — canonical
+   doctrines, distinctions, thinker positions, bounded illustrations, answer architecture and
+   source controls.
+2. `upsc-ai-kit\knowledge\Philosophy\paper-2\_PYQ-SocioPolitical-2018-2025.md` — exact verified
+   wording, marks and primary ownership for fourteen questions.
+3. `upsc-ai-kit\knowledge\Philosophy\paper-2\_PYQ-SocioPolitical-2026-Supplement.md` — exact
+   verified wording and demand decode for the two 2026 questions.
+4. `philosophy-coverage\Socio-Political-Philosophy.md`, Clause 1 — S01-01–S01-77 obligations and
+   the sixteen-question ownership map.
+
+### Architecture-only references used
+
+- `live_sessions\Philosophy-of-Religion\01-Notions-of-God\Learning-Session-Live-Edition.md` —
+  learner-first tier contract, dependency ordering, lesson rhythm, practice density, bounded
+  Expert stop rule and provenance discipline only.
+- Repository-mandated style calibration: openings and first complete lessons from Nyaya-Vaisesika,
+  Yoga and Mimamsa live sessions. They supplied teaching cadence only; no doctrine or topic prose
+  was imported.
+
+### Explicit exclusions honoured
+
+- `notes\Final-Learning-Packages\`
+- every learner-v2 artifact
+- `upsc-ai-kit\knowledge\Philosophy\learning-sessions\v2\`
+- `upsc-ai-kit\knowledge\Philosophy\Socio-Political-Philosophy\learning-sessions\`
+- layered or complete learning packages
+- solved workbooks
+- the pre-rebuild destination prose as a content source
+
+The committed baseline may be used only after authorship for mechanical provenance-overlap
+detection. No distinctive baseline wording was intentionally retained or relabelled. Exact PYQ
+text and unavoidable canonical terminology are separately classified.
+
+### Evidence and boundary discipline
+
+- ✅ Canonical attributions are confined to the authorised owner and verified banks.
+- ⚠️ Comparisons, reconstructed arguments and verdicts are marked analytical where first introduced.
+- 🏛️ Articles 14–16, the Bonded Labour System (Abolition) Act, 1976, the Sexual Harassment of Women
+  at Workplace Act, 2013, and the verified 21 November 2025 Gazette notification are illustrations
+  only. Enactment, notification or constitutional text is not proof of realised justice.
+- No live current-affairs item was fabricated or used as philosophical proof.
+- Democracy, rights, sovereignty, welfare, recognition and affirmative action remain subject to
+  the cross-topic firewalls stated at the beginning.
 
 ---
 
 # COMPLETE CONSOLIDATED REGISTER NOTES
 
-## Final high-yield additions from the independent gap audit
+## The governing triad
 
-- **Formal justice:** consistent application of announced principles to like cases.
-- **Procedural justice:** fair hearing, publicity, impartiality, non-cheating and contestability.
-- **Substantive justice:** just standards, distribution, life-chances and status relations.
-- **Justice dimensions:** legal, political, socio-economic and bounded recognition/status justice.
-- **Legality is not legitimacy:** valid law may still be unjust; legitimacy asks whether coercive authority is morally justified.
-- **Merit is not desert:** merit is forward-looking fitness for a role; desert is backward-looking moral claim based on action, effort or suffering.
-- **Rawls's complete serial order:** equal basic liberties → fair equality of opportunity → difference principle.
-- **2026 lexical-order reasons:** anti-aggregation, choice behind the veil, determinacy, self-respect, publicity and internal priority; favourable conditions qualify the rule.
-- **Republican correction:** domination is a standing capacity for arbitrary interference, not merely an act of interference.
-- **Compensatory justice:** positive remedy can be required by equality where transmitted institutional disadvantage continues; policy detail belongs to the separate caste topic.
+1. **Equality:** equal moral standing and equal concern; never assume numerical sameness.
+2. **Liberty:** protected agency; distinguish power, licence and secure freedom.
+3. **Justice:** publicly defensible terms for rights, burdens, opportunities, shares and remedies.
+4. Equality asks **who counts**; liberty asks **what agency is protected**; justice asks **what is
+   due and why**.
+5. Legality is system-validity; legitimacy asks whether coercion is morally justified.
+6. A strong answer names the metric, obstacle and criterion before evaluating.
 
-> One-screen revision spine. Compression, not repetition: every subtopic reduced
-> to its highest-yield triggers, ready for last-mile recall. Read top-to-bottom as
-> Equality -> Liberty -> Justice -> Relationship -> Exam Craft.
+## Equality domains and metrics
 
-### R0. The Triad in One Line
+1. **Formal/legal:** equality before general law; weakness—paper equality amid unequal conditions.
+2. **Political:** equal citizenship, vote and office access; weakness—unequal influence.
+3. **Social/status:** no stigma, humiliation or inherited civic inferiority.
+4. **Economic:** concern with unjust resource and life-chance gaps, not compulsory equal income.
+5. **Formal opportunity:** legally open competition.
+6. **Fair opportunity:** realistic access to preparation across class origins.
+7. **Outcome:** can mean a floor, threshold, least-advantaged test or capability—not always sameness.
+8. **Equity:** differential response to relevant need, disability, prior loss or transmitted
+   disadvantage.
+9. Equity requires relevance, proportionality, review and a limit.
+10. Sen: resources differ from capabilities because conversion factors differ.
+11. Cohen: institutions need an egalitarian ethos; incentive demands can reproduce inequality.
+12. Dworkin: equality of resources; distinguish brute luck from option luck.
 
-- Liberty and equality are the SUBSTANCE of a free society; justice is its FORM.
-- Both liberty and equality are INDETERMINATE alone (which liberties? which
-  equality?); justice supplies the ordering criteria.
-- Default verdict pattern: complementary at the base, rivalrous beyond a
-  threshold, ordered by justice.
+## Rousseau, Mill and Marx
 
-### R1. Equality - Foundations and Forms (Subtopics 1-2)
+1. Rousseau’s **natural/physical inequality:** age, health, strength and similar differences.
+2. Rousseau’s **moral/political inequality:** conventional wealth, honour, command and dependence.
+3. Property and comparison magnify difference into rank.
+4. Diagnostic value survives objections to the speculative state of nature.
+5. Mill: equal moral consideration, legal/civic equality, women’s equality and anti-custom hierarchy.
+6. *The Subjection of Women*: behaviour under subjection cannot prove natural incapacity.
+7. Mill preserves individuality and experiments in living; equality is not uniformity.
+8. Mill’s limit: structural economic inequality is incompletely theorised.
+9. Marx: equal market exchange can conceal unequal control of production.
+10. A common measure can produce unequal effects across different needs.
+11. Equality = same measure; equity = need-responsive differentiation in the PYQ context.
+12. “From each according to ability, to each according to need” belongs to a higher communist phase.
+13. Do not convert the formula into a wage-adjustment rule inside unchanged capitalism.
 
-- Premise: equal MORAL WORTH, not identical ability or identical income.
-- Four forms: formal/legal | political | social | economic.
-- Opportunity vs outcome: equalise starting access vs equalise final shares; fair
-  equality of opportunity is the liberal-egalitarian core.
-- Key maxim: EQUALITY IS NOT SAMENESS - treating people as equals can require
-  differentiated treatment.
+## Liberty families and thinkers
 
-### R2. Equality - Rousseau, Mill, Marx (Subtopic 3)
+1. Negative liberty: area free from human obstruction.
+2. Positive liberty: self-direction and self-mastery.
+3. Berlin values both concerns but warns against coercion by appeal to a “real self.”
+4. Berlin presupposes value pluralism.
+5. Green: effective power for worthwhile self-development; disabling conditions matter.
+6. Berlin and Green overlap but are not identical.
+7. Mill: coercion of a competent adult is justified to prevent harm to others.
+8. Offence and disapproval are not automatically harm.
+9. Self-/other-regarding distinction is a presumption and burden-of-proof rule.
+10. Hobbes: absence of external impediment; stable order secures a thin liberty.
+11. Locke: freedom under known law, rights and consent; arbitrary power is the enemy.
+12. Rousseau: freedom through legitimate collective self-legislation; forced-freedom risk.
+13. Republican liberty: non-domination, associated normatively with Pettit.
+14. Skinner supplies historical recovery; do not merge the roles.
+15. Interference is an act; domination is an uncontrolled standing capacity.
+16. A forbearant master can dominate without interfering.
+17. Contestable public law can interfere without dominating.
 
-- Rousseau: natural (physical) vs moral/political (conventional) inequality; the
-  oppressive forms are made, not born; property + comparison convert difference
-  into domination.
-- Mill: equal moral/civic worth; WOMEN's equality (Subjection of Women); equality
-  compatible with INDIVIDUALITY; qualified economic concern.
-- Marx: formal equal exchange hides exploitation; "equal right is a right of
-  inequality"; "to each according to need" = HIGHER-STAGE principle, not a wage
-  rule.
+## Liberty, equality, democracy and technology
 
-### R3. Equality of What? - Sen, Cohen, Dworkin (Subtopic 4)
+1. Unrestricted property/contract liberty can produce inequality and dependence.
+2. Coercive levelling can suppress association, choice and legitimate difference.
+3. Equal basic liberty is the principal zone of complementarity.
+4. Fair opportunity makes liberty usable without replacing it by welfare.
+5. Restrictions alter options; they do not necessarily reduce liberty as equal status.
+6. Test order by proportionality, equal standing, due process and contestability.
+7. Technology enlarges expression, knowledge and association.
+8. Threats: surveillance, profiling, opaque steering, concentrated gatekeeping and digital exclusion.
+9. Safeguards: privacy, literacy, transparent reasons, appeal and limits on arbitrary power.
+10. Democracy requires equal standing plus protected dissent.
+11. Liberty/equality are distinctive joint commitments, not exclusive or sufficient conditions.
+12. Ambedkar’s warning: political equality is unstable without social democracy.
 
-- Sen: CAPABILITIES - real freedom to achieve valued functionings; conversion
-  differences defeat resourcism.
-- Dworkin: equality of RESOURCES - ambition-sensitive, endowment-insensitive.
-- Cohen: presses luck-egalitarian access to advantage.
-- Upshot: the METRIC is unavoidable and dictates the institutions required.
+## Justice forms, dimensions and criteria
 
-### R4. Liberty - Berlin and Mill (Subtopic 5)
+1. Formal justice = consistent application of general rules.
+2. Procedural justice = public, impartial and contestable decision process.
+3. Substantive justice = just standard, distribution and status relation.
+4. Fair process cannot cleanse an unjust starting structure.
+5. Corrective outcome cannot justify arbitrary procedure.
+6. Dimensions: legal, political, socio-economic and recognition/status.
+7. **Need:** subsistence and capability; objection—elasticity.
+8. **Merit:** forward-looking competence for a role.
+9. **Desert:** backward-looking moral effort, sacrifice or conduct.
+10. **Contribution/entitlement:** historical or productive claim; market value is not moral worth.
+11. **Equal share:** especially apt for basic civic standing.
+12. **Compensation:** responds to wrongful loss or transmitted disadvantage.
+13. Sphere rule: which criterion, for which good, and why?
+14. Utilitarianism aggregates welfare; objection—persons/minorities can be sacrificed.
+15. Indirect utilitarian protection of rights remains contingent.
 
-- Berlin: NEGATIVE (absence of interference) vs POSITIVE (self-mastery); positive
-  liberty perverted by the coercive "higher self".
-- Mill: HARM PRINCIPLE - coercion justified only to prevent harm to OTHERS;
-  self-regarding conduct protected; liberty != licence.
+## Plato and Aristotle
 
-### R5. Liberty - Contract Trio, Green, Liberty-Equality (Subtopic 6)
+1. Plato: justice is harmony and proper function in soul and city.
+2. Soul: reason rules; spirit supports; appetite obeys rational order.
+3. City: rulers deliberate; auxiliaries defend; producers provide.
+4. “Each doing its own” is not equal distribution.
+5. Strength: integration of character and political order.
+6. Weakness: fixed function, hierarchy and weak individual-rights protection.
+7. Aristotle: distributive justice uses proportional equality.
+8. The relevant basis of merit remains contested.
+9. Corrective justice restores arithmetic balance after wrongful gain/loss.
+10. Transactional correction struggles with diffuse structural injury.
+11. Plato–Rawls continuity: justice organises a well-ordered whole.
+12. Break: free/equal contract, basic liberties and fair opportunity replace fixed hierarchy.
 
-- Hobbes: free where law is silent (order first). Locke: free under known
-  rights-protecting law; licence != liberty. Rousseau: free via the general will
-  ("forced to be free" - self-rule OR coercion).
-- Green: POSITIVE/ENABLING freedom - power to do worthwhile things.
-- Liberty vs equality: conflict beyond a threshold, complement at the base;
-  "how far" stems demand a CONDITIONAL verdict.
+## Rawls’s complete architecture
 
-### R6. Liberty - Tech Society and Non-Domination (Subtopic 7)
+1. Original position = hypothetical fair representation, not an historical contract.
+2. Veil excludes class, religion, sex, talents and conception of the good.
+3. Parties represent free and equal persons with two moral powers.
+4. First principle: fully adequate equal basic liberties compatible for all.
+5. Second principle (a): fair equality of opportunity.
+6. Second principle (b): inequalities benefit the least advantaged.
+7. Exact order: liberty → fair opportunity → difference principle.
+8. Lexical order means no compensation from a later to an earlier level.
+9. Anti-aggregation: liberty cannot be exchanged for a larger social sum.
+10. Original-position reason: secure liberties usable under any conception of the good.
+11. Determinacy: serial priority avoids unstructured intuitionist balancing.
+12. Self-respect: equal liberty expresses equal civic standing.
+13. Opportunity priority blocks closed careers defended by least-advantaged gains.
+14. Liberty priority operates under favourable conditions.
+15. Basic liberties form a scheme and may be adjusted against one another.
+16. Reflective equilibrium revises principles and considered judgements together.
+17. Rawls permits inequality; he subjects it to ordered justification.
 
-- Tech society: liberty survives only with transparency, accountability, zones of
-  non-domination; convenience != autonomy.
-- Pettit: freedom as NON-DOMINATION - absence of another's CAPACITY for arbitrary
-  interference. Interference = act; domination = standing status.
-- Non-arbitrary law is FREEDOM-CONSTITUTING. Provenance: Pettit (1997) theory;
-  Skinner (1998) history; no quotes.
-- Highest-value move: material dependence IS domination, so some equalising
-  INCREASES freedom.
+## Nozick’s entitlement theory
 
-### R7. Justice - Ancients and Criteria (Subtopic 8)
+1. Historical, not end-state or patterned.
+2. Justice in acquisition.
+3. Justice in transfer.
+4. Justice in rectification.
+5. All three are necessary; present possession is not self-justifying.
+6. Wilt Chamberlain: voluntary transfers upset patterns.
+7. Pattern maintenance requires recurring interference.
+8. Side-constraints protect persons against use as means.
+9. Minimal state protects against force, theft, fraud and enforces contracts.
+10. Acquisition problem: common resources and exclusion.
+11. Transfer problem: necessity and bargaining power.
+12. Rectification problem: wide historical injustice and indeterminate remedy.
+13. Retained insight: distributive aims remain constrained by rights and agency.
 
-- Plato: justice = HARMONY/function (soul and city).
-- Aristotle: DISTRIBUTIVE (proportional) + CORRECTIVE (arithmetic).
-- Criteria problem: need/desert/merit/contribution/equal-share/compensation - one
-  per sphere; injustice = exporting a criterion (wealth buying power).
-- Merit (forward, functional) != desert (backward, moralised). Compensatory
-  principle = corrective justice generalised to structures; concede terminus +
-  over-inclusion. Articles 14-16 = permission, not justification; policy debate
-  routed to the separate Caste Discrimination topic.
+## Sen and Ambedkar
 
-### R8. Justice - Moderns and the Ordering Verdict (Subtopic 9)
+1. Institutional correctness (nīti): proper rules and institutions.
+2. Realised justice (nyāya): how persons actually live.
+3. Correct institutions are important but not sufficient.
+4. Comparative justice asks which feasible arrangement is less unjust.
+5. Manifest remediable injustice can be addressed without a perfect-society ranking.
+6. Capability = substantive opportunity to be and do.
+7. Resources differ from capability through conversion factors.
+8. Public reasoning evaluates open-ended capability claims.
+9. Sen’s strength over Rawls: actual lives, diversity and comparison.
+10. Rawls’s retained strength: determinate basic liberties and institutional order.
+11. Improvement verdict must name its criterion.
+12. Ambedkar: liberty, equality and fraternity underpin social democracy.
+13. One vote can coexist with graded social inequality.
+14. Fraternity names associated equal standing, not sentiment alone.
 
-- Rawls: original position + veil -> (1) equal basic liberties [LEXICALLY FIRST]
-  -> (2a) fair equality of opportunity -> (2b) difference principle (benefit the
-  least advantaged); reflective equilibrium.
-- Nozick: entitlement = acquisition + transfer + rectification; HISTORICAL not
-  patterned; Wilt Chamberlain; minimal state; weak on acquisition/rectification.
-- Sen: NITI (rules) vs NYAYA (realised justice); comparative not transcendental;
-  capabilities + public reasoning; "improvement?" = name the criterion first.
-- Ambedkar: liberty + equality + FRATERNITY; social democracy underwrites
-  political democracy.
+## Triad comparison verdicts
 
-### R9. Relationship, Debates and Traps (Subtopic 10)
+1. Berlin + Green: protected sphere plus non-paternal enabling conditions.
+2. Rawls + Nozick: fair background structure versus historical title and side-constraints.
+3. Rawls + Sen: durable institutions versus realised capability and comparison.
+4. Mill + Marx: equal status/individuality versus critique of class power.
+5. Liberty alone is under-specified: whose liberty, against whom, to do what?
+6. Equality alone is under-specified: equality of status, opportunity, resources or capability?
+7. Justice supplies criteria, procedures and burdens of justification.
+8. Justice does not eliminate pluralism; it makes disagreement reason-governed.
+9. Best ordering line: equal standing + protected agency + publicly justified institutions.
 
-- Standing debates: Berlin/Green; Rawls/Nozick; Rawls/Sen; Mill/Marx;
-  Plato-Aristotle-Rawls. Method: fix shared AXES, run both, adjudicate.
-- Ten traps: equality != sameness; Berlin distinguishes (not rejects) positive
-  liberty; Mill != licence; Rousseau's natural inequality != rightlessness;
-  Rawls's first principle = LIBERTY; Nozick = historical not patterned; Sen !=
-  welfare economics; Ambedkar != name-drop; justice != law; UPSC rewards balanced
-  evaluation.
+## PYQ rapid routes, 2018–2026
 
-### R10. Exam Craft - Directive Decoder and Answer Spine
+1. **2018 democracy:** joint normative commitments; neither exclusive nor sufficient.
+2. **2019 Plato/Rawls:** architectonic continuity; egalitarian-contractarian break.
+3. **2019 liberty/equality:** basic liberty limits levelling; fair background limits domination.
+4. **2020 technology:** possible under privacy, capability and contestability safeguards.
+5. **2021 Nozick:** three principles; Wilt; acquisition/rectification critique.
+6. **2021 Rousseau:** natural difference versus conventional rank.
+7. **2021 Sen/Rawls:** criterion-relative improvement.
+8. **2022 order:** accept inequality risk; reject necessary freedom loss.
+9. **2022 Marx:** common measure versus need-sensitive equity with stage qualification.
+10. **2023 Rawls:** fair choice situation plus ordered principles.
+11. **2024 Plato:** soul, city, harmony and hierarchy objection.
+12. **2024 ideals:** strongest case and criticism for each; justice-based reconciliation.
+13. **2025 Mill:** civic, legal, women’s and individuality-compatible equality.
+14. **2025 without justice:** expose both ideals’ indeterminacy; justice supplies contested criteria.
+15. **2026 lexical order:** anti-aggregation, original position, determinacy, self-respect,
+    opportunity priority and favourable conditions.
+16. **2026 liberties:** non-interference, enabling agency, paternalism warning and non-domination.
 
-- Directive decoder: "discuss" = expose one live tension; "critically evaluate" =
-  objection-reply IS the answer; "how far" = degree judgment; "is X an
-  improvement?" = name the criterion first; "distinguish/compare" = shared axes +
-  adjudication.
-- Universal spine: DIRECTIVE -> THESIS -> DOCTRINE -> NAMED SOURCE/EXAMPLE ->
-  OBJECTION/REPLY -> GRADED VERDICT.
-- Quotation/factual discipline: no invented quotes, cases, article claims, dates
-  or statistics; cite named theories by author + year only; keep affirmative-
-  action policy in the Caste file.
-- PYQ routing: exactly 14 directly routed parts, 2018-2025 (1:2:1:3:2:1:2:2).
+## Final answer checklist
 
-> FINAL TRIGGER: substance = liberty + equality; form = justice. Name the ideal's
-> INDETERMINACY, then let justice order it. That single move answers the majority
-> of this clause's PYQs.
-
----
-
-# COVERAGE MATRIX
-
-| Canonical obligation | Lesson / final location | Basic doctrine | Argument, criticism and reply | PYQ / practice coverage |
-|---|---|---|---|---|
-| Triad and individual/social dimensions | Lesson 1 | Complete | Ordering thesis and master-value objection | 2018, 2024, 2025; MCQs 1-2 |
-| Equality: equal worth and four forms | Lesson 2 | Complete | Formal/substantive gap | 2024, 2025; MCQs 3-5 |
-| Opportunity and outcome | Lesson 2 | Complete | Incentive and structural-start replies | 2022, 2024, 2025 |
-| Rousseau | Lesson 3 | Complete | Natural/artificial distinction and romanticism objection | 2021 Q1(b) |
-| Mill on equality | Lesson 3 | Complete | Individuality, women and structural-limit criticism | 2025 Q1(e) |
-| Marx: equality and equity | Lesson 3 | Complete | Formal equality and need-sensitive reply | 2022 Q2(c) |
-| Equality of what: Sen, Cohen, Dworkin | Lesson 4 | Complete | Capability, ethos, luck and indeterminacy | 2021 Q2(a); cumulative practice |
-| Relational equality boundary | Lesson 4 | Bounded | Status/humiliation included; full recognition theory cross-referenced | Advanced drill |
-| Berlin and Mill on liberty | Lesson 5 | Complete | Paternalism, harm/offence and spillovers | 2020, 2022, 2024, 2026 |
-| Hobbes, Locke, Rousseau, Green | Lesson 6 | Complete | Security, rights, autonomy and enabling freedom | Comparative practice |
-| Liberty-equality relation | Lessons 6-7 | Complete | Threshold conflict and complementarity | 2018, 2019, 2022, 2024 |
-| Technological liberty | Lesson 7 | Complete | Surveillance, manipulation and convenience/autonomy | 2020 Q1(a) |
-| Republican non-domination | Lesson 7 | Complete | Benevolent-master argument, redundancy and arbitrariness objections | 2026 Q3(c) enrichment |
-| Formal/procedural/substantive justice | Lesson 8 | Complete | Fair process plus defensible substance | 2025 Q4(a); remedial practice |
-| Legal/political/socio-economic/status dimensions | Lesson 8 | Complete and bounded | Legality/legitimacy distinction | Constitutional application |
-| Plato | Lesson 8 | Complete | Harmony and hierarchy objection | 2019 Q1(a), 2024 Q1(a) |
-| Aristotle and criteria problem | Lesson 8 | Complete | Proportion, arithmetic, merit/desert/need | Original 10-marker support |
-| Corrective and compensatory justice | Lesson 8 | Complete and bounded | Structural extension, terminus and over-inclusion | Social-justice application |
-| Utilitarian justice | Lesson 8 | Complete | Aggregation objection and rule-utilitarian reply | Cumulative MCQs |
-| Rawls | Lesson 9 | Complete | Original position, principles, lexical order, reflective equilibrium | 2019, 2023, 2026 Q1(a) |
-| Nozick | Lesson 9 | Complete | Entitlement, Wilt Chamberlain, rectification weakness | 2021 Q1(a) |
-| Sen's justice | Lesson 9 | Complete | Niti/nyaya, comparison, capability, public reason | 2021 Q2(a) |
-| Ambedkar and fraternity | Lesson 9 | Philosophical bridge only | Social democracy and graded inequality | Composite answers |
-| Compatibility/tension of ideals | Lessons 1, 6, 7, 9 and 10 | Complete | Justice as ordering, not replacement | 2018, 2019, 2022, 2024, 2025 |
-| Answer writing and directives | Every lesson; final PYQ section | Complete | Discuss/explain/critically evaluate/how far/improvement | All 16 verified PYQs |
-| Original practice and remediation | Every lesson; final sections | Complete | 48 MCQs, 192 explanations, 10 micro-models, 3 full models | Continuous A-B-C-D rotation |
-| Topic firewall | Introduction, Lessons 1, 4, 8, 10 | Complete | Cross-references without syllabus duplication | Source ledger |
-
----
-
-# SOURCE LEDGER
-
-## Repository sources
-
-| Source | Use | Status / limitation |
-|---|---|---|
-| `paper-2/socio-political/Social-Political-Ideals.md` | Canonical doctrine, repaired justice taxonomy, lexical-order argument, boundaries and 2018-2026 routing | Primary owner; read in full |
-| learner-v2 Topic 01 learning session | Learner intuitions, visuals, revision prompts, applications and register notes | Completeness evidence, not structural authority |
-| complete session and solved-practice workbook dated 19 August 2026 | Cross-check of doctrines, 14 older PYQs, 48 MCQs and original Mains practice | Format wrappers removed; solved PYQ answers not reproduced |
-| `_advanced/Socio-Political-Dossier.md` | Equality metrics, relational equality and republican-liberty residue | Optional enrichment only |
-| `_PYQ-SocioPolitical-2018-2025.md` | Exact wording, marks, paper codes and ownership for 14 Topic 01 parts | Locally rechecked against held papers |
-| `_PYQ-SocioPolitical-2026-Supplement.md` | Exact 2026 Q1(a) and Q3(c), code KVMS-B-PHL and demand decode | Repository says OCR-transcribed from official paper; public UPSC page not located on 25 September 2026 |
-| semantic-completeness review dated 3 September 2026 | Gap and boundary audit; local-book page references | Review evidence, not a substitute for canonical reading |
-| section completion and Topic 01 deep-review reports | Revision history and known defects | Used only to identify gaps and retained evidence |
-
-## OCR-searchable local books
-
-| Book | Pages / function |
-|---|---|
-| O. P. Gauba, *An Introduction to Political Theory* | pp. 367-412 for liberty/equality; pp. 432-453 for justice taxonomy and perspectives |
-| *Socio-Political Philosophy* | pp. 7-11, 25-40 and 47-54 for equality, liberty and justice classifications |
-| Robert Audi (ed.), *The Cambridge Dictionary of Philosophy* | pp. 489-490 and 536 for justice and liberty terminology |
-
-## Primary thinkers and standard texts
-
-Plato, *Republic*; Aristotle, *Nicomachean Ethics* Book V and *Politics*; Rousseau,
-*Discourse on Inequality* and *Social Contract*; J. S. Mill, *On Liberty* and *The Subjection of
-Women*; Marx, *Critique of the Gotha Programme*; T. H. Green, *Liberal Legislation and Freedom of
-Contract*; Isaiah Berlin, *Two Concepts of Liberty*; John Rawls, *A Theory of Justice* and
-*Political Liberalism*; Robert Nozick, *Anarchy, State, and Utopia*; Amartya Sen, *The Idea of
-Justice*; Ronald Dworkin, *Sovereign Virtue*; G. A. Cohen, *Rescuing Justice and Equality*; Philip
-Pettit, *Republicanism* (1997); Quentin Skinner, *Liberty before Liberalism* (1998); B. R.
-Ambedkar's social-democracy formulation used as a philosophical bridge. All are paraphrased; no
-unverified quotation, page or edition claim is introduced.
-
-## Official constitutional, statutory and judicial illustrations
-
-| Official source | Claim used | Retrieval / status discipline |
-|---|---|---|
-| Constitution of India, Legislative Department | Preamble; Articles 14-16; basic-liberty framework through Articles 19 and 21 | Automated fetch returned HTTP 403 on 25 September 2026; repository-captured official reference used. Constitutional permission is not philosophical proof. |
-| Bonded Labour System (Abolition) Act, 1976, India Code | Legal attack on personal dependence | India Code automated fetch returned HTTP 403 on 25 September 2026; stable repository URL retained. Enactment is not proof of eradication. |
-| Sexual Harassment of Women at Workplace Act, 2013, India Code | Rule-governed duties and complaint machinery | Same retrieval limitation; no implementation claim made. |
-| Gazette S.O. 5322(E), 21 November 2025 | Commencement of specified Code on Wages, 2019 provisions | Official Gazette PDF retrieved on 25 September 2026. Commencement is distinguished from implementation. |
-| *K. S. Puttaswamy v. Union of India*, judgment dated 24 August 2017 | Privacy as a constitutional fundamental-rights illustration | Official Supreme Court PDF located through the Court domain; used as settled legal illustration, not a current-event claim. |
-| *Jane Kaushik v. Union of India*, 2025 INSC 1248, judgment dated 17 October 2025 | Recent illustration of structural barriers, accommodation and substantive equality | Official Supreme Court PDF located through the Court domain on 25 September 2026; holding is not treated as proof of one complete philosophical theory. |
-
-## Source limitations
-
-1. Qdrant was not used; Markdown and OCR-searchable local sources were sufficient.
-2. Automated retrieval of the Legislative Department and India Code pages returned HTTP 403.
-   No bypass was attempted; the canonical repository's already-verified official links were used
-   and the limitation is disclosed.
-3. Web search did not locate a public UPSC-hosted 2026 Philosophy Paper II page at retrieval time.
-   The 2026 wording therefore relies on the repository's OCR-verified official-paper supplement,
-   code KVMS-B-PHL.
-4. Current statutes and judgments establish legal text or holdings, not social outcomes.
-5. The affirmative-action policy record, recognition theorists, caste and gender applications,
-   forms of government, sovereignty and the full rights-duties theory remain outside this topic's
-   positive syllabus boundary.
+- Decode the directive.
+- Define the operative equality, liberty or justice.
+- Name the thinker’s exact doctrine.
+- Reconstruct the argument in premises.
+- State the presupposition.
+- Make one controlling distinction.
+- Use one example and state its limit.
+- Present the strongest objection.
+- Give the strongest reply and surviving residual.
+- Use legal illustrations only as bounded examples.
+- Respect cross-topic ownership.
+- End with a conditional or graded verdict that answers the printed words.
