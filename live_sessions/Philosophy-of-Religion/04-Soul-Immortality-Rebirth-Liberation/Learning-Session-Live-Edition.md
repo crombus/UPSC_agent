@@ -1,2484 +1,2191 @@
-# Philosophy of Religion Topic 04 — Soul, Immortality, Rebirth and Liberation
+# Soul, Immortality, Rebirth and Liberation — Clean-Room Live Session
 
-**UPSC Philosophy Optional · Paper II · Philosophy of Religion**
+> **Syllabus owner:** Philosophy Optional, Paper II, Philosophy of Religion, clause 4: “Soul: Immortality; Rebirth and Liberation.”
+>
+> **Provenance reset:** Every substantive teaching paragraph, diagnostic, visual, practice item, PYQ route, model answer and register in this edition has been newly composed from the permitted doctrinal and audit authorities recorded in the final ledger. No prohibited final learner package, solved workbook or learner-v2 artefact supplies substantive teaching content or prose; the four approved benchmark live sessions listed in the ledger supplied pedagogic architecture only.
+>
+> **Ownership rule:** Any demand fixed by the syllabus or by a verified primary-owned PYQ is Core. Advanced material is dispensable refinement. Expert material is a single bounded discriminator and must never carry a basic answer.
 
-> **Evidence key:** ✅ Fact or standard doctrine directly supported by the audited sources. ⚠️ Analytical inference, comparison, evaluation or answer-writing judgement.
+## How to use the three tiers
 
-## Learner roadmap
+| Tier | Function | Completion test |
+|---|---|---|
+| **Must-Needed / Core** | Teaches every owned distinction and all 17 verified 2018–2025 PYQs | You can identify the continuity-bearer, reconstruct the argument, state the objection and give a school-specific verdict |
+| **Optional Advanced** | Adds second-order tests of explanatory economy and comparison | Removing it leaves every Core answer complete |
+| **Bounded Expert** | Supplies one precise identity discriminator | Use at most one line when it directly sharpens the stem; otherwise stop |
 
-The topic becomes manageable when one asks a sequence of dependent questions. What kind of thing could survive? What would make the survivor the same person? Can survival be argued for? If there is no permanent self, can karma and rebirth continue? What is bondage, what exactly is liberated, and why do schools prescribe different paths?
+## Dependency-led roadmap
 
-| Lesson | Learning dependency | Main outcome |
+```text
+Vocabulary → identity criterion → survival arguments → rebirth mechanism
+     ↓              ↓                    ↓                  ↓
+immortality     resurrection          Plato            karma / anātman
+     └──────────────────────→ rival liberations ←──────────┘
+                                  ↓
+                         paths and necessity tests
+                                  ↓
+                         PYQ answer construction
+```
+
+| Lesson | Core task | Main ownership |
 |---:|---|---|
-| 1 | What do the key words mean? | Separate soul, self, person, survival, immortality, rebirth, reincarnation, resurrection and liberation |
-| 2 | What makes a later being “me”? | Compare bodily, memory, soul-substance and causal-continuity criteria |
-| 3 | Can reason prove immortality? | Reconstruct Plato’s four *Phaedo* arguments and assess each separately |
-| 4 | What other arguments support survival? | Test simplicity, moral-order, desire, experience and body–brain arguments |
-| 5 | Why does karma require more than one life? | Explain karma, saṃsāra, rebirth, freedom and moral responsibility |
-| 6 | Can rebirth occur without a soul? | Understand Buddhist *anātman*, dependent origination and causal continuity |
-| 7 | How do Hindu traditions connect self, rebirth and liberation? | Compare the *Gītā*, Advaita, Viśiṣṭādvaita, Nyāya and Sāṃkhya-Yoga |
-| 8 | How does Jain bondage work? | Trace *jīva*, karmic matter, influx, stoppage, shedding and perfected individuality |
-| 9 | Why is “liberation” not one state? | Compare mokṣa, nirvāṇa, apavarga, kaivalya and siddhahood |
-| 10 | How can one be liberated while living? | Explain Advaita knowledge, *jīvanmukti*, *prārabdha* and the agent problem |
-| 11 | Why does Viśiṣṭādvaita keep the agent real? | Contrast sublated individuality with enduring agency, communion and grace |
-| 12 | Which path liberates: knowledge, action or devotion? | Compare production/removal models, bhakti, surrender, effort and grace |
-| 13 | How do rebirth and resurrection differ? | Compare cyclic re-embodiment, divine reconstitution and identity problems |
-| 14 | Are immortality and rebirth necessary for liberation? | Build the final modal verdict, objection–reply map and UPSC answer method |
+| 1 | Separate soul, person, survival, rebirth and liberation | R04-01–02 |
+| 2 | Test identity and resurrection | R04-09–12 |
+| 3 | Reconstruct Plato’s four arguments | R04-03–07 |
+| 4 | Compare Hindu continuity-bearers and the Gītā | R04-13–14, R04-19 |
+| 5 | Explain karma, rebirth and reincarnation | R04-15–18, R04-24 |
+| 6 | Explain Buddhist rebirth without self | R04-20, R04-23 |
+| 7 | Explain Jain soul, bondage and non-creator rebirth | R04-21–22, R04-30 |
+| 8 | Separate six liberation destinations | R04-31–33, R04-36 |
+| 9 | Explain Advaita liberation and jīvanmukti | R04-26–27 |
+| 10 | Compare Advaita and Viśiṣṭādvaita agency | R04-28–29 |
+| 11 | Evaluate knowledge, action, devotion, grace and effort | R04-34–35, R04-37 |
+| 12 | Assess wider immortality arguments and religious presupposition | R04-08, R04-12 |
+| 13 | Run two independent necessity tests | R04-23, R04-25 |
+| 14 | Convert doctrine into marks-sensitive answers | all 17 PYQs |
 
-```text
-WHAT AM I?
-   ↓
-WHAT MAKES ME THE SAME THROUGH CHANGE?
-   ↓
-CAN I SURVIVE DEATH?
-   ↓
-HOW CAN KARMA CONTINUE ACROSS LIVES?
-   ↓
-WHAT BINDS — SOUL, STREAM, OR MISIDENTIFICATION?
-   ↓
-WHAT ENDS — PAIN, IGNORANCE, CRAVING, KARMA, OR SEPARATION?
-   ↓
-WHICH PATH FITS THAT DIAGNOSIS?
-   ↓
-IS AN IMMORTAL SOUL REALLY NECESSARY?
-```
+# MUST-NEEDED / CORE LEARNING SESSION
 
----
-
-## Lesson 1 — The Vocabulary Gate: What Exactly Is Supposed to Survive?
-
-Progress: 1/14 | Stage: Foundation | Subtopic: Soul, self, person and the six survival terms
+## Lesson 1 — The Grammar of Survival
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Queried — exact complete learner-session PDF; John Hick, *Philosophy of Religion*, chapter on human destiny; Oxford Handbook chapter “Death and the Afterlife”.
-CA search: "official philosophy soul immortality rebirth liberation September 2026"
-CA found: None with direct doctrinal relevance in the last six months; this is a timeless conceptual topic.
+📚 Book context: canonical clause-4 Markdown and coverage rows R04-01–02 queried
+🔍 CA Search: not used; this clean-room rebuild is restricted to the authorised repository sources
+📰 CA Found: not applicable to this conceptual lesson
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual first — one family of questions, several different claims
+Progress: 1 / 14  |  Stage: Foundation  |  Subtopic: concepts and continuity-bearers
+
+### Visual — one question, five non-equivalent claims
 
 ```text
-SOUL / SELF / PERSON
-        │
-        ├── SURVIVAL: some later subject is genuinely me
-        ├── IMMORTALITY: the soul is naturally deathless
-        ├── REBIRTH: karmically conditioned re-becoming
-        ├── REINCARNATION: a substantial soul enters new flesh
-        ├── RESURRECTION: God restores the embodied person
-        └── LIBERATION: bondage or the cycle comes to an end
-
-Three different tests:
-existence after death ≠ repeated birth ≠ freedom from birth
+BODY DIES
+   ├─ Does anything continue? ───────────── post-mortem survival
+   ├─ Is what continues naturally deathless? immortality
+   ├─ Does it enter another embodied life? ─ rebirth
+   ├─ Is a substantial soul re-embodied? ─── reincarnation
+   └─ Does bondage finally end? ──────────── liberation
 ```
 
-*The map prevents the foundational error of treating every post-mortem doctrine as a synonym.*
+The word “afterlife” hides several claims. **Pre-existence** means existence before this birth; it does not entail survival after death. **Immortality** means incapacity to perish or indefinite survival; it does not itself cause another birth. **Rebirth** requires some continuity between lives, but Buddhism denies that this continuity must be an unchanging substance. **Liberation** concerns release from bondage or suffering and may be embodied, post-mortem or described without an eternal self.
 
-### 1. Begin with an ordinary question
+### Competing continuity-bearers
 
-If your memories were copied into another body, would that later being be you? If a soul left your body but carried no memories or character, would that be your survival? These questions show that “something continues” is weaker than “I continue”.
-
-✅ **Soul** usually means a non-bodily or more-than-bodily bearer of life, consciousness or identity. **Self** is broader: it may be a substance, a witness, a bundle, a causal stream or the empirical person. **Person** emphasizes the subject of agency, responsibility and social recognition.
-
-### 2. Six terms that must remain separate
-
-| Term | Minimal claim | What it does not yet establish |
+| Model | Proposed bearer | Immediate consequence |
 |---|---|---|
-| Survival | A later subject is numerically the same person | Natural indestructibility |
-| Immortality | The soul cannot or does not die | Repeated earthly lives |
-| Rebirth | A new life arises in causal or karmic continuity | A permanent soul |
-| Reincarnation | An enduring soul is re-embodied | Resurrection or final release |
-| Resurrection | God reconstitutes the embodied person after one life | A beginningless karmic cycle |
-| Liberation | Bondage, ignorance, craving or saṃsāra ends | Any one uniform final state |
+| Substance dualism | an immaterial thinking subject | bodily death need not end the subject |
+| Hylomorphism | soul as the form of a living body | full personal survival points toward restored embodiment |
+| Embodied-person view | the psychophysical person | a separable soul is insufficient to preserve the person |
+| Indian enduring-self views | *ātman*, *jīva* or a distinct self-substance | transmigration can be attributed to a persisting bearer |
+| Buddhist process view | causally ordered aggregates | rebirth can occur without numerical identity of a soul |
 
-**Example with a limit:** A traveller changing clothes fits the *Gītā*’s substantial-self model of rebirth. It does not fit Buddhism, because Buddhism denies that an unchanged traveller moves between bodies.
+A strong answer names the bearer before describing its fate. “The soul survives” is incomplete until “soul” is specified. Nor may qualitative similarity be confused with numerical identity: two objects can be exactly alike without being one and the same object.
 
-### 3. The first philosophical burden
+### Argument, objection and reply
 
-Every theory must answer:
-
-1. **Bearer:** What continues?
-2. **Relation:** In what sense is the later being connected to the earlier?
-3. **Mechanism:** Soul-nature, karma, divine action or causal dependence?
-4. **Goal:** Continued life, judgement, rebirth or release?
-5. **Evidence:** Argument, scripture, experience or practical postulate?
-
-⚠️ A doctrine can answer one question while leaving another open. Plato may argue for a deathless soul without explaining resurrection. Buddhism may explain karmic continuity without numerical identity.
-
-### 4. Strongest objection and reply
-
-**Objection:** These distinctions are verbal; every view simply says life somehow continues.
-
-**Reply:** Their logical structures conflict. Resurrection normally presupposes one earthly life and divine reconstitution; rebirth presupposes a series of lives; liberation aims to end that series. Buddhism denies the substance required by reincarnation, while Advaita and Jainism affirm radically different enduring realities.
-
-**Residual:** The shared word “continuity” still hides disagreement about whether causal connection is enough for survival.
+**Argument:** responsibility across lives appears to require a subject to whom action and result belong. **Objection:** causal and psychological relations may connect stages without a permanent owner. **Reply:** substantialists insist that causal succession explains influence but not why the later experiencer is *the same* subject. The dispute is therefore about the criterion of sameness, not merely whether later events occur.
 
 ### UPSC application
 
-- **Syllabus use:** Every answer in this clause must begin by fixing the term under examination.
-- **PYQ linkage:** 2019 Q8(a), 20 marks, requires separate definitions of karma, rebirth and reincarnation before their relation is explained.
-- **Trap:** “Rebirth in heaven” confuses resurrection, afterlife and saṃsāra.
-- **Answer use:** Open necessity questions with the formula: “The claim concerns what is required, not merely what is commonly associated.”
+Begin any clause-4 answer with two definitions and one relation. For example: “Immortality concerns survival; rebirth concerns renewed embodiment. The former is neither universally necessary nor sufficient for the latter.” That sentence prevents the most common conflation.
+
+### Traps
+
+- Do not treat “soul,” “self” and “person” as automatically coextensive.
+- Do not infer post-mortem survival from pre-birth existence.
+- Do not assume that every theory of rebirth is reincarnation.
 
 ### Revision notes
 
-1. Soul, self and person answer different metaphysical questions.
-2. Survival means numerical persistence, not mere resemblance.
-3. Immortality is natural deathlessness of a soul.
-4. Rebirth is wider than reincarnation.
-5. Reincarnation presupposes a substantial continuant.
-6. Resurrection is one-life, divine reconstitution.
-7. Liberation is exit from bondage, not continued existence.
-8. Every theory needs a bearer, relation, mechanism, goal and warrant.
-9. An analogy illustrates a model but does not prove it.
-10. “Continuity” may be substantial, psychological, bodily or causal.
+1. Survival is the widest question.
+2. Immortality is a modal claim about perishing.
+3. Rebirth is a continuity claim across embodied lives.
+4. Reincarnation normally presupposes a substantial bearer.
+5. Liberation asks what bondage ends and what remains.
+6. Numerical identity is stricter than exact resemblance.
 
 ### Local practice
 
-**MCQ 1: A**
+**MCQ 1**
 
-Which statement preserves the most important conceptual distinction?
+Which formulation best preserves the distinctions required by the syllabus?
 
-A. Rebirth can be affirmed without reincarnation because rebirth need not posit a transmigrating substance.
-B. Resurrection is one episode within a beginningless series of karmic births.
-C. Immortality and liberation both mean that the individual continues forever.
-D. Survival requires that every memory and bodily particle remain unchanged.
+A. Rebirth requires some continuity, but not every account requires an immortal substance-soul.
+B. Immortality, rebirth and liberation are three names for one event.
+C. Any pre-existent entity must survive every future death.
+D. Liberation necessarily means an immortal person enters another body.
 
-- **A — Correct:** Buddhism affirms renewed becoming without an enduring soul, so rebirth is the wider category.
-- **B — Incorrect:** Resurrection belongs to a linear, divinely completed history rather than a karmic cycle.
-- **C — Incorrect:** Liberation may end individual or cyclic existence instead of perpetuating it.
-- **D — Incorrect:** No major identity theory requires complete preservation of memories and matter.
+**MCQ 1 — Answer and explanation**
 
-**MCQ 2: B**
+**Correct answer: A**
 
-Why must an answer distinguish survival from immortality?
+- **A — Correct:** MCQ 1: It states the minimum continuity requirement while leaving the Buddhist countermodel open.
+- **B — Incorrect:** MCQ 1: It erases the separate modal, continuity and soteriological questions.
+- **C — Incorrect:** MCQ 1: Pre-existence establishes an earlier phase only, not indestructibility.
+- **D — Incorrect:** MCQ 1: Several schools end rebirth, and Buddhism denies a permanent person.
 
-A. Survival always requires bodily resurrection, whereas immortality never concerns a person.
-B. Survival asks whether the later subject is the same person; immortality claims that a soul is deathless by nature.
-C. Survival is a Buddhist term, whereas immortality is exclusively Platonic.
-D. Survival concerns liberation, whereas immortality concerns only moral responsibility.
+**MCQ 2**
 
-- **A — Incorrect:** Survival may be defended through soul, body, memory or causal relations; it is not tied only to resurrection.
-- **B — Correct:** The two claims differ in both subject and logical strength.
-- **C — Incorrect:** Both terms are comparative philosophical categories rather than exclusive school vocabulary.
-- **D — Incorrect:** Survival and immortality can both arise outside liberation and moral-desert debates.
+Two beings have identical memories and character. What follows without an additional identity criterion?
 
-**Remediation cue:** If terms blur, write one line each answering “what continues?”, “how?”, and “toward what end?”
+A. They must be one and the same being.
+B. They are qualitatively alike, but numerical identity has not yet been established.
+C. Neither can count as a person.
+D. Both must contain the same immaterial soul.
 
----
+**MCQ 2 — Answer and explanation**
 
-## Lesson 2 — Personal Identity: What Makes the Later Being Me?
+**Correct answer: B**
 
-Progress: 2/14 | Stage: Foundation | Subtopic: Body, memory, soul-substance and causal continuity
+- **A — Incorrect:** MCQ 2: Duplication shows that exact similarity can branch into more than one candidate.
+- **B — Correct:** MCQ 2: The distinction between qualitative similarity and being numerically one is precisely the unresolved issue.
+- **C — Incorrect:** MCQ 2: Personhood does not disappear merely because identity is disputed.
+- **D — Incorrect:** MCQ 2: Psychological resemblance does not establish a shared substance.
+
+## Lesson 2 — Identity after Death and the Resurrection Test
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Queried — Oxford Handbook “Death and the Afterlife”; Stanford Encyclopedia of Philosophy, “Personal Identity”; John Hick’s replica discussion.
-CA search: "personal identity after death philosophy scholarly update 2026"
-CA found: No direct current-affairs development; recent public discussion does not alter the standard persistence problem.
+📚 Book context: canonical sections on personal identity, resurrection and replica theory queried
+🔍 CA Search: not used under the restricted clean-room source rule
+📰 CA Found: not applicable
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual first — four rival continuity bridges
+Progress: 2 / 14  |  Stage: Foundation  |  Subtopic: identity criteria and religious presupposition
 
-| Bridge across time | What secures identity? | Failure test |
+### Visual — four bridges across death
+
+| Bridge | What links earlier and later person? | Principal difficulty |
 |---|---|---|
-| Bodily continuity | One continuing organism or appropriately restored body | Replacement and reassembly |
-| Psychological continuity | Memory, intention, character and connected consciousness | False memory and duplication |
-| Soul-substance | One indivisible immaterial bearer | Individuation and evidence |
-| Causal continuity | The later stream depends on the earlier stream | Responsibility without sameness |
+| Soul | one immaterial subject | individuation and body-dependence |
+| Memory/psychology | overlapping memory, intention and character | circularity, amnesia and branching |
+| Body | continued organism or preserved material core | interruption and replacement |
+| Divine reconstitution | God restores the whole person | how restoration differs from creating a duplicate |
 
-*Each bridge preserves something different; no theory may borrow the advantages of another without paying its metaphysical cost.*
+**Resurrection** is not serial karmic rebirth. It normally involves one earthly life, death, divine raising and restored embodied life. Natural immortality instead attributes deathlessness to the soul itself. These two pictures can coexist in some theologies, but they answer different questions: one asks what the soul is by nature; the other asks what God does to the person.
 
-### 1. Numerical and qualitative identity
+### Three resurrection proposals
 
-Two copies of the same book are qualitatively alike but numerically two. Survival asks for numerical identity: is the later person the very same subject, not merely a perfect duplicate?
+1. **Aquinas’ hylomorphic route:** the rational soul is the form of the body and secures continuity when embodiment is restored. Pressure: how does a disembodied form remain the form of *this* body?
+2. **Peter van Inwagen’s preservation route:** God preserves the relevant organism or core. Pressure: it avoids replacement only by adding a controversial preservation story.
+3. **John Hick’s replica route:** a unique psychophysical replica with the same memory and character counts as the survivor. Pressure: if two replicas are possible, similarity cannot choose which one is numerically identical.
 
-### 2. Locke’s memory route and its pressure
+The **gap problem** asks what carries identity between death and raising. The **duplication problem** asks why one perfect copy is the person rather than merely a successor. Both expose the difference between evidence by which we recognise someone and the relation that constitutes identity.
 
-✅ Locke connects personhood with consciousness extending backward through memory. Memory explains why responsibility follows remembered action.
+Oscar Cullmann’s sharp contrast between Greek soul-immortality and resurrection is useful because it prevents automatic merger, but it must be qualified: Christian anthropologies differ, and the comparison does not prove that no theology can combine a soul with bodily resurrection.
 
-**Circularity objection:** Genuine memory already presupposes that the remembered act was mine. Apparent memories can be implanted.
+### Is immortality a presupposition of religion?
 
-**Reply:** Psychological-continuity theories broaden memory into overlapping chains of intentions, character and experience.
-
-**Residual:** Branching is possible. If two future persons inherit equally complete psychological continuity, both cannot be numerically identical with one earlier person.
-
-### 3. Soul-substance
-
-A soul theory avoids branching by giving identity one bearer. Even if memory changes, the same soul remains.
-
-**Strong objection:** How are distinct souls individuated if each is simple and without observable features? How can anyone know that the soul attached to the later person is the earlier one?
-
-**Reply:** The defender says identity is metaphysical before it is epistemically detectable; ignorance of the bearer does not abolish it.
-
-### 4. Embodied-person and replica theories
-
-John Hick imagines a person disappearing and an exact psychophysical replica appearing elsewhere with the same memories and character. If there is only one replica, ordinary recognition may treat it as survival.
-
-**Limit of the thought experiment:** If two replicas appear, qualitative and psychological sameness cannot determine which is the original. Uniqueness helps practical recognition but may not establish identity.
-
-### 5. Causal continuity
-
-Buddhism can reject strict identity while preserving a morally relevant causal series. The later person is neither the same substance nor wholly unrelated.
-
-⚠️ This changes the question from “Which entity persists?” to “What degree of causal connectedness is enough for responsibility and liberation?”
+Some religions require continuing life for judgement, fulfilment or union with God. Yet this supports only a conditional claim: *if* a religion promises post-mortem fulfilment, it needs an account of continuity. It does not prove that a naturally immortal separable soul defines religion. Resurrection supplies future life without that exact thesis; Buddhism supplies religious discipline and liberation without eternal *ātman*.
 
 ### UPSC application
 
-- **PYQ linkage:** 2022 Q5(c) and 2024 Q6(a) turn on whether causal continuity can replace soul identity.
-- **Probable framing:** “Does memory establish personal survival?” or “Can responsibility survive numerical non-identity?”
-- **Answer use:** Distinguish the metaphysical question of persistence from the evidential question of recognizing persistence.
+For the 2020 ten-marker, define “presupposition” before evaluating it. Distinguish (a) survival of some sort, (b) natural immortality, and (c) religion as such. Conclude that some soteriologies presuppose continuity, while religion does not universally presuppose a deathless substance-soul.
+
+### Traps
+
+- Resurrection is not “rebirth in heaven.”
+- A unique replica is a proposal, not a demonstrated identity relation.
+- Future life and inherent immortality are not synonymous.
 
 ### Revision notes
 
-1. Numerical identity means being one and the same entity.
-2. Qualitative identity means exact similarity.
-3. Bodily continuity fits embodied-person theories.
-4. Memory gives psychological connectedness but risks circularity.
-5. Overlapping psychological chains improve on one-memory tests.
-6. Branching defeats a simple psychological identity rule.
-7. Soul-substance blocks branching but faces individuation and evidence problems.
-8. Hick’s replica is a thought experiment, not proof.
-9. A unique replica may satisfy recognition without settling metaphysical identity.
-10. Buddhist causal continuity preserves dependence without an unchanging owner.
-11. Persistence and evidence of persistence must not be merged.
+1. Resurrection restores embodied personhood by divine action.
+2. Rebirth belongs to a series governed by karma or dependent causation.
+3. The gap problem concerns interruption; duplication concerns branching.
+4. Memory can evidence identity without necessarily constituting it.
+5. The 2020 claim is qualified, not simply affirmed or denied.
 
 ### Local practice
 
-**MCQ 3: C**
+**MCQ 3**
 
-What does the duplication objection show against a pure psychological-continuity criterion?
+Which contrast is most accurate?
 
-A. Memory can never provide any evidence about the past.
-B. Bodily continuity is logically impossible after death.
-C. Two equally continuous successors cannot both be numerically identical with one predecessor.
-D. An immaterial soul must possess bodily parts.
+A. Resurrection and rebirth differ only in vocabulary.
+B. Resurrection requires a naturally immortal Platonic soul.
+C. Resurrection is divine reconstitution after one life, whereas rebirth is renewed becoming within a series.
+D. Rebirth always culminates in a final judgement by a creator.
 
-- **A — Incorrect:** Memory remains evidence even if it cannot alone constitute identity.
-- **B — Incorrect:** The objection targets branching psychology, not the possibility of bodily persistence.
-- **C — Correct:** One-to-many continuity reveals that resemblance and connectedness are not automatically identity.
-- **D — Incorrect:** The argument makes no claim that souls have spatial components.
+**MCQ 3 — Answer and explanation**
 
-**MCQ 4: D**
+**Correct answer: C**
 
-Which formulation best captures the strength and limit of Hick’s replica case?
+- **A — Incorrect:** MCQ 3: Their mechanisms, temporal structures and identity-bearers differ.
+- **B — Incorrect:** MCQ 3: A raising doctrine can instead make future life depend on divine action.
+- **C — Correct:** MCQ 3: It separates linear divine restoration from cyclic or serial re-embodiment.
+- **D — Incorrect:** MCQ 3: Buddhist and Jain accounts do not require such judgement.
 
-A. It demonstrates that a replica contains the original immaterial soul.
-B. It proves that bodily matter is irrelevant to personal identity.
-C. It refutes every resurrection theory by showing that God cannot recreate a person.
-D. It makes survival through a unique psychophysical successor conceivable, while duplication leaves numerical identity unsettled.
+**MCQ 4**
 
-- **A — Incorrect:** The scenario does not inspect or establish a soul-substance.
-- **B — Incorrect:** A psychophysical replica includes a body and therefore does not simply discard embodiment.
-- **C — Incorrect:** Hick offers the case as a defence of conceivable survival, not as a refutation of resurrection.
-- **D — Correct:** The case supports intelligibility but does not defeat the branching objection.
+What is the strongest duplication objection to a replica account?
 
-**MCQ 5: A**
+A. A replica cannot resemble the deceased.
+B. God cannot create embodied beings.
+C. Memory never has evidential value.
+D. If two equally exact replicas can exist, qualitative continuity cannot determine which is the original person.
 
-Which question is epistemic rather than metaphysical?
+**MCQ 4 — Answer and explanation**
 
-A. What evidence would show that the later being is the earlier person?
-B. What relation constitutes persistence through time?
-C. Can one entity branch into two numerically identical successors?
-D. Is a soul the bearer of identity?
+**Correct answer: D**
 
-- **A — Correct:** It asks how identity can be known rather than what identity consists in.
-- **B — Incorrect:** This asks for the constitutive relation of persistence.
-- **C — Incorrect:** This concerns the logical structure of numerical identity.
-- **D — Incorrect:** This proposes a metaphysical bearer, not a test for recognizing it.
+- **A — Incorrect:** MCQ 4: The proposal expressly grants exact resemblance.
+- **B — Incorrect:** MCQ 4: The objection concerns identity, not divine power.
+- **C — Incorrect:** MCQ 4: Memory may be evidence even if it does not constitute identity.
+- **D — Correct:** MCQ 4: Branching reveals that perfect similarity is weaker than numerical identity.
 
-**Remediation cue:** For every identity theory, write two separate lines: “identity consists in…” and “we know it through…”.
+**MCQ 5**
 
----
+Which verdict best answers whether immortality is a basic presupposition of religion?
 
-## Lesson 3 — Plato’s Four A Priori Arguments for Immortality
+A. Some religious ends require continuity, but natural soul-immortality is not necessary for religion as such.
+B. Every religion teaches an indestructible separable soul.
+C. No religion connects its goal with post-mortem life.
+D. Only empirical proof of an afterlife can make a practice religious.
 
-Progress: 3/14 | Stage: Core | Subtopic: Opposites, recollection, affinity and the Form of Life
+**MCQ 5 — Answer and explanation**
+
+**Correct answer: A**
+
+- **A — Correct:** MCQ 5: It grants the limited soteriological need without universalising one anthropology.
+- **B — Incorrect:** MCQ 5: Buddhism is an immediate counterexample.
+- **C — Incorrect:** MCQ 5: Many resurrection and afterlife traditions plainly do.
+- **D — Incorrect:** MCQ 5: Religious classification does not depend on such proof.
+
+## Lesson 3 — Plato’s Four Arguments: Four Separate Burdens
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Queried — Plato material in the canonical file; exact learner PDF; John Hick; Oxford Handbook; Stanford Encyclopedia of Philosophy “Afterlife”.
-CA search: "Plato Phaedo immortality argument scholarly discussion 2026"
-CA found: No current event changes the classical arguments; primary-text reconstruction controls.
+📚 Book context: canonical Plato dossier and coverage rows R04-03–07 queried
+🔍 CA Search: not used under the restricted clean-room source rule
+📰 CA Found: not applicable
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual first — four arguments, four distinct burdens
+Progress: 3 / 14  |  Stage: Core  |  Subtopic: *Phaedo* arguments and objections
+
+### Visual — the argumentative sequence
 
 ```text
-OPPOSITES ── living comes from dead ──► recurrence?
-RECOLLECTION ── knowledge exceeds sense ──► pre-existence?
-AFFINITY ── soul resembles simple Forms ──► indissolubility?
-FORM OF LIFE ── soul essentially brings life ──► cannot admit death?
-
-Critical bridge:
-PRE-EXISTENCE before birth ──X──► SURVIVAL after death
+Opposites ── suggests a life/death cycle
+Recollection ── supports pre-existence
+Affinity ── makes survival probable by likeness
+   │       ├─ Simmias: harmony may perish with instrument
+   │       └─ Cebes: weaver may outlive many cloaks yet die
+Final Life argument ── soul brings life and cannot admit death
+                         └─ residual leap: deathless → indestructible?
 ```
 
-*The arguments support one another, but each must be evaluated for the exact conclusion it reaches.*
+### The four arguments
 
-### 1. The cyclical argument from opposites
-
-✅ In the *Phaedo*, Plato argues that opposites arise from opposites: waking from sleeping, larger from smaller, and living from dead. If life did not arise again from death, the process would terminate in universal death.
-
-**Objection:** Not every predicate has a symmetrical generation process. “Becoming alive” may describe biological generation rather than a soul’s return.
-
-**Reply:** Plato treats the cycle as a metaphysical condition of balance, not merely an observed biological sequence.
-
-**Residual:** The argument suggests recurrence but does not establish that this individual soul is indestructible.
-
-### 2. Recollection
-
-We judge two sticks imperfectly equal by reference to Equality itself, which no sensible pair perfectly displays. Plato infers that the soul knew the Forms before embodiment and learning is recollection.
-
-**What it establishes:** At most, pre-natal existence.
-
-**Strong objection:** Conceptual standards may arise through abstraction or innate cognitive structure without a personally pre-existent soul.
-
-**Reply:** Plato argues that sensory instances presuppose, rather than generate, the perfect standard by which they are judged.
-
-**Residual:** Pre-existence does not entail post-mortem survival.
-
-### 3. Affinity
-
-The body is visible, composite and changing; the soul is invisible and rational, resembling stable, intelligible Forms. What is composite decomposes; what is simple is less liable to dissolution.
-
-**Simmias’ harmony objection:** A harmony is invisible and ordered yet depends on an instrument; the soul may similarly perish when the body breaks.
-
-**Plato’s reply:** The soul governs bodily desires and, through recollection, pre-exists its instrument.
-
-**Residual:** Resemblance to the Forms is not identity with them, and simplicity does not entail everlasting existence.
-
-### 4. The final argument from the Form of Life
-
-Fire essentially brings heat and cannot admit cold while remaining fire. Likewise, soul essentially brings life; it cannot admit death while remaining soul. Therefore it withdraws rather than dies.
-
-**Strong objection:** The argument establishes that a soul, if present, is living; it may not establish that the soul cannot cease to exist altogether.
-
-**Reply:** Plato treats essential participation in Life as excluding death, not merely as a temporary property.
-
-### 5. Kantian pressure
-
-Kant’s paralogism warns that the unity of “I think” does not license knowledge of a simple, permanent soul-substance. The subject required for experience is not thereby an object whose immortality can be theoretically demonstrated.
-
-### UPSC application
-
-- **Verified PYQ:** 2023 Q6(a), 20 marks: “Critically examine Plato’s apriori proofs for the immortality of the soul.”
-- **Demand:** Four reconstructions, four local assessments, Simmias, and a final graded verdict.
-- **Trap:** Listing the arguments and attaching one generic criticism does not satisfy “critically examine”.
-- **Answer verdict:** The arguments form a mutually supporting case for intelligibility and pre-existence, not a demonstrative proof of indestructibility.
-
-### Revision notes
-
-1. Plato’s four arguments are Opposites, Recollection, Affinity and Form of Life.
-2. Opposites seeks a life–death cycle.
-3. Recollection argues from deficient sensible instances to prior knowledge of Forms.
-4. Recollection reaches pre-existence, not survival by itself.
-5. Affinity links soul with invisible, stable and simple reality.
-6. Simmias compares soul to bodily harmony.
-7. Plato replies that soul governs and pre-exists the body.
-8. The final argument makes soul essentially life-bearing.
-9. A thing may exclude death while present yet still cease; this is the final argument’s pressure point.
-10. Kant denies theoretical knowledge of a permanent soul-substance.
-11. Assess each proof separately before giving a cumulative verdict.
-
-### Local practice
-
-**MCQ 6: B**
-
-What is the direct conclusion of Plato’s recollection argument?
-
-A. The body will be reconstituted after final judgement.
-B. The soul existed before embodiment and had acquaintance with the Forms.
-C. Every simple object is necessarily indestructible.
-D. Living organisms arise biologically from dead organisms.
-
-- **A — Incorrect:** Recollection concerns pre-existence, not eschatological resurrection.
-- **B — Correct:** The argument infers prior acquaintance from knowledge not exhausted by sensory instances.
-- **C — Incorrect:** Simplicity belongs to the affinity argument and remains contested.
-- **D — Incorrect:** The argument does not offer a biological theory of generation.
-
-**MCQ 7: C**
-
-Why is Simmias’ harmony analogy a serious objection?
-
-A. It denies that bodies contain ordered relations.
-B. It proves that the soul is material.
-C. It shows that something invisible and ordered may still depend on and perish with a bodily instrument.
-D. It establishes that recollection occurs after death.
-
-- **A — Incorrect:** The analogy depends on bodily order rather than denying it.
-- **B — Incorrect:** A harmony is not material in the ordinary sense; the point is dependence.
-- **C — Correct:** It blocks the inference from invisibility or order to independent survival.
-- **D — Incorrect:** Recollection is Plato’s reply-resource, not the conclusion of Simmias’ objection.
-
-**MCQ 8: D**
-
-Which criticism is most precise against the affinity argument?
-
-A. The soul cannot be invisible because thoughts are observable.
-B. Every composite thing is immortal.
-C. The Forms are bodily objects.
-D. Resemblance to what is simple and stable does not make the soul identical with or as indestructible as the Forms.
-
-- **A — Incorrect:** Observable behaviour does not settle whether the bearer of thought is visible.
-- **B — Incorrect:** Plato and his critics agree that composites are liable to dissolution.
-- **C — Incorrect:** Forms are introduced as intelligible, not bodily, realities.
-- **D — Correct:** The disputed move is from affinity to possession of the Forms’ mode of existence.
-
-**MCQ 9: A**
-
-What is Kant’s deepest challenge to rational proofs of soul-immortality?
-
-A. The formal unity of consciousness does not give theoretical knowledge of a simple permanent substance.
-B. The soul is empirically visible but spatially indivisible.
-C. Moral responsibility logically entails bodily resurrection.
-D. Recollection proves only future existence.
-
-- **A — Correct:** Kant blocks the move from the “I think” to a knowable immortal entity.
-- **B — Incorrect:** Kant does not treat the soul as an empirically visible object.
-- **C — Incorrect:** Moral postulation and resurrection are different arguments not contained in the paralogism.
-- **D — Incorrect:** Recollection points backward to pre-existence, not forward by itself.
-
-**Remediation cue:** Draw four columns: argument, immediate conclusion, hidden assumption, strongest objection.
-
----
-
-## Lesson 4 — Other Arguments for Immortality and the Body–Brain Challenge
-
-Progress: 4/14 | Stage: Core | Subtopic: Simplicity, identity, moral order, desire, experience and dependence
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Queried — John Hick’s immortality chapter; Oxford Handbook on death and afterlife; canonical argument-family table.
-CA search: "neuroscience consciousness survival after death official research 2026"
-CA found: No official finding establishes post-mortem personal survival; empirical dependence findings must not be converted into a deductive disproof.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-### Visual first — five argument families and the burden shift
-
-| Argument | Intuitive pull | Main pressure |
+| Argument | Premise and result | Focused criticism |
 |---|---|---|
-| Simplicity | A partless soul cannot decompose | It may cease or depend on embodiment |
-| Unity/identity | One subject unifies experience and responsibility | A stream or psychology may suffice |
-| Moral order | Justice may require another life | Hope is not demonstration |
-| Desire/fulfilment | Deep longing points beyond finite life | Desires may lack objects |
-| Experience/testimony | Encounters or eternal-self awareness support survival | Interpretation and alternatives remain |
+| Cyclical/opposites | living and dead arise in a reciprocal cycle; one-way dying would end in universal death | recurrence of life does not show that the same individual soul returns |
+| Recollection | judgement of imperfect equals invokes Equality itself; learning recalls prenatal acquaintance | abstraction or innate structure may explain the judgement; pre-existence does not entail future survival |
+| Affinity | soul resembles invisible and stable intelligibles more than decomposable body | resemblance is not identity; an invisible dependent harmony may vanish with its body |
+| Final/Life | soul essentially brings life, as fire brings heat; it cannot admit death | inability to be dead while existing may not entail inability to cease existing |
 
-*Each argument may shift the burden of explanation, but none automatically proves a numerically identical person survives death.*
+**Simmias and Cebes must not be merged.** Simmias compares soul to the harmony of a lyre: real and invisible, yet destroyed when the instrument breaks. Cebes grants repeated survival but compares the soul to a weaver who outlasts many cloaks and eventually dies. Cebes therefore attacks the inference from surviving many bodies to absolute immortality. The final argument is Plato’s attempt to answer that stronger challenge.
 
-### 1. Simplicity and indivisibility
+### How to evaluate the final argument
 
-The soul is said to lack parts and therefore cannot decompose as bodies do.
-
-**Reply to the critic:** Decomposition is not the only way something can cease. A simple subject might depend continuously on bodily organization.
-
-### 2. First-person unity
-
-Experience appears owned by one subject. Memory, agency and responsibility seem to require persistence.
-
-**Criticism:** Unity at one time does not prove endless duration. Psychological or causal relations may preserve responsibility without an immortal substance.
-
-### 3. Moral-order argument
-
-Virtue and happiness do not reliably coincide within one life. Survival allows desert to be completed. Kant’s practical philosophy postulates immortality for endless moral progress and the highest good, while denying theoretical proof.
-
-**Limit:** Practical necessity concerns rational moral hope, not knowledge of an immortal soul.
-
-### 4. Desire and religious experience
-
-A deep desire for ultimate fulfilment may be interpreted as orientation toward transcendence. Experiences of an eternal self or deceased persons may count as prima facie evidence for the subject.
-
-**Criticism:** Hunger points to food because of biological explanation; not every desire guarantees an object. Experience is interpreted through prior concepts and may admit psychological alternatives.
-
-### 5. The body–brain dependence objection
-
-Changes in brain or body can alter memory, personality and agency. This pressures the idea that the person is an independently functioning soul.
-
-**The careful verdict:** Dependence during embodied life does not deductively prove impossibility of disembodied survival. It raises the explanatory burden: how are identity, memory and agency preserved without their known bodily conditions?
+Plato needs two steps: (1) soul is essentially life-bearing and so never becomes dead; (2) whatever is deathless is indestructible. The second step is not secured merely by the first. A critic can allow that a soul, while present, animates a body and still deny that the soul cannot cease altogether.
 
 ### UPSC application
 
-- **PYQ linkage:** 2020 Q5(b) asks whether immortality is a basic presupposition of religion; this lesson supplies the argument families and the qualified verdict.
-- **Probable framing:** “Does moral order justify belief in immortality?”
-- **Trap:** Treating empirical correlation between mind and brain as a proof either of identity or of separability.
+The 2023 twenty-marker demands four mini-arguments, not a generic account of dualism. Allocate a short paragraph to each proof, attach its own objection, distinguish Simmias from Cebes, and give a graded conclusion: recollection chiefly supports pre-existence; affinity supports probability; the final proof is strongest inside Plato’s Forms-metaphysics but remains non-compelling to a critic who rejects that framework.
+
+### Traps
+
+- Do not call affinity a deductive proof.
+- Do not let recollection establish more than pre-existence without further premises.
+- Do not present Cebes as merely repeating the harmony objection.
 
 ### Revision notes
 
-1. Simplicity blocks decomposition only if the soul is established as simple.
-2. Cessation and decomposition are different possibilities.
-3. First-person unity does not entail endless persistence.
-4. Moral-order arguments postulate survival to complete justice.
-5. Kant’s immortality is practical, not theoretical knowledge.
-6. Desire can orient belief without entailing existence.
-7. Religious experience provides defeasible support, not demonstration.
-8. Brain dependence shifts the burden onto separable-soul theories.
-9. Correlation is not identity, but dependence cannot be ignored.
-10. A strong answer grades arguments rather than declaring all successful or failed.
+1. Opposites concerns a cycle.
+2. Recollection concerns prenatal knowledge.
+3. Affinity concerns likeness and probable persistence.
+4. Simmias attacks separability from body.
+5. Cebes attacks eventual perishability after repeated survival.
+6. The final proof relies on essential participation in Life.
 
 ### Local practice
 
-**MCQ 10: B**
+**MCQ 6**
 
-Why does the simplicity argument not by itself establish immortality?
+Which statement correctly distinguishes Cebes from Simmias?
 
-A. Anything without parts must be bodily.
-B. A simple subject might cease or depend on bodily conditions without decomposing.
-C. Decomposition applies only to memories.
-D. Immortality requires infinitely many bodily parts.
+A. Cebes says the soul is only a bodily harmony.
+B. Cebes allows that soul may outlast several bodies but denies that this proves endless survival.
+C. Cebes denies that any body ever perishes.
+D. Cebes argues that recollection proves resurrection.
 
-- **A — Incorrect:** Simplicity is normally invoked precisely to distinguish soul from body.
-- **B — Correct:** Indivisibility rules out one mode of destruction, not every mode of non-existence.
-- **C — Incorrect:** Decomposition is a structural notion and is not limited to remembered content.
-- **D — Incorrect:** The argument does not define immortality through material complexity.
+**MCQ 6 — Answer and explanation**
 
-**MCQ 11: C**
+**Correct answer: B**
 
-What is the strongest balanced conclusion from body–brain dependence?
+- **A — Incorrect:** MCQ 6: That is the distinctive comparison made by Simmias.
+- **B — Correct:** MCQ 6: The weaver can survive many cloaks and still be mortal.
+- **C — Incorrect:** MCQ 6: His cloak image presupposes bodily replacement.
+- **D — Incorrect:** MCQ 6: His objection targets the insufficiency of repeated survival for immortality.
 
-A. It proves that an immaterial subject survives bodily death.
-B. It proves with logical certainty that no subject can survive bodily death.
-C. It makes separable-soul theories explain how memory, character and agency persist without their known bodily conditions.
-D. It shows that personal identity is constituted only by social recognition.
+**MCQ 7**
 
-- **A — Incorrect:** Dependence evidence supplies no positive proof of separability.
-- **B — Incorrect:** Empirical dependence does not entail metaphysical impossibility.
-- **C — Correct:** The evidence shifts the explanatory burden without settling the question deductively.
-- **D — Incorrect:** Social recognition is not the issue established by neural dependence.
+What is the limited conclusion of the recollection argument?
 
-**Remediation cue:** Replace “proves” with the exact epistemic force: demonstrates, supports, makes probable, postulates or leaves open.
+A. It establishes that every remembered event occurred in a previous life.
+B. It shows the body is naturally immortal.
+C. It supports pre-existence more directly than post-mortem indestructibility.
+D. It refutes the existence of Forms.
 
----
+**MCQ 7 — Answer and explanation**
 
-## Lesson 5 — Karma and Rebirth: Why One Life Is Not Enough for the Theory
+**Correct answer: C**
 
-Progress: 5/14 | Stage: Core | Subtopic: Karma, saṃsāra, moral continuity and freedom
+- **A — Incorrect:** MCQ 7: The argument concerns standards such as Equality, not episodic memory.
+- **B — Incorrect:** MCQ 7: Its proposed knower is the soul, not the body.
+- **C — Correct:** MCQ 7: The temporal direction of its immediate inference is before birth, not after death.
+- **D — Incorrect:** MCQ 7: The argument depends upon Forms rather than rejecting them.
 
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Queried — exact learner PDFs; Chatterjee–Datta school discussions; John Hick on karma and reincarnation; canonical karma modules.
-CA search: "official Indian philosophy karma rebirth academic 2026"
-CA found: No doctrine-changing current development; scriptural and philosophical sources remain primary.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-### Visual first — karma needs a field in which delayed consequences can mature
-
-```text
-ACTION WITH MORAL QUALITY
-        │
-        ├── sañcita: stored accumulation
-        ├── prārabdha: portion already fructifying
-        └── āgāmi: new consequence being generated
-        │
-        ▼
-DEATH DOES NOT CLOSE THE ACCOUNT
-        │
-        ▼
-REBIRTH supplies a further field for maturation
-        │
-        ▼
-SAṂSĀRA continues until the causal root of bondage ends
-
-Freedom remains: puruṣakāra (effort) works within daiva (the given).
-```
-
-*Rebirth is philosophically significant because it performs a function inside karma theory: it extends moral causation beyond the limits of one biography.*
-
-### 1. Karma is not merely an act
-
-✅ *Karma* means action together with its morally efficacious consequence. Schools explain the unseen link through notions such as *adṛṣṭa* or *apūrva*. The doctrine claims that action shapes the agent and the conditions of future experience.
-
-### 2. Why rebirth enters
-
-If every morally weighted action must mature, but many consequences do not appear within one life, a further life supplies the field of discharge. Rebirth is therefore not an ornamental addition; it preserves the scope and justice claimed for karma.
-
-### 3. Rebirth and reincarnation
-
-- **Rebirth** names renewed becoming within saṃsāra.
-- **Reincarnation** adds that an enduring soul is re-enfleshed.
-- Vedānta, Nyāya and Jainism can use substantial continuity.
-- Buddhism requires the wider term because it denies a permanent transmigrant.
-
-### 4. The *Bhagavad Gītā* model
-
-✅ *Gītā* 2.22 compares the embodied self’s change of bodies to changing worn-out garments. Verse 2.23 presents the self as not destroyed by weapon, fire, water or wind. Verse 9.21 indicates that even a heavenly reward ends when merit is exhausted, followed by return.
-
-**Limit:** The garment image explains the doctrine once the self is accepted; it does not independently demonstrate an immortal soul.
-
-### 5. Is karma fatalism?
-
-Fatalism says present effort cannot alter the outcome. Karma theory usually preserves *puruṣakāra*, present effort, within *daiva*, inherited conditions. *Prārabdha* shapes the hand dealt; present action shapes *āgāmi*.
-
-### 6. Moral objections
-
-**Victim-blaming objection:** Unverifiable past action can be used to treat present suffering as deserved.
-
-**Reply:** A causal explanation does not authorize social condemnation. Traditions prescribing karma also prescribe compassion, restraint and aid.
-
-**Residual:** The theory still faces an evidential problem: the link between an alleged past deed and present suffering cannot normally be checked.
-
-### UPSC application
-
-- **2019 Q8(a), 20 marks:** State and explain karma, rebirth and reincarnation in Hinduism.
-- **2021 Q8(b), 15 marks:** Discuss and evaluate karma as an essential postulate of Hinduism.
-- **2023 Q7(b), 15 marks:** Explain the significance of rebirth in karma theory.
-- **Answer use:** Define the mechanism, field and substantialist interpretation separately; then address freedom, evidence and victim-blaming.
-
-### Revision notes
-
-1. Karma means morally efficacious action, not simple physical causation.
-2. *Adṛṣṭa* and *apūrva* name unseen efficacy in different systems.
-3. *Sañcita* is stored karma.
-4. *Prārabdha* is presently fructifying karma.
-5. *Āgāmi* is newly generated future karma.
-6. Rebirth is the field in which delayed fruits mature.
-7. Reincarnation is a substantialist interpretation of rebirth.
-8. *Saṃsāra* is the beginningless cycle of conditioned becoming.
-9. *Puruṣakāra* prevents karma from becoming strict fatalism.
-10. The garment illustration depends on acceptance of an enduring self.
-11. Explanatory karma does not justify blaming sufferers.
-12. The evidential gap remains even after the ethical reply.
-
-### Local practice
-
-**MCQ 12: D**
-
-What is rebirth’s most important function within a comprehensive karma theory?
-
-A. It proves that a creator personally assigns every consequence.
-B. It guarantees conscious memory of every earlier action.
-C. It makes all present suffering morally deserved and socially punishable.
-D. It supplies a future field in which consequences not exhausted in one life can mature.
-
-- **A — Incorrect:** Several karma traditions are non-theistic or distinguish divine supervision from authorship of desert.
-- **B — Incorrect:** Rebirth theories commonly separate metaphysical continuity from explicit autobiographical memory.
-- **C — Incorrect:** Explanation of causal origin does not license punitive judgement by observers.
-- **D — Correct:** The temporal extension of moral causation is rebirth’s structural role.
-
-**MCQ 13: A**
-
-Which statement best rejects the charge that karma is necessarily fatalistic?
-
-A. Present effort operates within inherited conditions and generates new consequences.
-B. Every event is fixed by *prārabdha* and no choice is causally efficacious.
-C. Moral action matters only after liberation has already occurred.
-D. Karma concerns ritual action alone and never character or intention.
-
-- **A — Correct:** *Puruṣakāra* and *āgāmi* preserve agency within a conditioned situation.
-- **B — Incorrect:** This is the deterministic reading the standard defence rejects.
-- **C — Incorrect:** Karma governs action within bondage; liberation ends rather than begins its binding force.
-- **D — Incorrect:** The traditions differ on mechanism, but karma is not uniformly confined to ritual performance.
-
-**MCQ 14: B**
-
-What does *Gītā* 9.21 contribute to the rebirth–liberation distinction?
-
-A. It identifies heavenly enjoyment with final mokṣa.
-B. It shows that exhausted merit leads to return, so heaven remains within saṃsāra.
-C. It denies that action has post-mortem consequences.
-D. It presents resurrection as a series of earthly embodiments.
-
-- **A — Incorrect:** A state followed by return cannot be final release.
-- **B — Correct:** Temporary heavenly fruition remains one stage in karmic circulation.
-- **C — Incorrect:** The verse presupposes rather than rejects post-mortem karmic fruit.
-- **D — Incorrect:** The structure is cyclic return, not one final divine raising.
-
-**Remediation cue:** Explain karma with three nouns: mechanism, temporal field and remaining freedom.
-
----
-
-## Lesson 6 — Buddhist Rebirth Without a Permanent Self
-
-Progress: 6/14 | Stage: Core | Subtopic: Anātman, dependent origination, causal continuity and responsibility
+## Lesson 4 — Hindu Continuity: The Gītā and Rival Self-Theories
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Queried — canonical Buddhist continuity module; exact learner PDFs; Chatterjee–Datta Buddhist chapter; SuttaCentral access attempted for SN 22.59.
-CA search: "Buddhist no-self rebirth causal continuity scholarly 2026"
-CA found: No direct current-affairs linkage; a live SuttaCentral page was checked but its browser shell did not expose the text through the available fetcher.
+📚 Book context: canonical Hindu-immortality and Gītā sections; R04-13–14 and R04-19 queried
+🔍 CA Search: not used under the restricted clean-room source rule
+📰 CA Found: not applicable
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual first — a process continues without a traveller
+Progress: 4 / 14  |  Stage: Core  |  Subtopic: imperishable self and incompatible Hindu profiles
 
-```text
-ignorance → formations → consciousness → name-and-form → ...
-     ↑                                               ↓
-     └──────── craving and grasping renew becoming ──┘
+### Visual — common survival language, different metaphysics
 
-Moment A conditions Moment B conditions Moment C
-   not numerically identical
-   not causally unrelated
-
-Verdict: “neither the same nor wholly other”
-```
-
-*Buddhist rebirth preserves causal inheritance while denying an unchanging owner of the process.*
-
-### 1. No-self does not mean nothing exists
-
-✅ *Anātman* or *anattā* denies a permanent, independent self within or beyond the five aggregates. Conventional persons, intentions, suffering and consequences still operate.
-
-### 2. Dependent origination
-
-*Pratītyasamutpāda* means that phenomena arise dependent on conditions. Ignorance and formations condition consciousness; craving and grasping renew becoming. No unchanged substance has to pass between moments or lives.
-
-### 3. The continuity model
-
-The flame-to-flame and milk-to-curd illustrations show dependence without numerical identity. The second flame exists because of the first, but it is not a detachable entity that travelled.
-
-**Limit:** Fire and milk are analogies. They model causal relation; they do not prove rebirth.
-
-### 4. Who receives the fruit?
-
-**Objection:** If the wrongdoer and later sufferer are not the same self, punishment appears misdirected.
-
-**Reply:** Responsibility follows causal descent. The later stream inherits dispositions and consequences generated by the earlier stream.
-
-**Residual:** Critics may still ask whether causal connectedness alone has the moral force of personal responsibility. Buddhism revises, rather than simply preserves, ordinary identity.
-
-### 5. Anti-theistic significance
-
-Buddhism separates rebirth from both a creator and a soul-substance. Jainism also separates karma from a creator, though it retains eternal *jīva*. Together they show that a moral cosmos need not be administered by God.
-
-### UPSC application
-
-- **2018 Q5(b), 10 marks:** Philosophical significance of anti-theistic religions’ stand on rebirth.
-- **2022 Q5(c), 10 marks:** Immortality as a necessary postulate for rebirth, with reference to Buddhism.
-- **2024 Q6(a), 20 marks:** Buddhism supplies the decisive counterexample to a universal soul-necessity claim.
-- **Answer verdict:** An immortal substance supplies the required bearer within substantialist models but is not universally necessary; immortality alone is not sufficient without karma or another rebirth mechanism.
-
-### Revision notes
-
-1. *Anātman* denies a permanent independent self.
-2. It does not deny conventional persons or consequences.
-3. Dependent origination replaces substance transmission with conditional arising.
-4. Craving and formations renew becoming.
-5. The later stream is neither strictly the same nor wholly other.
-6. Flame-to-flame illustrates continuity without identity.
-7. Milk-to-curd illustrates transformation without an unchanged bearer.
-8. Causal descent grounds the Buddhist reply on responsibility.
-9. Buddhism separates rebirth from an immortal soul.
-10. Buddhism and Jainism separate karma from a creator, but only Buddhism denies soul-substance.
-11. The residual question is whether causation supplies enough moral ownership.
-
-### Local practice
-
-**MCQ 15: C**
-
-Which claim best expresses Buddhist rebirth?
-
-A. One eternal self migrates unchanged through bodies.
-B. God recreates the same embodied person after final judgement.
-C. A dependently arisen causal continuum carries karmic effects without a permanent owner.
-D. Death ends every morally relevant relation between earlier and later lives.
-
-- **A — Incorrect:** This is the substantialist model rejected by *anātman*.
-- **B — Incorrect:** Divine reconstitution describes resurrection, not Buddhist renewed becoming.
-- **C — Correct:** Conditional continuity performs the work assigned elsewhere to a soul.
-- **D — Incorrect:** Karma and dependent origination preserve consequence across the break of death.
-
-**MCQ 16: D**
-
-What is the correct use of the flame-to-flame illustration?
-
-A. It empirically verifies memories of a previous birth.
-B. It demonstrates that both flames are numerically one flame.
-C. It proves that fire is an immortal substance.
-D. It models causal continuity without the transfer of an unchanged entity.
-
-- **A — Incorrect:** The image supplies no observational evidence about past-life recollection.
-- **B — Incorrect:** Its purpose is to reject strict numerical sameness while retaining dependence.
-- **C — Incorrect:** No enduring fire-substance is posited by the analogy.
-- **D — Correct:** The later event depends on the earlier without a traveller moving between them.
-
-**MCQ 17: A**
-
-Why is Buddhism a counterexample to the claim that immortality is necessary for rebirth?
-
-A. It affirms rebirth while denying a permanent soul.
-B. It denies both rebirth and liberation.
-C. It replaces karma with divine judgement.
-D. It treats the body as naturally immortal.
-
-- **A — Correct:** One coherent countermodel defeats a universal necessity claim.
-- **B — Incorrect:** Buddhism centrally affirms renewed becoming and nirvāṇa.
-- **C — Incorrect:** Its causal moral order does not require a creator-judge.
-- **D — Incorrect:** Impermanence applies to conditioned bodily existence.
-
-**Remediation cue:** Never answer “what is reborn?” with “nothing”; answer “a causally connected process, not a permanent self.”
-
----
-
-## Lesson 7 — Hindu Accounts: The Gītā, Vedānta, Nyāya and Sāṃkhya-Yoga
-
-Progress: 7/14 | Stage: Core | Subtopic: Enduring selves and different grounds of continuity
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Queried — exact learner PDFs; Chatterjee–Datta; C. D. Sharma; canonical Hindu and cross-school modules.
-CA search: "Gita Supersite IIT Kanpur chapter 2 soul 2026"
-CA found: Gita Supersite remains available as a live digital library of the Sanskrit text, translations and classical commentaries; no contemporary doctrinal change applies.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-### Visual first — “immortal soul” is not one Hindu doctrine
-
-| School/text | Continuity-bearer | Consciousness | Liberation |
+| Tradition | What endures? | Consciousness in release | Final relation |
 |---|---|---|---|
-| *Bhagavad Gītā* | Imperishable embodied self | Essential to spiritual self | Release through disciplined realization and God-centred life |
-| Advaita | Ātman, ultimately Brahman | Self-luminous essence | Identity realized; individuality sublated |
-| Viśiṣṭādvaita | Eternal atomic *jīva*, mode of God | Essential attribute | Communion and service |
-| Nyāya-Vaiśeṣika | Eternal self-substance | Adventitious quality | *Apavarga*, cessation of pain and cognition |
-| Sāṃkhya-Yoga | Plural *puruṣas*; subtle body belongs to prakṛti | Puruṣa is pure consciousness | *Kaivalya*, isolation |
+| Advaita | empirically the *jīva*; ultimately non-dual *ātman* | intrinsic, self-luminous | separate individuality is sublated |
+| Viśiṣṭādvaita | a real dependent *jīva* | personal awareness | communion and service to God |
+| Dvaita | eternally distinct dependent soul | graded personal awareness | difference from God remains |
+| Nyāya–Vaiśeṣika | eternal self-substance | ordinary consciousness ceases | *apavarga*, absence of pain-producing conditions |
+| Sāṃkhya–Yoga | plural *puruṣas*; subtle nature carries the psychophysical sequence | pure contentless witnessing | isolation from *prakṛti* |
 
-*Agreement on endurance conceals deep disagreement about consciousness, agency, God and the final state.*
+### The Gītā’s internal argument
 
-### 1. The *Gītā*’s imperishable self
+The named-text answer requires a sequence rather than a decorative verse list:
 
-The garment image of 2.22 and indestructibility formula of 2.23 make the deathless self the bearer of rebirth. The teaching addresses Arjuna’s grief and relocates death at the bodily rather than ultimate level.
+1. **2.13:** the embodied subject persists through childhood, youth and age and reaches another body.
+2. **2.20:** the self is unborn and does not perish when the body dies.
+3. **2.22:** changing bodies is illustrated by changing worn garments.
+4. **2.23:** weapons and elements do not destroy the self.
+5. **15.8:** the departing *jīva* carries mind and sense capacities as wind carries fragrance.
 
-**Limit:** The text authoritatively teaches immortality within its framework; an exam answer should not present imagery as independent philosophical proof.
+Within this account, a deathless bearer is necessary for *its* movement from one body to another. But the verses are assertions and illustrations internal to the text, not public empirical verification. Further, immortality is not sufficient for rebirth. Karma, dispositions and an unended *saṃsāra* must still explain why another embodiment occurs. Liberation ends further embodiment without destroying the self.
 
-### 2. Advaita
+### Why “the Hindu soul” is unsafe
 
-Ātman is Brahman, pure self-luminous consciousness. The empirical *jīva* appears individual because consciousness is associated with limiting adjuncts and ignorance. The subtle body carries empirical dispositions until knowledge ends misidentification.
-
-### 3. Viśiṣṭādvaita
-
-The *jīva* is real, eternal, conscious and dependent on God. It remains an agent and enjoyer across lives and in liberation. Release perfects relationship rather than erasing individuality.
-
-### 4. Nyāya-Vaiśeṣika
-
-The self is an eternal substance inferred through cognition, desire, aversion, effort, pleasure and pain. Consciousness arises through connection with mind, senses and body; it is not the self’s eternal essence.
-
-### 5. Sāṃkhya-Yoga
-
-Puruṣa is plural, inactive pure witness. Strictly, *prakṛti* and its subtle apparatus transmigrate; *Sāṃkhya-kārikā* 62–63 says no puruṣa is actually bound, released or transmigrating. Bondage is misattribution.
-
-**Strong objection:** If puruṣas are all contentless and inactive, what individuates them?
-
-**Reply:** Sāṃkhya appeals to distinct births, deaths and experiences.
-
-**Residual:** The reply appears to infer plurality from experiences that belong to prakṛti, risking circularity.
+Advaita treats limited individuality as dependent upon ignorance; Viśiṣṭādvaita and Dvaita regard individual souls as ultimately real; Nyāya makes consciousness a contingent quality of the self under embodied conditions; Sāṃkhya makes *puruṣa* inactive and never literally bound. Their agreement on some form of continuity therefore conceals disagreement about agency, consciousness and the liberated terminus.
 
 ### UPSC application
 
-- **2021 Q6(a), 20 marks:** Hindu immortality must remain internally plural.
-- **2025 Q7(c), 15 marks:** Stay faithful to the named *Gītā* verses, then add the cross-tradition qualification.
-- **Trap:** Do not make Nyāya consciousness essential or say Sāṃkhya puruṣa literally travels.
+For 2021 Q6(a), lead with the Gītā, then compare at least two incompatible Hindu profiles and add the memory/body-dependence objections. For 2025 Q7(c), answer the Gītā first: immortality is necessary inside its substantial-self account. Only then use Buddhism to deny universal necessity.
+
+### Traps
+
+- Scripture can state a doctrine without independently proving it.
+- The Gītā-specific question is not answered by Buddhism alone.
+- An immortal self may cease to be reborn while remaining immortal.
 
 ### Revision notes
 
-1. *Gītā* 2.22 presents body-change through the garment image.
-2. *Gītā* 2.23 presents the self as indestructible by elements and weapons.
-3. Advaita identifies Ātman with Brahman.
-4. Advaita treats empirical individuality as ignorance-conditioned.
-5. Viśiṣṭādvaita preserves the individual *jīva* eternally.
-6. Nyāya makes self a substance and consciousness an adventitious quality.
-7. Sāṃkhya makes puruṣa pure inactive consciousness.
-8. The subtle body and transmigrating machinery belong to prakṛti in Sāṃkhya.
-9. *SK* 62–63 denies literal bondage and release of puruṣa.
-10. Hindu agreement on endurance does not imply agreement on liberation.
-11. Scriptural illustration must not be represented as demonstrative proof.
+1. Gītā 2.13 and 2.22 connect bodily change with another body.
+2. Gītā 2.20 and 2.23 state indestructibility.
+3. Gītā 15.8 gives an intra-textual continuity image.
+4. Necessary within a model is not universally necessary.
+5. Hindu systems disagree about consciousness and individuality in release.
 
 ### Local practice
 
-**MCQ 18: B**
+**MCQ 8**
 
-Which pairing is accurate?
+What should appear first in an answer explicitly asking for the Bhagavad Gītā’s view?
 
-A. Advaita — eternal individual remains forever distinct from Brahman.
-B. Nyāya — eternal self-substance whose consciousness is adventitious.
-C. Viśiṣṭādvaita — individuality is wholly illusory and finally sublated.
-D. Sāṃkhya — one active puruṣa creates and governs prakṛti.
+A. A Buddhist denial of permanent self should replace textual exposition.
+B. All Hindu schools should be described as teaching numerical identity with Brahman.
+C. The garment image should be treated as empirical evidence.
+D. The Gītā’s own substantial-self sequence must be reconstructed before cross-tradition criticism.
 
-- **A — Incorrect:** Eternal distinct individuality belongs to theistic Vedānta, not non-dual Advaita.
-- **B — Correct:** Nyāya preserves the self while denying consciousness is its permanent manifested condition.
-- **C — Incorrect:** Viśiṣṭādvaita insists that the *jīva* is real and enduring.
-- **D — Incorrect:** Sāṃkhya posits many inactive puruṣas and an independently active prakṛti.
+**MCQ 8 — Answer and explanation**
 
-**MCQ 19: C**
+**Correct answer: D**
 
-What is the significance of *Sāṃkhya-kārikā* 62–63?
+- **A — Incorrect:** MCQ 8: A comparator cannot substitute for the named text.
+- **B — Incorrect:** MCQ 8: Viśiṣṭādvaita, Dvaita, Nyāya and Sāṃkhya reject that description.
+- **C — Incorrect:** MCQ 8: A simile illustrates the teaching but does not verify it publicly.
+- **D — Correct:** MCQ 8: Named-text fidelity is the first obligation of the 2025 stem.
 
-A. It identifies puruṣa with Brahman.
-B. It proves that Īśvara creates the world.
-C. It says that, strictly, prakṛti binds and releases while puruṣa was never entangled.
-D. It defines liberation as unconscious cessation.
+**MCQ 9**
 
-- **A — Incorrect:** Non-dual identity is Advaita’s position, not Sāṃkhya’s plural dualism.
-- **B — Incorrect:** Classical Sāṃkhya does not need a creator for evolution.
-- **C — Correct:** Liberation corrects misattribution rather than altering puruṣa.
-- **D — Incorrect:** Contentless pure consciousness remains; absence of consciousness belongs to Nyāya apavarga.
+Why is an immortal self not sufficient for rebirth?
 
-**MCQ 20: D**
+A. Another embodiment also requires an operative karmic order and the absence of liberation.
+B. Because anything immortal must be bodiless forever.
+C. Because immortality logically entails annihilation.
+D. Because the Gītā denies all causal conditions.
 
-Why should the *Gītā*’s garment analogy be used cautiously?
+**MCQ 9 — Answer and explanation**
 
-A. It denies that a self continues through bodily change.
-B. It belongs to the Buddhist doctrine of no-self.
-C. It proves every detail of karmic causation through observation.
-D. It illustrates a substantial-self model after its assumptions are accepted but does not independently prove immortality.
+**Correct answer: A**
 
-- **A — Incorrect:** The image explicitly affirms an enduring wearer changing bodies.
-- **B — Incorrect:** A continuing wearer is precisely what Buddhist no-self refuses.
-- **C — Incorrect:** An illustration cannot verify the full unseen mechanism.
-- **D — Correct:** Its pedagogical clarity should not be mistaken for demonstrative force.
+- **A — Correct:** MCQ 9: Persistence alone does not generate a new body or mandate continued saṃsāra.
+- **B — Incorrect:** MCQ 9: Several systems combine immortality with successive bodies.
+- **C — Incorrect:** MCQ 9: The two predicates are contradictory, not entailed.
+- **D — Incorrect:** MCQ 9: The broader teaching includes karma and liberation.
 
-**MCQ 21: A**
+**MCQ 10**
 
-Which disagreement explains why Nyāya and Advaita describe liberation so differently?
+Which comparison is accurate?
 
-A. Nyāya treats consciousness as a contingent quality of self, whereas Advaita treats consciousness as the self’s essence.
-B. Nyāya denies an enduring self, whereas Advaita affirms one.
-C. Advaita regards pain as eternal, whereas Nyāya regards it as illusory.
-D. Both schools define freedom as eternal service to a personal God.
+A. Advaita preserves an eternally separate finite personality as ultimate.
+B. Nyāya preserves an eternal self but does not make ordinary consciousness intrinsic in liberation.
+C. Sāṃkhya says puruṣa is transformed by prakṛti into a body.
+D. Dvaita makes the liberated soul numerically identical with God.
 
-- **A — Correct:** Their different accounts of consciousness generate cessation versus self-luminous realization.
-- **B — Incorrect:** Both retain an enduring reality, though they construe it differently.
-- **C — Incorrect:** Neither makes pain eternal, and Advaita’s claim concerns ignorance-conditioned experience.
-- **D — Incorrect:** Eternal service is characteristic of theistic Vedānta rather than these two accounts.
+**MCQ 10 — Answer and explanation**
 
-**Remediation cue:** Compare schools on four axes: bearer, consciousness, bondage and terminus.
+**Correct answer: B**
 
----
+- **A — Incorrect:** MCQ 10: Advaita sublates ultimate separateness.
+- **B — Correct:** MCQ 10: Nyāya separates persistence of substance from manifestation of conscious qualities.
+- **C — Incorrect:** MCQ 10: Puruṣa remains inactive; transformations belong to prakṛti.
+- **D — Incorrect:** MCQ 10: Dvaita retains real and eternal difference.
 
-## Lesson 8 — Jain Soul, Bondage and the Karmic-Matter Ladder
+**MCQ 11**
 
-Progress: 8/14 | Stage: Core | Subtopic: Jīva, āsrava, bandha, saṃvara, nirjarā and siddhahood
+What is the best verdict on Hindu immortality?
+
+A. Hindu traditions share one uniform theory of soul.
+B. Every Hindu theory denies rebirth.
+C. Several Hindu systems affirm enduring selves, but they disagree about what endures and what liberation preserves.
+D. Only bodily continuity matters in Hindu accounts.
+
+**MCQ 11 — Answer and explanation**
+
+**Correct answer: C**
+
+- **A — Incorrect:** MCQ 11: Their accounts of agency, consciousness and final relation conflict.
+- **B — Incorrect:** MCQ 11: The major profiles discussed accept rebirth until release.
+- **C — Correct:** MCQ 11: It records the family resemblance without inventing doctrinal unanimity.
+- **D — Incorrect:** MCQ 11: They typically invoke self, subtle dispositions or prakṛtic continuity beyond one body.
+
+## Lesson 5 — Karma, Rebirth and Reincarnation
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Queried — exact learner PDFs; canonical Jain module; Chatterjee–Datta and C. D. Sharma discussions of Jain metaphysics.
-CA search: "Jain philosophy jiva karma liberation academic 2026"
-CA found: No direct current-affairs linkage; standard doctrinal sources control.
+📚 Book context: canonical karma modules and R04-15–18, R04-24 queried
+🔍 CA Search: not used under the restricted clean-room source rule
+📰 CA Found: not applicable
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual first — bondage as accretion, liberation as stoppage and shedding
+Progress: 5 / 14  |  Stage: Core  |  Subtopic: delayed fruition, agency and terminology
+
+### Visual — the explanatory chain
 
 ```text
-PASSION + ACTIVITY
+intentional action
+      ↓ leaves a disposition / unseen potency
+ delayed result may exceed one lifetime
       ↓
-ĀSRAVA      influx of karmic matter
+rebirth extends the field of fruition
       ↓
-BANDHA      binding to the jīva
+new action or disciplined non-attachment
       ↓
-SAṂVARA     restraint stops new influx
-      ↓
-NIRJARĀ     austerity sheds accumulated karma
-      ↓
-KEVALA-JÑĀNA / SIDDHAHOOD
-perfected individual jīva: knowledge, perception, bliss, energy
+continued saṃsāra  OR  cessation of fresh bondage
 ```
 
-*Unlike an ignorance-only model, Jain bondage is a real relation between an enduring conscious soul and subtle karmic matter.*
+**Karma** is action together with ethically significant causal consequence; it is not simply destiny. Different schools explain the delayed link differently: Nyāya employs *adṛṣṭa* under divine administration, Mīmāṃsā invokes *apūrva*, and Vedāntic accounts commonly speak of dispositions and a subtle body. The categories *saṃcita* (accumulated), *prārabdha* (already fruiting) and *āgāmi* (newly generated) are a useful Vedāntic scheme, not a vocabulary to impose unchanged on every school.
 
-### 1. Nature of the soul
+**Rebirth** is the widest term for renewed becoming after death. **Reincarnation** more specifically suggests a persisting substantial self re-embodied. Thus the term fits Vedāntic, Nyāya or Jain accounts more naturally than Buddhist *punarbhava*, where no permanent entity migrates.
 
-Every living being has an eternal *jīva*. Consciousness belongs intrinsically to it. During embodiment the soul expands or contracts to the body it occupies. Its natural infinitudes are knowledge, perception, bliss and energy.
+### Why rebirth matters to karma
 
-### 2. Why bondage occurs
+Rebirth enlarges the temporal horizon: an action whose result does not appear in the present life can mature later. It also connects bondage with a practical path, because removal of ignorance, craving or karmic influx can end future birth. Yet this explanatory reach creates burdens:
 
-Passions make karmic matter adhere to the soul, like dust sticking to an oily body. Conduct therefore has an ontological effect: it obscures capacities that belong to the soul by nature.
+- **epistemic:** a supposed prior act is rarely identifiable;
+- **identity:** why is the later experiencer the appropriate recipient?
+- **moral:** present suffering must not be labelled deserved without evidence;
+- **agency:** if everything is fixed by past karma, current responsibility collapses.
 
-**Limit of the analogy:** Dust and oil are visible physical substances; karmic matter is a metaphysical category within Jainism.
-
-### 3. The path of reversal
-
-The Three Jewels — right faith, right knowledge and right conduct — combine with restraint and austerity. *Saṃvara* prevents fresh influx; *nirjarā* removes accumulated karma.
-
-### 4. Liberation
-
-Liberation does not merge the soul into an absolute and does not extinguish it. Individuality is perfected. The liberated *jīva* manifests *ananta-catuṣṭaya* and attains siddhahood.
-
-### 5. Strongest objection and reply
-
-**Objection:** How can non-material consciousness interact with karmic matter?
-
-**Reply:** Jain metaphysics treats extension and embodiment as modes of the soul under bondage; karmic matter is the obscuring medium.
-
-**Residual:** The account remains internally systematic but difficult to translate into ordinary substance-interaction categories.
+The standard reply to fatalism is *puruṣakāra*: present effort is itself causally efficacious. Past conditions constrain without uniquely determining every current choice. This reply preserves practice, though it does not verify a particular past-life explanation.
 
 ### UPSC application
 
-- **2022 Q8(b), 15 marks:** The question requires both the nature of soul and the mechanism of bondage.
-- **2018 Q5(b), 10 marks:** Jainism supports karma and rebirth without a creator but does not support rebirth without a soul.
-- **Trap:** Jain *kevala* is omniscient perfection, not Sāṃkhya’s contentless isolation.
+For 2019 Q8(a), define all three nouns separately and then connect them. For 2021 Q8(b), interpret “essential” as structurally important across major Hindu soteriologies, not identically formulated by every school. For 2023 Q7(b), focus on rebirth’s role inside karma—delayed fruition, accountability and possible cessation—rather than restating rebirth alone.
+
+### Traps
+
+- Karma is not a licence for victim-blaming.
+- *Saṃcita–prārabdha–āgāmi* is school-sensitive vocabulary.
+- Rebirth supplies a field for results; it does not prove those results occurred.
 
 ### Revision notes
 
-1. Jain *jīva* is eternal and conscious.
-2. It is body-sized during embodiment.
-3. Its intrinsic powers are obscured, not created, by liberation.
-4. Karma is treated as subtle matter.
-5. *Āsrava* is influx.
-6. *Bandha* is binding.
-7. *Saṃvara* is stoppage of new influx.
-8. *Nirjarā* is shedding of accumulated karma.
-9. The Three Jewels guide the reversal of bondage.
-10. Liberation perfects individuality.
-11. *Kevala-jñāna* is omniscience.
-12. The interaction problem remains a serious metaphysical pressure.
+1. Karma links intentional action and consequence.
+2. Rebirth extends the horizon of fruition.
+3. Reincarnation implies a substantial bearer more strongly than rebirth.
+4. Present effort blocks fatalism.
+5. Explanatory usefulness is not empirical confirmation.
+6. Liberation ends fresh bondage differently in different schools.
 
 ### Local practice
 
-**MCQ 22: B**
+**MCQ 12**
 
-Which sequence correctly represents the Jain movement from bondage toward liberation?
+What is rebirth’s principal explanatory role in a karma theory?
 
-A. Bandha → āsrava → nirjarā → saṃvara
-B. Āsrava → bandha → saṃvara → nirjarā
-C. Saṃvara → āsrava → bandha → kevala
-D. Nirjarā → bandha → āsrava → siddhahood
+A. It makes every event a consciously chosen punishment.
+B. It eliminates the need for a continuity relation.
+C. It proves which past action caused a present misfortune.
+D. It permits delayed consequences to mature beyond the span of one embodied life.
 
-- **A — Incorrect:** Influx precedes binding, and stoppage logically precedes complete shedding.
-- **B — Correct:** Attraction, adhesion, prevention and removal form the proper causal order.
-- **C — Incorrect:** Stoppage cannot precede the influx whose recurrence it prevents in the explanatory sequence.
-- **D — Incorrect:** Shedding is a remedy for prior bondage, not its source.
+**MCQ 12 — Answer and explanation**
 
-**MCQ 23: C**
+**Correct answer: D**
 
-What most sharply distinguishes Jain liberation from Advaita liberation?
+- **A — Incorrect:** MCQ 12: Karmic theories need not attribute deliberate choice to every outcome.
+- **B — Incorrect:** MCQ 12: A later result still requires an account linking action and recipient.
+- **C — Incorrect:** MCQ 12: The doctrine rarely supplies publicly checkable individual histories.
+- **D — Correct:** MCQ 12: The widened temporal field is the key significance tested in 2023.
 
-A. Jainism denies every enduring subject.
-B. Jainism treats liberation as the absence of consciousness.
-C. Jainism perfects an individual soul rather than sublating individuality in non-dual identity.
-D. Jainism makes liberation a divine resurrection after one life.
+**MCQ 13**
 
-- **A — Incorrect:** Jainism strongly affirms a plurality of eternal souls.
-- **B — Incorrect:** The freed *jīva* manifests limitless consciousness and knowledge.
-- **C — Correct:** Perfected plurality contrasts with Advaita’s sublation of separate individuality.
-- **D — Incorrect:** Jain liberation is achieved through karmic purification, not divine reconstitution.
+Which use of terminology is most careful?
 
-**Remediation cue:** Remember the verbs: karma enters, binds, is stopped, is shed; the soul’s capacities then shine.
+A. Rebirth is broader, while reincarnation usually indicates re-embodiment of a substantial self.
+B. Rebirth and reincarnation must always be interchangeable.
+C. Reincarnation refers only to resurrection by God.
+D. Rebirth means the permanent end of embodiment.
 
----
+**MCQ 13 — Answer and explanation**
 
-## Lesson 9 — The Liberation Parity Bench
+**Correct answer: A**
 
-Progress: 9/14 | Stage: Core | Subtopic: Mokṣa, nirvāṇa, apavarga, kaivalya and perfected individuality
+- **A — Correct:** MCQ 13: The distinction preserves both substantialist and process accounts.
+- **B — Incorrect:** MCQ 13: Buddhist re-becoming is the decisive reason to keep them apart.
+- **C — Incorrect:** MCQ 13: Resurrection has a different linear and divine structure.
+- **D — Incorrect:** MCQ 13: That describes release from rebirth rather than rebirth itself.
 
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Queried — exact learner PDFs; canonical parity bench; Chatterjee–Datta; Oxford Handbook comparisons of Advaita and Buddhist ends.
-CA search: "Indian philosophy liberation moksha nirvana apavarga academic 2026"
-CA found: No direct current-affairs event; the comparison is governed by school-specific doctrine.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+**MCQ 14**
 
-### Visual first — one English label, incompatible destinations
+How does puruṣakāra answer the fatalism objection?
 
-| School | Term | What ends | What remains | Consciousness |
-|---|---|---|---|---|
-| Advaita | Mokṣa | Ignorance and false individuality | Brahman alone | Self-luminous non-duality |
-| Viśiṣṭādvaita | Mokṣa | Karma and alienation | Eternal *jīva* with God | Personal communion |
-| Nyāya-Vaiśeṣika | Apavarga | Pain and pain-producing qualities | Self-substance | No cognition or pleasure |
-| Sāṃkhya-Yoga | Kaivalya | Misidentification with prakṛti | Isolated puruṣa | Pure and contentless |
-| Jainism | Siddhahood | Karmic matter | Perfected individual *jīva* | Omniscience and bliss |
-| Buddhism | Nirvāṇa | Craving, ignorance and suffering | No permanent self affirmed | Ordinary subject-language misleads |
+A. It claims that no past action has effects.
+B. It treats present effort as a real causal factor even when prior karma conditions the situation.
+C. It says every outcome is fixed and effort is illusory.
+D. It identifies the exact past life behind each event.
 
-*“Liberation” has a formal family resemblance — release from bondage — but no single shared metaphysical content.*
+**MCQ 14 — Answer and explanation**
 
-### 1. Why the destination follows the diagnosis
+**Correct answer: B**
 
-If bondage is ignorance, liberation is knowledge. If bondage is karmic matter, liberation is purification. If bondage is craving, liberation is cessation. If bondage is separation from God, liberation is communion. Means and ends are therefore not detachable lists.
+- **A — Incorrect:** MCQ 14: The reply limits determinism without cancelling causal inheritance.
+- **B — Correct:** MCQ 14: Conditioning can coexist with current agency if causes do not uniquely predetermine action.
+- **C — Incorrect:** MCQ 14: That restates fatalism rather than answering it.
+- **D — Incorrect:** MCQ 14: Human effort does not provide such epistemic access.
 
-### 2. Positive perfection and negative cessation
-
-Advaita, Viśiṣṭādvaita and Jainism use fulfilment-rich descriptions. Nyāya presents an austere cessation of pain and cognition. Buddhism warns against describing nirvāṇa as either the annihilation or eternal enjoyment of a self.
-
-### 3. Nyāya apavarga
-
-False knowledge generates defects, defects generate activity, activity generates rebirth, and rebirth produces suffering. *Tattva-jñāna*, knowledge of reality, reverses the chain.
-
-**Objection:** A state without consciousness seems no better than a stone.
-
-**Reply:** Nyāya promises release from suffering, not experiential luxury. Because manifested consciousness depends on bodily and mental contact, final separation removes pain and cognition together.
-
-**Residual:** The state may be logically consistent with Nyāya metaphysics while remaining existentially unattractive.
-
-### 4. Sāṃkhya-Yoga kaivalya
-
-Kaivalya is the isolation of puruṣa from prakṛti through *viveka-khyāti*, discriminative knowledge. Yoga supplies a practical psychology: restraining mental modifications, weakening the *kleśas*, and moving through disciplined practice toward the “counter-flow” of the guṇas.
-
-### 5. Buddhist nirvāṇa
-
-Nirvāṇa is cessation of craving, ignorance and the production of suffering. “Who enjoys nirvāṇa forever?” imports the very permanent owner Buddhism rejects.
-
-### UPSC application
-
-- **2024 Q5(c), 10 marks:** Nyāya-Vaiśeṣika apavarga requires the suffering-chain, self theory and “no positive bliss” distinction.
-- **2024 Q6(a), 20 marks:** A robust liberation concept may require terminable bondage, not one uniform immortal subject.
-- **Trap:** Never write “all Indian schools seek union with God.”
-
-### Revision notes
-
-1. Liberation is a family-resemblance category.
-2. The theory of bondage determines the nature of release.
-3. Advaita: ignorance ends in non-dual realization.
-4. Viśiṣṭādvaita: the *jīva* remains in communion and service.
-5. Nyāya: pain, cognition and other embodied qualities cease.
-6. Sāṃkhya-Yoga: puruṣa stands isolated.
-7. Jainism: karmic matter is removed and individuality perfected.
-8. Buddhism: craving and conditioned suffering cease without an eternal self.
-9. Positive bliss and negative cessation must not be merged.
-10. Jain *kevala* and Sāṃkhya *kaivalya* have opposite cognitive profiles.
-11. Nyāya’s austere end follows from adventitious consciousness.
-12. “Who remains?” must be answered within each school’s own ontology.
-
-### Local practice
-
-**MCQ 24: D**
-
-Why is “liberation” best treated as a family-resemblance term?
-
-A. Every school defines it as union with a creator.
-B. Every school denies any continuing reality after bondage.
-C. The term has no philosophical meaning at all.
-D. Schools share the formal idea of release while specifying incompatible states and subjects.
-
-- **A — Incorrect:** Nyāya, Sāṃkhya, Jainism and Buddhism do not define release as union with a creator.
-- **B — Incorrect:** Several systems preserve a self, puruṣa or perfected *jīva*.
-- **C — Incorrect:** A shared formal structure remains even without one common essence.
-- **D — Correct:** Similar function coexists with deep metaphysical difference.
-
-**MCQ 25: A**
-
-Why does Nyāya describe apavarga without positive consciousness?
-
-A. Consciousness is a quality produced through embodied connections, not the self’s eternally manifested essence.
-B. Nyāya denies that an enduring self exists.
-C. Nyāya identifies liberation with Buddhist no-self.
-D. Nyāya holds that pain is an illusion produced by Brahman.
-
-- **A — Correct:** Removing the embodied conditions removes cognition, pleasure and pain while the substance remains.
-- **B — Incorrect:** Nyāya is a strong defender of an eternal self-substance.
-- **C — Incorrect:** A persisting self sharply distinguishes Nyāya from Buddhist *anātman*.
-- **D — Incorrect:** Illusory superimposition is Advaitic vocabulary, not Nyāya’s causal account.
-
-**MCQ 26: B**
-
-Which contrast is accurate?
-
-A. Jain *kevala* is contentless isolation, while Sāṃkhya kaivalya is omniscience.
-B. Jain *kevala* manifests omniscience, while Sāṃkhya kaivalya isolates contentless pure consciousness.
-C. Both terms mean permanent service to God.
-D. Both terms describe the complete absence of a continuing subject.
-
-- **A — Incorrect:** It reverses the two positions.
-- **B — Correct:** Similar sounds conceal opposite cognitive descriptions.
-- **C — Incorrect:** Neither system defines its goal through theistic service.
-- **D — Incorrect:** Jainism preserves *jīva* and Sāṃkhya preserves puruṣa.
-
-**MCQ 27: C**
-
-Which principle best explains why paths to liberation differ across schools?
-
-A. All schools accept the same bondage but prefer different rituals.
-B. Each school chooses a path independently of its metaphysics.
-C. The prescribed remedy follows the school’s diagnosis of bondage and conception of the liberated subject.
-D. Scripture forbids philosophical reasons for soteriological disagreement.
-
-- **A — Incorrect:** Bondage is variously ignorance, craving, matter, pain-chain or separation.
-- **B — Incorrect:** Means are intelligible only in relation to the problem they are meant to solve.
-- **C — Correct:** Different causal diagnoses generate different remedies and termini.
-- **D — Incorrect:** The traditions offer extensive philosophical argument about these differences.
-
-**Remediation cue:** Use a four-column grid: bondage → direct means → what remains → character of consciousness.
-
----
-
-## Lesson 10 — Advaita Liberation and Jīvanmukti
-
-Progress: 10/14 | Stage: Core | Subtopic: Avidyā, knowledge, embodied freedom and residual karma
+## Lesson 6 — Buddhist Rebirth without a Permanent Self
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Queried — exact learner PDFs; canonical Advaita modules; Oxford Handbook discussion of Śaṅkara; Chatterjee–Datta.
-CA search: "Advaita jivanmukti academic discussion 2026"
-CA found: No direct current-affairs linkage; classical doctrine and scholarly interpretation control.
+📚 Book context: canonical Buddhist continuity section and R04-20, R04-23 queried
+🔍 CA Search: not used under the restricted clean-room source rule
+📰 CA Found: not applicable
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual first — liberation as removal, not production
+Progress: 6 / 14  |  Stage: Core  |  Subtopic: *anātman*, dependent arising and responsibility
+
+### Visual — continuity without a traveller
 
 ```text
-ĀTMAN = BRAHMAN is already the case
-            │
-      AVIDYĀ / ADHYĀSA
-      mistaken individuality
-            │
-karma and rebirth continue
-            │
-śravaṇa → manana → nididhyāsana
-            │
-JÑĀNA removes ignorance
-            │
-JĪVANMUKTI now ── prārabdha sustains body ── VIDEHAMUKTI
+ignorance → formations → consciousness → embodied becoming
+     ↑                                      ↓
+     └──── craving and appropriation sustain the chain ────┘
+
+No unchanging owner passes through the arrows.
+The later phase is causally dependent: neither identical nor wholly unrelated.
 ```
 
-*Nothing new is manufactured in mokṣa; knowledge removes the error that concealed what was always true.*
+Buddhism denies an independent, permanent *ātman*; it does not deny conventional persons, causal order or ethical consequence. The five aggregates are impermanent and dependently arisen. Craving and karmic formations condition further becoming. The appropriate identity formula is therefore **neither the same nor wholly other**: strict sameness would introduce a permanent bearer, while total difference would break responsibility and causal explanation.
 
-### 1. The removal model
+The flame-to-flame or milk-to-curd illustration helps picture causal dependence without a transferred substance. It is an illustration, not proof. The philosophical work is done by dependent origination and the rejection of the assumption that responsibility requires substance identity.
 
-Advaita calls liberation *siddha*, already accomplished, rather than *sādhya*, a result to be produced. Bondage is *avidyā* expressed as *adhyāsa*, superimposing body, mind and agency on the Self.
+### The recipient objection
 
-The rope–snake analogy helps: light does not manufacture the rope; it removes the mistaken snake.
+**Objection:** if the later person is not numerically the same, punishment and reward fall upon someone else. **Buddhist reply:** responsibility requires an appropriately caused continuation, not an immutable owner; ordinary life already attributes consequences across extensive psychological change. **Residual pressure:** ordinary responsibility usually retains one living organism and overlapping memory, so the analogy does not settle cross-life identity by itself.
 
-**Limit:** The analogy captures cognitive correction but can understate the lived force of suffering and ethical transformation.
+### Necessity and significance
 
-### 2. Why knowledge is direct
-
-Because ignorance is the cause, only *jñāna* directly removes it. Hearing the teaching (*śravaṇa*), rational reflection (*manana*) and contemplative assimilation (*nididhyāsana*) mature liberating understanding.
-
-Action and devotion purify the mind and create fitness; they do not produce the already-real Self.
-
-### 3. Jīvanmukti
-
-*Jīvanmukti* is liberation while living. The knower acts without egoic appropriation and no longer generates binding future karma.
-
-Why does the body remain? Advaita distinguishes:
-
-| Karma | Status after knowledge |
-|---|---|
-| *Sañcita* | Stored accumulation is neutralized |
-| *Āgāmi* | No new binding accumulation |
-| *Prārabdha* | Already-fructifying momentum continues until bodily death |
-
-The spinning potter’s wheel illustrates residual momentum after the initiating force has ceased.
-
-### 4. The real-agent problem
-
-**Objection:** If individuality is ultimately unreal, nobody was bound and nobody becomes free.
-
-**Reply:** At the empirical level, the *jīva* is an agent, seeker and knower. Knowledge sublates this standpoint; it does not annihilate a real substance.
-
-**Residual:** The two-level account must explain how an ultimately unreal ignorance can generate an experientially compelling bondage.
+Buddhism refutes the claim that an immortal substantial soul is universally necessary for rebirth. It does not show that continuity is unnecessary; it substitutes causal continuity. It also makes rebirth intelligible without a creator who assigns births. This is one part of the 2018 non-creator comparison, but Jainism must be added because it reaches the same no-creator result while affirming an eternal *jīva*.
 
 ### UPSC application
 
-- **2021 Q6(b), 15 marks:** Explain liberation and the role of knowledge; give both halves equal attention.
-- **2022 Q7(b), 15 marks:** Advaita permits liberation without an ultimately real individual agent.
-- **2025 Q5(d), 10 marks:** Define embodied liberation, explain *prārabdha*, distinguish *videhamukti*.
-- **Trap:** Do not say knowledge destroys every karma immediately or that Advaita annihilates the Self.
+For 2022 Q5(c), state the substantialist assumption, explain *anātman* and dependent continuity, answer the recipient objection and conclude: an immortal soul is not universally necessary, but some causally relevant continuity is. Add that immortality is not sufficient for rebirth either.
+
+### Traps
+
+- *Anātman* is not the assertion that nothing exists.
+- The flame image is not an empirical demonstration.
+- “No creator” and “no soul” are different theses.
 
 ### Revision notes
 
-1. Advaita bondage is beginningless ignorance and superimposition.
-2. Mokṣa is uncovered, not produced.
-3. The rope–snake analogy models error-removal.
-4. *Jñāna* is the direct means because ignorance is the cause.
-5. *Śravaṇa*, *manana* and *nididhyāsana* mature knowledge.
-6. Karma and devotion prepare through purity and concentration.
-7. *Jīvanmukti* is liberation during embodied life.
-8. Stored and future binding karma are neutralized.
-9. *Prārabdha* explains the continuing body.
-10. *Videhamukti* follows bodily death.
-11. Empirical agency remains until knowledge.
-12. Individuality is sublated, not a real self destroyed.
-13. The residual problem concerns the status and power of ignorance.
+1. Aggregates are impermanent and dependently arisen.
+2. No permanent bearer migrates.
+3. Karma conditions a later stream.
+4. The stream is neither numerically identical nor wholly disconnected.
+5. Causal continuity replaces substance identity.
+6. Nirvāṇa ends the causes of renewed becoming.
 
 ### Local practice
 
-**MCQ 28: D**
+**MCQ 15**
 
-Why is knowledge the direct means of liberation in Advaita?
+What continuity claim best represents Buddhist rebirth?
 
-A. Liberation is a heavenly object produced by correct ritual.
-B. Knowledge causes Brahman to come into existence.
-C. Devotion is rejected as psychologically useless.
-D. Bondage is ignorance, so knowledge removes the error concealing an already-free Self.
+A. One permanent ātman changes bodies while remaining identical.
+B. Nothing at all connects one life with another.
+C. A causally descended stream continues without an unchanging transmigrating owner.
+D. A creator directly inserts the same soul into a new body.
 
-- **A — Incorrect:** Advaita denies that mokṣa is a produced result or location.
-- **B — Incorrect:** Brahman is not an effect dependent on a knower’s cognition.
-- **C — Incorrect:** Devotion and discipline retain preparatory value through purification.
-- **D — Correct:** The means follows the diagnosis of bondage as cognitive superimposition.
+**MCQ 15 — Answer and explanation**
 
-**MCQ 29: A**
+**Correct answer: C**
 
-What is the function of *prārabdha* in the doctrine of jīvanmukti?
+- **A — Incorrect:** MCQ 15: That is the substantial-self model Buddhism rejects.
+- **B — Incorrect:** MCQ 15: Dependent causation and karma supply the connection.
+- **C — Correct:** MCQ 15: It combines no-self with ethically relevant causal dependence.
+- **D — Incorrect:** MCQ 15: The Buddhist account does not require a creator or soul transfer.
 
-A. It explains why the body continues after liberating knowledge has ended ignorance.
-B. It proves that no karma is affected by knowledge.
-C. It creates a new individual soul after realization.
-D. It converts mokṣa into a post-mortem resurrection.
+**MCQ 16**
 
-- **A — Correct:** Already-fructifying karma is compared to residual momentum.
-- **B — Incorrect:** Advaita distinguishes *prārabdha* from stored and future binding karma.
-- **C — Incorrect:** Knowledge removes mistaken individuality rather than manufacturing another self.
-- **D — Incorrect:** The doctrine explains freedom before death, not divine bodily restoration.
+What does the Buddhist counterexample establish about immortality and rebirth?
 
-**MCQ 30: B**
+A. No form of continuity is needed for rebirth.
+B. Immortality is sufficient by itself to cause rebirth.
+C. Every religion must reject enduring selves.
+D. An immortal substance-soul is not universally necessary for rebirth, though continuity remains necessary in another form.
 
-How does Advaita answer “Who is liberated if no individual is ultimately real?”
+**MCQ 16 — Answer and explanation**
 
-A. It concedes that liberation is meaningless.
-B. Empirical agency and seeking operate until knowledge sublates mistaken individuality.
-C. A permanent atomic *jīva* remains eternally distinct from Brahman.
-D. Karmic matter is physically removed from the soul.
+**Correct answer: D**
 
-- **A — Incorrect:** Advaita supplies a two-level account rather than abandoning soteriology.
-- **B — Correct:** The seeker is valid at the empirical standpoint that knowledge later transcends.
-- **C — Incorrect:** This resembles Viśiṣṭādvaita’s enduring agent, not Advaita.
-- **D — Incorrect:** Material karmic adhesion is Jain doctrine.
+- **A — Incorrect:** MCQ 16: Without causal connection, the later birth would be unrelated.
+- **B — Incorrect:** MCQ 16: Even substantialist systems add karma and an unended cycle.
+- **C — Incorrect:** MCQ 16: The conclusion is limited to universal necessity for rebirth.
+- **D — Correct:** MCQ 16: The counterexample revises the kind of continuity required rather than abolishing continuity.
 
-**Remediation cue:** Write “not produced but disclosed” and then explain every Advaita practice by whether it prepares or directly removes.
-
----
-
-## Lesson 11 — Viśiṣṭādvaita: Difference, Real Agency and Communion
-
-Progress: 11/14 | Stage: Core | Subtopic: Eternal jīva, dependence, bhakti, surrender and grace
+## Lesson 7 — Jain Soul, Bondage and Non-Creator Rebirth
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Queried — exact learner PDFs; canonical Vedānta comparison; Chatterjee–Datta and C. D. Sharma.
-CA search: "Ramanuja Visistadvaita liberation grace scholarship 2026"
-CA found: No direct current-affairs linkage; the doctrinal comparison is historically stable.
+📚 Book context: canonical Jain and anti-theistic-rebirth modules; R04-21–22 and R04-30 queried
+🔍 CA Search: not used under the restricted clean-room source rule
+📰 CA Found: not applicable
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual first — two meanings of non-duality
+Progress: 7 / 14  |  Stage: Core  |  Subtopic: *jīva*, karmic matter and release
+
+### Visual — bondage and reversal
+
+```text
+activity of body, speech and mind
+              ↓
+      āsrava: karmic influx
+              ↓ passions fasten karma
+       bandha: bondage of jīva
+              ↓ discipline reverses process
+      saṃvara: new influx stopped
+              ↓ austerity exhausts residue
+      nirjarā: attached karma shed
+              ↓
+      liberated siddha remains individual
+```
+
+Jainism is indispensable because it blocks a false equation: a religion can reject a creator and still affirm an eternal soul. The *jīva* is an individual conscious substance whose knowledge and energy are obscured by karmic matter. *Ajīva* names non-soul realities. Bodily, verbal and mental activity permits influx; passions bind karmic material to the soul. Ethical restraint and right conduct prevent further influx, while austerity removes accumulated bondage.
+
+Liberation does not dissolve the individual. The liberated *siddha* manifests unobstructed knowledge, perception, energy and bliss. This sharply contrasts with Buddhist no-self, Advaitic non-duality, Nyāya’s cessation account and Sāṃkhya’s contentless isolation.
+
+### Philosophical pressure
+
+The model gives a vivid mechanism and preserves responsibility without a creator. Its burden is interaction: how does intrinsically conscious *jīva* bind with quasi-material karma? The system treats embodiment and extension as modes of the bound soul, but a critic may still ask how conscious and material categories causally meet.
+
+### The 2018 comparison
+
+“Anti-theistic” should be read minimally as not requiring a creator. Buddhism and Jainism then demonstrate two independent points:
+
+- Buddhism: rebirth need not transmit a permanent soul.
+- Jainism: rebirth need not be administered by a creator, even when an eternal soul is retained.
+
+Their agreement on no creator therefore does not erase their opposition over the continuity-bearer.
+
+### UPSC application
+
+For 2022 Q8(b), divide the answer equally between the nature of *jīva* and the process of bondage. For 2018 Q5(b), compare Buddhism and Jainism, then assess gains—causal autonomy from a creator—and costs—identity, interaction, evidence and moral-desert difficulties.
+
+### Traps
+
+- Non-theistic does not mean no-soul.
+- The dust analogy must not replace the technical sequence.
+- Jain release perfects rather than abolishes individuality.
+
+### Revision notes
+
+1. *Jīva* is eternal, individual and intrinsically conscious.
+2. Karma is treated as subtle matter.
+3. *Āsrava* and *bandha* explain acquisition.
+4. *Saṃvara* and *nirjarā* explain reversal.
+5. A creator is unnecessary in the Jain cycle.
+6. Liberation manifests the soul’s unobstructed capacities.
+
+### Local practice
+
+**MCQ 17**
+
+Which sequence correctly represents the Jain account of bondage and release?
+
+A. Āsrava → bandha → saṃvara → nirjarā.
+B. Nirjarā → āsrava → bandha → saṃvara.
+C. Bandha → nirvāṇa → creation → judgement.
+D. Avidyā → Brahman-knowledge → identity.
+
+**MCQ 17 — Answer and explanation**
+
+**Correct answer: A**
+
+- **A — Correct:** MCQ 17: It moves from influx and binding to stoppage and shedding.
+- **B — Incorrect:** MCQ 17: Shedding cannot precede the influx and binding it is meant to remove.
+- **C — Incorrect:** MCQ 17: This imports Buddhist and creator-theist terms into Jain mechanics.
+- **D — Incorrect:** MCQ 17: That is an Advaitic structure, not Jain karmic materialism.
+
+**MCQ 18**
+
+Why is Jainism essential to the 2018 anti-theistic-rebirth answer?
+
+A. It proves that every non-creator religion denies the soul.
+B. It shows that rejection of a creator can coexist with an eternal individual soul.
+C. It treats liberation as identity with Brahman.
+D. It denies karmic continuity across lives.
+
+**MCQ 18 — Answer and explanation**
+
+**Correct answer: B**
+
+- **A — Incorrect:** MCQ 18: Jainism demonstrates the opposite.
+- **B — Correct:** MCQ 18: It prevents Buddhism from being treated as the only no-creator template.
+- **C — Incorrect:** MCQ 18: The Jain siddha remains an individual.
+- **D — Incorrect:** MCQ 18: Karmic bondage is central to its rebirth model.
+
+**MCQ 19**
+
+What is a focused philosophical objection to Jain bondage?
+
+A. Jainism has no distinction between soul and non-soul.
+B. Jainism makes God the sole distributor of karma.
+C. The interaction between conscious jīva and material karma requires explanation.
+D. Jainism says liberation destroys all individuality.
+
+**MCQ 19 — Answer and explanation**
+
+**Correct answer: C**
+
+- **A — Incorrect:** MCQ 19: The jīva–ajīva distinction is fundamental.
+- **B — Incorrect:** MCQ 19: Its cycle does not require a creator-administrator.
+- **C — Correct:** MCQ 19: The category-crossing bond is the model’s distinctive metaphysical pressure point.
+- **D — Incorrect:** MCQ 19: Individuality is perfected and retained.
+
+## Lesson 8 — Liberation Is a Family of Rival Destinations
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+📚 Book context: canonical liberation parity bench; R04-31–33 and R04-36 queried
+🔍 CA Search: not used under the restricted clean-room source rule
+📰 CA Found: not applicable
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Progress: 8 / 14  |  Stage: Core  |  Subtopic: *mokṣa*, *apavarga*, *nirvāṇa* and *kaivalya*
+
+### Visual — diagnosis determines destination
+
+| School | Bondage diagnosed as | Liberating correction | What remains? |
+|---|---|---|---|
+| Advaita | ignorance of non-dual identity | knowledge | Brahman; separateness sublated |
+| Viśiṣṭādvaita | karma and estrangement in dependence | devotion, surrender and grace | individual *jīva* with God |
+| Nyāya–Vaiśeṣika | error → defect → action → birth → pain | true knowledge breaks the chain | self without pain-producing experience |
+| Sāṃkhya–Yoga | confusion of *puruṣa* with *prakṛti* | discriminative insight and discipline | isolated pure consciousness |
+| Jainism | material karma obscuring *jīva* | stoppage and shedding | perfected individual soul |
+| Buddhism | craving and ignorance sustain becoming | their cessation | no permanent self-state asserted |
+
+### Nyāya–Vaiśeṣika *apavarga*
+
+The chain runs from false knowledge to attachment and aversion, action, birth and pain. Right knowledge removes error and prevents the downstream sequence. The eternal self remains, but classical Nyāya does not describe liberation as an ordinary conscious enjoyment; without body–mind conjunction, pain and familiar conscious qualities are absent. The natural objection—why seek a state without positive felt bliss?—is answered by defining the goal as unconditional cessation of suffering rather than another produced pleasure.
+
+### Sāṃkhya–Yoga *kaivalya*
+
+Sāṃkhya’s crucial claim, stated sharply in *Sāṃkhya-kārikā* 62–63, is that *puruṣa* is never actually transformed, bound or released. *Prakṛti* carries the psychophysical sequence; bondage is misattribution. *Viveka-khyāti* ends confusion and leaves consciousness isolated. Yoga adds disciplined restriction of mental modifications and a practical path. *Kaivalya* here means isolation, not Jain *kevala-jñāna*, which denotes perfected omniscience.
+
+### Buddhist *nirvāṇa*
+
+Nirvāṇa ends craving, ignorance and the production of suffering. It must not be described as either the eternal survival or annihilation of a self, because the permanent self whose fate is being asked about was denied from the outset. Conventional agency remains meaningful along the path; cessation does not create a substantial liberated owner.
+
+### UPSC application
+
+For 2024 Q5(c), give Nyāya’s causal chain, the role of right knowledge, the status of self and consciousness, and the desirability objection. Across questions, fix the requested liberation term before making comparisons.
+
+### Traps
+
+- *Kaivalya* has different meanings in Sāṃkhya-Yoga and Jain contexts.
+- Nyāya release is not annihilation of the self.
+- Nirvāṇa is not a hidden eternal *ātman*.
+
+### Revision notes
+
+1. Shared word “liberation” does not imply a shared state.
+2. Nyāya targets pain and its causal conditions.
+3. Sāṃkhya targets misidentification.
+4. Buddhism targets craving and ignorance.
+5. Jainism removes karmic obstruction.
+6. Theistic Vedānta preserves communion.
+
+### Local practice
+
+**MCQ 20**
+
+Which description of Nyāya–Vaiśeṣika apavarga is most accurate?
+
+A. The self becomes numerically identical with Brahman.
+B. The self is annihilated together with pain.
+C. Liberation is an endless sequence of pleasurable rebirths.
+D. The self remains after the pain-producing chain and ordinary conscious qualities cease.
+
+**MCQ 20 — Answer and explanation**
+
+**Correct answer: D**
+
+- **A — Incorrect:** MCQ 20: Identity with Brahman belongs to Advaita, not Nyāya.
+- **B — Incorrect:** MCQ 20: Nyāya retains an eternal self-substance.
+- **C — Incorrect:** MCQ 20: Apavarga ends birth and its conditions.
+- **D — Correct:** MCQ 20: It preserves substance while defining release primarily as cessation.
+
+**MCQ 21**
+
+Why must Sāṃkhya kaivalya and Jain kevala be separated?
+
+A. Sāṃkhya means isolation of pure consciousness, while Jain kevala signifies unobstructed omniscience of an individual soul.
+B. Both mean absorption into a personal creator.
+C. Both deny any enduring consciousness.
+D. The terms refer only to ritual merit.
+
+**MCQ 21 — Answer and explanation**
+
+**Correct answer: A**
+
+- **A — Correct:** MCQ 21: The similar vocabulary conceals opposed accounts of liberated consciousness.
+- **B — Incorrect:** MCQ 21: Neither doctrine has that terminus.
+- **C — Incorrect:** MCQ 21: Both retain consciousness, though with very different content.
+- **D — Incorrect:** MCQ 21: They designate liberation or perfection, not a ritual score.
+
+## Lesson 9 — Advaita: Knowledge, Jīvanmukti and the Residual Body
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+📚 Book context: canonical Advaita liberation modules; R04-26–27 queried
+🔍 CA Search: not used under the restricted clean-room source rule
+📰 CA Found: not applicable
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Progress: 9 / 14  |  Stage: Core  |  Subtopic: removal model and embodied freedom
+
+### Visual — liberation uncovers; it does not manufacture
+
+```text
+ātman is already Brahman
+        ↓ avidyā superimposes limitation
+empirical jīva acts, studies and disciplines itself
+        ↓ śravaṇa → manana → nididhyāsana
+knowledge removes the error
+        ↓
+jīvanmukti: freedom while body continues through prārabdha
+        ↓ body falls
+videhamukti: no further embodiment
+```
+
+Advaita treats liberation as the removal of ignorance, not the production of a new reality. Action can produce or modify an object, but cannot disclose identity by itself. Scriptural teaching is heard (*śravaṇa*), rationally examined (*manana*) and assimilated (*nididhyāsana*). Knowledge is direct because the obstacle is cognitive error.
+
+### Why does the body remain?
+
+The standard pedagogic division distinguishes accumulated karma, karma already bearing fruit and new karma. Knowledge prevents future appropriation and neutralises the stock that depends upon ignorance, but *prārabdha* has already initiated this embodiment. Its momentum continues like a wheel after the driving force has stopped. This image explains *jīvanmukti*: the knower is free while biological and social life continues.
+
+A critic may charge inconsistency: if ignorance is destroyed, why may one karmic class resist knowledge? The Advaitic reply distinguishes what knowledge directly removes—misidentification—from an already operating empirical sequence. The residual challenge is whether that distinction is explanatory or merely protects the doctrine.
+
+### Agency at two levels
+
+The empirical seeker is a responsible agent within *vyavahāra*. From the ultimate standpoint, Brahman is not a finite doer and no independently real second entity becomes liberated. The sentence “no one is bound” is therefore a final metaphysical verdict, not an instruction to abandon discipline at the empirical level.
+
+### UPSC application
+
+For 2021 Q6(b), explain both the nature of liberation and why knowledge has the specified role. For 2025 Q5(d), make embodied freedom central: define *jīvanmukti*, explain *prārabdha*, distinguish *videhamukti*, and assess the residual-body problem.
+
+### Traps
+
+- Advaita does not claim that action is useless; it is preparatory.
+- *Jīvanmukti* is not a temporary heaven.
+- The empirical agent cannot be erased before the path is explained.
+
+### Revision notes
+
+1. Mokṣa is already accomplished as the self’s nature.
+2. Ignorance, not a real chain, is the decisive obstacle.
+3. Knowledge alone directly removes ignorance.
+4. Action and worship purify and prepare.
+5. *Prārabdha* accounts for continuing embodiment.
+6. *Videhamukti* follows the fall of the residual body.
+
+### Local practice
+
+**MCQ 22**
+
+On Advaita's removal model, what gives knowledge its direct liberating role?
+
+A. Because knowledge manufactures Brahman as a new entity.
+B. Because the obstacle is ignorance of an already accomplished identity, not an unproduced object.
+C. Because every ritual action is metaphysically impossible.
+D. Because liberation is defined as endless sensory pleasure.
+
+**MCQ 22 — Answer and explanation**
+
+**Correct answer: B**
+
+- **A — Incorrect:** MCQ 22: Brahman is not a produced effect.
+- **B — Correct:** MCQ 22: A cognitive error is removed by knowledge rather than by productive action.
+- **C — Incorrect:** MCQ 22: Advaita assigns action a preparatory role.
+- **D — Incorrect:** MCQ 22: The goal is non-dual self-realisation, not produced experience.
+
+**MCQ 23**
+
+What does prārabdha explain in the doctrine of jīvanmukti?
+
+A. Why the liberated person accumulates unlimited new karma.
+B. Why Brahman becomes a finite soul.
+C. Why embodiment continues after liberating knowledge has ended ignorance.
+D. Why liberation must wait for another rebirth.
+
+**MCQ 23 — Answer and explanation**
+
+**Correct answer: C**
+
+- **A — Incorrect:** MCQ 23: Non-appropriating action does not renew bondage in this account.
+- **B — Incorrect:** MCQ 23: Brahman does not undergo real transformation.
+- **C — Correct:** MCQ 23: Already-fruiting causal momentum is invoked to explain the residual body.
+- **D — Incorrect:** MCQ 23: Jīvanmukti is freedom in the present embodiment.
+
+**MCQ 24**
+
+How should the two-level account of agency be stated?
+
+A. No practice is possible because agency is denied at every level.
+B. The empirical agent is ultimately independent of Brahman.
+C. Brahman performs ritual actions to create itself.
+D. The seeker acts responsibly at the empirical level, while ultimate Brahman is not a finite doer.
+
+**MCQ 24 — Answer and explanation**
+
+**Correct answer: D**
+
+- **A — Incorrect:** MCQ 24: Advaita preserves empirical agency for the path.
+- **B — Incorrect:** MCQ 24: Ultimate independence would contradict non-duality.
+- **C — Incorrect:** MCQ 24: This confuses the absolute with an empirical agent and treats it as produced.
+- **D — Correct:** MCQ 24: The level distinction prevents premature cancellation of the path.
+
+**MCQ 25**
+
+What is the strongest focused criticism of the residual-body account?
+
+A. The special immunity of already-fruiting karma may look like an ad hoc protection of the theory.
+B. Advaita lacks any distinction between knowledge and action.
+C. Jīvanmukti means permanent rebirth.
+D. Advaita makes ordinary consciousness a property produced by atoms.
+
+**MCQ 25 — Answer and explanation**
+
+**Correct answer: A**
+
+- **A — Correct:** MCQ 25: The objection targets explanatory consistency rather than merely restating another school.
+- **B — Incorrect:** MCQ 25: Its position depends precisely on that distinction.
+- **C — Incorrect:** MCQ 25: It means freedom while this body persists.
+- **D — Incorrect:** MCQ 25: That is not its account of consciousness.
+
+## Lesson 10 — Real Agency: Advaita and Viśiṣṭādvaita
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+📚 Book context: canonical agent-comparison module and R04-28–29 queried
+🔍 CA Search: not used under the restricted clean-room source rule
+📰 CA Found: not applicable
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Progress: 10 / 14  |  Stage: Core  |  Subtopic: empirical agency, enduring jīva and grace
+
+### Visual — two meanings of “not independent”
 
 | Question | Advaita | Viśiṣṭādvaita |
 |---|---|---|
-| Is the individual ultimately real? | No separate ultimate individuality | Yes, as a real mode of Brahman |
-| Is agency real? | Empirically valid | Ontologically real though dependent |
-| What ends? | Ignorance of identity | Karma and obstructed God-relation |
-| What remains? | Brahman alone | *Jīva* in communion and service |
-| Direct path | Knowledge | Bhakti or surrender, fulfilled by grace |
+| Who is bound? | empirical *jīva* under *avidyā* | real dependent individual under karma |
+| Is agency real? | valid within *vyavahāra*, sublated ultimately | real but sustained and permitted by God |
+| What liberates? | knowledge of non-dual identity | devotion or surrender, effective through grace |
+| What remains? | no ultimately separate finite subject | the same individual in communion and service |
 
-*Rāmānuja protects devotion by protecting real difference: love requires a lover who does not disappear into the beloved.*
+The 2022 question turns on the ambiguity of “real agent.” A subject may be empirically responsible without being self-sufficient or ultimately separate. Advaita uses that distinction: practice corrects an error within experience, and the correction reveals that the limited doer was never a second absolute. The objection asks how a merely empirical bondage can trouble the real self; the reply says the question repeats the error of demanding an ultimately real dream-agent before waking can end a dream.
 
-### 1. The real individual
+Viśiṣṭādvaita rejects the sublation of individuality. The *jīva* is a real mode or body of Brahman—inseparable and dependent, yet genuinely conscious and active. Liberation fulfils rather than cancels individuality. *Bhakti* and *prapatti* orient the person toward God; grace releases the same subject who was bound.
 
-Viśiṣṭādvaita understands Brahman as qualified by real selves and world. The *jīva* is neither independent nor illusory. It is a genuine knower, agent and enjoyer whose being depends completely on God.
+### Responsibility under dependence
 
-### 2. Bondage and rebirth
-
-Beginningless karma restricts the soul’s knowledge and keeps it embodied. Rebirth preserves the same individual subject who bears responsibility.
-
-### 3. Liberation
-
-Mokṣa is not identity in which individuality vanishes. It is direct knowledge of God, freedom from karma, blissful communion and service. Difference and dependence remain.
-
-### 4. Bhakti, prapatti and grace
-
-Rāmānuja understands bhakti as steady loving contemplation. *Prapatti* or *śaraṇāgati* is complete surrender, especially important when the demanding discipline of bhakti-yoga is inaccessible.
-
-**Objection:** If grace is decisive, effort seems irrelevant.
-
-**Reply:** The tradition distinguishes receptive surrender from meritorious production. Effort disposes the agent without purchasing grace.
-
-**Residual:** If grace responds to disposition, critics ask whether it becomes conditionally earned; if wholly unconditional, unequal distribution becomes difficult to explain.
+A critic asks whether divine sustaining power and grace undermine creaturely responsibility. The reply distinguishes dependence for existence from authorship of a choice: permission and support do not logically equal coercion. The residual pressure remains when salvation depends decisively upon grace and when God’s governance includes karmic fruits.
 
 ### UPSC application
 
-- **2022 Q7(b), 15 marks:** Contrast Advaita’s empirically real agent with Viśiṣṭādvaita’s ultimately real agent.
-- **2020 Q8(c), 15 marks:** Rāmānuja supplies the sequential karma → knowledge → bhakti model.
-- **2018 Q7(c), 15 marks:** Bhakti’s sufficiency and grace structure are central.
+For 2022 Q7(b), do not ask only whether each school “has a soul.” Explain which sense of reality applies to the agent, who practises, what changes, and whether individuality is sublated or fulfilled. Conclude that self-sufficient agency is unnecessary in both systems, but enduring distinct agency is preserved only by Rāmānuja.
+
+### Traps
+
+- Dependence is not identical with unreality.
+- Advaita’s empirical agent is not a second ultimate.
+- Viśiṣṭādvaita liberation is not absorption without remainder.
 
 ### Revision notes
 
-1. Viśiṣṭādvaita affirms qualified non-duality.
-2. Selves and world are real modes of Brahman.
-3. The *jīva* is eternal, conscious and dependent.
-4. Agency remains real in bondage and liberation.
-5. Karma restricts the soul’s manifestation and sustains rebirth.
-6. Liberation preserves individuality.
-7. The final relation is communion and service.
-8. Bhakti is steady loving contemplation.
-9. *Prapatti* means complete surrender.
-10. Grace completes rather than simply rewards human effort.
-11. The grace–effort relation retains a philosophical residual.
+1. “Real” may mean empirical, ultimate or independent.
+2. Advaita sublates finite doership ultimately.
+3. Viśiṣṭādvaita retains the dependent individual eternally.
+4. Both can sustain ethical practice.
+5. Grace introduces a responsibility problem but does not automatically erase agency.
 
 ### Local practice
 
-**MCQ 31: C**
+**MCQ 26**
 
-Why does Viśiṣṭādvaita reject Advaita’s account of the liberated agent?
+What distinction unlocks the 2022 liberation-without-agent question?
 
-A. It denies that any self survives bodily death.
-B. It holds that consciousness disappears in liberation.
-C. It treats the individual soul as a real eternal mode of God, not an ultimately mistaken individuality.
-D. It identifies karma with material particles attached to the soul.
+A. Real agency means only bodily strength.
+B. Empirical responsibility must be separated from ultimate independent existence.
+C. Any dependent agent is necessarily unreal.
+D. Liberation requires a creator to become the soul.
 
-- **A — Incorrect:** Viśiṣṭādvaita affirms enduring personal existence.
-- **B — Incorrect:** Liberation includes conscious communion and service.
-- **C — Correct:** Real difference is necessary for its personal God–soul relation.
-- **D — Incorrect:** Quasi-material karma belongs to Jain metaphysics.
+**MCQ 26 — Answer and explanation**
 
-**MCQ 32: D**
+**Correct answer: B**
 
-What philosophical problem is expressed by the grace–effort debate?
+- **A — Incorrect:** MCQ 26: The question is metaphysical and ethical, not muscular.
+- **B — Correct:** MCQ 26: The two schools assign different status to a seeker without denying the practical path.
+- **C — Incorrect:** MCQ 26: Viśiṣṭādvaita explicitly denies that inference.
+- **D — Incorrect:** MCQ 26: Neither school defines release in that way.
 
-A. Whether consciousness can be reduced to brain activity.
-B. Whether rebirth and resurrection are identical.
-C. Whether Plato’s recollection establishes pre-existence.
-D. Whether decisive divine grace makes disciplined effort redundant, or responsive grace becomes earned.
+**MCQ 27**
 
-- **A — Incorrect:** That is a mind–body concern unrelated to the internal logic of surrender.
-- **B — Incorrect:** The issue here concerns agency in salvation, not post-mortem structures.
-- **C — Incorrect:** Platonic epistemology does not determine Śrīvaiṣṇava grace.
-- **D — Correct:** Both extremes create a cost that the tradition must mediate.
+What remains in Viśiṣṭādvaita liberation?
 
-**Remediation cue:** Contrast Advaita and Viśiṣṭādvaita with the words “sublation” and “communion,” then explain the agent each requires.
+A. Only an unconscious self without qualities.
+B. A causal stream with no permanent self.
+C. A real dependent individual in conscious communion and service to God.
+D. No distinction whatsoever between finite soul and Brahman.
 
----
+**MCQ 27 — Answer and explanation**
 
-## Lesson 12 — Knowledge, Action and Devotion as Paths to Liberation
+**Correct answer: C**
 
-Progress: 12/14 | Stage: Advanced | Subtopic: Production, preparation, removal, reception and grace
+- **A — Incorrect:** MCQ 27: That resembles a reading of Nyāya release, not Viśiṣṭādvaita.
+- **B — Incorrect:** MCQ 27: That is the Buddhist model.
+- **C — Correct:** MCQ 27: Its liberation fulfils individuality rather than sublating it.
+- **D — Incorrect:** MCQ 27: Rāmānuja preserves qualified difference within unity.
+
+**MCQ 28**
+
+How can a Viśiṣṭādvaitin defend responsibility under divine dependence?
+
+A. By denying that God sustains anything.
+B. By making all choices illusions produced by ignorance.
+C. By claiming karma has no relation to action.
+D. God’s sustaining and permitting an act need not make God the finite agent’s chooser.
+
+**MCQ 28 — Answer and explanation**
+
+**Correct answer: D**
+
+- **A — Incorrect:** MCQ 28: That would abandon the system’s dependence relation.
+- **B — Incorrect:** MCQ 28: That is not Rāmānuja’s account of real agency.
+- **C — Incorrect:** MCQ 28: Karmic bondage presupposes responsible activity.
+- **D — Correct:** MCQ 28: Ontological support can be distinguished from immediate authorship, though tension remains.
+
+## Lesson 11 — Knowledge, Action, Devotion, Grace and Effort
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Queried — exact learner PDFs; canonical bhakti and three-means modules; *Gītā* passages; Chatterjee–Datta.
-CA search: "Bhagavad Gita knowledge action devotion liberation 2026"
-CA found: No direct current-affairs linkage; Gita Supersite was checked as a live textual repository.
+📚 Book context: canonical path modules and R04-34–35, R04-37 queried
+🔍 CA Search: not used under the restricted clean-room source rule
+📰 CA Found: not applicable
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual first — three paths do different philosophical work
+Progress: 11 / 14  |  Stage: Core  |  Subtopic: rival means of liberation
+
+### Visual — the prior question decides the path
 
 ```text
-KARMA  ── disciplined action ──► qualifies / purifies
-JÑĀNA  ── true understanding ──► removes ignorance
-BHAKTI ── loving surrender ────► receives grace
-
-Prior question:
-Is liberation PRODUCED, DISCLOSED, or GIVEN IN RELATIONSHIP?
-          │              │                 │
-       Mīmāṃsā        Advaita      Viśiṣṭādvaita / Dvaita
+Is liberation PRODUCED? ── action can be a productive means
+Is bondage an ERROR? ───── knowledge must remove it
+Is release COMMUNION? ──── devotion and grace become central
 ```
 
-*The paths cannot be ranked before the nature of bondage and liberation has been fixed.*
-
-### 1. Analytic vocabulary
-
-- *Sākṣāt-sādhana*: direct means.
-- *Ārād-upakāraka*: remote or auxiliary aid.
-- *Adhikāra*: qualification or fitness.
-- *Samuccaya*: combination of means.
-
-### 2. Śaṅkara
-
-Knowledge alone directly liberates because ignorance alone makes bondage possible. Ritual action and worship purify the mind, but Śaṅkara rejects *jñāna-karma-samuccaya* as a joint producer of mokṣa.
-
-### 3. Rāmānuja and Madhva
-
-Rāmānuja gives a sequential structure: action purifies, knowledge discloses dependence on God, and bhakti culminates in grace; *prapatti* offers an accessible alternative. Madhva defines devotion as affection preceded by knowledge of the Lord’s supremacy; grace is decisive.
-
-### 4. Mīmāṃsā, the *Gītā* and Vivekananda
-
-Pūrva-Mīmāṃsā gives ritual action independent authority. *Gītā* 5.4–5 rejects a crude separation of knowledge and disciplined action. Vivekananda’s four yogas match different temperaments; this is psychological pluralism and does not erase metaphysical differences among schools.
-
-### 5. Bhakti as a complete path
-
-The *Gītā*’s devotion chapters and 18.66 ground surrender. *Bhāgavata Purāṇa* 7.5.23 lists nine practices: hearing, praising, remembering, service, worship, salutation, servitude, friendship and self-offering.
-
-Bhakti’s philosophical strengths:
-
-1. It engages affect, will and conduct.
-2. It widens access beyond ritual or scholastic qualification.
-3. It answers the incapacity problem through grace.
-4. It preserves an I–Thou relation.
-
-**Strong objections and replies**
-
-- **Emotionalism:** disciplined and knowledge-grounded forms answer mere sentiment.
-- **Duality:** Advaita concedes bhakti is preparatory; theistic Vedānta denies identity is the goal.
-- **Grace versus effort:** cat and monkey illustrations expose rather than eliminate the tension.
-- **Personal-God dependence:** *nirguṇa* bhakti loosens iconic form, but fully non-theistic systems still cannot adopt the same relational path.
-
-### UPSC application
-
-- **2018 Q7(c), 15 marks:** Evaluate bhakti through accessibility, sufficiency and terminus.
-- **2020 Q8(c), 15 marks:** Ask whether paths are alternative, sequential or combined.
-- **Trap:** “All three are equally valid” is not an argument and suppresses school disagreement.
-- **Answer verdict:** Karma qualifies, bhakti receives, jñāna removes; they converge in transforming appropriation but diverge in metaphysical terminus.
-
-### Revision notes
-
-1. Direct means and preparatory aid must be separated.
-2. Qualification is not identical with causation of liberation.
-3. Śaṅkara adopts the removal model.
-4. Śaṅkara rejects knowledge–action combination as a direct producer.
-5. Rāmānuja gives a sequential culmination in bhakti.
-6. *Prapatti* is complete surrender.
-7. Madhva requires knowledge-grounded devotion.
-8. Mīmāṃsā gives action independent authority.
-9. *Gītā* 5.4–5 supports functional convergence.
-10. *Gītā* 18.66 grounds surrender.
-11. The nine limbs of bhakti cover hearing through self-offering.
-12. Bhakti shifts liberation from achievement toward reception.
-13. Grace and effort remain structurally tense.
-14. Paths converge in function but diverge in terminus.
-
-### Local practice
-
-**MCQ 33: A**
-
-Why does Śaṅkara reject knowledge–action combination as the direct cause of liberation?
-
-A. A produced action-result cannot reveal an already-accomplished freedom whose obstacle is ignorance.
-B. All action is morally evil and must stop before inquiry begins.
-C. Devotion alone creates a new Brahman-consciousness.
-D. Ritual action is invalid because the Veda lacks authority.
-
-- **A — Correct:** The removal model makes knowledge uniquely fitted to the problem.
-- **B — Incorrect:** Disciplined action retains preparatory and purificatory value.
-- **C — Incorrect:** Brahman-consciousness is not manufactured, and Advaita does not make devotion the sole direct cause.
-- **D — Incorrect:** Advaita accepts Vedic testimony while interpreting the roles of its sections differently.
-
-**MCQ 34: B**
-
-Which sequence best represents Rāmānuja’s path?
-
-A. Bhakti destroys the unreality of the world and then produces Brahman.
-B. Karma purifies, knowledge discloses the soul’s dependence, and bhakti culminates in grace.
-C. Knowledge annihilates the individual before devotion begins.
-D. Ritual alone mechanically compels God to grant liberation.
-
-- **A — Incorrect:** Viśiṣṭādvaita affirms the reality of world and qualified Brahman.
-- **B — Correct:** Its sequential account preserves real agency and relational fulfilment.
-- **C — Incorrect:** The individual remains real and becomes the devotee.
-- **D — Incorrect:** Grace is not portrayed as a mechanically purchasable ritual result.
-
-**MCQ 35: C**
-
-What is the best philosophical defence of bhakti against the charge of mere emotionalism?
-
-A. Emotion is infallible and requires no discipline.
-B. Bhakti excludes knowledge and ethical conduct.
-C. Mature traditions regulate devotion through practice, discernment and knowledge of the object of devotion.
-D. Devotion succeeds only when an image is worshipped.
-
-- **A — Incorrect:** Unregulated feeling is exactly the objection being answered.
-- **B — Incorrect:** Major bhakti systems integrate knowledge, discipline and moral transformation.
-- **C — Correct:** Structured devotion is a mode of cognition, will and conduct rather than passing sentiment.
-- **D — Incorrect:** Formless devotional traditions show that an iconic form is not logically necessary.
-
-**MCQ 36: D**
-
-What does the formula “karma qualifies, bhakti receives, jñāna removes” achieve?
-
-A. It proves that all schools define liberation identically.
-B. It makes karma irrelevant to every tradition.
-C. It reduces devotion to an emotion with no metaphysical role.
-D. It distinguishes different functions of the paths without falsely making them interchangeable.
-
-- **A — Incorrect:** The formula presupposes that schools disagree about both means and end.
-- **B — Incorrect:** Qualification and purification remain indispensable in several accounts.
-- **C — Incorrect:** Reception names bhakti’s relation to grace and dependence.
-- **D — Correct:** It compares roles while preserving doctrinal conflict.
-
-**Remediation cue:** Before naming a path, state whether the school thinks mokṣa is produced, uncovered or received.
-
----
-
-## Lesson 13 — Rebirth, Reincarnation and Resurrection
-
-Progress: 13/14 | Stage: Advanced | Subtopic: Cyclic and linear afterlife models, reassembly and replica identity
-
-━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Queried — John Hick, *Philosophy of Religion*, print pp. 120–143; Oxford Handbook “Death and the Afterlife”, print pp. 366 onward; exact learner PDFs.
-CA search: "official scholarly resurrection personal identity afterlife 2026"
-CA found: Stanford Encyclopedia of Philosophy entries on “Afterlife” and “Personal Identity” remain reliable live reference checks; no current event changes the doctrine.
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-### Visual first — opposite structures of post-mortem hope
-
-| Axis | Rebirth | Resurrection |
+| View | Relation among paths | Direct means |
 |---|---|---|
-| Time | Beginningless cycle | Linear history |
-| Lives | Many | One earthly life |
-| Mechanism | Karma and continuity | Divine reconstitution |
-| Body | Replaced across births | Restored or transformed |
-| Moral frame | Fruit across lives | Final judgement |
-| Goal | Exit from saṃsāra | Restored life with God |
-| Identity problem | Memory and continuity | Gap, reassembly and duplication |
+| Pūrva-Mīmāṃsā orientation | Vedic action is primary | *karma* |
+| Advaita | action and worship prepare; knowledge removes ignorance | *jñāna* |
+| Viśiṣṭādvaita | action and self-knowledge mature into devotion; surrender is an accessible route | *bhakti/prapatti* through grace |
+| Dvaita | right knowledge grounds devotion; divine favour is decisive | knowledge-informed *bhakti* |
+| Vivekananda | yogas suit different temperaments | plural practical routes to realisation |
 
-*Rebirth asks how moral causation continues through many embodiments; resurrection asks how an embodied person can be restored after death.*
+The useful distinction is between a **direct means** and an **auxiliary qualification**. Advaita can value selfless action and worship while denying that either directly produces mokṣa. Viśiṣṭādvaita instead orders practices cumulatively and makes devotion or surrender central because the terminus is personal communion.
 
-### 1. Greek immortality and Semitic resurrection
+### Evaluating bhakti
 
-Platonic immortality treats the soul as naturally deathless and separable. Resurrection treats death as real and survival as a divine act restoring the person. Oscar Cullmann’s influential contrast emphasizes that these are not interchangeable pictures.
+Bhakti is not bare emotion. Its strongest philosophical case has four elements: it engages intellect, will and affect; it is accessible beyond specialist ritual or scholarship; it transforms agency through surrender; and it makes grace answer the incapacity of a bound self to free itself unaided. The Gītā supplies precise anchors: 18.66 on exclusive refuge, 9.22 on divine care for the steadfast devotee and 9.32 on accessibility. Rāmānuja systematises surrender as *prapatti*; Madhva describes devotion as love grounded in right knowledge of the Lord’s supremacy and makes grace decisive.
 
-### 2. The reassembly problem
-
-If bodies exchange matter throughout life, and matter can belong successively to different organisms, whose particles are restored?
-
-- Aquinas: the rational soul as form secures continuity of the body.
-- Peter van Inwagen: God preserves a bodily core or substitutes a simulacrum.
-- Hick: a unique psychophysical replica with memory and character can count as the same person.
-
-### 3. The duplication objection
-
-If God can create one replica, why not two? Both cannot be numerically identical with the deceased.
-
-**Hick’s reply:** Restrict the case to a unique replica and appeal to ordinary recognition criteria.
-
-**Residual:** The possible branching shows that uniqueness may be a practical condition rather than the metaphysical ground of identity.
-
-### 4. Rebirth’s parallel problem
-
-Substantialist rebirth invokes the same soul or subtle body. Buddhism uses causal succession. Both face the memory objection: without recollection, in what sense is this my survival?
-
-**Reply:** Memory is neither necessary nor sufficient for identity; dispositions and causal history may connect lives.
-
-**Residual:** If no psychologically accessible connection remains, “survival” may become too thin to satisfy personal hope even if moral causation continues.
+Objections remain. Devotion appears to presuppose duality and therefore cannot directly yield Advaitic identity. Unregulated feeling may become sentimentality or fanaticism. If grace alone decides, effort seems idle; if effort earns liberation, grace seems unnecessary. The Śrīvaiṣṇava cat/monkey contrast dramatises this dispute: the kitten is carried, whereas the baby monkey must cling. The image identifies alternative weights assigned to dependence and cooperation; it does not settle the issue.
 
 ### UPSC application
 
-- **2019 Q8(a):** Contrast reincarnation with the wider category of rebirth.
-- **2020 Q5(b):** Immortality as religious presupposition should include natural soul and resurrection models.
-- **Probable framing:** Compare Western resurrection and Indian rebirth on personal identity.
-- **Trap:** Resurrection is not rebirth in heaven; reincarnation is not the correct term for Buddhist *punarbhava*.
+For 2018 Q7(c), evaluate bhakti by accessibility, sufficiency, transformation and dependence on a personal divine object. For 2020 Q8(c), do not say all three paths are equal. State whether each school treats them as alternatives, stages or direct/indirect means, and connect that answer to its concept of liberation.
+
+### Traps
+
+- Advaita does not reject devotion; it assigns it a preparatory role.
+- Bhakti’s philosophical content includes grace and transformed agency.
+- Convergence in function does not prove identity of final states.
 
 ### Revision notes
 
-1. Platonic immortality is natural soul-survival.
-2. Resurrection is a divine act restoring the person.
-3. Rebirth is a karmic many-life structure.
-4. Reincarnation presupposes a substantial re-embodied soul.
-5. Resurrection has a gap problem.
-6. Reassembly faces shared-matter difficulties.
-7. Aquinas uses soul-as-form.
-8. Van Inwagen uses preserved bodily continuity or a simulacrum strategy.
-9. Hick uses a unique psychophysical replica.
-10. Duplication separates qualitative likeness from numerical identity.
-11. Rebirth faces a memory gap.
-12. Causal or dispositional continuity may outlast memory.
-13. Both models leave a residual identity problem for different reasons.
+1. Direct and auxiliary means must be distinguished.
+2. Advaita uses a removal model.
+3. Rāmānuja uses a graded path culminating in devotion or surrender.
+4. Madhva joins knowledge, devotion and grace.
+5. Grace and effort create a live tension.
+6. The path follows the school’s diagnosis and terminus.
 
 ### Local practice
 
-**MCQ 37: A**
+**MCQ 29**
 
-Which contrast is accurate?
+Why does Advaita deny that action directly produces liberation?
 
-A. Rebirth is cyclic and karmic, whereas resurrection is linear and depends on divine reconstitution.
-B. Rebirth and resurrection both require an immortal Platonic soul.
-C. Resurrection involves many lives and rebirth only one.
-D. Reincarnation is the safest term for Buddhist causal continuity.
+A. Liberation is disclosure of an already free self, so action can prepare but cannot manufacture it.
+B. Advaita denies that any action occurs empirically.
+C. Action is rejected because devotion alone creates Brahman.
+D. Liberation is a material object obtainable only after death.
 
-- **A — Correct:** The models differ in temporal structure, mechanism and goal.
-- **B — Incorrect:** Resurrection can reject natural soul-immortality and rely on divine action.
-- **C — Incorrect:** The number-of-lives contrast runs in the opposite direction.
-- **D — Incorrect:** Reincarnation imports the enduring substance Buddhism denies.
+**MCQ 29 — Answer and explanation**
 
-**MCQ 38: B**
+**Correct answer: A**
 
-What does the duplication objection target in Hick’s replica theory?
+- **A — Correct:** MCQ 29: The production/removal distinction fixes the role of karma.
+- **B — Incorrect:** MCQ 29: It recognises empirical action and discipline.
+- **C — Incorrect:** MCQ 29: Neither devotion nor action creates Brahman.
+- **D — Incorrect:** MCQ 29: Advaita treats it as knowledge of present identity.
 
-A. Whether bodies contain any matter.
-B. Whether psychological and qualitative continuity can determine unique numerical identity when it branches.
-C. Whether God possesses sufficient power to create one body.
-D. Whether karma can mature across multiple lives.
+**MCQ 30**
 
-- **A — Incorrect:** The objection concerns identity, not the existence of material composition.
-- **B — Correct:** Two equal successors expose the insufficiency of resemblance and memory alone.
-- **C — Incorrect:** The argument grants creative power for the sake of testing identity.
-- **D — Incorrect:** Karmic maturation belongs to rebirth, not replica resurrection.
+What is the philosophical point of the cat/monkey contrast?
 
-**MCQ 39: C**
+A. It proves that animals alone can attain liberation.
+B. It displays rival accounts of how divine grace and human cooperation contribute to release.
+C. It distinguishes Buddhist rebirth from Jain rebirth.
+D. It establishes that knowledge is impossible.
 
-Why does the memory objection not automatically refute rebirth?
+**MCQ 30 — Answer and explanation**
 
-A. Every tradition guarantees complete past-life recollection.
-B. Memory is identical with an immaterial soul.
-C. Memory may be evidence of continuity without being necessary or sufficient for metaphysical continuity.
-D. The objection applies only to resurrection.
+**Correct answer: B**
 
-- **A — Incorrect:** Ordinary absence of recollection creates the objection in the first place.
-- **B — Incorrect:** Psychological content and substance identity are distinct criteria.
-- **C — Correct:** Forgetting within one life already shows persistence can outrun accessible memory.
-- **D — Incorrect:** Rebirth is a primary target, though resurrection has related gaps.
+- **A — Incorrect:** MCQ 30: The images are analogies of dependence and effort.
+- **B — Correct:** MCQ 30: The two images vary the seeker’s active contribution under grace.
+- **C — Incorrect:** MCQ 30: It belongs to a theistic grace dispute.
+- **D — Incorrect:** MCQ 30: The analogy concerns soteriological agency, not epistemic scepticism.
 
-**Remediation cue:** Put every afterlife theory on three axes: number of lives, continuity mechanism and final goal.
-
----
-
-## Lesson 14 — Is Immortality or Rebirth Necessary for Robust Liberation?
-
-Progress: 14/14 | Stage: Advanced | Subtopic: Modal verdict, objections, residuals and answer construction
+## Lesson 12 — Other Immortality Arguments and Their Evidential Limits
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-Book context: Queried — all canonical, learner-package, advanced-dossier, OCR-book and PYQ materials mapped to the final necessity problem.
-CA search: "liberation immortality rebirth philosophy 2026"
-CA found: No direct current-affairs event; the official 2026 Philosophy Paper II has no primary-owned question for this topic.
+📚 Book context: canonical argument-family and body/brain sections; R04-08–09, R04-12 queried
+🔍 CA Search: not used under the restricted clean-room source rule
+📰 CA Found: not applicable
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### Visual first — test each alleged necessity with a counterexample
+Progress: 12 / 14  |  Stage: Core  |  Subtopic: simplicity, morality, desire and embodiment
+
+### Visual — arguments do not share one premise
+
+| Argument | Intended support | Central weakness |
+|---|---|---|
+| Simplicity | a partless soul cannot decompose | partlessness is unproved; cessation need not be decomposition |
+| Unity of consciousness | a persisting subject unifies experience | psychological organisation may explain unity without immortality |
+| Moral order | complete justice requires life beyond death | practical postulate or hope is not theoretical demonstration |
+| Natural desire | deep desire for enduring fulfilment points to an object | desires can be frustrated or socially shaped |
+| Religious experience/testimony | encounters interpreted as survival supply evidence | interpretation and alternatives prevent demonstrative force |
+
+The arguments are cumulative only if their premises are independently credible. They cannot be converted into one proof by repetition. A moral argument may explain why a believer hopes for survival; it does not identify the survivor or solve personal identity. A simplicity argument may block decomposition; it does not rule out dependence or ceasing without parts coming apart.
+
+### Body–brain dependence
+
+Changes to brain and body alter memory, character and agency. This evidence pressures any account that treats the person as wholly independent of embodiment. It does not deductively establish that survival is impossible, but it shifts the burden: a defender must explain interaction, preserve individuality and show why the capacities central to personhood can exist without their known conditions.
+
+The memory objection to rebirth has similar force. Lack of recollection does not logically disprove an enduring bearer because memory is neither necessary nor sufficient for identity. Yet when a theory uses continuity to ground responsibility, systematic amnesia weakens the practical and evidential connection between agent and recipient.
+
+### Religious presupposition revisited
+
+The widest defensible claim is conditional: traditions promising final justice or union beyond death need some account of continuity. Natural immortality is only one such account; resurrection is another, and Buddhism shows that religion and liberation need no eternal self. The word “basic” must therefore refer to a particular eschatology, not to religion universally.
+
+### UPSC application
+
+Use one argument, one criticism and one residual issue rather than listing five slogans. In the 2020 presupposition question, the resurrection and Buddhist counterexamples should appear before the conclusion.
+
+### Traps
+
+- Need for justice does not entail metaphysical existence.
+- Body-dependence is a burden-shifting objection, not a deductive disproof.
+- Memory cannot by itself settle numerical identity.
+
+### Revision notes
+
+1. Simplicity blocks decomposition only if simplicity is established.
+2. Unity of consciousness need not imply an immortal substance.
+3. Moral and desire arguments are postulatory rather than demonstrative.
+4. Experience requires interpretation.
+5. Brain-dependence raises the evidential cost of separability.
+6. Some religions require continuity; religion as such does not require natural immortality.
+
+### Local practice
+
+**MCQ 31**
+
+What is the main limitation of the simplicity argument for immortality?
+
+A. It demonstrates bodily resurrection rather than soul survival.
+B. It assumes the soul has many separable physical parts.
+C. Even a partless subject might cease or depend on embodiment, and its simplicity still requires proof.
+D. It establishes the truth of every reported past life.
+
+**MCQ 31 — Answer and explanation**
+
+**Correct answer: C**
+
+- **A — Incorrect:** MCQ 31: The argument concerns the alleged non-composite soul.
+- **B — Incorrect:** MCQ 31: It assumes the opposite: partlessness.
+- **C — Correct:** MCQ 31: Non-decomposition is weaker than necessary eternal existence.
+- **D — Incorrect:** MCQ 31: No such evidential conclusion follows.
+
+**MCQ 32**
+
+What does body–brain dependence most securely establish in this debate?
+
+A. It logically proves that no consciousness could ever survive.
+B. It shows memory is identical with an immortal substance.
+C. It confirms every resurrection proposal.
+D. It raises the explanatory burden for separable-soul accounts without deductively excluding survival.
+
+**MCQ 32 — Answer and explanation**
+
+**Correct answer: D**
+
+- **A — Incorrect:** MCQ 32: The empirical correlation does not yield that modal conclusion by itself.
+- **B — Incorrect:** MCQ 32: Dependence evidence points in the opposite direction.
+- **C — Incorrect:** MCQ 32: Those proposals still face identity and continuity difficulties.
+- **D — Correct:** MCQ 32: The objection is strong evidence about known personhood, but not a formal impossibility proof.
+
+**MCQ 33**
+
+Why is moral need insufficient as a proof of immortality?
+
+A. A requirement of justice can motivate a postulate without demonstrating that a survivor exists.
+B. Justice and immortality are synonyms.
+C. Moral arguments concern only bodily health.
+D. A postulate is stronger than a deductive proof.
+
+**MCQ 33 — Answer and explanation**
+
+**Correct answer: A**
+
+- **A — Correct:** MCQ 33: Normative desirability does not entail ontology.
+- **B — Incorrect:** MCQ 33: One is normative and the other metaphysical.
+- **C — Incorrect:** MCQ 33: They concern completion of moral order beyond one life.
+- **D — Incorrect:** MCQ 33: A postulate carries a more limited epistemic status.
+
+## Lesson 13 — Are Immortality and Rebirth Necessary for Liberation?
+
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+📚 Book context: canonical two-necessity module; R04-23 and R04-25 queried
+🔍 CA Search: not used under the restricted clean-room source rule
+📰 CA Found: not applicable
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Progress: 13 / 14  |  Stage: Core  |  Subtopic: necessary and sufficient conditions
+
+### Visual — test A and B separately
 
 ```text
-CLAIM 1: REBIRTH REQUIRES AN IMMORTAL SOUL
-Substantialist models: yes
-Buddhism: rebirth without soul
-VERDICT: soul is not universally necessary
+Claim A: robust liberation requires an immortal substantial soul.
+Countermodel: Buddhism — rebirth and nirvāṇa without permanent ātman.
 
-CLAIM 2: LIBERATION REQUIRES REBIRTH
-Classical saṃsāra models: liberation ends repeated becoming
-Broader concept of freedom: release may be framed without literal multiple lives
-VERDICT: rebirth is doctrinally central, not conceptually universal
+Claim B: robust liberation requires repeated births.
+Countermodel: one-life salvation/resurrection — release from sin/death without saṃsāra.
 
-CLAIM 3: LIBERATION REQUIRES A REAL AGENT
-Viśiṣṭādvaita/Jain/Nyāya: enduring agent
-Advaita: empirical agent, ultimate individuality sublated
-Buddhism: causal stream, no permanent self
-VERDICT: a terminable bondage-continuity is the minimum
+Result: neither is universally necessary, though each can be internally indispensable.
 ```
 
-*A universal necessity claim fails if one coherent countermodel supplies the required function differently.*
+The 2024 twenty-marker contains two claims. Refuting A does not refute B. Buddhism denies an immortal substance but retains rebirth until nirvāṇa; it is therefore a counterexample only to soul-immortality’s necessity. To test rebirth’s necessity, a genuinely one-life model of release is needed. Resurrection or salvation after one earthly life provides such a model, provided it is not mislabeled as rebirth.
 
-### 1. What “robust” should mean
+A **robust conception of liberation** should include a diagnosed bondage, a transformative or cessative path, and a defensible terminus. This minimal comparison does not claim that Buddhist nirvāṇa, Advaitic mokṣa and Christian salvation are identical. It asks whether each supplies enough structure to function as release within its own system.
 
-A robust conception of liberation should explain:
+### Necessary and sufficient
 
-1. what bondage is;
-2. whose or what continuity is affected;
-3. why release is desirable;
-4. how the prescribed means ends the cause;
-5. why responsibility and practice remain intelligible.
+- An immortal soul is **not universally necessary** for rebirth because Buddhism offers causal continuity.
+- An immortal soul is **not sufficient** for rebirth because karma, relevant dispositions and an unended cycle are additional conditions.
+- Rebirth is **not universally necessary** for a robust religious release because a one-life model can contain bondage, transformation and fulfilment.
+- Neither immortality nor repeated embodiment is **sufficient** for liberation; both can continue without removing ignorance, craving or bondage.
 
-### 2. The substantialist case
-
-Vedānta, Nyāya and Jainism gain clarity from an enduring bearer. The same subject acts, receives consequences and is released. Within the *Gītā*’s garment model, immortality is necessary for that theory of rebirth.
-
-### 3. The Buddhist countermodel
-
-Buddhism secures the functions through causal continuity. The stream shaped by craving and karma is the stream in which craving can cease. It therefore defeats the universal claim that a numerically identical immortal substance must persist.
-
-### 4. Is rebirth necessary for liberation?
-
-Within Indian saṃsāra theories, liberation is intelligible as the end of renewed becoming. Yet the wider idea of freedom from alienation, sin, mortality or ignorance need not logically include repeated births. Resurrection traditions frame salvation without saṃsāra.
-
-⚠️ Thus “rebirth is necessary for liberation” is true within cycle-ending doctrines but false as a universal definition of liberation.
-
-### 5. Objection–reply–residual map
-
-| Objection | Best reply | Residual |
-|---|---|---|
-| Without one self, no one is liberated | Causal continuity can be the locus of bondage and cessation | Does causal descent preserve enough ownership? |
-| Without memory, rebirth is not my survival | Memory is not necessary for persistence | Personal concern may still weaken |
-| Cessation is not a positive ideal | Freedom from constitutive suffering may be intrinsically valuable | Nyāya’s unconscious state remains unattractive to critics |
-| If the self was always free, practice is pointless | Practice removes ignorance, not Brahman | Status of beginningless ignorance remains contested |
-| Grace destroys autonomy | Surrender can be a free receptive act | Distribution and conditionality of grace remain |
-| Karma blames victims | Explanation does not license social judgement | Empirical verification remains unavailable |
-
-### 6. Final graded verdict
-
-An immortal soul is one powerful way to provide continuity, but Buddhism shows it is not necessary for rebirth or liberation. Rebirth is necessary for liberation only when liberation is defined as exit from saṃsāra. The deepest logical minimum is not an immortal substance but a continuity — substantial, psychological or causal — in which bondage, responsibility, practice and cessation can be intelligibly related.
+The substantialist objection says there must be someone who benefits from liberation. Buddhism replies with conventional agency and causal continuity; Advaita separates empirical seeker from ultimate self. A defender of rebirth may say release must be release *from a cycle*. That is true for Indian *mokṣa* in a strict school-specific sense, but it cannot define every cross-tradition concept of salvation by stipulation.
 
 ### UPSC application
 
-- **2024 Q6(a), 20 marks:** State both apparent necessities, give substantialist support, deploy Buddhism, distinguish doctrinal from universal necessity, and conclude with the minimum continuity condition.
-- **2025 Q7(c), 15 marks:** Within the *Gītā*, immortality grounds rebirth; across traditions, Buddhism blocks universalization.
-- **2026 audit:** No primary-owner question. This first absence in the 2018–2026 local corpus increases rather than lowers revision priority.
+Structure 2024 Q6(a) as two sub-questions, use a different counterexample for each, then state internal versus universal necessity. This architecture is more important than adding another school name.
+
+### Traps
+
+- Buddhism does not show rebirth is unnecessary.
+- *Jīvanmukti* alone does not show Advaita rejects rebirth.
+- Cross-tradition comparison need not assert identical termini.
 
 ### Revision notes
 
-1. Necessity means that the later concept cannot obtain without the earlier one.
-2. One coherent counterexample defeats a universal necessity claim.
-3. Substantialist systems make soul the continuity-bearer.
-4. Buddhism makes causal succession the continuity-bearer.
-5. Soul-immortality supplies continuity within many rebirth theories but does not cause rebirth by itself.
-6. It is not necessary across all rebirth theories.
-7. Rebirth is central where liberation means exit from saṃsāra.
-8. Salvation or release can be conceptualized outside a many-life cycle.
-9. A robust theory needs bondage, continuity, means, responsibility and terminus.
-10. Advaita preserves empirical agency while sublating ultimate individuality.
-11. Viśiṣṭādvaita preserves an ultimately real agent.
-12. The minimum condition is terminable, morally relevant continuity.
-13. The best verdict is graded and school-relative before becoming comparative.
-14. The 2026 absence is an audit fact, not evidence of reduced syllabus importance.
+1. Test each alleged necessary condition separately.
+2. Buddhism defeats universal soul necessity.
+3. A one-life model defeats universal rebirth necessity.
+4. Internal necessity differs from logical universality.
+5. Immortality does not cause rebirth.
+6. Continued existence does not amount to liberation.
 
 ### Local practice
 
-**MCQ 40: D**
+**MCQ 34**
 
-What is the strongest general verdict on immortality and rebirth?
+Why can Buddhism not by itself show that rebirth is unnecessary for liberation?
 
-A. An immortal soul is necessary and sufficient for every coherent rebirth theory.
-B. Rebirth is impossible in any non-theistic religion.
-C. Liberation always means the everlasting conscious life of an individual.
-D. Soul-immortality supplies the bearer in substantialist models but is not universally necessary and is not sufficient without a rebirth mechanism.
+A. Buddhism affirms a creator who resurrects the person once.
+B. Buddhism retains renewed becoming until nirvāṇa even while denying a permanent soul.
+C. Buddhism identifies nirvāṇa with an eternal ātman.
+D. Buddhism rejects every causal connection between lives.
 
-- **A — Incorrect:** Buddhism provides a rebirth theory without an eternal substance.
-- **B — Incorrect:** Buddhism and Jainism both detach rebirth from a creator.
-- **C — Incorrect:** Nyāya, Buddhism and Advaita resist that uniform personal-survival description.
-- **D — Correct:** It avoids both errors: making soul universal and treating bare survival as enough to generate another birth.
+**MCQ 34 — Answer and explanation**
 
-**MCQ 41: A**
+**Correct answer: B**
 
-What is the best minimum condition for a robust liberation theory?
+- **A — Incorrect:** MCQ 34: That is not its model.
+- **B — Correct:** MCQ 34: It is the counterexample to soul necessity, not to rebirth necessity.
+- **C — Incorrect:** MCQ 34: It denies that permanent self.
+- **D — Incorrect:** MCQ 34: Dependent continuity is essential to its account.
 
-A. A continuity in which bondage, responsibility, practice and cessation can be related.
-B. An immortal soul with complete autobiographical memory.
-C. A creator who assigns every karmic consequence.
-D. A final state containing positive pleasure and personal consciousness.
+**MCQ 35**
 
-- **A — Correct:** It captures what substantial and Buddhist models perform through different ontologies.
-- **B — Incorrect:** Neither complete memory nor a permanent soul is present in every viable model.
-- **C — Incorrect:** Non-theistic traditions provide counterexamples to divine administration.
-- **D — Incorrect:** Nyāya’s apavarga and Buddhist cautions defeat a universal positive-experience requirement.
+Which pair of verdicts is logically strongest?
 
-**MCQ 42: B**
+A. Both are sufficient for liberation wherever they occur.
+B. Buddhism proves that no tradition may affirm immortality.
+C. Neither immortal soul nor repeated birth is universally necessary for every robust religious release.
+D. One-life salvation is simply another name for reincarnation.
 
-Why does the 2026 no-primary-owner result not justify deprioritizing this topic?
+**MCQ 35 — Answer and explanation**
 
-A. The official paper secretly contained an unrouted soul question.
-B. The topic had the highest 2018–2025 owner load and remains explicitly in the syllabus despite one-year absence.
-C. UPSC repeats every topic in a fixed annual cycle.
-D. A missing question proves that two questions must appear in 2027.
+**Correct answer: C**
 
-- **A — Incorrect:** The audited supplement routes all fourteen Section B parts and assigns none primarily here.
-- **B — Correct:** Long-run frequency and syllabus ownership are stronger preparation signals than a single absence.
-- **C — Incorrect:** The corpus shows variable rather than mechanical annual distribution.
-- **D — Incorrect:** Past absence cannot establish a future numerical prediction.
+- **A — Incorrect:** MCQ 35: A being can survive and be reborn while remaining bound.
+- **B — Incorrect:** MCQ 35: A counterexample to necessity does not refute other models.
+- **C — Correct:** MCQ 35: Separate countermodels defeat the two universal necessity claims without erasing internal commitments.
+- **D — Incorrect:** MCQ 35: Its linear structure and divine restoration differ from serial re-embodiment.
 
-**Remediation cue:** For every “necessary” stem, write the universal claim, the strongest supporting model, one countermodel and the exact sufficient/necessary verdict.
+## Lesson 14 — PYQ Construction and Comparative Judgement
 
----
+━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
+📚 Book context: exact verified 2018–2026 PYQ ledgers and all R04 rows queried
+🔍 CA Search: not used under the restricted clean-room source rule
+📰 CA Found: 2026 supplement confirms zero primary-owned question for this topic
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Progress: 14 / 14  |  Stage: Core  |  Subtopic: directive control and answer architecture
+
+### Visual — the six-move answer engine
+
+```text
+1 Define the disputed term
+2 Name the continuity-bearer or liberation-terminus
+3 Reconstruct the argument or causal sequence
+4 Introduce the nearest genuine countermodel
+5 Answer the strongest objection
+6 Deliver a necessary/sufficient or graded verdict
+```
+
+### Directive decoder
+
+| Directive | What must visibly happen |
+|---|---|
+| **State and explain** | define each named doctrine and show their relation |
+| **Elucidate … explain the role** | divide the answer between the concept and the specified function |
+| **Critically examine proofs** | reconstruct each proof separately before evaluation |
+| **Evaluate as a pathway** | assess accessibility, directness, sufficiency and terminus |
+| **With reference to X** | establish X’s own doctrine before comparison |
+| **Is X necessary?** | distinguish necessary from sufficient and test a countermodel |
+
+### Marks-sensitive structures
+
+**10 marks:** two definitions → one doctrine/argument → one objection → a precise verdict. Avoid a survey.
+
+**15 marks:** conceptual distinction → causal or argumentative sequence → nearest comparison → objection and reply → school-sensitive conclusion.
+
+**20 marks:** frame the problem → reconstruct at least two rival models → evaluate identity and responsibility → weigh replies → graded conclusion. In Plato, the “two models” requirement becomes four proof-specific mini-assessments.
+
+### PYQ-specific high-value moves
+
+- 2018 non-creator rebirth: Buddhism **and** Jainism, not Buddhism alone.
+- 2018 bhakti: assess path-status; do not write a devotional catalogue.
+- 2019 triad: define karma, rebirth and reincarnation separately.
+- 2020 presupposition: distinguish natural immortality from continuity or resurrection.
+- 2021 Hindu immortality: compare incompatible Hindu selves.
+- 2022 Buddhism: causal continuity answers soul necessity.
+- 2022 agent question: distinguish empirical reality from independence.
+- 2023 Plato: four proof-specific burdens.
+- 2024 robust liberation: run two independent necessity tests.
+- 2025 Gītā: answer the named text before the Buddhist comparison.
+
+### Error clinic
+
+A merely descriptive answer typically loses marks in one of three ways: it leaves the identity-bearer unnamed, it merges liberation states, or it gives an objection without a verdict. The repair is to use one sentence containing “within this system” and another containing “across systems.” This separates internal coherence from universal validity.
+
+### Whole-topic judgement
+
+The topic has no single contest between believers and sceptics. It contains three linked debates: what constitutes a person, what relation can carry responsibility across interruption, and what counts as release. Substantial selves offer a clear bearer but face body-dependence and evidence problems. Process theories economise on substances but face recipient and identity objections. Liberation theories inherit the ontology that generated them: identity, communion, cessation, isolation and perfection cannot be collapsed into one endpoint.
+
+### Revision notes
+
+1. Define before comparing.
+2. Name the bearer before tracing continuity.
+3. Attach one objection to each argument.
+4. Use counterexamples for necessity claims.
+5. Preserve named-text and named-school fidelity.
+6. End with a graded answer to the directive.
+
+### Local practice
+
+**MCQ 36**
+
+What is the first obligation in a question asking whether X is necessary for Y?
+
+A. List every school before identifying the claim.
+B. Treat necessary and sufficient as interchangeable.
+C. Begin with a conclusion unrelated to the named school.
+D. Define X and Y, then specify whether the claim concerns internal or universal necessity.
+
+**MCQ 36 — Answer and explanation**
+
+**Correct answer: D**
+
+- **A — Incorrect:** MCQ 36: A survey can obscure the modal question.
+- **B — Incorrect:** MCQ 36: The distinction is exactly what the stem tests.
+- **C — Incorrect:** MCQ 36: Named-school fidelity must frame the evaluation.
+- **D — Correct:** MCQ 36: Modal scope determines which counterexample is relevant.
+
+**MCQ 37**
+
+Which structure best fits the 2023 Plato twenty-marker?
+
+A. Four distinct reconstructions, each paired with its focused objection, followed by a graded verdict.
+B. One paragraph saying the soul is simple and immortal.
+C. A survey of all Indian liberation systems.
+D. Only Cebes’ objection without Plato’s replies.
+
+**MCQ 37 — Answer and explanation**
+
+**Correct answer: A**
+
+- **A — Correct:** MCQ 37: The examiner must see cyclical, recollection, affinity and final arguments separately.
+- **B — Incorrect:** MCQ 37: That omits the separate arguments and their burdens.
+- **C — Incorrect:** MCQ 37: The stem is thinker- and proof-specific.
+- **D — Incorrect:** MCQ 37: Critical examination still requires reconstruction and balanced assessment.
+
+**MCQ 38**
+
+What makes a comparison philosophically useful rather than decorative?
+
+A. It adds as many thinker names as possible.
+B. It changes the verdict by exposing a different bearer, mechanism or terminus.
+C. It assumes every tradition means the same by liberation.
+D. It avoids stating any conclusion.
+
+**MCQ 38 — Answer and explanation**
+
+**Correct answer: B**
+
+- **A — Incorrect:** MCQ 38: Names without an analytical axis are a list.
+- **B — Correct:** MCQ 38: A comparator earns space only when it tests the claim at issue.
+- **C — Incorrect:** MCQ 38: That destroys the point of comparison.
+- **D — Incorrect:** MCQ 38: Comparison must support judgement.
+
+**MCQ 39**
+
+Which final sentence is strongest for the whole topic?
+
+A. Every religion teaches one immortal soul and one liberation.
+B. Because theories disagree, no rational comparison is possible.
+C. Continuity is necessary for rebirth, but neither a substance-soul nor repeated birth is universally necessary for every defensible account of religious release.
+D. Liberation is automatically achieved whenever death occurs.
+
+**MCQ 39 — Answer and explanation**
+
+**Correct answer: C**
+
+- **A — Incorrect:** MCQ 39: The verified corpus repeatedly tests counterexamples to that merger.
+- **B — Incorrect:** MCQ 39: Shared questions permit comparison even when answers differ.
+- **C — Correct:** MCQ 39: It combines a minimal continuity requirement with two carefully bounded non-necessity verdicts.
+- **D — Incorrect:** MCQ 39: All examined systems distinguish death from release.
+
+## Must-Needed completion checkpoint
+
+A learner has completed Core only if all statements below can be defended without using Advanced or Expert material:
+
+- I can distinguish survival, immortality, rebirth, reincarnation, resurrection and liberation.
+- I can explain why numerical identity is not exact similarity.
+- I can reconstruct and separately criticise Plato’s four arguments, including both Simmias and Cebes.
+- I can state the Gītā’s own continuity argument before using a Buddhist counterexample.
+- I can explain karma’s delayed-fruition role without fatalism or victim-blaming.
+- I can compare Buddhist causal continuity with Jain substantial continuity.
+- I can distinguish six liberation destinations.
+- I can explain *apavarga*, *jīvanmukti*, the real-agent dispute and the three-path dispute.
+- I can answer all 17 owned PYQs and explain why 2026 has no primary-owned question.
+
+# OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
+
+## Visual — advanced material is an optional lens
+
+```text
+Core doctrine complete
+        ↓ only if the stem invites second-order evaluation
+add one lens: identity constitution / explanatory economy / translation cost
+        ↓
+return immediately to the named doctrine and verdict
+```
+
+## A1. Constitution versus evidence
+
+A memory, body or soul criterion may be used in two ways. As an **evidential criterion**, it helps us recognise a survivor. As a **constitutive criterion**, it makes the later being the same person. A memory report can be excellent evidence while still depending upon prior identity: only my genuine memory counts as mine. Conversely, a soul may constitute identity while being evidentially inaccessible. This distinction refines replica, rebirth-memory and resurrection answers but is not needed to state any school’s Core doctrine.
+
+## A2. Explanatory economy and cost
+
+| Model | Economy gained | Cost incurred |
+|---|---|---|
+| Substance-soul | clear numerical bearer | interaction, individuation and evidence |
+| Embodied-person resurrection | preserves whole-person concern | gap and reconstitution problems |
+| Buddhist causal stream | avoids an immutable entity | recipient and conventional-person pressure |
+| Jain karmic bearer | links action and recipient without creator | conscious–material interaction |
+| Advaita two levels | reconciles practice with non-duality | relation between empirical error and ultimate reality |
+
+Do not call the least ontologically populated theory automatically superior. Economy matters only alongside explanatory adequacy.
+
+## A3. Translation discipline
+
+Cross-tradition work requires a thin comparison term such as “release from a diagnosed bondage.” It does not authorise the claim that nirvāṇa, mokṣa and salvation are the same state. A disciplined comparison identifies one common question, preserves each system’s answer, and states the point where translation stops.
+
+### Advanced deployment rule
+
+Use one Advanced distinction when the stem says “critically,” “robust conception,” “real agent,” or explicitly requests reasons and justifications. Omit it when the named doctrine itself is not yet fully stated.
+
+### Advanced retrieval checks
+
+1. Can a criterion be good evidence without constituting identity? Yes; recognition and metaphysical sameness are separate roles.
+2. What does economy fail to establish? Truth or adequacy by itself.
+3. When does comparison become false equivalence? When a thin shared question is converted into an identical final state.
+
+### Advanced revision notes
+
+- Constitution and evidence must be separated.
+- Every continuity model purchases clarity at a cost.
+- Thin comparison enables judgement; thick identification distorts doctrines.
+- Advanced material must never displace a Core premise, objection or verdict.
+
+# BOUNDED EXPERT REFERENCE — USE SELECTIVELY
+
+## Visual — the one-line stop rule
+
+```text
+Does branching identity directly arise?
+        ├─ No → omit Expert material.
+        └─ Yes → state the one-to-one identity test, note the limit, stop.
+```
+
+## E1. The branching discriminator
+
+Where continuity branches—two exact replicas or two equally connected psychological successors—both later beings can resemble and continue the earlier person, but they cannot both be numerically identical with one earlier individual. Identity is one-to-one even when psychological continuity is one-to-many.
+
+This is a specialist formulation of the canonical duplication objection, not a new theory required by the syllabus. Its sole deployment is to sharpen the replica problem: a unique copy may seem acceptable until a second equally continuous copy reveals that resemblance and memory do not by themselves constitute numerical identity.
+
+## E2. Deployment and stop rules
+
+**Use it only when:** a replica, duplication or branching psychological-continuity problem is central to the question.
+
+**Do not use it when:** answering Plato, Gītā, karma, Jain bondage, bhakti, *apavarga* or a basic school comparison.
+
+**Stop after:** stating that continuity may branch while numerical identity cannot. Do not turn a Core answer into a contemporary identity-theory survey.
+
+### Expert retrieval checks
+
+1. Why is branching decisive? Equal branches cannot both be numerically identical to one earlier person.
+2. What does it not solve? Whether continuity rather than substance or embodiment truly constitutes identity.
+3. What is the exam deployment? One line under replica duplication, then return to the PYQ.
+
+### Expert revision notes
+
+- Branching distinguishes continuity from identity.
+- A unique successor may support practical recognition without proving a metaphysical relation.
+- The Expert point is optional and bounded.
 
 # VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
 
-The 2018–2025 ledger assigns exactly **17 primary-owned question-parts** to this topic: 2018: 2, 2019: 1, 2020: 2, 2021: 3, 2022: 3, 2023: 2, 2024: 2, 2025: 2. The official-OCR-controlled 2026 supplement assigns **no primary owner** to Topic 04. The entries below preserve the ledger wording and provide approach only, not solved PYQ answers.
+> The wording and marks below follow the permitted verified 2018–2025 bank. The separate 2026 supplement assigns this owner **zero** primary question-parts.
 
-| # | Year and question | Marks | Exact wording | Directive and demand | Concise answer approach |
-|---:|---|---:|---|---|---|
-| 1 | 2018 Q5(b) | 10 | How far is it plausible to argue that the anti-theistic religions’ stand on the concept of rebirth is philosophically significant? | “How far plausible” requires degree and philosophical significance, not description alone. | Define anti-theistic carefully; Buddhism separates rebirth from soul and God, Jainism separates it from creator but retains *jīva*; assess continuity, moral order and residual responsibility. |
-| 2 | 2018 Q7(c) | 15 | Evaluate the concept of Bhakti (Devotion) as a pathway to attain liberation. | Evaluate accessibility, sufficiency, mechanism and terminus. | Define bhakti; use *Gītā*, nine limbs, Rāmānuja/Madhva/Advaita; assess emotionalism, duality and grace–effort; give a school-relative verdict. |
-| 3 | 2019 Q8(a) | 20 | State and explain the doctrines of Karma, Rebirth and Reincarnation in Hinduism. | Three doctrines must be separately defined and then connected. | Karma as mechanism; rebirth as temporal field; reincarnation as substantial re-embodiment; use the three karmas, subtle body, *Gītā* and objections. |
-| 4 | 2020 Q5(b) | 10 | The concept of ‘Immortality’ is a basic presupposition of religion. Elaborate your answer. | Elaborate the rationale but qualify “basic”. | Moral order, salvation and post-mortem accountability; distinguish natural immortality, resurrection and Indian continuity; use Buddhism as the limiting case. |
-| 5 | 2020 Q8(c) | 15 | Do you accept that Knowledge, Action and Devotion are the means to attain liberation in Indian tradition? Discuss. | Take a position on alternative, sequential or combined means. | Introduce direct/auxiliary and production/removal distinctions; compare Mīmāṃsā, Śaṅkara, Rāmānuja, Madhva, *Gītā* and Vivekananda; conclude that functions differ. |
-| 6 | 2021 Q6(a) | 20 | Discuss the concept of immortality of soul with special reference to Hindu tradition. | Hindu plurality must be central, with critical discussion. | *Gītā*, Advaita, Viśiṣṭādvaita, Nyāya and Sāṃkhya-Yoga; compare grounds and consequences; add memory and body-dependence objections. |
-| 7 | 2021 Q6(b) | 15 | Elucidate the concept of liberation according to Advaita Vedānta. Explain the role of knowledge in the attainment of liberation. | Two equal obligations: nature of mokṣa and role of knowledge. | Removal model, *avidyā/adhyāsa*, *śravaṇa-manana-nididhyāsana*, jīvanmukti, *prārabdha* and the real-agent residual. |
-| 8 | 2021 Q8(b) | 15 | Discuss and evaluate the doctrine of Karma as an essential postulate of Hinduism. | Exposition plus evaluation of necessity and warrant. | Moral causation, three karmas, rebirth as field, freedom within conditions; assess unverifiability, fatalism and victim-blaming. |
-| 9 | 2022 Q5(c) | 10 | “Immortality of Soul is a necessary postulate for rebirth.” Critically examine with reference to Buddhism. | A modal verdict is essential. | State the substantialist assumption; give *anātman* and dependent origination; answer the responsibility objection; conclude that soul-immortality is not universally necessary and is not sufficient without a rebirth mechanism. |
-| 10 | 2022 Q7(b) | 15 | Is it possible to have an idea of Liberation without the conception of a real agent? In this context, discuss the difference between Advaita and Viśiṣṭādvaita systems of thought. | Resolve the agent paradox through direct comparison. | Advaita empirical agency and sublation versus Viśiṣṭādvaita real eternal *jīva*; connect knowledge versus grace and identity versus communion. |
-| 11 | 2022 Q8(b) | 15 | Discuss the nature of Soul and Bondage according to Jainism. | Both nouns must be fully treated. | Eternal conscious body-sized *jīva*; *āsrava-bandha-saṃvara-nirjarā*; perfected individuality; interaction objection and reply. |
-| 12 | 2023 Q6(a) | 20 | Critically examine Plato’s apriori proofs for the immortality of the soul. | Four proofs require four separate assessments. | Opposites, recollection, affinity, Form of Life; identify what each proves; Simmias and Kant; cumulative but non-demonstrative verdict. |
-| 13 | 2023 Q7(b) | 15 | Examine the significance of the concept of rebirth in the theory of Karma. | Explain function, not merely meaning. | Rebirth extends the field of karmic maturation; distinguish substantial and causal bearers; assess evidence and moral risk. |
-| 14 | 2024 Q5(c) | 10 | Discuss the concept of liberation (Apavarga) according to Nyāya-Vaiśeṣika. | Give the school-specific nature and causal route. | False knowledge → defect → activity → rebirth → pain; true knowledge reverses chain; self persists without cognition or bliss; answer the “stone-like” objection. |
-| 15 | 2024 Q6(a) | 20 | Is it necessary to adhere to the notions of immortality of soul and rebirth in order to have a robust conception of liberation? Give reasons and justifications for your answer. | Test both alleged necessities and define “robust”. | Substantialist case, Buddhist counterexample, salvation outside rebirth, minimum continuity condition, graded doctrinal/universal verdict. |
-| 16 | 2025 Q5(d) | 10 | Discuss the nature of embodied liberation (jīvanmukti) with reference to Advaita Vedānta. | Define embodied freedom and explain bodily persistence. | Knowledge removes ignorance now; *prārabdha* sustains embodiment; stored/future karma cease to bind; distinguish *videhamukti*. |
-| 17 | 2025 Q7(c) | 15 | Is the concept of immortality of soul a necessary condition for Rebirth? Discuss with reference to the Bhagavad Gītā. | Fidelity to the named text plus a modal conclusion. | Use 2.22, 2.23 and 9.21; state that the *Gītā* model requires the deathless self; qualify universal necessity through Buddhism. |
+| Year / part | Marks | Verified demand | Clean-room answer route |
+|---|---:|---|---|
+| 2018 Q5(b) | 10 | How far is it plausible to argue that the anti-theistic religions’ stand on the concept of rebirth is philosophically significant? | Define no-creator modestly; contrast Buddhist causal stream with Jain eternal *jīva*; assess independence from creator, identity and evidence |
+| 2018 Q7(c) | 15 | Evaluate the concept of Bhakti (Devotion) as a pathway to attain liberation. | Define path-status; explain devotion, surrender and grace; compare direct role in theistic Vedānta with preparatory role in Advaita; assess emotion and effort |
+| 2019 Q8(a) | 20 | State and explain the doctrines of Karma, Rebirth and Reincarnation in Hinduism. | Define three terms separately; show delayed consequence, continuity and substantial re-embodiment; add fatalism and evidence objections |
+| 2020 Q5(b) | 10 | The concept of ‘Immortality’ is a basic presupposition of religion. Elaborate your answer. | Disambiguate natural immortality from continuity; grant some eschatologies; use resurrection and Buddhism as counterexamples to universality |
+| 2020 Q8(c) | 15 | Do you accept that Knowledge, Action and Devotion are the means to attain liberation in Indian tradition? Discuss. | Ask direct, auxiliary or sequential; compare Advaita, Mīmāṃsā, Viśiṣṭādvaita and Dvaita; tie paths to termini |
+| 2021 Q6(a) | 20 | Discuss the concept of immortality of soul with special reference to Hindu tradition. | Start with Gītā; compare incompatible Hindu selves; include memory and body-dependence; deny a uniform Hindu theory |
+| 2021 Q6(b) | 15 | Elucidate the concept of liberation according to Advaita Vedānta. Explain the role of knowledge in the attainment of liberation. | Explain removal model, threefold discipline, *jīvanmukti*, *prārabdha* and why action prepares but does not directly liberate |
+| 2021 Q8(b) | 15 | Discuss and evaluate the doctrine of Karma as an essential postulate of Hinduism. | Explain act–potency–result and school variation; address delayed fruition, present effort, evidence and victim-blaming |
+| 2022 Q5(c) | 10 | “Immortality of Soul is a necessary postulate for rebirth.” Critically examine with reference to Buddhism. | State substantialist assumption; explain *anātman* and causal continuity; answer recipient objection; deny universal necessity |
+| 2022 Q7(b) | 15 | Is it possible to have an idea of Liberation without the conception of a real agent? In this context, discuss the difference between Advaita and Viśiṣṭādvaita systems of thought. | Disambiguate real; contrast empirical/sublated agent with real dependent *jīva*; compare identity and communion |
+| 2022 Q8(b) | 15 | Discuss the nature of Soul and Bondage according to Jainism. | Explain intrinsic consciousness, *jīva–ajīva*, then *āsrava–bandha–saṃvara–nirjarā* and the interaction objection |
+| 2023 Q6(a) | 20 | Critically examine Plato’s apriori proofs for the immortality of the soul. | Give four proof-specific reconstructions; distinguish Simmias and Cebes; assess final deathless-to-indestructible move |
+| 2023 Q7(b) | 15 | Examine the significance of the concept of rebirth in the theory of Karma. | Focus on delayed fruition, accountability and ending *saṃsāra*; assess identity, evidence and compassion problems |
+| 2024 Q5(c) | 10 | Discuss the concept of liberation (Apavarga) according to Nyāya-Vaiśeṣika. | Present the causal chain and right knowledge; state status of self/consciousness; answer desirability objection |
+| 2024 Q6(a) | 20 | Is it necessary to adhere to the notions of immortality of soul and rebirth in order to have a robust conception of liberation? Give reasons and justifications for your answer. | Test two necessities separately; Buddhism for no immortal soul, one-life release for no rebirth; preserve internal meanings |
+| 2025 Q5(d) | 10 | Discuss the nature of embodied liberation (jīvanmukti) with reference to Advaita Vedānta. | Define freedom while living; explain knowledge, *prārabdha* and *videhamukti*; assess residual-body consistency |
+| 2025 Q7(c) | 15 | Is the concept of immortality of soul a necessary condition for Rebirth? Discuss with reference to the Bhagavad Gītā. | Reconstruct 2.13, 2.20, 2.22 and 15.8; affirm internal necessity, deny sufficiency, then add limited Buddhist comparison |
 
 ## Explicit 2026 no-primary-owner audit
 
-The 2026 Paper II Section B supplement routes all fourteen parts. Topic 04 owns **zero**. A bounded secondary linkage exists in 2026 Q7(b), where devotion is discussed in relation to personal and impersonal notions of God, but the primary owner remains Notions of God. No 2026 question is imported or double-counted here.
+The verified 2026 supplement routes none of Q5(a)–Q8(c) primarily to this topic. Q7(b), on personal and impersonal notions in devotion, belongs to Notions of God; the relevance of bhakti here is only a cross-link. Zero ownership is recorded rather than repaired with an invented question.
 
----
+## Demand-to-lesson routing
+
+| Demand cluster | Core lessons |
+|---|---|
+| Self, identity, resurrection, religious presupposition | 1, 2, 12 |
+| Plato | 3 |
+| Hindu self, Gītā, karma and rebirth | 4, 5 |
+| Buddhist and Jain continuity | 6, 7 |
+| Liberation terms and school destinations | 8–10 |
+| Paths, grace and effort | 11 |
+| Necessity and answer construction | 13–14 |
 
 # CUMULATIVE MCQS
 
-These questions integrate doctrines that were taught separately. Correct options continue the file-wide A → B → C → D rotation.
+These questions test cross-lesson transfer rather than repeat local wording.
 
-**MCQ 43: C**
+**MCQ 40**
 
-A theory says the later subject need not be numerically identical with the earlier subject, but must inherit the earlier subject’s causal dispositions. Which pair best fits?
+A theory affirms an eternal soul but denies that another birth must follow. Which distinction supports it?
 
-A. Platonic immortality and Aquinas’s hylomorphism
-B. Viśiṣṭādvaita and Jain siddhahood
-C. Buddhist rebirth and a causal-continuity account of responsibility
-D. Nyāya apavarga and bodily resurrection
+A. Immortality is identical with reincarnation.
+B. Rebirth is sufficient for liberation.
+C. Pre-existence entails eternal future survival.
+D. Immortality is not sufficient for rebirth.
 
-- **A — Incorrect:** Both positions preserve stronger bearers than a merely causal successor.
-- **B — Incorrect:** Each affirms an enduring individual soul rather than abandoning numerical identity.
-- **C — Correct:** Buddhist continuity explicitly makes causal inheritance do the work of a substance.
-- **D — Incorrect:** Nyāya retains an eternal self, while resurrection seeks restoration of the same person.
+**MCQ 40 — Answer and explanation**
 
-**MCQ 44: D**
+**Correct answer: D**
 
-Which answer best connects a school’s diagnosis of bondage with its means and end?
+- **A — Incorrect:** MCQ 40: Identity would make every immortal entity automatically re-embodied.
+- **B — Incorrect:** MCQ 40: Repeated existence can remain bondage.
+- **C — Incorrect:** MCQ 40: Earlier existence does not settle later indestructibility.
+- **D — Correct:** MCQ 40: Further karmic and cosmological conditions are needed for another birth.
 
-A. Jainism: ignorance alone → recollection → identity with Brahman.
-B. Nyāya: karmic matter → divine grace → omniscient individuality.
-C. Viśiṣṭādvaita: bodily composition → dissolution → unconscious self.
-D. Advaita: ignorance → knowledge → realized identity; Jainism: karmic matter → restraint and shedding → perfected *jīva*.
+**MCQ 41**
 
-- **A — Incorrect:** It combines Jainism with Platonic and Advaitic elements.
-- **B — Incorrect:** Material karma is Jain, grace is theistic Vedānta, and omniscience is not Nyāya apavarga.
-- **C — Incorrect:** Viśiṣṭādvaita identifies bondage with karma and dependence, and preserves conscious communion.
-- **D — Correct:** Both causal chains align remedy and terminus with the diagnosed bondage.
+Which comparison most directly answers the 2018 anti-theistic-rebirth question?
 
-**MCQ 45: A**
+A. Buddhist no-self continuity and Jain eternal-jīva continuity both operate without a creator.
+B. Advaita and Plato both use the word soul.
+C. Nyāya and resurrection both mention persons.
+D. Mīmāṃsā and bhakti both value practice.
 
-Which claim is common to Advaita and Sāṃkhya but differs in metaphysical explanation?
+**MCQ 41 — Answer and explanation**
 
-A. Liberation is an epistemic correction, and the body may continue through residual momentum.
-B. Liberation requires eternal service to a personal God.
-C. Consciousness disappears completely in the final state.
-D. Karmic matter is physically scraped from the soul.
+**Correct answer: A**
 
-- **A — Correct:** Advaita invokes *prārabdha* after knowledge; Sāṃkhya invokes guṇa momentum after discrimination.
-- **B — Incorrect:** This fits theistic Vedānta rather than either comparison partner.
-- **C — Incorrect:** Both preserve pure consciousness, unlike Nyāya’s austere account.
-- **D — Incorrect:** Accretion and shedding belong to Jainism.
+- **A — Correct:** MCQ 41: The pair isolates creator-independence while preserving disagreement about soul.
+- **B — Incorrect:** MCQ 41: That does not address no-creator rebirth.
+- **C — Incorrect:** MCQ 41: The required religions and philosophical significance are missing.
+- **D — Incorrect:** MCQ 41: This does not compare rebirth bearers.
 
-**MCQ 46: B**
+**MCQ 42**
 
-Which statement gives the best combined assessment of Plato and the *Gītā*?
+A student uses Buddhism to deny both immortality and rebirth as necessary for liberation. What is wrong?
 
-A. Both derive immortality from dependent origination.
-B. Plato offers philosophical arguments, while the *Gītā* teaches and illustrates an imperishable self within its scriptural framework.
-C. Both reject any distinction between soul and body.
-D. The *Gītā* proves the Form of Life argument through the garment image.
+A. Buddhism teaches the same immortal self as the Gītā.
+B. Buddhism denies a permanent soul but retains rebirth until nirvāṇa.
+C. Buddhism has no account of liberation.
+D. Buddhism requires final resurrection by God.
 
-- **A — Incorrect:** Dependent origination is Buddhist and opposes a permanent soul.
-- **B — Correct:** Their justificatory forms must not be collapsed.
-- **C — Incorrect:** Both accounts distinguish the enduring principle from changing embodiment.
-- **D — Incorrect:** A scriptural image does not reproduce Plato’s essential-predicate reasoning.
+**MCQ 42 — Answer and explanation**
 
-**MCQ 47: C**
+**Correct answer: B**
 
-What is the shared pressure on Hick’s replica theory and Buddhist causal continuity?
+- **A — Incorrect:** MCQ 42: It rejects the permanent self.
+- **B — Correct:** MCQ 42: One countermodel cannot perform two logically different tasks.
+- **C — Incorrect:** MCQ 42: Nirvāṇa is its release from craving and suffering.
+- **D — Incorrect:** MCQ 42: Its causal account has no such requirement.
 
-A. Both require the same immortal substance.
-B. Both identify liberation with positive bliss.
-C. Both must explain why a connected successor counts enough for survival or responsibility without ordinary numerical identity.
-D. Both depend on a creator who assigns karma.
+**MCQ 43**
 
-- **A — Incorrect:** Buddhist continuity denies such a substance, while Hick’s case need not establish one.
-- **B — Incorrect:** The theories address persistence, not one shared final state.
-- **C — Correct:** Connectedness does important work, but its sufficiency remains disputed.
-- **D — Incorrect:** Buddhist moral continuity is explicitly non-creator-dependent.
+Which answer best respects the relation between path and terminus?
 
-**MCQ 48: D**
+A. Every school accepts identical liberation and merely changes vocabulary.
+B. The number of practices alone determines metaphysical truth.
+C. Schools disagree about direct means because they disagree whether release is identity, communion, cessation or isolation.
+D. A school’s account of bondage is irrelevant to its path.
 
-Which proposition correctly compares Advaita and Viśiṣṭādvaita?
+**MCQ 43 — Answer and explanation**
 
-A. Both deny the reality of the individual soul at every level.
-B. Both make ritual action the sole direct cause of liberation.
-C. Advaita preserves eternal difference, while Viśiṣṭādvaita sublates it.
-D. Advaita treats ultimate individuality as mistaken, while Viśiṣṭādvaita preserves a real dependent agent in liberation.
+**Correct answer: C**
 
-- **A — Incorrect:** Viśiṣṭādvaita strongly affirms the individual’s reality.
-- **B — Incorrect:** Neither reduces mokṣa to ritual production.
-- **C — Incorrect:** It reverses their positions on final difference.
-- **D — Correct:** This ontological disagreement explains their different paths and termini.
-
-**MCQ 49: A**
-
-Which criticism most directly challenges the claim that a robust liberation must include positive conscious bliss?
-
-A. Nyāya coherently defines release as cessation of pain and cognition, while Buddhism resists projecting an eternal enjoyer.
-B. Plato’s recollection establishes only pre-existence.
-C. The *Gītā* compares bodies to garments.
-D. Jainism treats karma as subtle matter.
-
-- **A — Correct:** These models show that release can be conceived as cessation rather than fulfilment.
-- **B — Incorrect:** This criticizes an immortality proof, not the positivity requirement.
-- **C — Incorrect:** The image explains re-embodiment without settling the phenomenology of liberation.
-- **D — Incorrect:** Jainism in fact gives a strongly positive liberated state.
-
-**MCQ 50: B**
-
-Which conclusion best integrates the topic?
-
-A. Every coherent theory requires the same self, the same mechanism and the same liberation.
-B. A theory must identify an adequate continuity-bearer, but that bearer may be substance, embodied person, psychology or causal stream.
-C. Since identity is disputed, moral responsibility is impossible.
-D. Because Buddhism denies self, it cannot explain practice or cessation.
-
-- **A — Incorrect:** The comparative material demonstrates several incompatible ontologies.
-- **B — Correct:** Functional adequacy can be supplied through different metaphysical structures.
-- **C — Incorrect:** Theories defend responsibility through different relations even when numerical identity is contested.
-- **D — Incorrect:** Buddhism locates practice and cessation within the conditioned stream.
-
----
+- **A — Incorrect:** MCQ 43: The destinations conflict in content.
+- **B — Incorrect:** MCQ 43: Practice count does not settle ontology.
+- **C — Correct:** MCQ 43: Soteriological method follows the account of what must be removed or realised.
+- **D — Incorrect:** MCQ 43: The remedy is shaped by the diagnosis.
 
 # ORIGINAL 10-, 15- AND 20-MARK MAINS MODEL PRACTICE
 
 ## Original 10-marker
 
-**Question:** Distinguish survival, immortality and liberation. Why does their conflation weaken an answer on rebirth?
-**Answer in about 150 words.**
+**Question:** Does continuity across death require numerical identity? Discuss in about 150 words.
 
 ### Model answer
 
-Survival is the claim that a later subject is numerically the same person; immortality is the stronger claim that a soul is naturally deathless; liberation is freedom from bondage, ignorance, suffering or repeated becoming. These are neither synonyms nor stages accepted by every tradition.
-
-The distinction matters because rebirth only requires an account of continuity. Vedānta, Nyāya and Jainism supply an enduring self or *jīva*, so their rebirth models can be called reincarnation. Buddhism, however, affirms *punarbhava* while denying a permanent self. Dependent origination links successive streams “neither as the same nor wholly other”. Thus rebirth may occur without immortality of a soul.
-
-Liberation also varies: Advaita realizes non-dual identity, Nyāya ends pain and cognition, Jainism perfects the individual soul, and Buddhism ends craving without affirming a permanent subject.
-
-**Conclusion:** Conflation hides the main philosophical issue — whether continuity requires a substance. Precise definitions show that immortality can supply a bearer within a rebirth model, but it is neither universally necessary nor sufficient by itself.
+Continuity and numerical identity answer different questions. Numerical identity means that the later subject is literally one and the same as the earlier subject. Continuity may instead consist in bodily persistence, memory, causal dependence or the survival of a soul. Substantial-self theories use an enduring bearer to secure strict identity. Buddhist rebirth rejects that requirement: the later stream is causally descended, neither identical nor wholly unrelated. This preserves ethical consequence while avoiding an immutable entity. The recipient objection remains: if the later subject is not the same, why should it bear the earlier action’s result? Buddhism replies that responsibility follows causal inheritance, just as a greatly changed person bears consequences within one life. Yet the cross-life case lacks the shared body and memory that make the ordinary analogy persuasive. Therefore continuity does not conceptually require numerical identity, but weaker continuity must be strong enough to explain responsibility and not merely chronological succession.
 
 ## Original 15-marker
 
-**Question:** “The theory of liberation is only as coherent as the theory of the self that supports it.” Discuss with reference to Buddhism, Nyāya and Advaita.
-**Answer in about 250 words.**
+**Question:** “A doctrine of liberation reveals a school’s theory of the self more clearly than its doctrine of rebirth.” Analyse in about 250 words.
 
 ### Model answer
 
-The statement is substantially correct because each theory of liberation must identify what is bound, what changes, and what remains when bondage ends.
+Rebirth states how bondage continues; liberation states what a tradition thinks was fundamentally bound and what deserves preservation. Advaita’s mokṣa reveals that separate individuality is a product of ignorance: knowledge does not transport a soul elsewhere but removes the error concealing *ātman–Brahman* identity. Viśiṣṭādvaita, by contrast, preserves a real dependent *jīva* in communion and service, showing that difference is not itself bondage. Nyāya retains an eternal self while ending pain and the embodied conditions of ordinary consciousness; Jainism perfects the individual by removing karmic matter. Sāṃkhya’s *kaivalya* discloses an inactive *puruṣa* whose bondage was only misidentification with *prakṛti*. Buddhism’s nirvāṇa ends craving and ignorance without positing a liberated substance.
 
-**Buddhism:** No permanent self exists. The five aggregates arise dependently; ignorance and craving sustain renewed becoming. Nirvāṇa is the cessation of this causal production. The strength is that liberation needs no metaphysical substance. The objection asks who practises and who is freed. Buddhism replies that conventional agency and causal descent are enough, though the moral force of non-identical responsibility remains contested.
-
-**Nyāya:** The self is an eternal substance, but consciousness is an adventitious quality arising through mind–body connections. False knowledge generates defect, activity, rebirth and suffering. True knowledge reverses the chain, producing *apavarga*: the self persists without pain, pleasure or cognition. The account is consistent with Nyāya’s self theory, but critics find an unconscious goal existentially empty.
-
-**Advaita:** Ātman is self-luminous Brahman. Bondage is *avidyā* and *adhyāsa*, not a real alteration of the Self. Knowledge therefore discloses rather than produces mokṣa. *Jīvanmukti* is possible because ignorance ends while *prārabdha* sustains the body. The agent problem remains: empirical agency must be valid enough to remove an ultimately unreal error.
-
-**Conclusion:** The three theories are coherent on their own assumptions, but they cannot be merged. No-self yields cessation, adventitious consciousness yields apavarga, and essential consciousness yields non-dual realization.
+Rebirth theories also reveal ontology: Jainism transmits an enduring *jīva*, Buddhism a causal stream, and Sāṃkhya assigns transmigration to subtle nature rather than *puruṣa*. Yet the liberated terminus is the sharper discriminator because it shows whether individuality, consciousness, relation and agency are ultimately retained, transformed or sublated. The claim is therefore largely valid: rebirth identifies the continuity mechanism, while liberation displays the system’s final metaphysical commitments.
 
 ## Original 20-marker
 
-**Question:** Critically compare substantial and non-substantial models of continuity across death. Which provides the stronger basis for rebirth and liberation?
-**Answer in about 400 words.**
+**Question:** Critically assess whether a theory of post-mortem survival can preserve moral responsibility without an immortal soul. Answer in about 350 words.
 
 ### Model answer
 
-The dispute is not simply whether something follows death. It concerns what kind of continuity can bear memory, moral responsibility, rebirth and release.
+The problem contains two demands: a continuity relation across death and a reason why the later subject may inherit the earlier agent’s consequences. An immortal-soul theory supplies a clear answer by positing one subject through bodily change. The Gītā’s substantial-self model and Jain *jīva* use this route. Its advantage is direct ownership of action; its difficulties are evidence, interaction with the body, memory loss and disagreement about the soul’s liberated attributes.
 
-**Substantial models.** Plato, Vedānta, Nyāya and Jainism posit an enduring bearer. Plato’s *Phaedo* argues through opposites, recollection, affinity and the Form of Life. The first two reach recurrence or pre-existence; affinity assumes that likeness to simple Forms supports indestructibility; the final argument makes soul essentially life-bearing but may not exclude cessation. In Indian systems the eternal *ātman*, *jīva* or self-substance gives a direct answer to “who acts and receives?” The *Gītā*’s garment image makes rebirth intelligible, Jainism maps karmic matter onto the *jīva*, and Nyāya preserves one bearer through births.
+Buddhist rebirth is the strongest countermodel. The aggregates are impermanent, but craving, formations and consciousness stand in dependent causal relations. A later stream is neither numerically the same nor wholly different. Moral responsibility follows causal descent, not possession of an immutable substance. This also avoids a creator-administrator and prevents reification of a self.
 
-The strength of this family is clear numerical identity and moral ownership. Its costs are equally clear: the soul’s simplicity and separability require argument; memory and personality depend heavily on bodily conditions; and distinct simple souls are difficult to identify.
+The recipient objection is serious. If identity is absent, assigning fruit to the later stream can appear comparable to punishing a descendant for an ancestor’s act. The Buddhist reply is that the later stream is not an external descendant but the continuation produced by the act. Responsibility within one life also survives large psychological change. However, ordinary cases retain bodily and mnemonic overlap, whereas cross-life dependence is not publicly traceable. The account is coherent as a metaphysical model but not independently verified by the coherence itself.
 
-**Non-substantial model.** Buddhism denies a permanent self while retaining causal continuity through dependent origination. Craving and karmic formations condition future consciousness. The flame-to-flame model shows how a later stream can be caused by an earlier one without being numerically the same. Rebirth therefore needs a continuity-bearer in the functional sense, not an entity that travels.
+Resurrection offers another non-natural-immortality route: God reconstitutes the whole person. It preserves embodied moral concern but faces the gap and duplication problems. A perfect replica may reproduce character without securing numerical identity.
 
-This model avoids the obscure substance and fits impermanence. It also explains liberation as the cessation of the very causal process that produces suffering. Its cost is the responsibility objection: if the later sufferer is not the earlier wrongdoer, desert appears displaced. The Buddhist reply — neither same nor wholly other — secures causal inheritance, though critics may doubt whether causation alone grounds personal concern.
-
-**Comparison with resurrection.** Embodied-person theories face a parallel problem. Hick’s replica secures psychological continuity, yet duplication separates resemblance from numerical identity. Thus substance, psychology and causation each preserve one dimension while losing another.
-
-**Judgement:** Substantial models provide the clearest ordinary account of one agent across lives, but their bearer is metaphysically expensive and evidentially obscure. Buddhist continuity is leaner and sufficient for a process-based liberation, but revises ordinary responsibility. Neither wins absolutely: the stronger model depends on whether liberation preserves a person or ends a conditioned process.
+Therefore moral responsibility does not logically require an inherently immortal soul. It requires a non-arbitrary continuity relation capable of linking agency and recipient. Substance, causal stream and divine reconstitution each propose such a relation, and each pays a different price. The immortal soul gives the clearest bearer but not the strongest evidence; causal continuity is ontologically economical but leaves the identity of the recipient under pressure.
 
 ### Answer-writing checklist
 
-1. Define the rival models before evaluating them.
-2. Reconstruct at least one argument rather than listing conclusions.
-3. Give the strongest objection and reply for each side.
-4. State what the example shows and where it stops.
-5. End with a criterion-based judgement, not “both are equally valid”.
-
----
+- State the identity criterion.
+- Separate coherence from evidence.
+- Use one genuine countermodel.
+- Answer the recipient objection.
+- End with necessary/sufficient language where relevant.
 
 # REMEDIATION
 
-## Error 1 — “Buddhism says nothing continues”
+## Misconception repair table
 
-**Repair:** Buddhism denies an unchanging owner, not causal dependence. Write the chain from ignorance and craving to renewed becoming, then use “neither the same nor wholly other”.
-
-## Error 2 — “All liberation is blissful union”
-
-**Repair:** Place the term on the parity bench. Nyāya is cessation without cognition; Sāṃkhya is isolation; Jainism is perfected individuality; Buddhism refuses a permanent enjoyer.
-
-## Error 3 — “Plato has one proof”
-
-**Repair:** Make four mini-arguments. State the immediate conclusion and local weakness of each before giving a cumulative judgement.
-
-## Error 4 — “Karma means fate”
-
-**Repair:** Distinguish inherited *prārabdha* from present *puruṣakāra* and future *āgāmi*. Conditioning is not the same as absence of agency.
-
-## Error 5 — “Advaita rejects action and devotion”
-
-**Repair:** Distinguish direct means from preparation. Action and devotion create purity and concentration; knowledge removes ignorance.
-
-## Error 6 — “The *Gītā* proves immortality”
-
-**Repair:** Say that it teaches and illustrates the imperishable self within its scriptural framework. The garment and indestructibility images are not independent demonstrations.
+| Misconception | Why it fails | Repair move |
+|---|---|---|
+| “Immortal” means “will certainly be reborn” | persistence does not cause another embodiment | add karma, dispositions and an unended cycle |
+| “Buddhism says nothing continues” | dependent causation links later becoming | say neither identical nor wholly different |
+| “All non-creator religions deny soul” | Jainism affirms eternal *jīva* | compare Buddhism and Jainism |
+| “All liberation is blissful union” | Nyāya cessation and Sāṃkhya isolation differ sharply | state diagnosis, terminus and what remains |
+| “Advaita has no agent” | empirical agency operates on the path | distinguish *vyavahāra* from ultimate status |
+| “Bhakti is emotion” | systematic devotion includes knowledge, surrender and grace | assess path-status and grace–effort relation |
+| “Resurrection is another rebirth” | it is one-life divine restoration | compare mechanism, time and identity-bearer |
+| “The Gītā proves rebirth empirically” | textual assertion and simile are not public verification | state internal necessity, then evaluate |
 
 ## Remedial MCQs
 
-**MCQ 51: C**
+**MCQ 44**
 
-A student writes, “Buddhism cannot believe in rebirth because it rejects the self.” What is the best correction?
+A script says, ‘The soul is immortal; therefore it must enter another body.’ What premise is missing?
 
-A. Buddhism secretly accepts a permanent self but uses another name.
-B. Buddhism denies causation and treats rebirth as random.
-C. Buddhism distinguishes an unchanging self from a causally continuous stream.
-D. Buddhism replaces rebirth with bodily resurrection.
+A. A claim that every immortal entity is material.
+B. A denial that liberation is possible.
+C. A proof that all bodies are numerically identical.
+D. A condition connecting continued existence with renewed embodiment, such as karma in an unended cycle.
 
-- **A — Incorrect:** Introducing a hidden substance contradicts the explicit no-self doctrine.
-- **B — Incorrect:** Dependent origination makes conditioned causation central.
-- **C — Correct:** The distinction allows renewed becoming without a transmigrant.
-- **D — Incorrect:** Buddhist *punarbhava* is not a final divine restoration of the body.
+**MCQ 44 — Answer and explanation**
 
-**MCQ 52: D**
+**Correct answer: D**
 
-A candidate calls Nyāya apavarga “eternal conscious bliss”. Which repair is accurate?
+- **A — Incorrect:** MCQ 44: Materiality does not supply the causal bridge.
+- **B — Incorrect:** MCQ 44: The issue is why another birth follows before release.
+- **C — Incorrect:** MCQ 44: Rebirth normally presupposes distinct bodies.
+- **D — Correct:** MCQ 44: The conclusion needs more than persistence; it needs a rebirth-generating order.
 
-A. Replace Nyāya with Jainism but retain loss of individuality.
-B. Keep Nyāya and add identity with Brahman.
-C. Define apavarga as service to a personal God.
-D. State that the self persists but cognition, pleasure and pain cease because consciousness is adventitious.
+**MCQ 45**
 
-- **A — Incorrect:** Jain liberation perfects rather than loses individual consciousness.
-- **B — Incorrect:** Identity with Brahman belongs to Advaita.
-- **C — Incorrect:** Communion and service belong to theistic Vedānta.
-- **D — Correct:** The austere final state follows from Nyāya’s account of self and cognition.
+Which repair best improves an answer that calls nirvāṇa annihilation of the soul?
 
-**MCQ 53: A**
+A. Begin from anātman: Buddhism does not posit the permanent soul whose annihilation is alleged.
+B. Replace nirvāṇa with Nyāya apavarga.
+C. Say the eternal soul becomes Brahman.
+D. Describe nirvāṇa as endless rebirth.
 
-Which correction best improves an answer that says Plato’s recollection argument proves immortality?
+**MCQ 45 — Answer and explanation**
 
-A. It directly supports pre-existence; post-mortem survival still needs a further bridge.
-B. It proves bodily resurrection rather than immortality.
-C. It establishes that the soul is a harmony of the body.
-D. It shows that all knowledge comes from sensation.
+**Correct answer: A**
 
-- **A — Correct:** The direction of inference is backward before birth, not automatically forward after death.
-- **B — Incorrect:** Recollection has no divine reconstitution premise.
-- **C — Incorrect:** Harmony is Simmias’ objection to independence.
-- **D — Incorrect:** Plato argues that sensory instances are insufficient for knowledge of perfect Forms.
+- **A — Correct:** MCQ 45: The original description asks for the fate of an entity Buddhism denies.
+- **B — Incorrect:** MCQ 45: Changing traditions avoids rather than repairs the error.
+- **C — Incorrect:** MCQ 45: That imports an Advaitic thesis.
+- **D — Incorrect:** MCQ 45: Nirvāṇa ends the causes of renewed becoming.
 
-**MCQ 54: B**
+**MCQ 46**
 
-How should the victim-blaming objection to karma be answered without evasion?
+A response to the 2024 necessity question uses only Buddhism. What must be added?
 
-A. Deny that suffering ever occurs to morally innocent people.
-B. Separate causal explanation from social permission to blame, while conceding the evidential problem.
-C. Claim that observers can reliably infer exact past deeds from present conditions.
-D. Remove compassion from the ethical duties of a believer in karma.
+A. A second Buddhist example of no-self.
+B. A no-rebirth model of robust release, because Buddhism itself retains rebirth.
+C. Another substantial-self theory that affirms rebirth.
+D. A longer definition of karma without a liberation model.
 
-- **A — Incorrect:** The objection arises because present innocence and suffering visibly coexist.
-- **B — Correct:** It preserves ethical restraint without pretending the metaphysical evidence is conclusive.
-- **C — Incorrect:** Such inference is unavailable and would intensify the objection.
-- **D — Incorrect:** Classical ethical disciplines make compassion and non-harm obligatory.
+**MCQ 46 — Answer and explanation**
 
-**MCQ 55: C**
+**Correct answer: B**
 
-A student writes, “Knowledge, action and devotion are three equal routes to the same state.” What is missing?
+- **A — Incorrect:** MCQ 46: That still tests only soul necessity.
+- **B — Correct:** MCQ 46: A one-life salvation or resurrection model performs the separate logical test.
+- **C — Incorrect:** MCQ 46: That supplies a positive case, not the needed counterexample.
+- **D — Incorrect:** MCQ 46: The unanswered necessity concerns rebirth and release.
 
-A. Only a list of more Sanskrit terms.
-B. A denial that schools disagree about liberation.
-C. The distinction between preparation, direct removal and grace, together with different final states.
-D. The claim that ritual action is always useless.
+**MCQ 47**
 
-- **A — Incorrect:** Terminology without causal role would not repair the analysis.
-- **B — Incorrect:** The missing point is precisely the disagreement.
-- **C — Correct:** Function and terminus explain why the paths cannot be flattened.
-- **D — Incorrect:** Several systems assign action major preparatory or direct importance.
+What is the best remedy for an answer saying jñāna, karma and bhakti are simply equal paths?
 
-**MCQ 56: D**
+A. Remove every school name and retain the slogan.
+B. Treat all liberation termini as identical.
+C. Specify for each school whether a path is direct, preparatory, sequential or grace-dependent.
+D. Replace the paths with Plato’s four proofs.
 
-What is the best repair to “immortality is necessary for liberation”?
+**MCQ 47 — Answer and explanation**
 
-A. Replace “necessary” with “empirically proven”.
-B. Assert that every religion teaches reincarnation.
-C. Define liberation as everlasting personal pleasure.
-D. Specify the school, distinguish soul from continuity, and test the universal claim against Buddhism and non-rebirth salvation models.
+**Correct answer: C**
 
-- **A — Incorrect:** The evidence does not establish empirical proof.
-- **B — Incorrect:** Resurrection and Buddhist rebirth refute that universal description.
-- **C — Incorrect:** Major liberation accounts deny or qualify an eternal experiencing individual.
-- **D — Correct:** Modal precision and counterexamples produce the defensible conclusion.
-
-## Mastery protocol
-
-- If MCQs 51 or 56 are missed, redraw the necessity map from Lesson 14.
-- If MCQs 52 or 55 are missed, reconstruct the bondage → means → terminus table.
-- If MCQ 53 is missed, separate pre-existence from post-mortem survival.
-- If MCQ 54 is missed, distinguish metaphysical explanation, empirical warrant and ethical response.
-
----
+- **A — Incorrect:** MCQ 47: That further erases the disagreement.
+- **B — Incorrect:** MCQ 47: The means differ partly because the ends differ.
+- **C — Correct:** MCQ 47: Role-classification converts a devotional list into a philosophical comparison.
+- **D — Incorrect:** MCQ 47: That is a different problem.
 
 # MASTER COMPARISON, CAUSAL AND ARGUMENT MAPS
 
-## Map 1 — The complete continuity spectrum
+## Map 1 — Continuity spectrum
 
 ```text
-STRONGEST SUBSTANCE                                      LEANEST PROCESS
-
-Jain jīva ─ Nyāya self ─ Viśiṣṭādvaita jīva ─ Advaita empirical jīva ─ Buddhist stream
- eternal      eternal          eternal real             ultimately          no permanent
- conscious    substance        dependent agent          sublated            owner
-
-Question at every point:
-What secures identity? What carries karma? What is finally liberated?
+strict substance identity
+Plato / Gītā / Jain / Nyāya
+          ↓ less ontological commitment
+psychological or embodied continuity
+replica / resurrection proposals
+          ↓
+causal continuity without permanent owner
+Buddhist dependent becoming
 ```
 
 ## Map 2 — Plato’s argument tree
 
 ```text
-IMMORTALITY
-├── Cyclical: life from death
-│   └── pressure: recurrence does not prove indestructibility
-├── Recollection: prior knowledge of Forms
-│   └── pressure: pre-existence does not prove future survival
-├── Affinity: soul resembles simple intelligibles
-│   ├── Simmias: harmony may depend on body
-│   └── pressure: likeness is not identity
-└── Form of Life: soul cannot admit death
-    └── pressure: exclusion of death may not exclude cessation
-
-External pressure: Kant — subject-unity is not knowledge of soul-substance.
+Cycle ── life comes from death? ── identity gap
+Recollection ── prenatal knowledge? ── future-survival gap
+Affinity ── likeness to Forms? ── Simmias + Cebes
+Final Life ── cannot admit death? ── can it cease altogether?
 ```
 
-## Map 3 — Karma, rebirth and liberation
+## Map 3 — Karma and release
 
 ```text
-ignorance / passion / defect
+ignorance / craving / passion
           ↓
-       action
+action and appropriation
           ↓
- karmic disposition or matter
+disposition, potency or karmic matter
           ↓
-       rebirth
+renewed embodiment
           ↓
- renewed suffering and action
+knowledge / cessation / restraint / devotion
           ↓
- school-specific interruption:
- knowledge | restraint/shedding | devotion/grace | cessation of craving
-          ↓
- liberation
+no fresh bondage; tradition-specific liberation
 ```
 
-## Map 4 — Liberation comparison
+## Map 4 — Liberation discriminator
 
-| School | Self theory | Bondage | Direct route | Liberated condition | Residual difficulty |
-|---|---|---|---|---|---|
-| Advaita | Ātman = Brahman | *Avidyā/adhyāsa* | Knowledge | Non-dual realization; jīvanmukti possible | Status of ignorance and empirical agency |
-| Viśiṣṭādvaita | Real dependent *jīva* | Karma and alienation | Bhakti/prapatti plus grace | Communion and service | Grace–effort relation |
-| Nyāya-Vaiśeṣika | Eternal substance | False knowledge chain | *Tattva-jñāna* | No pain or cognition | Desirability of an unconscious end |
-| Sāṃkhya-Yoga | Plural pure puruṣas | Misidentification | Discrimination and discipline | Isolated consciousness | Individuation and puruṣa–prakṛti relation |
-| Jainism | Eternal conscious *jīva* | Karmic matter | Three Jewels, restraint, austerity | Perfected omniscient individuality | Consciousness–matter interaction |
-| Buddhism | No permanent self | Ignorance and craving | Eightfold discipline and insight | Cessation of conditioned suffering | Responsibility without identity |
+| Question | Advaita | Viśiṣṭādvaita | Nyāya | Sāṃkhya | Jain | Buddhist |
+|---|---|---|---|---|---|---|
+| What ends? | ignorance | karma/estrangement | pain-chain | misidentification | karmic matter | craving/ignorance |
+| What remains? | Brahman | individual with God | self-substance | isolated *puruṣa* | perfected *jīva* | no permanent self asserted |
+| Direct key | knowledge | devotion/surrender/grace | true knowledge | discrimination | restraint/austerity | path and cessation |
 
-## Map 5 — Rebirth and resurrection
+## Map 5 — Necessary-condition decision tree
 
 ```text
-REBIRTH: many lives → karma → new embodiment → exit from cycle
-  identity problem: memory / substance / causal stream
+Is immortal soul necessary for rebirth?
+ ├─ within Gītā/substantialist models: yes
+ └─ universally: no, Buddhist causal stream
 
-RESURRECTION: one life → death → divine act → restored person
-  identity problem: gap / reassembly / replica duplication
+Is immortal soul sufficient for rebirth?
+ └─ no: add karma + dispositions + unended cycle
 
-Shared unresolved question:
-What makes the later being numerically the same rather than only connected?
+Is rebirth necessary for every robust release?
+ └─ no: one-life salvation/resurrection countermodel
 ```
 
 ## Map 6 — Answer spine by marks
 
-| Marks | Minimum architecture |
+| Marks | Minimum complete movement |
 |---:|---|
-| 10 | Definition → doctrine/mechanism → one objection and reply → exact verdict |
-| 15 | Problem → school-specific theory → argument and example → comparison → objection/reply → graded conclusion |
-| 20 | Distinctions → two or more reconstructed models → strongest objections and replies → residuals → criterion-based judgement |
-
----
+| 10 | define → doctrine → objection → verdict |
+| 15 | distinction → mechanism → comparison → reply → judgement |
+| 20 | problem frame → rival reconstructions → objections → replies → graded conclusion |
 
 # COMPLETE CONSOLIDATED REGISTER NOTES
 
 ## Register 1 — Vocabulary and identity
 
-1. Survival asks whether a later being is numerically the same person.
-2. Immortality claims natural deathlessness of a soul.
-3. Rebirth is karmically conditioned renewed becoming.
-4. Reincarnation is the substantial-soul species of rebirth.
-5. Resurrection is divine reconstitution after one earthly life.
-6. Liberation is release from bondage, not merely continued existence.
-7. Numerical identity differs from qualitative similarity.
-8. Bodily, psychological, soul and causal criteria preserve different features.
-9. Memory may evidence identity without constituting it.
-10. Branching defeats simple psychological identity.
-11. Soul theories face individuation and evidence problems.
-12. Causal theories face responsibility-without-sameness pressure.
+- **Post-mortem survival:** some aspect of the person continues after bodily death.
+- **Immortality:** the relevant subject is deathless or cannot perish; it does not entail another embodiment.
+- **Pre-existence:** existence before birth; logically weaker than eternal survival.
+- **Rebirth:** renewed becoming across lives; the widest continuity term.
+- **Reincarnation:** re-embodiment of a substantial bearer.
+- **Resurrection:** divine restoration of embodied personhood after one earthly life.
+- **Liberation:** release from a tradition-specific bondage; not a synonym for death.
+- Numerical identity means one and the same; qualitative identity means exact resemblance.
+- Candidate identity criteria: soul, body, memory/psychology, causal dependence and divine reconstitution.
+- Memory may evidence identity without constituting it; branching exposes the weakness of resemblance alone.
 
-## Register 2 — Plato and immortality
+## Register 2 — Plato
 
-1. Opposites argues from the life–death cycle.
-2. Recollection infers pre-natal acquaintance with Forms.
-3. Pre-existence does not by itself entail post-mortem survival.
-4. Affinity likens soul to invisible, stable, simple reality.
-5. Simmias compares soul to bodily harmony.
-6. Plato replies that soul governs and pre-exists the body.
-7. The Form-of-Life argument makes soul essentially life-bearing.
-8. Excluding death while existing may not exclude ceasing to exist.
-9. Kant denies knowledge of a permanent soul from the unity of consciousness.
-10. Plato’s arguments are cumulative and suggestive rather than demonstrative.
+- **Cyclical:** reciprocal generation of living and dead; does not establish return of the same soul.
+- **Recollection:** imperfect sensible equals presuppose Equality; chiefly supports pre-existence.
+- **Affinity:** soul resembles invisible stable intelligibles; gives probability, not deduction.
+- **Simmias:** harmony may vanish with the instrument; attacks separability.
+- **Cebes:** a weaver may outlast many cloaks and still die; attacks inference from repeated survival to immortality.
+- **Final/Life:** soul essentially brings life and cannot admit death.
+- Residual objection: not admitting death while existing may not establish incapacity to cease.
+- Twenty-marker rule: four arguments, four burdens, graded verdict.
 
-## Register 3 — Other survival arguments
+## Register 3 — Wider survival arguments
 
-1. Simplicity blocks decomposition but not every form of cessation.
-2. First-person unity does not entail immortality.
-3. Moral order can make immortality a practical postulate.
-4. Kant’s postulate is not theoretical knowledge.
-5. Desire suggests orientation but does not entail an object.
-6. Religious experience is defeasible and interpretation-dependent.
-7. Brain dependence pressures separability.
-8. Dependence does not deductively prove impossibility of survival.
-9. Every argument must specify its exact epistemic force.
+- Simplicity: no decomposition if partless; yet simplicity is unproved and cessation need not be decomposition.
+- Unity: a persisting subject may explain unified experience; process or functional accounts compete.
+- Moral order: survival may be postulated for justice; need does not entail existence.
+- Desire: longing for fulfilment is suggestive, not demonstrative.
+- Experience/testimony: requires interpretation and comparison with alternatives.
+- Brain dependence shifts the burden to separable-soul theories without formally disproving survival.
+- Past-life amnesia weakens evidence and responsibility even if memory is not the sole identity test.
 
-## Register 4 — Karma and rebirth
+## Register 4 — Gītā and Hindu continuity
 
-1. Karma is morally efficacious action.
-2. *Sañcita*, *prārabdha* and *āgāmi* classify stored, ripening and future karma.
-3. Rebirth supplies the field for delayed fruit.
-4. *Saṃsāra* is repeated conditioned becoming.
-5. *Puruṣakāra* preserves effort within inherited conditions.
-6. *Gītā* 2.22 gives the garment image.
-7. *Gītā* 2.23 gives indestructibility imagery.
-8. *Gītā* 9.21 keeps temporary heaven inside saṃsāra.
-9. Karma need not imply creator administration.
-10. Causal explanation does not justify victim-blaming.
-11. Empirical verification remains a residual problem.
+- Gītā 2.13: persistence through life and movement to another body.
+- 2.20: unborn and undying self.
+- 2.22: garment illustration of body-change.
+- 2.23: elemental indestructibility.
+- 15.8: mind/sense capacities carried onward.
+- Internal verdict: a deathless bearer is necessary for this text’s model.
+- Universal verdict: Buddhism denies that such a bearer is necessary for every rebirth account.
+- Sufficiency verdict: immortality alone does not cause another birth.
+- Advaita sublates separate individuality; Viśiṣṭādvaita and Dvaita retain it; Nyāya retains substance without ordinary liberated consciousness; Sāṃkhya isolates plural *puruṣas*.
 
-## Register 5 — Buddhism
+## Register 5 — Karma, rebirth and agency
 
-1. *Anātman* denies a permanent independent self.
-2. It does not deny conventional persons.
-3. Dependent origination explains conditioned succession.
-4. Craving and formations renew becoming.
-5. The later stream is neither the same nor wholly other.
-6. Flame-to-flame is a model, not proof.
-7. Causal descent grounds responsibility.
-8. Buddhism permits rebirth without reincarnation.
-9. It permits liberation without an immortal soul.
-10. The residual issue is whether causation supplies sufficient ownership.
+- Karma joins intentional action and ethically significant consequence.
+- *Adṛṣṭa*, *apūrva*, dispositions and subtle-body accounts are school-specific explanatory devices.
+- *Saṃcita*, *prārabdha* and *āgāmi* are a Vedāntic teaching scheme.
+- Rebirth extends the horizon for delayed fruition.
+- Reincarnation is narrower than rebirth because it implies a substantial traveller.
+- *Puruṣakāra* preserves present effort against fatalism.
+- Never infer that a present victim deserves suffering from an unverifiable past act.
+- Explanatory range is not empirical proof.
 
-## Register 6 — Hindu continuity
+## Register 6 — Buddhism and Jainism
 
-1. The *Gītā* makes the imperishable self the bearer of rebirth.
-2. Advaita identifies Ātman with Brahman.
-3. Empirical individuality is ignorance-conditioned in Advaita.
-4. Viśiṣṭādvaita preserves a real eternal dependent *jīva*.
-5. Nyāya preserves self but makes consciousness adventitious.
-6. Sāṃkhya preserves plural pure puruṣas.
-7. In Sāṃkhya, transmigrating machinery belongs to prakṛti.
-8. *SK* 62–63 denies literal bondage of puruṣa.
-9. Agreement on endurance does not yield one liberation doctrine.
+- Buddhism: *anātman*, impermanent aggregates and dependent continuity.
+- Later stream is neither numerically the same nor wholly unrelated.
+- Causal descent answers continuity; recipient objection remains.
+- Nirvāṇa ends craving and ignorance, not an eternal self.
+- Jainism: eternal conscious *jīva* distinct from *ajīva*.
+- Jain sequence: *āsrava → bandha → saṃvara → nirjarā*.
+- Jain liberation manifests unobstructed knowledge, perception, energy and bliss while preserving individuality.
+- Joint lesson: no creator is compatible with either no permanent soul or an eternal soul.
 
-## Register 7 — Jainism
+## Register 7 — Liberation parity
 
-1. *Jīva* is eternal and intrinsically conscious.
-2. It manifests the size of its embodied organism.
-3. Karmic matter obscures natural infinitudes.
-4. *Āsrava* is influx.
-5. *Bandha* is adhesion.
-6. *Saṃvara* stops new influx.
-7. *Nirjarā* sheds accumulated matter.
-8. Right faith, knowledge and conduct guide release.
-9. Siddhahood perfects individual consciousness.
-10. Jain *kevala* means omniscience, not Sāṃkhya isolation.
+- **Advaita mokṣa:** knowledge of non-dual identity.
+- **Viśiṣṭādvaita mokṣa:** personal communion and service.
+- **Nyāya apavarga:** end of pain-producing chain; self remains without ordinary experience.
+- **Sāṃkhya–Yoga kaivalya:** isolation of pure consciousness from nature.
+- **Jain siddhahood:** perfected omniscient individuality.
+- **Buddhist nirvāṇa:** cessation of craving, ignorance and suffering without permanent self.
+- Shared vocabulary must not erase incompatible destinations.
 
-## Register 8 — Liberation parity
+## Register 8 — Advaita and the agent problem
 
-1. Advaita mokṣa is non-dual realization.
-2. Viśiṣṭādvaita mokṣa is communion and service.
-3. Nyāya apavarga is cessation of pain and cognition.
-4. Sāṃkhya-Yoga kaivalya is isolated pure consciousness.
-5. Jain liberation is perfected omniscient individuality.
-6. Buddhist nirvāṇa ends craving and conditioned suffering.
-7. The diagnosis of bondage determines the remedy.
-8. Positive perfection and negative cessation are rival ideals.
-9. “All Indian liberation is union with God” is false.
-10. “Who remains?” must be answered in school-specific terms.
+- Mokṣa is removal of *avidyā*, not production of a new state.
+- *Śravaṇa–manana–nididhyāsana* articulate acquisition, reflection and assimilation of knowledge.
+- Action and worship prepare through purification; knowledge directly removes error.
+- *Jīvanmukti* is embodied liberation; *prārabdha* explains residual embodiment.
+- *Videhamukti* follows bodily death without further rebirth.
+- Empirical agency is valid within *vyavahāra*; ultimate Brahman is not a finite doer.
+- Viśiṣṭādvaita retains a real dependent agent whose liberation fulfils individuality.
 
-## Register 9 — Advaita and Viśiṣṭādvaita
+## Register 9 — Paths and grace
 
-1. Advaita adopts a removal model of liberation.
-2. Knowledge is direct because ignorance is the cause.
-3. Action and devotion produce fitness and purity.
-4. *Jīvanmukti* is freedom while embodied.
-5. *Prārabdha* sustains the body after knowledge.
-6. *Videhamukti* follows bodily death.
-7. Advaita sublates mistaken individuality.
-8. Viśiṣṭādvaita preserves real agency and dependence.
-9. Its liberation is relational, not identity-based.
-10. Bhakti and surrender culminate in grace.
-11. The grace–effort problem remains unresolved in simple slogans.
+- Ask whether a means is direct, auxiliary, sequential or jointly necessary.
+- Advaita: knowledge direct; action and devotion preparatory.
+- Mīmāṃsā orientation: ritual action primary.
+- Rāmānuja: action and self-knowledge mature into devotion; *prapatti* and grace release.
+- Madhva: knowledge-informed devotion and divine favour.
+- Bhakti’s strengths: accessibility, whole-person transformation, surrender and grace.
+- Objections: emotionalism, duality, personal-God dependence and grace–effort tension.
+- Cat/monkey imagery marks different weights of grace and cooperation.
 
-## Register 10 — Paths
+## Register 10 — Resurrection and religious presupposition
 
-1. A direct means differs from an auxiliary aid.
-2. Qualification differs from production of a result.
-3. Śaṅkara rejects knowledge–action combination as a direct cause.
-4. Rāmānuja arranges action, knowledge and devotion sequentially.
-5. Madhva makes devotion knowledge-grounded.
-6. Mīmāṃsā gives action independent authority.
-7. *Gītā* 5.4–5 resists crude path separation.
-8. *Gītā* 18.66 grounds surrender.
-9. The nine limbs of bhakti extend from hearing to self-offering.
-10. Bhakti’s importance is structural, not merely emotional.
-11. Karma qualifies, bhakti receives, jñāna removes.
-12. Functional convergence does not erase different termini.
+- Resurrection is linear, divine and embodied; rebirth is serial and karmic/causal.
+- Hylomorphism, preservation and replica theories are distinct identity proposals.
+- Gap problem: what bridges death and restoration?
+- Duplication problem: why is a perfect copy the same person?
+- Some eschatologies require future continuity for justice or fulfilment.
+- Religion as such does not require a naturally immortal substance-soul.
+- Buddhism and resurrection are independent counterexamples to that universal claim.
 
-## Register 11 — Resurrection and final synthesis
+## Register 11 — Final necessity and answer rules
 
-1. Natural immortality and resurrection are distinct.
-2. Resurrection restores an embodied person by divine act.
-3. Rebirth is cyclic and karmic.
-4. The reassembly problem concerns bodily matter and continuity.
-5. Aquinas uses soul-as-form.
-6. Van Inwagen emphasizes preserved bodily continuity.
-7. Hick uses a unique replica.
-8. Duplication threatens numerical identity.
-9. Rebirth faces a memory gap.
-10. An immortal soul can supply continuity for rebirth but does not generate rebirth without a further karmic or providential mechanism.
-11. Rebirth is necessary only within cycle-ending conceptions of liberation.
-12. Robust liberation minimally needs a terminable continuity of bondage and practice.
-13. The strongest verdict is comparative, modal and school-relative.
-
----
+- Immortal soul is not universally necessary for rebirth.
+- Immortal soul is not sufficient for rebirth.
+- Buddhism does not show rebirth is unnecessary for liberation.
+- A one-life release model tests rebirth’s necessity.
+- Neither survival nor repeated embodiment is sufficient for liberation.
+- Named-text questions require internal reconstruction before external comparison.
+- Every critical paragraph should contain position, objection, reply and residual issue.
+- Final verdicts should identify scope: “within this system” versus “across systems.”
 
 # COVERAGE MATRIX
 
-| Required coverage | Main location | Argument/criticism evidence | Practice/PYQ evidence |
-|---|---|---|---|
-| Soul, self, person and survival terms | Lesson 1 | Six-term separation and bearer test | MCQs 1–2; 2019 Q8(a) |
-| Personal identity | Lesson 2 | Body, memory, soul, causal continuity; branching | MCQs 3–5; cumulative 43, 47 |
-| Plato’s a priori proofs | Lesson 3 | Four reconstructions, Simmias, Kant | MCQs 6–9; 2023 Q6(a) |
-| Other immortality arguments | Lesson 4 | Simplicity, unity, moral order, desire, experience | MCQs 10–11; 2020 Q5(b) |
-| Body–brain dependence | Lesson 4 | Burden-shift assessment | MCQ 11; original 20-marker |
-| Karma and three karmas | Lesson 5 | Moral mechanism, freedom, victim-blaming | MCQs 12–14, 54; 2019/2021/2023 PYQs |
-| Rebirth versus reincarnation | Lessons 1, 5, 13 | Substance versus wider renewed becoming | MCQs 1, 37; 2019 Q8(a) |
-| Anti-theistic rebirth | Lesson 6 | Buddhism and Jain comparison | MCQs 15–17, 51; 2018 Q5(b) |
-| Buddhist no-self and continuity | Lesson 6 | Dependent origination, responsibility residual | MCQs 15–17, 43; 2022 Q5(c) |
-| Hindu accounts and *Gītā* | Lesson 7 | Advaita, Viśiṣṭādvaita, Nyāya, Sāṃkhya | MCQs 18–21, 46; 2021 Q6(a), 2025 Q7(c) |
-| Jain soul and bondage | Lesson 8 | Full karmic-matter ladder and interaction issue | MCQs 22–23; 2022 Q8(b) |
-| Liberation parity bench | Lesson 9 | Six school-specific ends | MCQs 24–27, 49, 52; 2024 Q5(c) |
-| Advaita mokṣa and knowledge | Lesson 10 | Removal model, real-agent objection | MCQs 28–30, 45, 53; 2021 Q6(b) |
-| Jīvanmukti | Lesson 10 | *Prārabdha* and embodied freedom | MCQ 29; 2025 Q5(d) |
-| Viśiṣṭādvaita real agent | Lesson 11 | Communion, surrender, grace residual | MCQs 31–32, 48; 2022 Q7(b) |
-| Knowledge, action, devotion | Lesson 12 | Production/removal/reception; schools compared | MCQs 33–36, 55; 2018 Q7(c), 2020 Q8(c) |
-| Resurrection and identity | Lesson 13 | Aquinas, van Inwagen, Hick, duplication | MCQs 37–39, 47; original 20-marker |
-| Necessity of immortality/rebirth | Lesson 14 | Counterexample and minimum-condition analysis | MCQs 40–42, 56; 2024 Q6(a), 2025 Q7(c) |
-| All 17 owned PYQs | Lessons 1–14 and final PYQ index | Exact ledger wording, demand and concise route | Complete 17-row table |
-| 2026 audit | Lesson 14 and final PYQ index | Zero primary-owned parts; one bounded secondary link | MCQ 42 |
-| Local practice variation | Lessons 1–14 | 2–4 misconception-sensitive items per lesson | Counts: 2, 3, 4, 2, 3, 3, 4, 2, 4, 3, 2, 4, 3, 3 |
-| Cumulative and remedial practice | Final practice sections | Cross-school integration and error repair | MCQs 43–56 |
-| Original solved Mains | Final Mains section | One complete 10-, 15- and 20-mark model | Three model answers |
-| Consolidated revision | Maps and registers | Eleven complete retrieval registers | Final maps and notes |
+| ID | Core ownership in this edition | Status |
+|---|---|---|
+| R04-01 | soul, self, person and five continuity-bearers | Lesson 1, complete |
+| R04-02 | survival, immortality and pre-existence separated | Lessons 1 and 12, complete |
+| R04-03 | Plato’s cyclical argument and identity gap | Lesson 3, complete |
+| R04-04 | recollection, pre-existence and future-survival gap | Lesson 3, complete |
+| R04-05 | affinity, probability and Simmias’ objection | Lesson 3, complete |
+| R04-06 | Cebes’ weaver challenge distinguished from Simmias | Lesson 3, complete |
+| R04-07 | Form-of-Life argument and deathless/indestructible gap | Lesson 3, complete |
+| R04-08 | simplicity, unity, moral, desire and experience arguments | Lesson 12, complete |
+| R04-09 | body–brain dependence and memory pressure | Lessons 2 and 12, complete |
+| R04-10 | resurrection contrasted with natural immortality and rebirth | Lesson 2, complete |
+| R04-11 | hylomorphic, preservation and replica identity tests | Lesson 2; Expert only sharpens branching |
+| R04-12 | qualified verdict on immortality as religious presupposition | Lessons 2 and 12, complete |
+| R04-13 | Gītā 2.13, 2.20, 2.22, 2.23 and 15.8 | Lesson 4, complete |
+| R04-14 | incompatible Hindu self and liberation profiles | Lesson 4, complete |
+| R04-15 | karma as Hindu structural postulate with school variation | Lesson 5, complete |
+| R04-16 | accumulated, fruiting and new karma | Lessons 5 and 9, complete |
+| R04-17 | delayed-fruition role of rebirth within karma | Lesson 5, complete |
+| R04-18 | karma, rebirth and reincarnation defined and connected | Lesson 5, complete |
+| R04-19 | Gītā-internal necessity and cross-system limitation | Lesson 4, complete |
+| R04-20 | Buddhist *anātman* with causally continuous rebirth | Lesson 6, complete |
+| R04-21 | Jain eternal *jīva* in a non-creator cycle | Lesson 7, complete |
+| R04-22 | Buddhist–Jain comparison for the 2018 question | Lesson 7, complete |
+| R04-23 | necessity versus sufficiency of immortal soul | Lessons 4, 6 and 13, complete |
+| R04-24 | present effort, responsibility and anti-victim-blaming limit | Lesson 5, complete |
+| R04-25 | separate tests of soul-immortality and rebirth | Lesson 13, complete |
+| R04-26 | Advaita liberation and direct role of knowledge | Lesson 9, complete |
+| R04-27 | *jīvanmukti*, *prārabdha* and *videhamukti* | Lesson 9, complete |
+| R04-28 | empirically real agent versus ultimately separate agent | Lesson 10, complete |
+| R04-29 | Rāmānuja/Madhva individuality, devotion and grace | Lessons 10 and 11, complete |
+| R04-30 | Jain soul and full bondage/reversal sequence | Lesson 7, complete |
+| R04-31 | Nyāya–Vaiśeṣika *apavarga* and desirability objection | Lesson 8, complete |
+| R04-32 | Buddhist *nirvāṇa* without survival/annihilation of self | Lesson 8, complete |
+| R04-33 | Sāṃkhya–Yoga *kaivalya* and *prakṛti* continuity | Lesson 8, complete |
+| R04-34 | evaluated bhakti path, not devotional description | Lesson 11, complete |
+| R04-35 | direct, auxiliary and sequential roles of three paths | Lesson 11, complete |
+| R04-36 | six incompatible liberation destinations | Lesson 8, complete |
+| R04-37 | grace–effort tension and cat/monkey comparison | Lesson 11, complete |
 
----
+## PYQ certification
+
+| Corpus | Primary-owned parts | Routed here | Result |
+|---|---:|---:|---|
+| 2018–2025 verified bank | 17 | 17 | every printed demand has a Core lesson and final answer route |
+| 2026 verified supplement | 0 | 0 | absence explicitly recorded; no synthetic ownership added |
+
+The coverage table certifies ownership and routing, not the truth of contested metaphysical doctrines. Core remains independently sufficient; Advanced and Expert sections are optional.
 
 # SOURCE LEDGER
 
 ## SOURCE-MANIFEST GATE
 
-| Category | Status | Evidence or reason |
+| Source category | Status | Evidence / reason |
 |---|---|---|
-| Canonical Markdown | checked | `upsc-ai-kit\knowledge\Philosophy\paper-2\philosophy-of-religion\Soul-Immortality-Rebirth.md` read fully for doctrine, advanced modules, all 17 routes and factual controls |
-| Final learner package | checked | `notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\04-Soul-c403e4d4-beration\01-Complete-Learning-Session\Complete-Learning-Session.pdf` audited across all 113 pages, including 16 sessions and eight advanced modules |
-| Layered/complete session | checked | `upsc-ai-kit\knowledge\Philosophy\Philosophy-of-Religion\learning-sessions\Soul-Immortality-Rebirth-Liberation\Soul-Immortality-Rebirth-Liberation_Layered-Complete-Learning-Session_2026-08-19.md` audited as a bounded completeness check |
-| Solved workbook | checked | `notes\Final-Learning-Packages\Philosophy Optional\Philosophy Paper II — Philosophy of Religion\04-Soul-c403e4d4-beration\02-Solved-Practice-Workbook\Solved-Practice-Workbook.pdf` audited across all 38 pages for 32 diagnostics, 17 PYQs and six original Mains models |
-| Advanced dossier | checked | `upsc-ai-kit\knowledge\Philosophy\_advanced\Philosophy-of-Religion-Dossier.md` §4 checked for identity criteria, memory objection, positive/cessation contrast and the *prārabdha* problem |
-| OCR books | checked | `books\philosphy_books\kupdf.com_philosophy-of-religion-by-john-hick.pdf` PDF pp. 131–154; `The Oxford Handbook of Philosophy of Religion.pdf` PDF pp. 378–391; `Chatterjeedatta_introductionToIndianPhilosophy.pdf` relevant Buddhist, Jain, Nyāya and Vedānta pages |
-| PYQs through 2026 | checked | `upsc-ai-kit\knowledge\Philosophy\paper-2\_PYQ-PhilosophyOfReligion-2018-2025.md` and `_PYQ-PhilosophyOfReligion-2026-Supplement.md`; 17 owned historical parts and explicit 2026 zero-owner result verified |
-| Official live sources | not relevant | No time-sensitive official event is needed for this timeless doctrine; Gita Supersite and SEP/SuttaCentral serve as textual or scholarly verification, not as official current-affairs evidence |
+| canonical markdown | checked | Clause-4 canonical owner and relevant permitted Philosophy Markdown supplied all doctrine and school comparisons |
+| final learner package | not relevant | Excluded from this clean-room reconstruction; no text, diagnostic, map, exercise or register was retained from that category |
+| layered/complete session | checked | The four approved benchmark live sessions listed below were used for pedagogic architecture only; no substantive teaching content or prose was imported from them |
+| solved workbook | not relevant | Excluded; every MCQ, explanation and model answer in this edition was newly authored |
+| advanced dossier | not relevant | Optional dossier was unnecessary; Advanced and Expert material was independently bounded from Core authorities |
+| ocr books | not relevant | No OCR book text or page claim was used in this reconstruction |
+| pyqs through 2026 | checked | Verified 2018–2025 bank fixes 17 owned parts; verified 2026 supplement fixes zero primary ownership |
+| official live sources | not relevant | No changing current-affairs proposition was needed or introduced |
 
-## Detailed source use
+## Permitted doctrinal and audit authorities actually used
 
-| Source | Material used | Boundary observed |
-|---|---|---|
-| Canonical Topic 04 Markdown | Full doctrine, parity bench, argument families, bhakti, paths, identity, traps and PYQ ownership | School distinctions control where summaries differ |
-| Exact complete learner PDF | Dependency clues, 16-session depth, 32 diagnostic design, advanced residuals and maps | Only the exact mandated Final-Learning-Packages PDF was used as the learner-session source |
-| Exact solved workbook PDF | Misconceptions, option logic, 17 solved-PYQ demand patterns and six Mains architectures | Solved PYQ answers were not copied into the live file; final PYQs remain approach-only |
-| Layered complete session | Full doctrinal completeness, examples and objection–reply inventory | Visible package scaffolding was removed |
-| Advanced dossier | Substance/psychology/causal continuity, memory, cessation/perfection and jīvanmukti refinements | Advanced points remain subordinate to core teaching |
-| John Hick | Immortality, resurrection, replica and karma/reincarnation discussions | Thought experiments are presented as arguments, not facts |
-| Oxford Handbook | Embodied-person, identity criteria, resurrection and Advaita scholarly depth | Attributed refinements do not replace primary doctrine |
-| Chatterjee–Datta | Buddhist, Jain, Nyāya and Vedānta comparative evidence | Used for standard formulations, not to flatten school differences |
-| *Gītā* live text repository | Verses 2.22, 2.23, 5.4–5, 9.21 and 18.66 checked through the digital-text trail | Images and verses are illustrations or scriptural warrants, not empirical proofs |
-| Two PYQ ledgers | Exact wording, marks, primary ownership and 2026 route audit | No Paper I parallel is double-counted |
+1. `upsc-ai-kit\knowledge\Philosophy\paper-2\philosophy-of-religion\Soul-Immortality-Rebirth.md`
+2. `upsc-ai-kit\knowledge\Philosophy\paper-2\_PYQ-PhilosophyOfReligion-2018-2025.md`
+3. `upsc-ai-kit\knowledge\Philosophy\paper-2\_PYQ-PhilosophyOfReligion-2026-Supplement.md`
+4. `philosophy-coverage\Philosophy-of-Religion.md`, clause 4, R04-01 through R04-37
 
-## Gap audit closed
+## Approved architecture benchmarks actually used
 
-| Gap found in one or more earlier materials | Repair in this edition |
-|---|---|
-| The older layered session began with terms but under-taught general personal identity | Dedicated Lesson 2 separates persistence from evidence and develops branching |
-| Soul arguments could be reduced to Plato alone | Lesson 4 independently grades five further argument families and body–brain pressure |
-| Hindu immortality was sometimes presented as one doctrine | Lesson 7 differentiates essential/adventitious consciousness, real/sublated agency and transmigrating bearer |
-| Buddhist continuity could appear as a slogan | Lesson 6 reconstructs dependent succession, responsibility and unresolved ownership |
-| Liberation tables risked replacing causal explanation | Lesson 9 derives each terminus from its account of bondage |
-| Advaita and Viśiṣṭādvaita were compressed into one comparison | Lessons 10 and 11 independently teach each before comparison |
-| Bhakti detail could obscure the prior means-question | Lesson 12 begins with production, preparation, removal and reception |
-| Resurrection material could float outside the syllabus logic | Lesson 13 integrates it through the personal-identity problem |
-| Necessity conclusions could overclaim | Lesson 14 separates school-relative, conceptual and universal necessity |
-| 2026 absence could be omitted | Final PYQ audit explicitly records zero primary-owned parts and one secondary link |
+1. `live_sessions\Philosophy-of-Religion\01-Notions-of-God\Learning-Session-Live-Edition.md` — checked; architecture only
+2. `live_sessions\Philosophy-Optional\01-Nyaya-Vaisesika\Learning-Session-Live-Edition.md` — checked; architecture only
+3. `live_sessions\Philosophy-Optional\06-Yoga\Learning-Session-Live-Edition.md` — checked; architecture only
+4. `live_sessions\Philosophy-Optional\07-Mimamsa\Learning-Session-Live-Edition.md` — checked; architecture only
 
-## Verification record
+The benchmark files supplied only pedagogic architecture: dependency-led progression, visual-first teaching, bounded tiers, local retrieval, final audit order and register placement. No substantive topic teaching content or prose was imported from them.
 
-- ✅ All four governing authorities were read in full: `instructions\README.md`, `instructions\GENERATION-OPTIMIZATION-AND-INTEGRITY.md`, `instructions\LIVE-SESSION-VALIDATION-AND-RELEASE.md`, and `live_sessions\LIVE-SESSION-GENERATION-RULES.md`.
-- ✅ The two exact mandatory learner PDFs were read across all 151 pages; no alternate learner artifact was used.
-- ✅ All 17 primary-owned 2018–2025 questions were checked against the ledger and semantically mapped.
-- ✅ The 2026 supplement was checked and records no primary-owned Topic 04 question.
-- ✅ Every local and cumulative MCQ was reviewed for one best answer, plausible distractors and option-specific explanations.
-- ✅ Correct options rotate continuously A → B → C → D across all 56 MCQs.
-- ✅ Every lesson includes the exact progress line pattern, pre-teach checklist, visual, full teaching, 8–15 revision points and 2–4 local MCQs.
-- ✅ This topic remains quarantined behind Topic 03: no index, shared instruction, other topic, staging, commit or push is part of this work.
+## Clean-room reconstruction record
+
+- The destination was overwritten from its opening line and rebuilt lesson by lesson.
+- All local, cumulative and remedial MCQs were newly framed; option explanations were generated from newly authored rationales and checked for unique incorrect explanations.
+- The PYQ table was reconstructed directly from the verified bank and linked to the new lessons.
+- The Mains questions and model answers are original to this revision.
+- The master maps and consolidated registers were written after the new Core was complete, not copied forward from the displaced edition.
+- Consolidated register notes remain the final learner-facing section; only the coverage and source audits follow.
+
+## Tier certification
+
+- **Core:** owns all syllabus content, R04-01–R04-37 and all 17 verified 2018–2025 parts.
+- **Advanced:** limited to constitution/evidence, explanatory economy and translation discipline; no owned answer depends on it.
+- **Expert:** limited to the one-to-one identity discriminator for branching replica cases, with explicit use and stop rules.
+
+## Verification rule
+
+Mechanical validation checks structure, numbering, rotation, explanations, source manifest and scoped whitespace. Semantic certification additionally requires the full-file reread, the 37-row demand audit, the 17-PYQ audit and confirmation that the repository diff touches only the assigned destination for this task.
