@@ -300,6 +300,7 @@
 | Polity | Topic 55 - Constitutional Interpretation Doctrines | 10 | 20,043 | `aaa38da764c2` | [Polity/55-Constitutional-Interpretation-Doctrines/Learning-Session-Live-Edition.md](Polity/55-Constitutional-Interpretation-Doctrines/Learning-Session-Live-Edition.md) |
 | Qualifying English | Subject-Wide Compulsory English Skills | 10 | 9,796 | `ba37e5531f0e` | [Qualifying-English/Subject-Wide-Compulsory-English-Skills/Learning-Session-Live-Edition.md](Qualifying-English/Subject-Wide-Compulsory-English-Skills/Learning-Session-Live-Edition.md) |
 | Qualifying Hindi | Subject-Wide Compulsory Hindi Skills | 16 | 9,799 | `f9872ff82c0d` | [Qualifying-Hindi/Subject-Wide-Compulsory-Hindi-Skills/Learning-Session-Live-Edition.md](Qualifying-Hindi/Subject-Wide-Compulsory-Hindi-Skills/Learning-Session-Live-Edition.md) |
+| Geography | Topic 25 - Arctic or Polar Climate / India Cold Desert and Poles | 14 | 14,622 | `62882995b5ca` | [Geography/25-Arctic-Polar-Climate-India-Cold-Desert-and-Poles/Learning-Session-Live-Edition.md](Geography/25-Arctic-Polar-Climate-India-Cold-Desert-and-Poles/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
