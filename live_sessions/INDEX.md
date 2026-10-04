@@ -312,6 +312,7 @@
 | Geography | Topic 34 - World Regional Geography: Continents and Countries | 15 | 11,346 | `831de76f1b78` | [Geography/34-World-Regional-Geography-Continents-and-Countries/Learning-Session-Live-Edition.md](Geography/34-World-Regional-Geography-Continents-and-Countries/Learning-Session-Live-Edition.md) |
 | Geography | Topic 35 - Indian Political Geography: Boundaries and Neighbours | 16 | 16,668 | `1f2765c63e20` | [Geography/35-Indian-Political-Geography-Boundaries-and-Neighbours/Learning-Session-Live-Edition.md](Geography/35-Indian-Political-Geography-Boundaries-and-Neighbours/Learning-Session-Live-Edition.md) |
 | Geography | Topic 36 - Contemporary Geographical Issues (India) | 17 | 12,312 | `02297d478a67` | [Geography/36-Contemporary-Geographical-Issues-India/Learning-Session-Live-Edition.md](Geography/36-Contemporary-Geographical-Issues-India/Learning-Session-Live-Edition.md) |
+| Geography | Topic 37 - Cultural and Social Geography of India | 15 | 14,932 | `499066a2282f` | [Geography/37-Cultural-and-Social-Geography-of-India/Learning-Session-Live-Edition.md](Geography/37-Cultural-and-Social-Geography-of-India/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
