@@ -51,6 +51,9 @@ Specialist debate for discriminating use only
 | Must-Needed | Core | 10 | God–world–person master matrix, immanence/transcendence and physical manifestation |
 | Must-Needed | Core | 11 | Personal and impersonal ultimacy in the context of devotion |
 | Must-Needed | Core synthesis | 12 | Comparative judgement, directive decoding and complete PYQ readiness |
+| Optional Advanced | Enrichment | A1 | Perfect-being theology and apophatic reserve |
+| Optional Advanced | Enrichment | A2 | Four strategies for repairing pressure within the divine-attribute package |
+| Optional Advanced | Answer use | A3 | Selective deployment without replacing Core exposition |
 
 The order is deliberate. A learner first acquires the conceptual grammar, then studies models and
 attributes, then meets the named systems, and only afterward attempts cross-system judgement. Lessons
@@ -2384,6 +2387,217 @@ using optional material. You should be able to:
 Optional Advanced and bounded Expert material must be added only after this complete Core architecture
 is secure.
 
+# OPTIONAL ADVANCED DEPTH — NOT REQUIRED FOR A CORE ANSWER
+
+> **Entry condition:** Use this section only after you can reproduce the Must-Needed completion
+> checkpoint without assistance. These refinements sharpen evaluation; they do not replace any Core
+> definition, doctrine, argument or PYQ route.
+
+## Visual: how Advanced material should enter an answer
+
+```text
+CORE DOCTRINE
+state the model accurately
+       |
+       v
+CORE PRESSURE
+show the strongest objection
+       |
+       v
+ONE ADVANCED REFINEMENT
+identify how a defender revises or qualifies the model
+       |
+       v
+STATE THE PRICE
+what is saved, and what becomes weaker?
+       |
+       v
+RETURN TO THE QUESTION
+do not turn the answer into a specialist literature survey
+```
+
+*Advanced material earns marks only when it clarifies the exact dispute and its philosophical cost.*
+
+## A1. Perfect-being theology and apophatic reserve
+
+### The learner’s puzzle
+
+If God is defined as maximally powerful, knowing and good, why not simply increase every familiar
+human excellence without limit? The difficulty is that maxima can conflict. Unlimited power,
+exhaustive foreknowledge, timeless immutability and responsive love may not be jointly straightforward.
+
+### Two advanced orientations
+
+| Orientation | Central move | Gain | Pressure |
+|---|---|---|---|
+| **Perfect-being theology** | God possesses every compossible perfection to the maximal degree | supplies a disciplined test for divine attributes | must show that the proposed perfections can coexist |
+| **Apophatic reserve** | creaturely concepts apply only after finite limitations are denied | restrains anthropomorphic projection | may leave too little positive content for worship and argument |
+
+**Compossibility** means the possibility of being jointly instantiated. The advanced question is not
+merely whether power, knowledge or goodness is individually intelligible, but whether their strongest
+formulations can belong to one being together.
+
+```text
+MAXIMAL POWER
+      +
+EXHAUSTIVE KNOWLEDGE
+      +
+IMMUTABLE PERFECTION
+      +
+RESPONSIVE PERSONAL LOVE
+      |
+      v
+Are these jointly compossible without revision?
+```
+
+**Strong objection:** Perfect-being language may merely stipulate a greatest conceivable package and
+then redefine any contradiction away.
+
+**Reply:** A serious perfect-being account does not retain every naive formulation. It distinguishes
+genuine perfection from defect, restricts power to coherent possibilities and treats divine
+predicates non-anthropomorphically.
+
+**Residual:** Each restriction improves coherence but may narrow what ordinary religious language
+initially appeared to promise. The strongest evaluation names that narrowing instead of pretending
+the repair is cost-free.
+
+### Indian comparison used carefully
+
+Advaita and Viśiṣṭādvaita expose a parallel disagreement without becoming duplicates of the Western
+debate:
+
+- Advaita protects ultimacy by denying that limiting predicates exhaust Brahman.
+- Rāmānuja argues that a wholly indeterminate Absolute cannot ground knowledge, worship or devotion.
+- The comparison is useful because both ask whether perfection is better protected through
+  transcendence of qualities or through an infinitely qualified personal unity.
+
+⚠️ **Limit:** Do not call Advaita simply “apophatic perfect-being theology.” Its non-dual metaphysics
+and standpoint distinction differ from the classical creator framework.
+
+## A2. Four repair strategies inside the attribute debate
+
+When a classical attribute faces pressure, defenders can make four different moves. These moves
+should not be blended as if they were one solution.
+
+| Strategy | What changes? | Example | What it saves | Price paid |
+|---|---|---|---|---|
+| **Restrict the object** | clarify what the attribute ranges over | omnipotence covers every logically possible state, not contradictions | coherent maximal power | abandons unrestricted verbal formulations |
+| **Relocate the standpoint** | deny that God occupies creaturely time or perspective | Boethian eternity removes literal foreknowledge | exhaustive divine knowledge | temporal response becomes harder to explain |
+| **Revise the truth-condition** | treat future free acts as genuinely open | open theism says God knows an open future as open | libertarian alternatives and responsiveness | revises classical exhaustive settled-future knowledge |
+| **Relationalise perfection** | make responsiveness rather than immunity from relation central | process or panentheist models emphasise persuasion, solidarity and co-suffering | strong immanence and religious responsiveness | revises immutability, impassibility or coercive omnipotence |
+
+### Why this table matters
+
+A weak answer lists replies. A stronger answer identifies what each reply denies:
+
+```text
+PARADOX
+  |
+  +--> Is the alleged task coherent?             [restrict object]
+  |
+  +--> Is divine knowledge really earlier?       [relocate standpoint]
+  |
+  +--> Is the future already one settled truth?  [revise truth-condition]
+  |
+  +--> Is changelessness the right perfection?   [relationalise perfection]
+```
+
+The moves are not cumulative by default. Open theism and timeless eternity, for example, offer
+different pictures of divine knowledge and should not be presented as one combined doctrine.
+
+### Objection, reply and residual
+
+**Objection:** Revisionary models save religious responsiveness only by abandoning the God described
+by classical theism.
+
+**Reply:** Defenders argue that a concept of perfection should be corrected when it becomes internally
+incoherent or religiously inadequate; revision may preserve the underlying aim better than literal
+retention.
+
+**Residual:** The disagreement then shifts to identity conditions: how much alteration can a
+God-concept undergo before it becomes a different notion rather than a repaired version of the same
+one?
+
+## A3. Selective UPSC deployment
+
+| Question family | Safe Advanced move | Do not do this |
+|---|---|---|
+| Divine attributes | Add compossibility after defining the attribute package | begin with analytic-theology terminology before explaining the attributes |
+| Omniscience and freedom | Contrast one classical reply with open theism and state the revision cost | list Boethius, Ockham, Molina and open theism without identifying disputed premises |
+| Immanence and transcendence | Use process/panentheist relationality as one contrast to immutable classical theism | replace the syllabus-centred classical-theist account with process vocabulary |
+| Personal and impersonal God | Use apophatic reserve to explain why “personal” may be valid but non-exhaustive | claim that all traditions teach one transpersonal synthesis |
+| Advaita and Rāmānuja | Show that the dispute concerns whether determination limits or constitutes perfection | turn the answer into a general Vedānta essay |
+
+### Advanced answer lines
+
+Use these as reasoning patterns, not memorised quotations:
+
+- ⚠️ **Attribute coherence:** “The decisive issue is compossibility: a repair that saves one
+  perfection may weaken another.”
+- ⚠️ **Open future:** “Open theism preserves libertarian freedom by revising what exhaustive
+  knowledge of future contingents requires; its gain is responsiveness, its cost is departure from
+  the classical settled-future package.”
+- ⚠️ **Relational perfection:** “Process and panentheist models treat perfect responsiveness as a
+  strength rather than a threat, but they purchase it by revising immutability and unilateral power.”
+- ⚠️ **Indian comparison:** “Advaita protects ultimacy through the transcendence of limiting
+  predicates, whereas Rāmānuja treats real qualification and personality as conditions of a concrete,
+  worship-worthy Absolute.”
+
+## Advanced traps
+
+- ❌ More technical vocabulary automatically produces a better answer.
+  ✅ One well-integrated refinement is stronger than an unexplained scholar list.
+- ❌ Open theism is simply ignorance attributed to God.
+  ✅ Its defence is that an undetermined future is correctly known as undetermined.
+- ❌ Process thought is ordinary classical theism with stronger immanence.
+  ✅ It revises major classical attributes and must be identified as a different package.
+- ❌ Apophatic reserve means that nothing meaningful can be said.
+  ✅ It denies unqualified creaturely projection while retaining disciplined, often analogical claims.
+- ❌ Advanced material can compensate for weak Core exposition.
+  ✅ It has value only after the named doctrine and the exact question demand are secure.
+
+## Advanced retrieval checks
+
+### Check 1
+
+**Question:** Why is “God has every perfection maximally” not yet a complete account?
+
+**Model answer:** The formula must still establish which properties count as genuine perfections and
+whether their maximal forms are compossible. Power, foreknowledge, immutability and responsiveness can
+create mutual pressures, so maximality requires argument rather than stipulation.
+
+### Check 2
+
+**Question:** What exactly does open theism revise?
+
+**Model answer:** It revises the classical assumption that every future free act is already a settled
+truth available to exhaustive foreknowledge. God knows all reality correctly, but some future
+possibilities remain genuinely open.
+
+### Check 3
+
+**Question:** Why should process or panentheist material remain optional here?
+
+**Model answer:** The syllabus and verified PYQs can be answered through the complete Core treatment
+of classical theism, immanence, transcendence and attribute criticism. Process or panentheist
+relationality is useful only as a selective contrast that clarifies the cost of revising classical
+immutability and power.
+
+## Advanced revision notes
+
+1. Advanced material follows, and never replaces, complete Core exposition.
+2. Perfect-being theology asks which perfections are maximal and jointly compossible.
+3. Apophatic reserve limits creaturely projection without necessarily eliminating positive content.
+4. Restricting an attribute’s object differs from revising the attribute itself.
+5. Timeless eternity relocates divine knowledge outside succession.
+6. Open theism revises the settled-future assumption.
+7. Process and panentheist models make relational responsiveness central to perfection.
+8. Every repair preserves one value while paying a conceptual price.
+9. Advaita and Rāmānuja offer a useful but non-identical Indian comparison.
+10. One precise Advanced move is normally enough for a 15-marker.
+11. A 20-marker may use two refinements only when both serve the same evaluative axis.
+12. The answer must return to the printed directive after the refinement.
+
 # VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
 
 > **Boundary:** The following are exact verified question wordings with demand and approach only.
@@ -2971,6 +3185,7 @@ Does "manifestation" mean a finite body?
 | Physical manifestation | Lesson 10 | 2024 Q8(b), MCQs 29–30, 43 |
 | Anthropomorphism, analogy and gender caution | Lessons 1, 3, 11 | MCQs 3, 9 |
 | Criticisms, replies and residuals | Every lesson | local MCQs and final models |
+| Optional Advanced enrichment | A1–A3 after the Core checkpoint | three retrieval checks and selective answer-use table |
 | All 15 owned PYQs through 2026 | Local lessons and verified index | exact wording/demand/approach only |
 | 10/15/20-mark original solved practice | Final Mains section | three complete model answers |
 | Cumulative and remedial practice | Final MCQ and remediation sections | MCQs 37–52 |
