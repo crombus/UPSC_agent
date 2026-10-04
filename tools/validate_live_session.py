@@ -37,6 +37,29 @@ CONCEPT_CHECK_FINAL_ARC = [
     "COVERAGE MATRIX",
     "SOURCE LEDGER",
 ]
+LANGUAGE_FINAL_ARCS = {
+    "Qualifying-English": [
+        "VERIFIED PYQ LINKAGE AND ANSWER APPROACHES",
+        "CUMULATIVE SKILL DRILLS WITH SOLUTIONS AND RUBRICS",
+        "TIMED-PAPER STRATEGY",
+        "ORIGINAL FULL-PAPER SIMULATION BLUEPRINT",
+        "REMEDIATION",
+        "MASTER SKILL MAPS",
+        "COMPLETE CONSOLIDATED REGISTER NOTES",
+        "COVERAGE MATRIX",
+        "SOURCE LEDGER",
+    ],
+    "Qualifying-Hindi": [
+        "विषय-व्यापी निदान और held-paper मांग-संबंध",
+        "समेकित कौशल-अभ्यास, समाधान और rubrics",
+        "समयबद्ध रणनीति और मौलिक पूर्ण-पत्र रूपरेखाएँ",
+        "त्रुटि-सुधार और पुनर्परीक्षण",
+        "समेकित भाषा-कौशल मानचित्र",
+        "संपूर्ण समेकित पुनरावृत्ति-पंजी",
+        "कवरेज मैट्रिक्स",
+        "स्रोत-लेजर और आठ-पंक्ति manifest",
+    ],
+}
 PROHIBITED_PATTERNS = [
     r"This option claims that",
     r"That conflicts with the distinction tested here",
@@ -229,6 +252,118 @@ def run_git_diff_check(path: Path) -> str:
     return status.stdout.strip()
 
 
+def language_profile(path: Path) -> str | None:
+    for profile in LANGUAGE_FINAL_ARCS:
+        if profile in path.parts:
+            return profile
+    return None
+
+
+def parse_hindi_source_manifest(raw: str) -> dict[str, str]:
+    match = re.search(
+        r"(?ms)^## आठ-पंक्ति स्रोत-manifest\s*$\n(?P<body>.*?)(?=^#{1,2} |\Z)",
+        raw,
+    )
+    if not match:
+        fail("missing required Hindi eight-row source manifest")
+
+    rows: dict[str, str] = {}
+    for line in match.group("body").splitlines():
+        if not line.lstrip().startswith("|"):
+            continue
+        cells = [cell.strip() for cell in line.strip().strip("|").split("|")]
+        if len(cells) < 3 or cells[0] in {"Source", "---"}:
+            continue
+        if cells[1].lower() != "checked":
+            fail(f"Hindi source manifest row is not checked: {cells[0]}")
+        if len(cells[2]) < 8:
+            fail(f"Hindi source manifest evidence is too short: {cells[0]}")
+        rows[cells[0]] = cells[1].lower()
+    if len(rows) != 8:
+        fail(f"Hindi source manifest must contain exactly eight rows, found {len(rows)}")
+    return rows
+
+
+def validate_language_session(
+    path: Path, data: bytes, raw: str, profile: str
+) -> ValidationResult:
+    expected_final_arc = LANGUAGE_FINAL_ARCS[profile]
+    final_marker = f"# {expected_final_arc[0]}"
+    final_start = raw.find(final_marker)
+    if final_start < 0:
+        fail(f"missing first required {profile} final H1 heading")
+
+    lesson_region = raw[:final_start]
+    lesson_matches = list(re.finditer(r"(?m)^## Lesson (\d+)\b", lesson_region))
+    if not lesson_matches:
+        fail("no `## Lesson N` headings found")
+    lesson_numbers = [int(match.group(1)) for match in lesson_matches]
+    if lesson_numbers != list(range(1, len(lesson_matches) + 1)):
+        fail(f"lesson numbering is not continuous: {lesson_numbers}")
+
+    lesson_counts: list[int] = []
+    for index, lesson in enumerate(lesson_matches):
+        end = (
+            lesson_matches[index + 1].start()
+            if index + 1 < len(lesson_matches)
+            else len(lesson_region)
+        )
+        chunk = lesson_region[lesson.start() : end]
+        if "```" not in chunk and not re.search(r"(?m)^\|.+\|$", chunk):
+            fail(f"Lesson {index + 1} lacks a visual block")
+        if profile == "Qualifying-English":
+            lesson_counts.append(validate_concept_check_chunk(chunk, index + 1))
+            if "**Remediation:**" not in chunk:
+                fail(f"Lesson {index + 1} lacks an English remediation note")
+        else:
+            if "पुनरावृत्ति सूची" not in chunk:
+                fail(f"Lesson {index + 1} lacks a Hindi revision checklist")
+            if not re.search(r"(?m)^### मौलिक \S.+$", chunk):
+                fail(f"Lesson {index + 1} lacks an original Hindi application check")
+            lesson_counts.append(1)
+
+    h1_headings = re.findall(r"(?m)^# (.+)$", raw)
+    if h1_headings[-len(expected_final_arc) :] != expected_final_arc:
+        fail(f"{profile} final H1 arc does not exactly match the required order")
+    if QUESTION_LABEL_PATTERN.search(raw) or LEGACY_KEYED_LABEL_PATTERN.search(raw):
+        fail("qualifying-language sessions must not contain a compiled MCQ corpus")
+    if profile == "Qualifying-Hindi" and re.search(
+        r"(?m)^# (?:VERIFIED PYQ|ORIGINAL 10-, 15- AND 20-MARK)", raw
+    ):
+        fail("Hindi session contains fake GS validator headings")
+
+    prohibited = [
+        pattern
+        for pattern in PROHIBITED_PATTERNS
+        if re.search(pattern, raw, flags=re.IGNORECASE)
+    ]
+    if prohibited:
+        fail(f"prohibited wording found: {prohibited}")
+    if raw.count("```") % 2:
+        fail("unbalanced fenced code blocks")
+
+    source_manifest = (
+        parse_source_manifest(raw, allow_missing=False)
+        if profile == "Qualifying-English"
+        else parse_hindi_source_manifest(raw)
+    )
+    git_status = run_git_diff_check(path)
+    return ValidationResult(
+        path=path.relative_to(ROOT).as_posix(),
+        lessons=len(lesson_matches),
+        lesson_counts=lesson_counts,
+        mcqs=0,
+        explanations=0,
+        incorrect_explanations=0,
+        unique_incorrect_explanations=0,
+        words=len(re.findall(r"\S+", raw)),
+        lines=len(raw.splitlines()),
+        sha256=hashlib.sha256(data).hexdigest(),
+        source_manifest=source_manifest,
+        git_status=git_status,
+    )
+
+
 def validate(
     path: Path,
     allow_missing_source_manifest: bool = False,
@@ -253,6 +388,10 @@ def validate(
     ]
     if trailing:
         fail(f"trailing whitespace on lines: {trailing[:10]}")
+
+    profile = language_profile(path)
+    if profile:
+        return validate_language_session(path, data, raw, profile)
 
     final_start = raw.find("# VERIFIED PYQ LINKAGE AND ANSWER APPROACHES")
     if final_start < 0:
