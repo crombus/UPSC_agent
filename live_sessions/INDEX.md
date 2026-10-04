@@ -307,6 +307,7 @@
 | Geography | Topic 29 - Regional Development and Five-Year Plans | 14 | 8,211 | `ab2b744d735a` | [Geography/29-Regional-Development-and-Five-Year-Plans/Learning-Session-Live-Edition.md](Geography/29-Regional-Development-and-Five-Year-Plans/Learning-Session-Live-Edition.md) |
 | Geography | Topic 30 - Primary Economic Activities: Agriculture | 15 | 15,884 | `4e0ad052ae03` | [Geography/30-Primary-Economic-Activities-Agriculture/Learning-Session-Live-Edition.md](Geography/30-Primary-Economic-Activities-Agriculture/Learning-Session-Live-Edition.md) |
 | Geography | Topic 31 - Mineral and Energy Resources: World and India | 15 | 14,073 | `5161bc13f419` | [Geography/31-Mineral-and-Energy-Resources-World-and-India/Learning-Session-Live-Edition.md](Geography/31-Mineral-and-Energy-Resources-World-and-India/Learning-Session-Live-Edition.md) |
+| Geography | Topic 32 - Industries and Industrial Regions | 14 | 9,886 | `0a62a4dce3a5` | [Geography/32-Industries-and-Industrial-Regions/Learning-Session-Live-Edition.md](Geography/32-Industries-and-Industrial-Regions/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
