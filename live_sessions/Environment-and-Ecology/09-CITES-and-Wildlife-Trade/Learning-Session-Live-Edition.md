@@ -14,7 +14,7 @@ When wildlife crosses a border, which decision belongs to the treaty, which to t
 | 6 | Advanced | Why does listing not end trafficking? | Detection, case evidence, limits of enforcement |
 | 7 | Advanced | Can legal use and conservation coexist? | Data limits, livelihoods, marine edge cases |
 
-The pathway is **scope → classification → decision chain → collective decisions → Indian law → illegal trade → qualified evaluation**. Allow about seven focused study blocks; each ends with a concept check and a separate Mains application. An Appendix is neither an IUCN Red List category nor an Indian Wildlife (Protection) Act protection rank.
+The pathway is **scope → classification → decision chain → collective decisions → Indian law → illegal trade → qualified evaluation**. Allow about seven focused study blocks; each ends with a concept check and a separate Mains application. An Appendix is neither an IUCN Red List category nor an Indian Wild Life (Protection) Act protection rank.
 
 ## First objective attempt — before the explanation
 
@@ -64,6 +64,8 @@ The pathway is **scope → classification → decision chain → collective deci
 >
 > (d) Statement-I is incorrect, but Statement-II is correct
 
+**Official-key control:** The official 2024 Set A key marks question 20 **X (dropped)**. No substitute answer is inferred here.
+
 **Attempt first:** Record your choices and separate reasons before proceeding. These questions test Indian law at their respective dates, with the 2024 item adding a separate biological proposition; none asks for the CITES Appendix assigned to an exported specimen.
 
 ## Lesson 1 — The border is the treaty's boundary
@@ -72,7 +74,7 @@ Progress: 1 / 7 | Stage: Foundation | Subtopic: Treaty purpose and jurisdiction
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 📚 Book context: No focused textbook treatment of the treaty's trade boundary was available; begin with the border-versus-habitat distinction.
-🔍 CA Search: "site:cites.org CITES wildlife trade conservation July August September 2026"
+🔍 CA Search: "site:cites.org CITES wildlife trade conservation April–October 2026"
 📰 CA Found: No separate jurisdiction-specific development in the last six months.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -100,7 +102,7 @@ The operative question is *whether international trade threatens survival*, not 
 |---|---|---|
 | CITES Appendix | How must international trade in a listed taxon be controlled? | That all domestic activities are prohibited |
 | IUCN Red List | What is the assessed extinction risk under scientific criteria? | That its category automatically determines a treaty Appendix |
-| Indian Wildlife (Protection) Act (WLPA) | What domestic protection and scheduled-specimen rules apply in India? | That its numbered Schedule equals a CITES Appendix of the same number |
+| Indian Wild Life (Protection) Act (WLPA) | What domestic protection and scheduled-specimen rules apply in India? | That its numbered Schedule equals a CITES Appendix of the same number |
 
 The instruments differ because they perform different tasks: an assessment classifies conservation risk, a treaty governs cross-border transactions, and a statute creates enforceable domestic duties. ✅ A scheduled Indian animal can have both domestic protection and CITES trade controls; the two layers are not identical. ⚠️ **Objection:** If trade finances poaching, why say CITES cannot affect domestic poaching? **Reply:** Strong border controls can reduce incentives *indirectly*. Their treaty jurisdiction still does not extend to a purely internal hunt or land-use approval; domestic legislation remains indispensable. The remaining difficulty is unobserved trade and local demand.
 
@@ -136,7 +138,7 @@ Progress: 2 / 7 | Stage: Foundation | Subtopic: CITES Appendices I, II and III
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 📚 Book context: No focused textbook account of Appendix-specific paperwork was available; use the three-gate comparison below.
-🔍 CA Search: "site:cites.org CITES Appendices permit rules"
+🔍 CA Search: "site:cites.org CITES Appendices permit rules April–October 2026"
 📰 CA Found: No separate current-affairs item is used here; this lesson follows the Convention text and the Appendices valid from 5 March 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -173,11 +175,33 @@ The Convention's definitions prevent several common mistakes:
 
 This vocabulary matters. A zoo loan can be “trade” even without a sale; a processed derivative can be a specimen; and a high-seas movement is not automatically an export from a coastal State.
 
-First picture **Appendix I**: a species already threatened with extinction faces the treaty's strictest ordinary trade control. ✅ Import-state Scientific Authority must find that import is not detrimental, its Management Authority must be satisfied that it is not for primarily commercial purposes, and export must clear the exporting country's scientific and legal gates. “Generally prohibited commercial trade” is a safe shorthand; “absolutely no trade ever” is not. An exceptional research movement still needs the applicable documents. Do not assume every specimen, source code or special exemption follows identical paperwork.
+### Articles III–V: the transaction decides the complete gate
+
+| Appendix and movement | Treaty document | Findings and conditions that cannot be skipped |
+|---|---|---|
+| **I — export** | Prior export permit | Exporting Scientific Authority NDF; exporting Management Authority lawful-acquisition satisfaction and humane preparation/shipment of a living specimen; destination import permit already granted |
+| **I — import** | Prior import permit **and** export permit or re-export certificate | Importing Scientific Authority finds the purpose non-detrimental and the proposed recipient of a living specimen suitably equipped; importing Management Authority is satisfied that use is not primarily commercial |
+| **I — re-export** | Prior re-export certificate | Re-exporting Management Authority is satisfied that prior import complied with CITES and that a living specimen will be shipped humanely; a destination import permit is required for a living specimen |
+| **I — introduction from the sea** | Prior certificate from the State of introduction | Scientific Authority non-detriment advice; Management Authority satisfaction on recipient care for a living specimen and no primarily commercial use |
+| **II — export** | Prior export permit | Exporting Scientific Authority NDF; Management Authority lawful-acquisition satisfaction and humane preparation/shipment of a living specimen; Scientific Authority also monitors permits and actual exports and advises limits where needed |
+| **II — import** | Presentation of export permit or re-export certificate | CITES does **not generally require a separate Appendix II import permit;** the importing State may impose stricter domestic requirements |
+| **II — re-export** | Prior re-export certificate | Management Authority confirms prior CITES-compliant import and humane preparation/shipment of any living specimen |
+| **II — introduction from the sea** | Prior certificate from the State of introduction | Scientific Authority NDF advice and Management Authority satisfaction on humane handling of a living specimen; Article IV permits appropriately supported certificates covering total numbers for periods not exceeding one year |
+| **III — export/import/re-export** | Listing-State export permit; other-origin certificate of origin; re-export certificate as applicable | A listing-State export permit requires lawful-acquisition satisfaction and humane preparation/shipment of a living specimen; import requires origin evidence and, when from the listing State, its export permit; Article V has no parallel introduction-from-the-sea certificate clause |
+
+*The same taxon can therefore face a different document and a different decision-maker when the movement changes.*
+
+First picture **Appendix I**: a species already threatened with extinction faces the treaty's strictest ordinary trade control. “Generally prohibited commercial trade” is a safe shorthand; “absolutely no trade ever” is not. An exceptional research movement still needs the applicable documents. Do not assume every specimen, source code or special exemption follows identical paperwork.
 
 Now **Appendix II**: perhaps a plant is not threatened at present, but unchecked trade could change that. ✅ The exporting Scientific Authority advises that the export will not harm survival; the Management Authority checks lawful acquisition and issues an export permit. ⚠️ More permissible trade means an especially important data-and-monitoring burden, not absence of protection. A review of significant trade examines whether Appendix II control remains biologically defensible; review alone does not transform a taxon into Appendix I.
 
 Finally **Appendix III**: a Party already protecting a species seeks cooperation from the rest. A shipment **from that listing Party** needs its export permit; one from another country normally needs a certificate of origin. This is why “every Appendix III export requires only a certificate of origin” is false. Re-export is a distinct pathway. Different documentary gates reflect the distinct source of the listing, not a simple assertion that all Appendix III animals are biologically “safe.”
+
+### An annotation is part of the listing, not a footnote to ignore
+
+The Appendix answers the broad control level; an **annotation** can identify which populations, parts, derivatives or product forms are covered. In the Appendices valid from **5 March 2026**, Red Sanders (*Pterocarpus santalinus*) is in Appendix II with annotation **#7: “Logs, woodchips, powder and extracts.”** That text does not authorise a trader to infer the treatment of an unlisted product form from the common name alone. Population qualifications work similarly: a species entry may place only named populations in a particular Appendix. Always read **taxon + population + annotation + effective date** together.
+
+Article **XIV** preserves a Party's right to adopt stricter domestic measures governing or prohibiting trade, taking, possession or transport. CITES is therefore a minimum international trade framework, not a ceiling that overrides a stricter Indian prohibition.
 
 ### Article VII: exemptions are conditional routes, not a free-trade exception
 
@@ -192,13 +216,13 @@ Article VII creates defined exceptions and substitutions:
 
 > **Integrity rule:** First identify the ordinary Appendix transaction; then prove the exact Article VII route. “Captive-bred”, “personal baggage” or “in transit” is not a self-certifying label.
 
-**India-centred examples:** Red Sanders illustrates Appendix II timber regulation. The Indian star tortoise is also trafficked as a small live animal; **pangolin scales** illustrate how a traded derivative can be less easily identified than a live animal. These are different products and identification problems, not evidence that the three species share one Appendix. A consignment labelled “wood” still requires reliable taxon identification; neither a colour nor a common name alone proves the listed species or applicable product annotation. ✅ Plants belong in CITES just as animals do.
+**India-centred examples:** Red Sanders illustrates Appendix II timber regulation under the exact #7 product annotation. The Indian star tortoise is also trafficked as a small live animal; **pangolin scales** illustrate how a traded derivative can be less easily identified than a live animal. These are different products and identification problems, not evidence that the three species share one Appendix. A consignment labelled “wood” still requires reliable taxon identification; neither a colour nor a common name alone proves the listed species or applicable product annotation. ✅ Plants belong in CITES just as animals do.
 
 ⚠️ **Objection:** Wouldn't Appendix I for everything be safer? **Reply:** Appendix II can allow evidenced sustainable trade and local stewardship, while restricting it where science cannot support export; Appendix I is reserved for its listing criteria and does not solve local habitat destruction. Residual uncertainty remains where populations are poorly measured.
 
 **UPSC use:** Start with the Appendix's reason, then its applicable transaction documents. **Trap:** equating Appendix II with IUCN “Endangered”, or treating Appendix III as a CoP-created mini-Appendix II. **Mini recap:** I is exceptionally restricted; II is scientifically gated export; III is unilateral cooperative control. The gate requires people who evaluate it: next, follow the permit.
 
-**Revision notes:** Article I trade includes export, re-export, import and introduction from the sea; re-export means export after prior import; specimens include covered parts and derivatives; Appendix I import and export gates; primarily-commercial test; Appendix II lawful acquisition + NDF + export permit; Appendix II import permit not a universal treaty requirement; Appendix III listing-state export permit versus other-state origin certificate; Article VII exemptions are conditional; pre-Convention and captive-bred claims require the prescribed certificate route; registered scientific exchange and travelling exhibitions have distinct safeguards; check annotations and effective date.
+**Revision notes:** Article I trade includes export, re-export, import and introduction from the sea; re-export means export after prior import; specimens include covered parts and derivatives; Appendix I export/import/re-export/introduction-from-sea conditions differ; live-specimen transport and recipient care are independent safeguards; Appendix II lawful acquisition + NDF + export permit and monitoring; Appendix II import permit is not a universal treaty requirement; Appendix III listing-state export permit versus other-state origin certificate; Article VII exemptions are conditional; Article XIV permits stricter domestic measures; Red Sanders #7 = logs, woodchips, powder and extracts; read population qualification, annotation and effective date together.
 
 ### Concept check
 
@@ -216,7 +240,7 @@ Article VII creates defined exceptions and substitutions:
 
 <details><summary>Worked Mains reveal — open after drafting</summary>
 
-**Model (approximately 184 words):** CITES grades international-trade controls by the reason for listing. Appendix I covers species threatened with extinction: ordinary import and export are strictly conditioned, and the importing Management Authority must be satisfied that the intended use is not primarily commercial. Thus “no commercial trade” is a useful rule of thumb, not an absolute claim that every movement is forbidden. Appendix II covers species whose trade needs control to prevent danger, and some species listed to make controls effective. Its export permit depends on lawful acquisition and the exporting Scientific Authority's non-detriment advice; CITES does not generally impose an Appendix II import permit, although India or another Party may add stricter rules. Appendix III differs in origin: a Party already protecting a taxon asks others to help. Exports from the listing Party use its export permit, whereas other origins ordinarily provide a certificate of origin; a re-export is different again. Red Sanders illustrates the need to identify a listed Indian timber precisely before treating trade paperwork as sufficient. In each category, the listing constrains a cross-border transaction rather than directly policing domestic habitat or classifying IUCN extinction risk. Sound science and customs identification make the legal categories operational.
+**Model (approximately 196 words):** CITES grades international-trade controls by the reason for listing. Appendix I covers species threatened with extinction: ordinary import and export are strictly conditioned, and the importing Management Authority must be satisfied that the intended use is not primarily commercial. Thus “no commercial trade” is a useful rule of thumb, not an absolute claim that every movement is forbidden. Appendix II covers species whose trade needs control to prevent danger, and some species listed to make controls effective. Its export permit depends on lawful acquisition and the exporting Scientific Authority's non-detriment advice; CITES does not generally impose an Appendix II import permit, although India or another Party may add stricter rules. Appendix III differs in origin: a Party already protecting a taxon asks others to help. Exports from the listing Party use its export permit, whereas other origins ordinarily provide a certificate of origin; a re-export is different again. Red Sanders illustrates the need to identify a listed Indian timber precisely before treating trade paperwork as sufficient. In each category, the listing constrains a cross-border transaction rather than directly policing domestic habitat or classifying IUCN extinction risk. Sound science and customs identification make the legal categories operational.
 
 **Scoring (15):** three correct rationales 4; I/II documents 4; listing-state versus other-origin III 3; qualified Indian example 2; scope and limit 2. Avoid rewarding a single universal permit assertion.
 
@@ -228,7 +252,7 @@ Progress: 3 / 7 | Stage: Core | Subtopic: Scientific and Management Authorities,
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 📚 Book context: No transaction-level textbook treatment of NDF and permit issuance was available; follow the two-authority decision chain.
-🔍 CA Search: "site:cites.org 31 July 2026 Plants Committee NDF timber identification traceability"
+🔍 CA Search: "site:cites.org CITES NDF timber identification traceability April–October 2026"
 📰 CA Found: **31 July 2026**, the CITES Plants Committee's 28th meeting (**PC28**) reported work on NDFs, timber identification and traceability; **not** a new Indian permit or Appendix listing.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -304,7 +328,7 @@ Progress: 4 / 7 | Stage: Core | Subtopic: CoP amendments, unilateral listings an
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 📚 Book context: No focused textbook treatment of listing votes or reservations was available; follow the treaty-decision sequence.
-🔍 CA Search: "site:cites.org CoP20 amendments Appendices effective 5 March 2026"
+🔍 CA Search: "site:cites.org CoP20 amendments Appendices effective 5 March 2026 April–October 2026"
 📰 CA Found: No additional current-affairs anchor is used; the operative status is established from Notification 2026/032 and the consolidated Appendices.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -348,7 +372,7 @@ Current CITES/UNEP-WCMC Species+ and consolidated-Appendix checks support the ex
 
 | Indian example | Current Appendix evidence used |
 |---|---|
-| Red Sanders (*Pterocarpus santalinus*) | Appendix II, with annotation #7 |
+| Red Sanders (*Pterocarpus santalinus*) | Appendix II; annotation #7: **“Logs, woodchips, powder and extracts”** |
 | Indian star tortoise (*Geochelone elegans*) | Appendix I |
 | Tiger (*Panthera tigris*) | Appendix I |
 | Asian elephant (*Elephas maximus*) | Appendix I |
@@ -379,13 +403,13 @@ recommendation to suspend commercial or all trade
 in specified CITES-listed specimens as a last-resort measure
 ```
 
-The **National Legislation Project** tests whether a Party's law can implement CITES. Its four basic requirements are authority designation, prohibition of trade contrary to CITES, penalties for illegal trade, and power to confiscate illegally traded or possessed specimens. The project uses:
+The **National Legislation Project** tests whether a Party's law can implement CITES. Its four basic requirements are designation of at least one **Management Authority and one Scientific Authority**, prohibition of trade contrary to CITES, penalties for illegal trade, and power to confiscate illegally traded or possessed specimens. The project uses:
 
 - **Category 1:** legislation believed generally to meet CITES implementation requirements;
 - **Category 2:** legislation believed generally not to meet all requirements;
 - **Category 3:** legislation believed generally not to meet the requirements.
 
-A warning or Standing Committee recommendation to suspend trade is a compliance measure communicated through CITES notifications; it is not itself a domestic conviction. Parties must apply the recommended trade control through their authorities and law, and the recommendation can be reviewed when compliance is restored.
+A warning or Standing Committee recommendation to suspend trade is a compliance measure communicated through CITES notifications; it is not itself a domestic conviction or a legally binding international sanction. Resolution Conf. 14.3's compliance guide is non-legally binding: Parties are expected to implement a suspension recommendation through their authorities and domestic law, and the recommendation can be reviewed when compliance is restored.
 
 ### The politics still has a biological question
 
@@ -411,7 +435,7 @@ A warning or Standing Committee recommendation to suspend trade is a compliance 
 
 <details><summary>Worked Mains reveal — open after drafting</summary>
 
-**Model (approximately 165 words):** A proposal to amend CITES Appendix I or II asks Parties to balance trade pressure and species survival; it ordinarily needs two-thirds of those present and voting at the CoP. Population evidence, trends and trade information should guide the decision, but range states may differ: one may see a regulated legal market as an incentive for conservation, another may fear laundering through that market. Appendix III has another logic. One Party protects a species domestically and seeks help from other Parties in controlling trade; it need not win a CoP vote. Neither procedure makes a bare proposal an operative ban. Reservations introduce another qualification: the reserving Party is treated as a non-Party for trade in the particular taxon, not exempted from every domestic wildlife law. The best response to weak science is improved population and trade evidence and cautious monitoring, not an unsupported claim that all legal use is sustainable. Significant-trade reviews test the sustainability of Appendix II exports but do not amend a listing by themselves.
+**Model (approximately 190 words):** A proposal to amend CITES Appendix I or II asks Parties to balance trade pressure and species survival; it ordinarily needs two-thirds of those present and voting at the CoP. Population evidence, trends and trade information should guide the decision, but range states may differ: one may see a regulated legal market as an incentive for conservation, another may fear laundering through that market. Appendix III has another logic. One Party protects a species domestically and seeks help from other Parties in controlling trade; it need not win a CoP vote. Neither procedure makes a bare proposal an operative ban. CoP20 illustrates the stage distinction: its ordinary Appendix amendments entered into force on **5 March 2026**, subject to reservations and specified delayed cases. Reservations introduce another qualification: the reserving Party is treated as a non-Party for trade in the particular taxon, not exempted from every domestic wildlife law. The best response to weak science is improved population and trade evidence and cautious monitoring, not an unsupported claim that all legal use is sustainable. Significant-trade reviews test the sustainability of Appendix II exports but do not amend a listing by themselves.
 
 **Scoring (15):** voting versus unilateral power 5; evidence and competing interests 4; stage/reservation qualification 4; correctly delimited dated example 2.
 
@@ -422,9 +446,9 @@ A warning or Standing Committee recommendation to suspend trade is a compliance 
 Progress: 5 / 7 | Stage: Core | Subtopic: WLPA Chapter VB, Schedule IV and enforcement actors
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
-📚 Book context: No transaction-level textbook discussion of the amended Indian trade chapter was available; distinguish Indian Schedules from treaty Appendices.
-🔍 CA Search: "official India CITES DGFT ITC HS section 49M breeder licence"
-📰 CA Found: No additional current-affairs anchor is used; this lesson follows the operative statutory and trade-control framework.
+📚 Book context: No transaction-level textbook discussion of the amended Indian trade chapter was available; the current consolidated Act, Gazette designations and operative rules control.
+🔍 CA Search: "site:moef.gov.in OR site:egazette.gov.in India CITES Schedule IV Chapter VB April–October 2026"
+📰 CA Found: No reliably dated new Schedule IV notification in the last six months; the current statutory and Gazette controls below were checked on 5 October 2026.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### 🖼️ From global listing to the Indian checkpoint
@@ -433,45 +457,75 @@ Progress: 5 / 7 | Stage: Core | Subtopic: WLPA Chapter VB, Schedule IV and enfor
 CITES listing and operative international trade conditions
            │
            ↓
-India: Wildlife (Protection) Act, 1972 as amended in 2022
+India: Wild Life (Protection) Act, 1972 as amended in 2022
       Schedule IV: CITES-related scheduled specimens
       Chapter VB: regulation of international trade
            │
-           ├─ Management Authority + Scientific Authority
-           ├─ section 49M registration / section 49N breeder licensing
-           ├─ DGFT ITC(HS) import-export policy
-           └─ customs / WCCB / DRI / forest departments
+          ├─ sections 49E/49F: Management + Scientific Authorities
+          ├─ sections 49I–49L: export / import / re-export / sea
+          ├─ section 49R: overlap firewall for Schedule I/II species
+          ├─ section 49M registration / sections 49N–49O breeder route
+          ├─ DGFT ITC(HS) import-export policy
+          └─ customs / WCCB / DRI / forest departments
 ```
 
 *Schedule IV is a CITES trade schedule, not a fourth rung of domestic animal protection.*
 
 ### Which Schedule is which?
 
-✅ Following the **2022 amendment**, the WLPA has Schedule I and II for protected animals, Schedule III for specified plants and **Schedule IV for scheduled specimens linked to CITES Appendices I–III**. Chapter VB supplies a domestic regime for their international trade and designated Management and Scientific Authorities. ✅ The Management Authority function is within the MoEFCC wildlife administration; do not invent a current office-holder or infer the identity of every designated Scientific Authority without checking an operative notification. A species' place in an Indian protection Schedule and in CITES Schedule IV must not be confused merely because a Roman numeral appears in both systems.
+✅ The **Wild Life (Protection) Amendment Act, 2022**, in force from **1 April 2023**, leaves Schedules I and II for protected animals, Schedule III for specified plants and **Schedule IV for scheduled specimens linked to CITES Appendices I–III**. Chapter VB supplies the domestic international-trade regime. The current consolidated Act incorporates later Schedule amendments; **S.O. 2360(E), 28 May 2025** updated Schedule IV's interpretation of whole specimens, parts, derivatives and annotations. A species' place in an Indian protection Schedule and in CITES Schedule IV must not be confused merely because a Roman numeral appears in both systems.
 
-### Section 49M: possession registration is part of trade integrity
+### Current statutory authorities — checked 5 October 2026
 
-Section **49M** governs possession, transfer and breeding of living Schedule IV animal specimens:
+| Notification | Current legal position |
+|---|---|
+| **S.O. 1328(E), 13 March 2024** | Designates **Shri Gobind Sagar Bhardwaj, Additional Director General of Forests, MoEFCC**, as Management Authority until **15 August 2027 or further orders, whichever is earlier** |
+| **S.O. 3548(E), 8 August 2023** | Designates **23 institutes** as Scientific Authorities, including BSI, ZSI, WII, CMFRI, FRI and the Central Zoo Authority |
+| **S.O. 943(E), 28 February 2024** | Authorises State/UT **Chief Wild Life Wardens** to perform the Management Authority's **section 49M functions** within their jurisdictions; it does not make them the national permit authority for every Chapter VB transaction |
 
-- every possessor reports the living specimen to the Management Authority or authorised officer, subject to any Central Government exemption;
-- registration may be granted only after satisfaction that possession was not obtained contrary to fauna-and-flora protection law;
-- every transfer is reported, registered and followed by a registration certificate for the transferee;
-- births are reported and offspring registered; deaths are reported;
-- possession, transfer or breeding must conform to section 49M and the Central rules.
+The Management Authority issues the applicable permits/certificates and performs reporting functions. The Scientific Authorities provide the scientific advice assigned by the Act and Convention, including NDF-related advice. An institutional scientific opinion is not the trade document itself.
 
-The **Living Animal Species (Reporting and Registration) Rules, 2024** operationalise the reporting and registration route. The Central Government authorised State/UT Chief Wildlife Wardens to perform the relevant Management Authority functions under section 49M. Registration establishes a traceable domestic possession record; it does not by itself supply an export NDF or CITES trade permit.
+### Section 49R: apply the overlap firewall first
+
+Where the **same species** appears in Schedule I or II and Schedule IV, section **49R(1)** applies the domestic Schedule I/II provisions and rules. Section **49R(2)** expressly states that sections **49M, 49N and 49-O do not apply** to that overlapping species. Thus a tiger or Asian elephant is not routed through the living-Schedule-IV registration or breeder-licence provisions merely because it is also CITES Appendix I. Its international movement still requires the applicable Chapter VB, CITES, DGFT and border analysis.
+
+### Section 49M: registration is traceability, subject to section 49R
+
+For a living Schedule IV animal not excluded by section 49R, section **49M** and the **Living Animal Species (Reporting and Registration) Rules, 2024** govern possession and later events. **G.S.R. 145(E)** is dated **28 February 2024** and was published and commenced on **29 February 2024**:
+
+- existing possession had a six-month electronic reporting/application window; later possession must be reported within **30 days**;
+- registration requires acquisition evidence and physical verification; a certificate is not automatic;
+- a birth must be reported and registration applied for within **seven days**;
+- a transfer is reported within **15 days**; death is reported with a veterinary post-mortem report;
+- the registered holder must arrange a veterinary health check at least once every **six months**, keep the record available for inspection, prevent escape, report escape within **24 hours**, and prevent mixing or breeding with indigenous animal species.
+
+Registration establishes a traceable possession record. It does not replace a lawful import document, export NDF or transaction-specific CITES permit.
 
 ### Breeder licensing is a distinct control
 
-Section **49N**, implemented through the **Breeders of Species Licence Rules, 2023**, requires a licence for a person engaged in captive breeding or artificial propagation of a scheduled specimen listed in **Appendix I of Schedule IV**. The Chief Wildlife Warden processes the prescribed licence route. Do not merge:
+Sections **49N–49-O** and the **Breeders of Species Licence Rules, 2023** govern the applicable Appendix I breeding or artificial-propagation route, again subject to section 49R. **S.O. 1950(E)** is dated **24 April 2023** and was published and commenced on **27 April 2023**. Existing operators had the Act-linked 90-day application route; a new applicant or renewal applicant applies to the **Chief Wild Life Warden**, with the prescribed ₹25,000 fee and field verification. A licence lasts **two years**. Rule 11 requires stock records for artificially propagated specimens and permits their inspection. The licence regulates the facility; it does not prove lawful source for every specimen or authorise export.
 
 ```text
-section 49M → possession / transfer / birth / death registration
-section 49N → licence for specified Appendix-I breeding or propagation
-CITES permit → authority for the particular international transaction
+section 49R → first ask whether Schedule I/II overlap removes 49M/49N/49-O
+section 49M → possession / transfer / birth / death registration where applicable
+sections 49N–49-O → specified Appendix-I breeder licence where applicable
+sections 49I–49L → international transaction conditions
 ```
 
 Each answers a different legality question.
+
+### Indian Chapter VB transaction map — sections 49I–49L
+
+The **Wild Life (Protection) International Trade of Specimens Rules, 2023**, **S.O. 5408(E), 21 December 2023**, commenced on publication and operationalise electronic applications to the Management Authority:
+
+| Movement | Act and rule route | Core Indian conditions |
+|---|---|---|
+| **Export** | Section 49I; rule 4 | Appendix I/II export permit; Appendix III listing-State permit or other-origin certificate as applicable; lawful procurement, humane live transport, Scientific Authority NDF for I/II and destination import permit for Appendix I; export permit/certificate of origin normally valid **six months** |
+| **Import** | Section 49J; rule 5 | Appendix I import permit plus export permit/re-export certificate, no primarily commercial use, NDF advice and suitable recipient for a living specimen; Appendix II/III documents follow their applicable routes; an Indian import permit is valid **twelve months** |
+| **Re-export** | Section 49K; rule 6 | Re-export certificate, evidence of lawful prior import/procurement, humane live transport and destination import permit for a living Appendix I specimen; certificate normally valid **six months** |
+| **Introduction from the sea** | Section 49L; rule 7 | The Act requires a certificate for Appendix I/II with NDF advice; Appendix I adds non-commercial-use and recipient-care tests, while Appendix II adds humane handling. Rule 7 expressly prescribes the electronic Appendix I application and six-month certificate validity |
+
+Rule 8 requires a trader to report the scheduled specimen and transaction to the Management Authority within **30 days**. The treaty matrix in Lesson 2 supplies the international baseline; these provisions make the corresponding Indian decision executable.
 
 ### DGFT, ITC(HS) and border controls
 
@@ -484,7 +538,7 @@ An exporter must therefore check both:
 
 A CITES permit does not override a DGFT prohibition or restriction. Customs enforces the border classification and documentation; WCCB coordinates wildlife-crime intelligence; the Directorate of Revenue Intelligence may investigate customs-linked smuggling; State forest and wildlife authorities exercise domestic statutory powers.
 
-Consider India's **tiger and Asian elephant**: domestic **Schedule I** protection applies inside India, while their CITES **Appendix I** listing subjects international specimen trade to the treaty's strictest ordinary conditions. The numerals coincide here but the rules do not: Schedule I addresses domestic protection; Appendix I addresses cross-border movement. Elephant ivory is a derivative, not a separate domestic animal Schedule. Check the operative taxon, product annotation and dated lists before asserting a particular shipment's legal treatment; a historical example cannot establish the status of every population or product today.
+Consider India's **tiger and Asian elephant**: domestic **Schedule I** protection applies inside India, while their CITES **Appendix I** listing subjects international specimen trade to the treaty's strictest ordinary conditions. Section 49R means that sections 49M, 49N and 49-O do not govern them merely because they also appear in Schedule IV. The numerals coincide here but the rules do not: Schedule I addresses domestic protection; Appendix I addresses cross-border movement. Elephant ivory is a derivative, not a separate domestic animal Schedule. Check the operative taxon, product annotation and dated lists before asserting a particular shipment's legal treatment; a historical example cannot establish the status of every population or product today.
 
 Why does an older examination question call plants **Schedule VI**? Under the **pre-2022 six-schedule WLPA**, “specified plant” meant a plant in Schedule VI. Section **17C** required cultivation of a specified plant to be under a licence granted by the Chief Wild Life Warden or an authorised officer, subject to the provision's terms; it did not make cultivation categorically impossible. The 2022 restructuring **moved the plant schedule from VI to III**. Keep the statutory cultivation question separate from a CITES export: lawful domestic cultivation alone cannot supply a Scientific Authority's non-detriment finding or a cross-border document. The older schedule number dates the question; it must not be memorised as the current Indian CITES trade schedule.
 
@@ -493,9 +547,9 @@ Why does an older examination question call plants **Schedule VI**? Under the **
 | At the 2020 paper's legal stage | Former Schedule VI; cultivation under section 17C's licensing rule | Former Schedule V | Do not substitute a later Schedule IV mechanism for the old plant-law question |
 | After the 2022 amendment | Schedule III; check operative text for a present-day licence question | Former Schedule V omitted; section 62 notification mechanism remains | Schedule IV; Chapter VB governs international trade |
 
-The **2024 Prelims GS-I Q20** about the Indian Flying Fox is a separate domestic-law boundary example: it combines a statement about the statutory “vermin” category **with a statement about the animal's diet**. Former Schedule V named **fruit bats**; its removal does not itself establish the truth of an assertion about a named species' food, nor does a diet claim follow from its statutory category. Read the operative date and notification for a legal-status claim and check biology independently. No response to that objective question is given here.
+The **2024 Prelims GS-I Q20** about the Indian Flying Fox is a separate domestic-law boundary example: it combines a statement about the statutory “vermin” category **with a statement about the animal's diet**. Former Schedule V named **fruit bats**; its removal does not itself establish the truth of an assertion about a named species' food, nor does a diet claim follow from its statutory category. Read the operative date and notification for a legal-status claim and check biology independently. The official Set A key marks the question **X (dropped)**; no substitute response is inferred here.
 
-✅ The Wildlife Crime Control Bureau (WCCB) coordinates wildlife-crime intelligence and action with other agencies. Customs checks border shipments and can intercept goods; forest departments exercise their distinct domestic powers. The Directorate of Revenue Intelligence can investigate customs-linked smuggling. These roles complement rather than replace Scientific Authority advice and Management Authority permit issuance. ⚠️ A CITES decision may require an Indian notification/update to be reflected fully in Schedule IV; never write that a new international vote **instantaneously** edits statutory text.
+✅ The Wildlife Crime Control Bureau (WCCB) coordinates wildlife-crime intelligence and inter-agency action; it is not automatically the lead investigator in every operation. Customs checks border shipments and can intercept goods; forest departments exercise their distinct domestic powers. The Directorate of Revenue Intelligence can investigate customs-linked smuggling. These roles complement rather than replace Scientific Authority advice and Management Authority permit issuance. ⚠️ A CITES decision may require an Indian notification/update to be reflected fully in Schedule IV; never write that a new international vote **instantaneously** edits statutory text.
 
 The 2020 question tests a historically numbered plant schedule, the 2022 question tests general domestic wildlife protection, and the 2024 question combines dated legal classification with a separate biological claim. A cross-border permit is not an answer to any of those domestic-law propositions. Apply the statute and evidence relevant to the date instead of guessing from a CITES Appendix.
 
@@ -503,17 +557,17 @@ The 2020 question tests a historically numbered plant schedule, the 2022 questio
 
 **UPSC use:** Write domestic Schedule **IV** (trade) distinctly from CITES Appendix **IV** (there is no such fourth CITES Appendix). **Trap:** in the old six-schedule statute **V** denoted vermin and **VI** specified plants; do not call the former Schedule **IV** the vermin schedule or carry an old schedule number into a present-day answer. **Mini recap:** Legal alignment creates a route for action; the next question is how that route is bypassed.
 
-**Revision notes:** WLPA 1972 amended 2022; old VI = specified plants and old V = vermin, both time-specific; post-amendment III = specified plants and IV = CITES-linked specimens; Chapter VB governs international trade; section 49M requires possession/transfer/birth/death reporting and registration for living Schedule IV animals; section 49N and the 2023 Rules govern the specified breeder-licence route; registration is not an export permit; DGFT ITC(HS) policy independently controls the commodity's import/export status; Management and Scientific Authorities have distinct functions; Customs, WCCB, DRI and State authorities have distinct enforcement roles; a CoP decision and Indian legal update are different stages; legal category and animal diet require different evidence.
+**Revision notes:** Wild Life (Protection) Act 1972 amended 2022 and in force from 1 April 2023; old VI = specified plants and old V = vermin, both time-specific; post-amendment III = specified plants and IV = CITES-linked specimens; Chapter VB governs international trade; S.O. 1328(E) designates the current Management Authority and S.O. 3548(E) 23 Scientific Authorities; section 49R applies domestic I/II provisions and excludes overlapping species from 49M/49N/49-O; G.S.R. 145(E) governs applicable living-animal registration and later events; S.O. 1950(E) governs the applicable breeder route and stock records; S.O. 5408(E) operationalises export/import/re-export/introduction-from-sea applications; registration or breeder licensing is not a trade permit; DGFT ITC(HS) policy remains independent; Customs, WCCB, DRI and State authorities have distinct roles; a CoP decision and Indian legal update are different stages.
 
 ### Concept check
 
-**Question:** A CITES CoP votes to change a species' Appendix, and an answer says “India's Schedule IV necessarily changed at the same instant.” What is missing?
+**Question:** A CITES CoP changes a species' Appendix, and the species is also in India's Schedule I. What two separate checks defeat the claim that India's Schedule IV changed instantly and that section 49M must therefore apply?
 
 <details><summary>Worked reveal — open after your attempt</summary>
 
-**Model answer:** The treaty decision and its effective date must be distinguished from India's domestic notification and implementation under the WLPA. Schedule IV is the domestic trade-control schedule, but a CoP vote does not by itself rewrite its text.
+**Model answer:** First check the treaty amendment's effective date and the operative Indian Schedule IV update; a CoP vote does not itself rewrite Indian law. Then apply section 49R: if the species is also in Schedule I or II, sections 49M, 49N and 49-O do not apply to that overlap even though the international-trade provisions still matter.
 
-**Misconception to avoid:** Calling India’s Schedule IV “CITES Appendix IV” or assuming identical numbering implies identical legal function.
+**Misconception to avoid:** Calling India’s Schedule IV “CITES Appendix IV”, assuming instant incorporation, or ignoring section 49R because the species appears in two Schedules.
 
 </details>
 
@@ -521,9 +575,9 @@ The 2020 question tests a historically numbered plant schedule, the 2022 questio
 
 <details><summary>Worked Mains reveal — open after drafting</summary>
 
-**Model (approximately 145 words):** India's post-2022 Wildlife (Protection) Act links Schedule IV specimens with CITES trade control through Chapter VB. The Scientific Authority assesses trade impact; the Management Authority issues the applicable permit or certificate after the legal conditions are met. Section 49M separately requires reporting and registration of possession, transfer, births and deaths of living Schedule IV animals, while section 49N and the 2023 Rules create the specified breeder-licence route. Neither registration nor a breeder licence is an export permit. DGFT's ITC(HS) import-export policy must also permit or condition the exact commodity. Customs checks the shipment and trade documents; WCCB coordinates wildlife-crime intelligence, DRI may investigate customs-linked smuggling, and State authorities enforce domestic wildlife law. Thus the route is treaty listing → Indian schedule and authorities → possession or breeding control where applicable → DGFT policy → border verification. A CoP decision does not instantaneously amend every Indian control.
+**Model (approximately 148 words):** India's amended Wild Life (Protection) Act links Schedule IV specimens with CITES trade control through Chapter VB. S.O. 1328(E) designates the Management Authority, while S.O. 3548(E) designates 23 Scientific Authorities. Sections 49I–49L and S.O. 5408(E) govern export, import, re-export and introduction-from-sea documents. Before using possession or breeding provisions, section 49R must be checked: a species also listed in Schedule I or II is excluded from sections 49M, 49N and 49-O. For other covered living Schedule IV animals, G.S.R. 145(E) regulates registration and later events; S.O. 1950(E) governs the specified breeder-licence route. Neither registration nor a breeder licence is an export permit. DGFT policy must permit the exact commodity, customs must match specimen and document, WCCB coordinates intelligence, and DRI or State authorities may exercise distinct powers. A CoP decision does not instantaneously amend Indian law.
 
-**Scoring (10):** WLPA Schedule IV/Chapter VB 3; distinct authorities 3; customs and WCCB 2; domestic-update qualification 2.
+**Scoring (10):** Schedule IV/Chapter VB and transaction route 3; authority split 2; section 49R and domestic controls 2; DGFT/border agencies 2; domestic-update qualification 1.
 
 </details>
 
@@ -533,8 +587,8 @@ Progress: 6 / 7 | Stage: Advanced | Subtopic: Illegal trade, cases and evidentia
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 📚 Book context: No case-specific account was available from the local textbook; trace the specimen, documents and investigation.
-🔍 CA Search: "official CITES enforcement evidence seizure arrest conviction distinction"
-📰 CA Found: No additional current-affairs anchor is used; enforcement examples are treated as evidentiary illustrations.
+🔍 CA Search: "official India wildlife trafficking arrest seizure conviction April–October 2026 CBI DRI"
+📰 CA Found: **Akashvani News, 9 July 2026** reported a CBI–DRI interstate wildlife-trafficking operation in Maharashtra and West Bengal; it reported rescue/arrest action, not conviction or a national trend.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ### 🖼️ Where can an apparently compliant consignment fail?
@@ -555,19 +609,19 @@ Domestic extraction ──► source record ──► trade document ──► b
 |---|---|---|
 | Red Sanders timber | Listed timber can be illegally sourced or misdescribed despite regulated export | A current quantity or rise in smuggling |
 | Indian star tortoise live-animal trade | Small live animals can be concealed; correct taxon and documents matter | A specific seizure, route or present-day Appendix without its dated list |
-| A documented arrest in a wildlife-trafficking investigation | Intelligence-sharing can connect local extraction, transport and buyers | A conviction, a national trafficking total, or a conservation recovery |
+| Akashvani, **9 July 2026**: reported CBI–DRI interstate rescue/arrest operation in Maharashtra and West Bengal | A named case can illustrate inter-agency investigation and movement across States | A conviction, international CITES export offence, national trafficking total or conservation recovery |
 
 Revisit **pangolin scales** from Lesson 2: identification of a processed derivative creates a different inspection challenge from a live tortoise or timber. Avoid treating scales, a live pangolin, and a trader's label as identical evidence of species or origin. ✅ CITES listing sets trade obligations; India's domestic offences and customs law determine charges and seizures. A trafficking claim needs a documented incident before it can carry a date or quantity.
 
 ### What should enforcement improve?
 
-The strongest argument for more border control is that a forged permit or falsely labelled product can defeat otherwise sound protection. The reply to the claim that arrests alone solve the problem is that networks adapt and demand can persist: coordinate WCCB, customs, forest departments and foreign counterparts; improve forensic species identification, source traceability, targeted inspections and financial investigations. A documented arrest can illustrate the cooperation mechanism but cannot demonstrate a reduction in undetected Indian trade.
+The strongest argument for more border control is that a forged permit or falsely labelled product can defeat otherwise sound protection. The reply to the claim that arrests alone solve the problem is that networks adapt and demand can persist: coordinate WCCB, customs, forest departments and foreign counterparts; improve forensic species identification, source traceability, targeted inspections and financial investigations. The 9 July 2026 CBI–DRI report illustrates cooperation, but the public report does not establish an international export offence, a conviction or a reduction in undetected Indian trade.
 
 ⚠️ Higher seizures could signal better detection, greater offending, or both. Seizure counts are a selected sample, not a census of wildlife trade. A prosecution also requires admissible source and specimen evidence; compliance cannot be inferred from an absence of seizures. ⚠️ Domestic poaching for local consumption still needs Indian enforcement even if no CITES document is ever used.
 
 **UPSC use:** One documented case → mechanism → qualification, rather than a memorised unsourced tonnage. **Trap:** “Appendix I/II listing eliminated illegal trade” and “more seizures prove more trafficking” both outrun the evidence. **Mini recap:** Regulation needs detection and prosecution, but those instruments do not repair habitat. The final lesson weighs conservation against lawful use without treating either slogan as proof.
 
-**Revision notes:** Red Sanders timber; star tortoise live-animal trade; pangolin derivative identification; taxon/provenance/document checks; WCCB–customs–DRI coordination; DGFT restrictions remain relevant; seizures ≠ total illegal trade; arrest ≠ conviction; absence of seizure ≠ compliance; local demand requires domestic measures.
+**Revision notes:** Red Sanders timber; star tortoise live-animal trade; pangolin derivative identification; taxon/provenance/document checks; Akashvani 9 July 2026 CBI–DRI operation as a bounded coordination example; WCCB–customs–DRI roles must not be conflated; DGFT restrictions remain relevant; seizures ≠ total illegal trade; arrest ≠ conviction; interstate case ≠ international CITES offence; absence of seizure ≠ compliance; local demand requires domestic measures.
 
 ### Concept check
 
@@ -585,7 +639,7 @@ The strongest argument for more border control is that a forged permit or falsel
 
 <details><summary>Worked Mains reveal — open after drafting</summary>
 
-**Model (approximately 158 words):** A documented wildlife arrest or seizure proves that an interception or investigative step occurred. It can reveal a route, concealment method, suspect document or value of intelligence-sharing. It does not by itself establish guilt after trial, the total quantity trafficked, a national trend or a population recovery caused by CITES. Higher seizures may reflect better detection, greater offending or both. Red Sanders shows the required separation: Appendix II controls make lawful acquisition, species identification, NDF quality and export documents relevant, but a seized consignment cannot measure the unseen market. Indian enforcement should connect the Management and Scientific Authorities with DGFT controls, customs, WCCB, DRI, State forest agencies and foreign counterparts; forensic identification and source traceability are essential. Habitat loss and purely domestic poaching still require domestic measures. CITES effectiveness should therefore be evaluated through permit integrity, compliance behaviour, prosecution outcomes and species survival, not arrest or seizure totals alone.
+**Model (approximately 168 words):** Akashvani's **9 July 2026** report of a CBI–DRI interstate wildlife-trafficking operation in Maharashtra and West Bengal establishes that rescue/arrest and investigative coordination were reported. It does not establish conviction, an international CITES export offence, the total quantity trafficked, a national trend or population recovery. Higher seizures may reflect better detection, greater offending or both. A Red Sanders consignment shows the separate legal mechanism: Appendix II controls make lawful acquisition, species identification, the #7 product annotation, NDF quality and export documents relevant, but one interception cannot measure the unseen market. Indian enforcement should connect the Management and Scientific Authorities with DGFT controls, customs, WCCB, DRI, State forest agencies and foreign counterparts; forensic identification and source traceability are essential. The named case is therefore evidence of an enforcement step, not proof that a CITES listing caused conservation improvement. Habitat loss and purely domestic poaching still require domestic measures. Effectiveness should be evaluated through permit integrity, legally established case outcomes and species-survival evidence, not arrest or seizure totals alone.
 
 **Scoring (15):** specific enforcement illustration 3; supported mechanism 4; clear arrest/seizure/impact distinction 4; specific remedies 3; treaty-scope caveat 1.
 
@@ -597,7 +651,7 @@ Progress: 7 / 7 | Stage: Advanced | Subtopic: Trade–livelihood tension, data a
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 📚 Book context: No focused textbook example establishes that regulated harvesting is non-detrimental; assess legal origin and population evidence separately.
-🔍 CA Search: "official CITES regulated trade livelihoods introduction from the sea"
+🔍 CA Search: "official CITES regulated trade livelihoods introduction from the sea April–October 2026"
 📰 CA Found: No additional current-affairs anchor is used; the lesson applies the Convention's enduring tests.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -622,11 +676,11 @@ For an **Indian medicinal plant**, a legal export proposal might reward communit
 
 ⚠️ **Argument for regulated use:** Where source, harvest pressure and population response are measured, accountable legal income can give communities incentives to conserve. **Strongest objection:** Harvest limits and NDFs can be unreliable where population data are scarce or illegal supply is mixed with legal trade. **Reply:** Use improved surveys, verifiable source chains, cautious quotas, trade review and enforcement, restricting authorisations if findings cannot be supported. **Residual:** A paper-perfect export can coincide with habitat degradation outside CITES' jurisdiction; domestic safeguards remain necessary.
 
-This is also why no precise global “value of illegal wildlife trade” or Indian trafficking trend is quoted here. Hidden transactions are not enumerated in the CITES legal-trade database. Nor should national negotiating motives or an actual reservation be attributed without an official record. The relevant comparison is with CMS's migratory-species cooperation and IUCN's assessment function: neither is simply another CITES permit system.
+This is also why no precise global “value of illegal wildlife trade” or Indian trafficking trend is quoted here. The public CITES Trade Database/Wildlife TradeView is built from Parties' reported international trade records and does **not** capture illegal trade; a separate restricted illegal-trade system uses seizure reporting. Nor should national negotiating motives or an actual reservation be attributed without an official record. The relevant comparison is with CMS's migratory-species cooperation and IUCN's assessment function: neither is simply another CITES permit system.
 
 **UPSC use:** Evaluate “effectiveness” across ecology (survival), law (legal source), border verification (actual specimen) and equity (local livelihood), noting what the evidence can establish. **Trap:** An attractive livelihood hypothesis is not a quantified Indian conservation impact; marine high-seas movement is not automatically an ordinary export. **Mini recap:** CITES is strongest as scientifically defensible, traceable international trade control alongside domestic habitat and anti-poaching law.
 
-**Revision notes:** income can reinforce conservation only conditionally; lawful origin and NDF answer different questions; NDF needs adequate population data; source and trade chain must be traceable; Appendix II monitoring may require export limits; review of significant trade supports implementation but does not amend an Appendix; introduction from the sea is distinct from export and re-export; Article VII exemptions must be proved, not presumed; current Appendix status and annotations must be checked in the 5 March 2026 Appendices/Species+; Indian section 49M registration and section 49N breeder licensing do not replace trade permits; DGFT restrictions remain independent; warnings and recommended trade suspensions belong to CITES compliance escalation; do not invent Indian success or illegal-market totals; complement CITES with habitat and anti-poaching protection.
+**Revision notes:** income can reinforce conservation only conditionally; lawful origin and NDF answer different questions; NDF needs adequate population data; source and trade chain must be traceable; Appendix II monitoring may require export limits; review of significant trade supports implementation but does not amend an Appendix; introduction from the sea is distinct from export and re-export; Article VII exemptions must be proved, not presumed; current Appendix status, population qualification and annotations must be checked in the 5 March 2026 Appendices/Species+; Indian sections 49M and 49N–49-O operate only where section 49R does not exclude an I/II overlap and never replace trade permits; DGFT restrictions remain independent; suspension recommendations are non-binding compliance measures expected to be implemented domestically; the public trade database does not enumerate illegal trade; complement CITES with habitat and anti-poaching protection.
 
 ### Concept check
 
@@ -644,7 +698,7 @@ This is also why no precise global “value of illegal wildlife trade” or Indi
 
 <details><summary>Worked Mains reveal — open after drafting</summary>
 
-**Model (approximately 180 words):** The choice is not invariably “ban all trade” versus “permit all trade”. CITES Appendix II makes some international trade conditional on an exporting Scientific Authority's non-detriment advice and a Management Authority's lawful-acquisition and documentation checks. India's medicinal-plant harvesters could benefit from legal, traceable trade *if* harvest pressure and wild population evidence make it sustainable; this is a conditional possibility, not a measured result. Where data on a wild population are sparse, an apparently legal market can launder illegally harvested material, and a speculative NDF cannot demonstrate safety. India’s post-2022 WLPA Schedule IV and Chapter VB provide the trade-control architecture; applying it to a particular Indian plant would also require verifying its current taxon, listing, annotation, harvest legality and scientific evidence. Customs and WCCB cooperation must match real products to documents. Appropriate conditions include population monitoring, source traceability, cautious authorisation and rapid revision if wild stocks deteriorate; habitat protection and local anti-poaching enforcement are also needed. For high-seas specimens, introduction from the sea poses different catch-origin and scientific-data questions. The balanced verdict is conditional compatibility, not an unconditional trade entitlement or proof that prohibition alone protects habitat.
+**Model (approximately 189 words):** The choice is not invariably “ban all trade” versus “permit all trade”. CITES Appendix II makes some international trade conditional on an exporting Scientific Authority's non-detriment advice and a Management Authority's lawful-acquisition and documentation checks. India's medicinal-plant harvesters could benefit from legal, traceable trade *if* harvest pressure and wild population evidence make it sustainable; this is a conditional possibility, not a measured result. Where data on a wild population are sparse, an apparently legal market can launder illegally harvested material, and a speculative NDF cannot demonstrate safety. India’s amended Wild Life (Protection) Act Schedule IV and Chapter VB provide the trade-control architecture; applying it to a particular Indian plant would also require verifying its current taxon, listing, annotation, harvest legality and scientific evidence. Customs and WCCB cooperation must match real products to documents. Appropriate conditions include population monitoring, source traceability, cautious authorisation and rapid revision if wild stocks deteriorate; habitat protection and local anti-poaching enforcement are also needed. For high-seas specimens, introduction from the sea poses different catch-origin and scientific-data questions. The balanced verdict is conditional compatibility, not an unconditional trade entitlement or proof that prohibition alone protects habitat.
 
 **Scoring (20):** mechanism 5; strongest objection/reply 5; India-specific legal and scientific test 5; high-seas boundary and uncertainty 3; qualified verdict 2.
 
@@ -654,12 +708,12 @@ This is also why no precise global “value of illegal wildlife trade” or Indi
 
 | Official paper check | Relevance and placement | Demand and answer approach (no resolution of the question) |
 |---|---|---|
-| 2020 Prelims GS-I Q81, official paper p. 35: “If a particular plant species is placed under Schedule VI ...” (complete objective question before Lesson 1) | Historical Indian specified-plant law; Lesson 5 explains old Schedule VI, section 17C and the present Schedule III/IV distinction | Use the law at the question's date; examine cultivation licensing separately from treaty export conditions. No response choice or inferred key is supplied. |
-| 2022 Prelims GS-I Q89, official paper p. 39: “With reference to Indian laws about wildlife protection ...” (complete objective question before Lesson 1) | General domestic wildlife law used as a boundary test | Separate statutory protection rules from treaty-border controls. The attempt above stays unkeyed. |
-| 2024 Prelims GS-I Q20, official Set A paper p. 9: complete Indian Flying Fox assertion–reason question before Lesson 1 | Dated “vermin” law plus a separate biological statement | Check the operative statutory position and feeding ecology independently. No response choice is supplied. |
-| Official-paper coverage through 2026: central audited Prelims and Mains ledgers for 2018–2026, supplemented by the locally held official papers named in the source ledger | No direct CITES mechanism or treaty-trade question was found in that period; the three displayed questions are relevant domestic-law boundary questions | Do not convert a coaching-site paraphrase into an official PYQ. The original Mains prompts below remain explicitly original. |
+| 2020 Prelims GS-I Q81, official paper p. 35: “If a particular plant species is placed under Schedule VI ...” (complete objective question before Lesson 1) | Routed to Topic 08; used here only as a historical domestic-law boundary | Use the law at the question's date; examine cultivation licensing separately from treaty export conditions. No response choice is selected and no key is inferred because the official 2018–2023 key is unavailable locally. |
+| 2022 Prelims GS-I Q89, official paper p. 39: “With reference to Indian laws about wildlife protection ...” (complete objective question before Lesson 1) | Routed to Topic 08; used here only to separate domestic protection from treaty-border control | The attempt remains unkeyed; no response choice is selected and no official key is held locally. |
+| 2024 Prelims GS-I Q20, official Set A paper p. 9: complete Indian Flying Fox assertion–reason question before Lesson 1 | Routed to Topic 08; dated legal classification plus an independent biological proposition | The official Set A key records **X (dropped)**. No response choice is selected and no substitute answer is inferred. |
+| Routing audit through 2026: integration audits and Prelims/Mains routing ledgers for 2018–2026 | Both Basic and Advanced Topic09 owners are listed among owners with **no routed question** in the 2018–2023, 2024–2025 and 2026 audits | The three displayed items are cross-owned boundary questions verified against their official papers; they do not become direct CITES-mechanism PYQs. Original Mains prompts below remain explicitly original. |
 
-All three official objective questions appear in complete, neutral form before the teaching. No answer letter, truth-value marking or elimination clue is supplied. None of the original practice prompts below is labelled an official UPSC question.
+All three official objective questions appear in complete, neutral form before the teaching. No response is selected, no unavailable key is inferred, and the 2024 question's official **X/dropped** status is preserved. None of the original practice prompts below is labelled an official UPSC question.
 
 # CUMULATIVE CONCEPT CHECKS
 
@@ -699,7 +753,7 @@ These prompts and models are original, not UPSC PYQs. Draft first, then open the
 
 <details><summary>Worked reveal — original 10 marks</summary>
 
-**Model (approximately 124 words):** A permit authorises a defined cross-border transaction for a correctly identified listed specimen; it is issued by the exporting Party's Management Authority. For an ordinary Appendix II export, the Scientific Authority must first advise that the transaction will not be detrimental to the species' survival. The Management Authority must also be satisfied about lawful acquisition and the other applicable requirements. Red Sanders shows why these conditions cannot be merged: a sustainably assessed harvest could still be illegally obtained, while legally sourced timber could still be exported at a biologically damaging rate. Customs then checks whether the actual timber and destination match the issued document. Scientific advice is therefore a prerequisite in the relevant transaction, not the permit itself; a permit is a legal decision, not automatic proof of ecological sustainability.
+**Model (approximately 130 words):** A permit authorises a defined cross-border transaction for a correctly identified listed specimen; it is issued by the exporting Party's Management Authority. For an ordinary Appendix II export, the Scientific Authority must first advise that the transaction will not be detrimental to the species' survival. The Management Authority must also be satisfied about lawful acquisition and the other applicable requirements. Red Sanders shows why these conditions cannot be merged: a sustainably assessed harvest could still be illegally obtained, while legally sourced timber could still be exported at a biologically damaging rate. Customs then checks whether the actual timber and destination match the issued document. Scientific advice is therefore a prerequisite in the relevant transaction, not the permit itself; a permit is a legal decision, not automatic proof of ecological sustainability.
 
 **Scoring (10):** named authority roles 3; NDF/legal-acquisition distinction 3; Indian timber example 2; border/qualification 2.
 
@@ -711,7 +765,11 @@ These prompts and models are original, not UPSC PYQs. Draft first, then open the
 
 <details><summary>Worked reveal — original 15 marks</summary>
 
-**Model (approximately 188 words):** The post-2022 Wildlife (Protection) Act uses Schedule IV and Chapter VB to make CITES trade controls operable through designated Management and Scientific Authorities. Section 49M adds traceability for living Schedule IV animals by requiring reporting and registration of possession, transfers, births and deaths; section 49N and the 2023 Rules create the specified breeder-licence route. These are legal gains, but neither registration nor a breeder licence authorises an international shipment. DGFT's ITC(HS) policy must permit or condition the exact commodity, while customs must match the specimen and original document. WCCB, DRI and State wildlife authorities perform different intelligence and enforcement functions. Weak population evidence can undermine an NDF; false origin, misidentification and forged or reused documents can defeat the chain. PC28 in July 2026 highlighted timber identification, traceability, population assessment and NDF support, illustrating implementation needs rather than an Indian listing change. India should integrate source records, scientific surveys, DGFT controls and risk-based inspections. CITES compliance review and domestic penalties must reinforce the system, while habitat loss and purely local poaching remain matters for domestic conservation law. Legal alignment is therefore necessary but not outcome-complete.
+**Model (approximately 213 words):** The amended Wild Life (Protection) Act uses Schedule IV and Chapter VB to make CITES trade controls operable. S.O. 1328(E) designates the Management Authority, while S.O. 3548(E) designates 23 Scientific Authorities. Sections 49I–49L and S.O. 5408(E) create transaction-specific export, import, re-export and introduction-from-sea routes; DGFT policy and customs verification remain additional gates.
+
+Domestic traceability is narrower than the Schedule IV label suggests. Section 49R applies the Schedule I/II regime where the same species overlaps and excludes that species from sections 49M, 49N and 49-O. For other covered living Schedule IV animals, G.S.R. 145(E) regulates possession, births, transfers, deaths, veterinary records and escape control. S.O. 1950(E) governs the applicable Appendix I breeder licence and stock records. Neither registration nor a breeder licence authorises international trade.
+
+Legal architecture cannot eliminate false origin, misidentification, forged documents or weak NDF evidence. PC28 in July 2026 highlighted timber identification, traceability, population assessment and NDF support, illustrating implementation needs rather than an Indian listing change. India should integrate source records, scientific surveys, DGFT controls and risk-based inspections. CITES compliance recommendations remain non-binding measures expected to be implemented domestically; habitat loss and purely local poaching still require Indian conservation law. Alignment is therefore necessary but not outcome-complete.
 
 **Scoring (15):** statutory mechanism 4; bottlenecks 4; dated and correctly limited evidence 3; proportionate remedies 3; trade-jurisdiction limit 1.
 
@@ -723,7 +781,7 @@ These prompts and models are original, not UPSC PYQs. Draft first, then open the
 
 <details><summary>Worked reveal — original 20 marks</summary>
 
-**Model (approximately 213 words):** CITES confronts a collective-action problem: one State's species can be depleted to supply buyers abroad. Appendix I strictly conditions exceptional trade, Appendix II allows regulated export supported by scientific non-detriment and lawful acquisition, and Appendix III lets a protecting State request cooperation. Appendix I/II amendments ordinarily need a two-thirds vote of Parties present and voting at the CoP; a specific reservation qualifies the obligations for the reserving Party. India’s 2022-amended Wildlife (Protection) Act translates treaty trade controls through Schedule IV and Chapter VB, but a new treaty decision and an Indian statutory update are not the same event. A Red Sanders consignment requires species/product identification and defensible permit findings as well as border scrutiny; clandestine movement can evade a paper system. CITES' July 2026 Plants Committee identified timber traceability, identification and NDF support as current implementation priorities, not as an amendment of India's law. The strongest counterargument to stricter controls is that traceable, non-detrimental legal trade might reward local stewardship; this depends on credible population and origin data, which are often incomplete. CITES cannot directly stop habitat clearance or poaching for solely local demand. India therefore needs domestic habitat and anti-poaching protection alongside scientific trade controls and customs–WCCB cooperation. Effectiveness should be judged on credible survival and compliance evidence, not merely listing counts or seizures.
+**Model (approximately 221 words):** CITES confronts a collective-action problem: one State's species can be depleted to supply buyers abroad. Appendix I strictly conditions exceptional trade, Appendix II allows regulated export supported by scientific non-detriment and lawful acquisition, and Appendix III lets a protecting State request cooperation. Appendix I/II amendments ordinarily need a two-thirds vote of Parties present and voting at the CoP; a specific reservation qualifies the obligations for the reserving Party. India’s amended Wild Life (Protection) Act translates treaty trade controls through Schedule IV and Chapter VB, but a new treaty decision and an Indian statutory update are not the same event. A Red Sanders consignment requires species/product identification, annotation #7 and defensible permit findings as well as border scrutiny; clandestine movement can evade a paper system. CITES' July 2026 Plants Committee identified timber traceability, identification and NDF support as current implementation priorities, not as an amendment of India's law. The strongest counterargument to stricter controls is that traceable, non-detrimental legal trade might reward local stewardship; this depends on credible population and origin data, which are often incomplete. CITES cannot directly stop habitat clearance or poaching for solely local demand. India therefore needs domestic habitat and anti-poaching protection alongside scientific trade controls and customs–WCCB cooperation. Effectiveness should be judged on credible survival and compliance evidence, not merely listing counts or seizures.
 
 **Scoring (20):** three Appendices and procedure 5; India implementation 4; dated evidence and limitations 4; objection and reply 4; qualified answer verdict 3.
 
@@ -740,6 +798,8 @@ These prompts and models are original, not UPSC PYQs. Draft first, then open the
 | “Appendix III always has only an origin certificate.” | Is the shipment from the listing Party, another origin, or a re-export? |
 | “An NDF certifies that the specimen is legally harvested.” | Which authority assesses biological survival and which checks legal acquisition? |
 | “Schedule IV is India's fourth protection level.” | Is the post-2022 schedule controlling CITES-linked trade rather than grading domestic protection? |
+| “Every Schedule IV animal must use sections 49M and 49N.” | Is the species also in Schedule I or II, so that section 49R excludes sections 49M, 49N and 49-O? |
+| “Appendix II covers every Red Sanders product.” | What exactly does current annotation #7—“Logs, woodchips, powder and extracts”—include? |
 | “The July committee listed a species.” | Was there a recommendation, a proposal, an adopted amendment or an effective listing? |
 | “The arrest proves trafficking is falling.” | What was established at arrest, what at conviction, and what at population level? |
 
@@ -764,8 +824,8 @@ External demand → harvest pressure → source verification → scientific NDF
 | Test | CoP Appendix I/II amendment | Appendix III listing | Indian implementation |
 |---|---|---|---|
 | Decider | Parties, generally two-thirds present and voting | One Party already protecting the taxon | Competent Indian authorities under WLPA and notifications |
-| Document focus | Strict/regulated trade according to Appendix | Listing-state permit versus other-origin certificate | Schedule IV and Chapter VB plus applicable domestic controls |
-| Main residual | Reservation, illegal trade, weak biological evidence | Origin and trans-shipment verification | Detection capacity, source records and law-update timing |
+| Document focus | Strict/regulated trade according to Appendix and transaction | Listing-state permit versus other-origin certificate | Sections 49I–49L/S.O. 5408(E), section 49R and applicable registration/licensing/DGFT controls |
+| Main residual | Reservation, illegal trade, weak biological evidence | Origin and re-export verification | Detection capacity, source records, overlap analysis and law-update timing |
 
 ```text
 Case for legal use: income → stewardship, if harvest/traceability/NDF hold
@@ -781,9 +841,10 @@ Residual: local demand and habitat loss require domestic measures.
 - ✅ **CITES**, signed Washington **3 March 1973**, effective **1 July 1975**, regulates international trade in listed wild fauna and flora, including covered parts/derivatives; Geneva Secretariat administered under UNEP. World Wildlife Day is 3 March. It is not an IUCN Red List or a habitat statute.
 - ✅ Article I: species includes a species, subspecies or geographically separate population; trade means export, re-export, import and introduction from the sea; re-export follows prior import; introduction from the sea concerns specimens taken beyond national jurisdiction.
 - ✅ Article I specimen coverage includes living/dead animals and plants and the readily recognizable parts/derivatives covered by the relevant Appendix entry and annotation.
-- ✅ **I:** species threatened with extinction; exceptional trade strictly controlled; ordinary Article III route includes import and export permits and a no-primarily-commercial-use test. Not an absolute assertion about every conceivable movement.
-- ✅ **II:** international trade regulated to avert risk; exporting Scientific Authority NDF + Management Authority lawful-acquisition determination/export permit. The treaty does not generally demand an Appendix II import permit, though national law may be stricter.
-- ✅ **III:** one domestically protecting Party asks for cooperation. From the listing Party: export permit; from another country: certificate of origin; re-export has its own certificate. Do not infer IUCN status from any Appendix.
+- ✅ **I:** species threatened with extinction; export needs NDF, lawful acquisition, humane live shipment and a destination import permit; import separately tests non-detriment, live-recipient capacity and no primarily commercial use; re-export and introduction-from-sea have their own certificates and conditions.
+- ✅ **II:** international trade regulated to avert risk; export needs NDF, lawful acquisition, humane live shipment and monitoring. Import normally presents an export permit/re-export certificate rather than a treaty import permit; re-export and introduction from the sea remain distinct.
+- ✅ **III:** one domestically protecting Party asks for cooperation. Listing-State export requires lawful acquisition and humane live shipment; another origin supplies a certificate of origin; re-export has its own certificate. Article V has no parallel introduction-from-sea certificate clause.
+- ✅ An annotation/population qualification is part of the listing. Current Red Sanders #7 is **“Logs, woodchips, powder and extracts.”** Article XIV permits stricter domestic measures.
 
 ### The permit chain and institutional roles
 
@@ -791,6 +852,7 @@ Residual: local demand and habitat loss require domestic measures.
 - ✅ Scientific Authority advises on **non-detriment**; Management Authority determines other applicable conditions including **lawful acquisition** and issues relevant trade documents; customs must match documents against actual specimens. NDF is not legal-title evidence.
 - ✅ Article VI: export permit usable within six months; Convention title, issuing authority stamp and control number; copies marked and normally not substitutes; one document per consignment; import-side cancellation/retention; marking where appropriate.
 - ✅ Article VII: Customs-controlled transit, pre-Convention certificates, qualified personal effects, captive-bred/artificially propagated certification, registered scientific exchange and travelling exhibitions are distinct conditional routes—not blanket exemptions.
+- ✅ Indian sections 49I–49L supply the four transaction routes. S.O. 5408(E) prescribes electronic procedures: export and re-export documents normally six months, Indian import permits twelve months, its rule 7 Appendix-I sea certificate six months, and transaction reporting within thirty days.
 - ⚠️ Population data, timber identification, source traceability, counterfeit documents and product misdescription are weak points. Better records and review do not automatically prove all shipments lawful or sustainable.
 
 ### Listing, current status and compliance
@@ -798,25 +860,27 @@ Residual: local demand and habitat loss require domestic measures.
 - ✅ Appendix I/II CoP proposals reach the Secretariat at least 150 days before the meeting; adoption ordinarily requires two-thirds present and voting; amendments ordinarily enter into force 90 days after the meeting.
 - ✅ Appendix III listing takes effect 90 days after Secretariat communication; withdrawal takes effect after 30 days.
 - ✅ A taxon-specific **reservation** makes the reserving Party a non-Party for that taxon's trade under CITES, not universally immune from other domestic or importing-State laws.
-- ✅ CoP20 amendments generally entered into force on **5 March 2026** under Notification 2026/032; specified changes have delayed commencement. The consolidated Appendices valid from that date and Species+ support the status used here: Red Sanders II (#7); star tortoise I; tiger I; Asian elephant I; Indian pangolin I.
-- ✅ National Legislation Project: authority designation, prohibition, penalties and confiscation; Categories 1, 2 and 3 indicate whether law generally meets, does not meet all, or generally does not meet implementation requirements.
-- ✅ Persistent compliance concerns may move from consultation and assistance to action plans, warning and a Standing Committee recommendation to suspend specified commercial or all trade as a last resort.
+- ✅ CoP20 amendments generally entered into force on **5 March 2026** under Notification 2026/032; specified changes have delayed commencement. The current Appendices support: Red Sanders II (#7: logs, woodchips, powder and extracts); star tortoise I; tiger I; Asian elephant I; Indian pangolin I.
+- ✅ National Legislation Project: at least one MA and one SA, prohibition, penalties and confiscation; Categories 1, 2 and 3 indicate whether law generally meets, does not meet all, or generally does not meet implementation requirements.
+- ✅ Persistent compliance concerns may move from consultation and assistance to action plans, warning and a Standing Committee recommendation to suspend specified commercial or all trade as a last resort. The Resolution Conf. 14.3 guide and recommendation are non-legally binding, though Parties are expected to implement the recommendation domestically.
 
 ### India interface
 
-- ✅ Indian WLPA **post-2022**: animal Schedules I/II, plant Schedule III and CITES-related scheduled specimens in **Schedule IV**; Chapter VB controls international trade. Schedule IV is not “CITES Appendix IV”; the pre-amendment vermin list was **Schedule V**.
+- ✅ Indian Wild Life (Protection) Act **post-2022**, in force from **1 April 2023**: animal Schedules I/II, plant Schedule III and CITES-related scheduled specimens in **Schedule IV**; Chapter VB controls international trade. Schedule IV is not “CITES Appendix IV”; the pre-amendment vermin list was **Schedule V**.
 - ✅ **Historical stage for 2020 Q81:** the old **Schedule VI** defined specified plants; section **17C** regulated their cultivation by licence from the Chief Wild Life Warden or authorised officer. Old **Schedule V**, not IV, was the vermin list, including “fruit bats”. The 2022 amendment moved plants to III and omitted the standing vermin Schedule V; do not read today's Schedule IV back into a 2020 question.
-- ✅ Section 49M: report/register possession, transfer, birth and death of living Schedule IV animal specimens; registration does not replace an export permit.
-- ✅ Section 49N and the Breeders of Species Licence Rules, 2023 create the specified Appendix-I breeder-licence route.
+- ✅ S.O. 1328(E) designates Shri Gobind Sagar Bhardwaj as Management Authority until 15 August 2027/further orders; S.O. 3548(E) designates 23 Scientific Authorities; S.O. 943(E) authorises Chief Wild Life Wardens only for section 49M functions.
+- ✅ Section 49R: where a species is also in Schedule I/II, domestic I/II provisions apply and sections 49M, 49N and 49-O do not.
+- ✅ G.S.R. 145(E), commenced 29 February 2024: where applicable, later possession 30 days, birth seven days, transfer 15 days, death with post-mortem, six-monthly veterinary check, inspection, escape prevention/24-hour report and no breeding with indigenous species.
+- ✅ S.O. 1950(E), commenced 27 April 2023: where applicable, Appendix-I breeder licensing through the Chief Wild Life Warden, two-year licence and artificially propagated-specimen stock records.
 - ✅ DGFT ITC(HS) import/export policy applies independently: CITES paperwork does not override a prohibited or restricted commodity entry.
-- ✅ Management/Scientific Authorities, Chief Wildlife Wardens, Customs, WCCB, DRI and State forest/wildlife authorities perform distinct functions.
+- ✅ Management/Scientific Authorities, Chief Wild Life Wardens, Customs, WCCB, DRI and State forest/wildlife authorities perform distinct functions.
 
 ### India examples, evidence and answer routes
 
-- ✅ Tiger and Asian elephant exemplify the difference between Indian domestic Schedule I protection and international Appendix I trade rules; elephant ivory is a derivative. Red Sanders illustrates Appendix II timber; star tortoise live-animal and pangolin-scale trade illustrate distinct specimen-identification problems. Check dated listings and annotations before applying a claim to a present-day shipment.
-- ✅ One current-affairs anchor: CITES Plants Committee **31 July 2026** highlighted timber identification, population assessment, traceability and NDF support, **not** a new species listing.
+- ✅ Tiger and Asian elephant exemplify the difference between Indian domestic Schedule I protection and international Appendix I trade rules; section 49R prevents routing them through 49M/49N/49-O. Red Sanders illustrates Appendix II timber under #7; star tortoise live-animal and pangolin-scale trade illustrate distinct identification problems.
+- ✅ Current anchors: CITES Plants Committee **31 July 2026** highlighted timber identification, population assessment, traceability and NDF support, not a new listing; Akashvani **9 July 2026** reported a bounded CBI–DRI interstate operation, not conviction, international export or a national trend.
 - ⚠️ Seizure counts are not a census of illicit wildlife trade. Listing can constrain exports but does not directly remedy domestic habitat loss or exclusively local consumption.
-- **PYQ route:** Official **2020 GS-I Q81**, **2022 GS-I Q89** and **2024 GS-I Q20** appear completely and neutrally before teaching as Indian-law boundary questions. The complete official-paper check through 2026 found no direct CITES-mechanism question in that period.
+- **PYQ route:** Official **2020 GS-I Q81**, **2022 GS-I Q89** and **2024 GS-I Q20** appear completely and neutrally before teaching as Topic08-owned boundary questions; the 2024 official key records **X/dropped**. Integration audits list both Topic09 owners among owners with no routed question through 2026.
 - **10-mark spine:** scope → exact Appendix → authorities and one qualification. **15-mark spine:** permit chain → India statute → example → implementation gap. **20-mark spine:** treaty decision/reservation → Indian translation → enforcement and livelihoods objections/replies → jurisdiction-limited verdict.
 
 # COVERAGE MATRIX
@@ -824,46 +888,58 @@ Residual: local demand and habitat loss require domestic measures.
 | Coverage unit | Where taught and practised | Residual or qualification |
 |---|---|---|
 | Purpose, treaty dates, Geneva Secretariat, fauna/flora, jurisdiction and IUCN distinction | Lesson 1; 10-mark model; register | International trade only; not domestic land-use control |
-| Article I definitions; I/II/III rationale and transaction gates; Article VII exemptions; current Indian examples | Lesson 2; 15-mark model; remediation; register | Exemptions, annotations and source must be proved |
+| Article I definitions; complete Articles III–V transaction conditions; annotations/population qualifications; Article VII exemptions and Article XIV stricter measures | Lesson 2; 15-mark model; remediation; register | Exact movement, live-specimen condition, annotation and source must be proved |
 | Article VI permit integrity; MA, SA, NDF, lawful acquisition, separate consignment and border match | Lesson 3; 20-mark model; cumulative A; register | Science, document authenticity and legal source are independent |
-| Article XV/XVI clocks; reservations; CoP20-effective Appendices; Species+ status; compliance and National Legislation Project | Lesson 4; 15-mark model; cumulative B; register | Delayed entries and reservations require current checking |
-| Historical Schedule VI/section 17C and old V; post-2022 Schedule III/IV and Chapter VB; sections 49M/49N; DGFT ITC(HS); authority/enforcement interfaces | Official 2020/2022/2024 attempts; Lesson 5; 10-mark model; register | Domestic registration/licensing and CITES/DGFT trade permission remain distinct |
-| Red Sanders, star tortoise and pangolin illustrations; arrest/seizure evidentiary limits | Lesson 6; 15-mark model; cumulative C | Arrest ≠ conviction; seizures ≠ national trend |
+| Article XV/XVI clocks; reservations; CoP20-effective Appendices; compliance and National Legislation Project | Lesson 4; 15-mark model; cumulative B; register | Delayed entries/reservations require current checking; suspension recommendation is non-binding |
+| Schedule III/IV and Chapter VB; S.O. 1328/3548/943; sections 49I–49L and 49R; S.O. 5408; G.S.R. 145; S.O. 1950; DGFT and enforcement interfaces | Lesson 5; 10/15-mark models; register | Apply section 49R before 49M/49N/49-O; registration/licensing never replaces trade permission |
+| Historical Schedule VI/section 17C, old V and Topic08-owned boundary PYQs | Opening attempts; Lesson 5; final PYQ linkage | 2024 Q20 is officially X/dropped; no substitute answer |
+| Red Sanders, star tortoise, pangolin and Akashvani 9 July 2026 illustration; arrest/seizure limits | Lesson 6; 15-mark model; cumulative C | Rescue/arrest ≠ conviction, international export, national trend or recovery |
 | Data-poor NDF, trade/livelihood tension, introduction from the sea and complementary domestic habitat law | Lesson 7; 20-mark model; final practice | Conditional Indian example does not imply a documented conservation outcome |
-| Official PYQ search through 2026 and complete neutral boundary questions | Full 2020/2022/2024 objective attempts; final PYQ linkage | No direct CITES-mechanism PYQ verified in the complete audited official-paper set |
+| PYQ routing audit through 2026 and exact official verification of displayed boundary questions | Integration/routing audits; full 2020/2022/2024 attempts; final PYQ linkage | No direct Topic09-routed question; official 2024 key records X/dropped |
 | Concept checks, scoring and final revision | Each Lesson 1–7; cumulative practice; original 10/15/20; register | Each worked answer closed after an unanswered attempt |
 
 # SOURCE LEDGER
 
+**Canonical scope and quarantine:** Topic09 Core is taken from `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\09_CITES-and-Wildlife-Trade.md` **lines 1–201**. Its lines **202–237** are unrelated poverty/development contamination and supply no CITES lesson, claim or coverage unit. Cross-topic Topic08 Core is taken from `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\08_Wildlife-Protection-Act-and-Schedules.md` **lines 1–243**; its lines **244–294** are unrelated Social Justice contamination and are quarantined. `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\09_CITES-and-Wildlife-Trade.md` sections 1–13 were audited last. Its line 46 formulation that a Management Authority permit “certifies legal, non-detrimental sourcing” is overridden by Articles III–IV and sections 49E–49F: Scientific Authority NDF advice and Management Authority lawful-acquisition/issuance functions remain distinct. Its general claim about India's historical negotiating positions is not carried as a dated fact without an official CoP record.
+
+**Cross-topic boundary:** `live_sessions\Environment-and-Ecology\08-Wildlife-Protection-Act-and-Schedules\Learning-Session-Live-Edition.md` supplies the already-verified domestic-law boundary—current authority notifications, section 49R and operational-rule dates. Topic09 retains the treaty transaction logic and explains only the Indian interface necessary to prevent a false permit or overlap answer. The compliance-procedure, National Legislation Project and Trade Database passages are retained as narrowly sourced implementation/evidence qualifications because the lesson evaluates CITES effectiveness; they do not create or displace another canonical owner.
+
 | Source | Material used |
 |---|---|
-| `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\09_CITES-and-Wildlife-Trade.md` and `advanced\09_CITES-and-Wildlife-Trade.md` | Core Appendix architecture, permit chain, India examples, limits and evaluative tensions |
-| `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\08_Wildlife-Protection-Act-and-Schedules.md` | Pre/post-2022 Indian schedule boundary and Chapter VB context |
-| United Nations Treaty Series, vol. 993, No. 14537, English text of CITES | Articles I, VI, VII, XIII, XV and XVI; definitions, documents, exemptions, compliance foundation and exact amendment clocks |
-| CITES Notification to the Parties No. 2026/032, 5 March 2026 | CoP20 amendment commencement and specified delayed entries |
-| CITES Appendices I, II and III, valid from 5 March 2026 | Current consolidated treaty listings and annotations |
-| UNEP-WCMC Species+ / CITES Checklist | Current legal-status checks for Red Sanders, Indian star tortoise, tiger, Asian elephant and Indian pangolin |
-| Resolution Conf. 14.3 (Rev. CoP20), *CITES Compliance Procedures* | Secretariat/Party/Standing Committee process, warnings and recommended trade suspension |
-| [Resolution Conf. 8.4 (Rev. CoP20), *National laws for implementation of the Convention*](https://cites.org/sites/default/files/documents/E-Res-08-04-R20.pdf) and National Legislation Project materials | Four basic legislative requirements and Categories 1–3 |
-| Wild Life (Protection) Act, 1972 as amended in 2022; India Code sections 49M and 49N | Possession/transfer/birth/death registration and breeder licensing |
-| Breeders of Species Licence Rules, 2023; Living Animal Species (Reporting and Registration) Rules, 2024; S.O. 943(E), 28 February 2024 | Licensing, reporting/registration and Chief Wildlife Warden authorisation |
-| DGFT General Notes and ITC(HS) Import/Export Policy | Independent foreign-trade prohibition/restriction and commodity-classification layer |
-| Ministry of Tribal Affairs archived pre-2022 Wild Life (Protection) Act text | Historical Schedule V/VI and section 17C position for the 2020 question |
-| `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2024-2025.md`, `_PYQ-ROUTING-PRELIMS-2026.md`, the corresponding 2018–2025 Mains routing ledgers, and `_PYQ-GS1-2026.md`, `_PYQ-GS2-2026.md`, `_PYQ-GS3-2026.md`; locally held official 2020, 2022 and 2024 papers | Complete official-paper search through 2026 and exact neutral reproduction of the three relevant domestic-law boundary questions |
-| CITES Plants Committee PC28 report, 31 July 2026 | The session's only current-affairs anchor: timber identification, traceability, population assessment and NDF support |
+| Canonical Topic09 and cross-topic Topic08 paths stated above | Appendix architecture, authority split, enforcement limits, Schedule boundary and evaluative tensions, with contaminated or conflicting passages expressly quarantined/overridden |
+| [United Nations Treaty Series, vol. 993, No. 14537](https://treaties.un.org/doc/Publication/UNTS/Volume%20993/volume-993-I-14537-English.pdf), printed pp. 245–255 / PDF pp. 3–13 | Articles I–VII and XIV–XVI: definitions, complete Appendix transaction conditions, document integrity, exemptions, stricter domestic measures and amendment clocks |
+| [CITES Notification to the Parties No. 2026/032, 5 March 2026](https://cites.org/sites/default/files/notifications/E-Notif-2026-032.pdf) | CoP20 amendment commencement, reservations and specified 18-month delayed entries |
+| [CITES Appendices I, II and III, valid from 5 March 2026](https://cites.org/sites/default/files/eng/app/2026/E-Appendices-2026-03-05.pdf), pp. 10, 17, 20, 48 and 71 | Current tiger, Indian pangolin, Asian elephant, Indian star tortoise and Red Sanders listings; p. 71 gives #7 exactly as “Logs, woodchips, powder and extracts” |
+| [Checklist of CITES Species](https://checklist.cites.org/) and UNEP-WCMC Species+ | Searchable current-status cross-check; consolidated Appendices control the legal examples used here |
+| [Resolution Conf. 14.3 (Rev. CoP20), *CITES Compliance Procedures*](https://cites.org/sites/default/files/documents/COP/20/resolution/E-Res-14-03-R20.pdf) | Consultative escalation, warnings, last-resort suspension recommendation and the guide's non-legally-binding status |
+| [Resolution Conf. 8.4 (Rev. CoP20), *National laws for implementation of the Convention*](https://cites.org/sites/default/files/documents/COP/20/resolution/E-Res-08-04-R20.pdf) | At least one MA and one SA, prohibition, penalties, confiscation and Categories 1–3 |
+| [CITES Wildlife TradeView FAQ](https://tradeview.cites.org/en/faqs) and [CITES Trade Database guide](https://trade.cites.org/cites_trade_guidelines/en-CITES_Trade_Database_Guide.pdf) | Reported international-trade data and the explicit exclusion of illegal trade from the public dataset |
+| [CITES Illegal Trade Database](https://citesdata.un.org/) | Restricted seizure-reporting system distinct from the public legal-trade dataset; no unpublished seizure total or trend is inferred |
+| [Current consolidated Wild Life (Protection) Act, 1972](https://parivesh.nic.in/publicdocument/UPLOAD_OM_NOTIFICATION/WLC_DOCS/3006_06032026104558.pdf), Chapter VB sections 49D–49R and Schedule IV; [S.O. 1394(E), 22 March 2023](https://moef.gov.in/storage/tender/SO1394(E).pdf) | Current statutory text and **1 April 2023** commencement of Act 18 of 2022; the consolidated Schedule reflects later amendments including S.O. 2360(E), 28 May 2025 |
+| [S.O. 1328(E), 13 March 2024](https://egazette.gov.in/WriteReadData/2024/252988.pdf); [S.O. 3548(E), 8 August 2023](https://egazette.gov.in/WriteReadData/2023/247931.pdf); [S.O. 943(E), 28 February 2024](https://moef.gov.in/storage/tender/SO-943(E)-%5B28-02-2024%5D-Notification-Authorization-Section-49M.pdf) | Current Management Authority, 23 Scientific Authorities and bounded Chief Wild Life Warden authorisation under section 49M |
+| [Breeders of Species Licence Rules, 2023, S.O. 1950(E)](https://www.forest.cg.gov.in/cms/media/4cb1243f-6fe0-46a8-ac1c-6241a7ce59fc_WL-01052023_Gazzete_Notification_Rules.pdf); [International Trade of Specimens Rules, 2023, S.O. 5408(E)](https://egazette.gov.in/WriteReadData/2023/250841.pdf); [Living Animal Species Rules, 2024, G.S.R. 145(E)](https://static.pib.gov.in/WriteReadData/specificdocs/documents/2024/mar/doc202436319801.pdf) | Breeder application/licence/stock controls; export/import/re-export/introduction-from-sea procedures and validity; possession/birth/transfer/death, veterinary, inspection and escape duties |
+| [DGFT General Notes to Export Policy](https://content.dgft.gov.in/Website/General_Note_on_Export_Policy_2025.pdf), [Schedule 2 Export Policy](https://content.dgft.gov.in/Website/dgftprod/64c14faa-53ac-4387-bcf3-d355fee40bc8/Schedule%202%20-%20Export%20Policy%20New.pdf) and the live [ITC(HS) policy lookup](https://www.dgft.gov.in/CP/?opt=itchs-import-export) | Independent commodity prohibition/restriction, licence and classification layer |
+| [Ministry of Tribal Affairs archived pre-2022 Act](https://tribal.nic.in/downloads/FRA/Concerned%20Laws%20and%20Policies/Wildlife%20Protection%20Act,%201972.pdf), section 17C and former Schedules V–VI | Historical cultivation/vermin law for the 2020 boundary question only |
+| `upsc-ai-kit\knowledge\PYQ-INTEGRATION-AUDIT-2018-2023.md` lines 507/527, `PYQ-INTEGRATION-AUDIT-2024-2025.md` lines 229/253 and `PYQ-INTEGRATION-AUDIT-2026.md` lines 271/297; `_PYQ-ROUTING-PRELIMS-2018-2023.md`, `_PYQ-ROUTING-PRELIMS-2024-2025.md`, `_PYQ-ROUTING-PRELIMS-2026.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md`, `_PYQ-ROUTING-MAINS-GS3-GS4-2024-2025.md`, `_PYQ-GS1-2026.md`, `_PYQ-GS2-2026.md` and `_PYQ-GS3-2026.md` | Both Topic09 owners explicitly have no routed question in each period; routing audit is kept distinct from paper verification |
+| `books\more_previous_papers\CSP_2020_GS_Paper-1.pdf` p. 35; `books\more_previous_papers\GENERAL STUDIES PAPER I.pdf` p. 39; `books\prelima_question_paper_answers\2024-GS1-Set A.pdf` p. 9; `books\prelima_question_paper_answers\Ans-2024-GS1.pdf` p. 1 | Exact 2020 Q81, 2022 Q89 and 2024 Q20; official 2024 Set A key records Q20 as X/dropped |
+| `books\prelima_question_paper_answers\2025-GS1-Set A.pdf`, `books\prelima_question_paper_answers\Ans-2025-GS1.pdf`, `books\prelima_question_paper_answers\2026-GS1-Set A.pdf`, `books\prelima_question_paper_answers\Ans-2026-GS1-Provisional.pdf`; `books\mains\03 UPSC 2024 Paper-III.pdf`, `books\mains\UPSC Mains 2025 GS Paper 3 3.pdf`, `books\mains\2026\QP-CSM-26-010926-GENERAL-STUDIES-PAPER-III.pdf` | Official-paper/provisional-key no-direct controls for the latest years; no option or inferred answer imported |
+| [CITES PC28 report, 31 July 2026](https://cites.org/eng/api/node/news/149664) | Timber identification, traceability, population assessment and NDF support; not a species listing or Indian permit finding |
+| [Akashvani News, 9 July 2026](https://newsonair.gov.in/cbi-rescue-53-protected-animals-and-birds/) | Named CBI–DRI interstate rescue/arrest report only; no conviction, international export offence or national trend inferred |
 | OCR geography books listed below | No CITES-specific proposition imported |
 
 OCR books checked: `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\Indian & World Geography - Husain, Majid_Compressed.pdf`, `D.R.Khullar.pdf` and `GC Leong - Certificate Physical and human Geography.pdf`.
+
+**Source exclusions:** no claim or repair derives from the permanently excluded final-package directory, any learner-v2 artifact or the optional `learning_package_final\` tree.
 
 ## SOURCE-MANIFEST GATE
 
 | Category | Status | Evidence or reason |
 |---|---|---|
-| Canonical Markdown | checked | Exact Basic `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\09_CITES-and-Wildlife-Trade.md` and cross-topic Basic `08_Wildlife-Protection-Act-and-Schedules.md` audited |
+| Canonical Markdown | checked | Topic09 Basic lines 1–201 and Topic08 Basic lines 1–243 audited; unrelated Basic09 lines 202–237 and Basic08 lines 244–294 quarantined; exact paths and override reasons recorded above |
 | Final learner package | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule |
-| Layered/complete session | checked | Nyaya-Vaisesika, Yoga and Mimamsa live editions supplied the required learner-facing structural benchmark |
+| Layered/complete session | checked | Mandatory style benchmarks checked at `live_sessions\Philosophy-Optional\01-Nyaya-Vaisesika\Learning-Session-Live-Edition.md`, `live_sessions\Philosophy-Optional\06-Yoga\Learning-Session-Live-Edition.md` and `live_sessions\Philosophy-Optional\07-Mimamsa\Learning-Session-Live-Edition.md`; Topic08 live edition checked only for the domestic-law boundary |
 | Solved workbook | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule |
-| Advanced dossier | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\09_CITES-and-Wildlife-Trade.md` sections 1–13 audited |
+| Advanced dossier | checked | Topic09 Advanced sections 1–13 audited last; line 46 MA/SA conflation overridden by official treaty/statute and unsupported negotiating-position generalisation not imported as dated fact |
 | OCR books | checked | Husain geography PDF searched; no trade-specific passage found; Khullar and GC Leong PDFs probed for searchable relevance |
-| PYQs through 2026 | checked | Exact Prelims routing ledgers for 2018–2023, 2024–2025 and 2026; Mains routing ledgers for 2018–2025; `_PYQ-GS1-2026.md`, `_PYQ-GS2-2026.md` and `_PYQ-GS3-2026.md`; exact 2020 Q81, 2022 Q89 and 2024 Q20 reproduced neutrally; no direct CITES-mechanism question found |
-| Official live sources | checked | UN treaty text; CoP20 Notification 2026/032; Appendices valid 5 March 2026; UNEP-WCMC Species+; compliance resolutions; Indian Act/rules; DGFT policy; exactly one CA anchor, PC28 on 31 July 2026 |
+| PYQs through 2026 | checked | Exact integration-audit lines, routing ledgers, official displayed-question paper paths, 2024 X/dropped key and 2025/2026 official-paper/provisional-key controls are recorded above; no Topic09-routed question found |
+| Official live sources | checked | Exact UN treaty, Appendices, notification, compliance, Trade Database, consolidated-Act, authority/rule, DGFT, PC28 and Akashvani URLs are recorded above and were checked on 5 October 2026 |
