@@ -153,10 +153,10 @@ Define the concept of carrying capacity of an ecosystem as relevant to an enviro
 | 5 | What happens to dead matter, and why does nutrient recycling differ from energy flow? | Core |
 | 6 | How does the same logic work in a lake, wetland or ocean? | Core |
 | 7 | When does disturbance exceed a system's capacity, and how should India manage it? | Core |
-| 8 | Which benefits do people receive from functioning ecosystems? | Advanced |
-| 9 | How can resilience, measurement and institutions improve decisions? | Advanced |
+| 8 | Which benefits do people receive from functioning ecosystems? | Core |
+| 9 | How do resilience, evidence and flagship analysis complete the core, and which policy refinements add depth? | Core → Advanced |
 
-Lessons 1–7 establish the complete core sequence. Lessons 8–9 then add clearly separated analytical depth. Each lesson offers an unworked attempt before its separate reveal; cover the reveal to test yourself.
+Lessons 1–8 and Part A of Lesson 9 establish the complete core sequence. Part B of Lesson 9 then adds clearly separated Advanced policy and valuation depth. Each lesson offers an unworked attempt before its separate reveal; cover the reveal to test yourself.
 
 ## Lesson 1 — A living system needs a physical setting
 
@@ -463,7 +463,7 @@ What happens to the remains when all these links die? Follow the detrital pathwa
 
 **Original Mains practice — 15 marks, 250 words.** Analyse how different ecological interactions can both support and threaten the functioning of an Indian grassland.
 
-**Model (about 148 words):** Grassland grasses capture energy; herbivores pass some of it to predators while dead material enters decomposer pathways. The combined network is a food web, not a single ladder. For example, where an Indian grassland predator is reduced, changes in herbivore pressure may alter vegetation and soil cover; rainfall and land use must also be assessed before attributing every change to predation. Pollination and seed dispersal are additional interactions through which plants renew the structural base; mutualism therefore matters even when it is not a feeding transfer. Redundant prey links can cushion a local loss, but common drought affects producers throughout the web. The counterclaim that “more species alone ensure stability” overlooks interaction strength and habitat fragmentation. Conservation should maintain grassland habitat, seasonal water and movement routes, not assume that merely protecting one flagship animal preserves all functions. Measure vegetation recruitment, grazing, soil condition and predator–prey links over time.
+**Model (about 149 words):** Grassland grasses capture energy; herbivores pass some of it to predators while dead material enters decomposer pathways. The combined network is a food web, not a single ladder. For example, where an Indian grassland predator is reduced, changes in herbivore pressure may alter vegetation and soil cover; rainfall and land use must also be assessed before attributing every change to predation. Pollination and seed dispersal are additional interactions through which plants renew the structural base; mutualism therefore matters even when it is not a feeding transfer. Redundant prey links can cushion a local loss, but common drought affects producers throughout the web. The counterclaim that “more species alone ensure stability” overlooks interaction strength and habitat fragmentation. Conservation should maintain grassland habitat, seasonal water and movement routes, not assume that merely protecting one flagship animal preserves all functions. Measure vegetation recruitment, grazing, soil condition and predator–prey links over time.
 
 **Why this earns marks (15):** Food-web mechanism 4; contrasting interactions 4; Indian causal example 3; counter-case and measured remedy 4.
 
@@ -555,11 +555,11 @@ pollution load and altered flow can also change light, oxygen and every food lin
 
 *A wetland is shaped as much by its catchment and water regime as by the organisms seen at the water surface.*
 
-In the sea, microscopic photosynthetic **phytoplankton** can form a primary-production base. In a lake or wetland, algae and rooted plants also produce organic matter. Surface water is their medium, not an oxygen-producing organism: photosynthesis makes oxygen, while oxygen can also dissolve from the atmosphere into water. Dissolved oxygen is usually reported as mass per volume of water; atmospheric oxygen is part of a gas mixture. To compare them, use the same basis (for example, oxygen mass per equal volume of air and water), rather than comparing an air percentage directly with a water concentration. At ordinary environmental conditions, even well-oxygenated surface water holds **much less oxygen per equal volume** than air; water temperature, salinity and pressure affect its dissolved concentration. This physical comparison is separate from photosynthetic output or *net atmospheric* oxygen gain after respiration and decay. Do not attach an unverified global oxygen-production share to rainforests or oceans. Some marine animals filter particles; filter feeding tells us how particles are collected, not which species is necessarily a primary producer.
+In the sea, microscopic photosynthetic **phytoplankton** can form a primary-production base. In a lake or wetland, algae and rooted plants also produce organic matter. Surface water is their medium, not an oxygen-producing organism: **oxygenic photosynthesis produces oxygen**, while oxygen can also dissolve from the atmosphere into water. Dissolved oxygen is usually reported as mass per volume of water; atmospheric oxygen is part of a gas mixture. To compare them, use the same basis (for example, oxygen mass per equal volume of air and water), rather than comparing an air percentage directly with a water concentration. At ordinary environmental conditions, even well-oxygenated surface water holds **much less oxygen per equal volume** than air; water temperature, salinity and pressure affect its dissolved concentration. This physical comparison is separate from photosynthetic output or *net atmospheric* oxygen gain after respiration and decay. Do not attach an unverified global oxygen-production share to rainforests or oceans. Some marine animals filter particles; filter feeding tells us how particles are collected, not which species is necessarily a primary producer.
 
 An aquatic system may be marine (ocean), freshwater (lake, river) or transitional (estuary). The terrestrial category includes forests and grasslands; a **biome** is a large characteristic ecological formation, not a synonym for every local patch. A wetland's hydroperiod (when and how long it holds water), vegetation and sediment dynamics jointly govern food supply, refuge and floodwater storage. In the Sundarbans, mangrove roots, tidal exchange and salinity-dependent vegetation offer nursery habitat and help buffer some coastal impacts; protective performance depends on width, condition, local geomorphology and the event. Never promise total cyclone protection.
 
-The 5 June designation supplies a live Indian anchor: it highlights biodiversity and wetland protection, but a Ramsar listing is a designation rather than a measured gain in decomposition, hydrology or contaminant removal. A wetland *can* retain sediment and some pollutants; certain plants and microbes can immobilise or transform substances. Heavy metals, however, may persist, accumulate or be remobilised. “Wetlands absorb all heavy metals safely” is both scientifically unsafe and a poor policy inference. Protect inflows and measure loads before attributing purification.
+The **5 June 2026** designation of Surha Tal/Jai Prakash Narayan Bird Sanctuary as India's **100th Ramsar site at that date** supplies a historical Indian anchor: it highlights biodiversity and wetland protection, but a Ramsar listing is a designation rather than a measured gain in decomposition, hydrology or contaminant removal. A wetland *can* retain sediment and some pollutants; certain plants and microbes can immobilise or transform substances. Heavy metals, however, may persist, accumulate or be remobilised. “Wetlands absorb all heavy metals safely” is both scientifically unsafe and a poor policy inference. Protect inflows and measure loads before attributing purification.
 
 **Objection:** “If many birds appear after designation, the wetland must be healthy.” **Reply:** Bird occurrence can indicate habitat value but cannot measure contaminant concentration, oxygen dynamics or sustained hydroperiod alone. India-centric ecosystem management monitors these together with community uses.
 
@@ -568,7 +568,7 @@ The 5 June designation supplies a live Indian anchor: it highlights biodiversity
 **Revision notes**
 
 1. Marine, freshwater and estuarine systems differ in salinity and flow but share producer–consumer–decomposer logic.
-2. Phytoplankton and photosynthetic bacteria are organisms; water itself does not photosynthesise.
+2. Phytoplankton and oxygenic photosynthetic bacteria are organisms; water itself does not photosynthesise.
 3. Oxygen production, dissolved-oxygen concentration and net atmospheric oxygen gain are different quantities.
 4. Air and water must be compared on a common basis rather than by juxtaposing unlike units.
 5. Warmer or saltier water generally holds less dissolved oxygen, with pressure and mixing also relevant.
@@ -595,7 +595,7 @@ The next issue is how to recognise when use or disturbance has exceeded regenera
 
 **Original Mains practice — 15 marks, 250 words.** Examine how wetland structure shapes ecological services, using an Indian example and discussing limits to natural water purification.
 
-**Model (about 139 words):** A wetland's water regime, vegetation, sediment and microbial community create the conditions for production, food links and nutrient processing. India's 100th Ramsar-site designation in June 2026 illustrates the public importance of sustaining a wetland used by birds and surrounding communities. Vegetation can slow water and trap sediment, while microorganisms transform some nutrients; these are conditional functions, not proof that every contaminant disappears. A polluted inflow may consume oxygen, accumulate persistent metals and disturb the food web. Nor does international designation establish a measured improvement in water quality. Upstream catchment management, sewage control and regular monitoring of hydroperiod, dissolved oxygen and contaminants must accompany site protection. The competing livelihood demand for water is real; sustainable access should be judged against the wetland's regenerative and assimilative limits rather than managed by a designation count alone.
+**Model (about 133 words):** A wetland's water regime, vegetation, sediment and microbial community create the conditions for production, food links and nutrient processing. India's 100th Ramsar-site designation in June 2026 illustrates the public importance of sustaining a wetland used by birds and surrounding communities. Vegetation can slow water and trap sediment, while microorganisms transform some nutrients; these are conditional functions, not proof that every contaminant disappears. A polluted inflow may consume oxygen, accumulate persistent metals and disturb the food web. Nor does international designation establish a measured improvement in water quality. Upstream catchment management, sewage control and regular monitoring of hydroperiod, dissolved oxygen and contaminants must accompany site protection. The competing livelihood demand for water is real; sustainable access should be judged against the wetland's regenerative and assimilative limits rather than managed by a designation count alone.
 
 **Why this earns marks (15):** Structure–function sequence 5; dated Indian illustration 3; contaminant and designation qualification 4; actionable conclusion 3.
 
@@ -642,7 +642,7 @@ For **regional sustainable-development planning**, first delineate the watershed
 10. Technology can relax a constraint but cannot justify assuming limitless capacity.
 11. The 2019 Mains demand requires both a definition and an applied planning explanation.
 
-The core foundation is now complete. We can ask how these functions benefit people, and what common valuation systems miss.
+The carrying-capacity mechanism is now complete. The remaining Core sequence asks how ecological functions benefit people and how resilience, forest-cover evidence and flagship analysis should be interpreted.
 
 ### Concept check
 
@@ -664,12 +664,12 @@ The core foundation is now complete. We can ask how these functions benefit peop
 
 ## Lesson 8 — What ecosystems contribute to people
 
-Progress: 8/9 | Stage: Advanced | Subtopic: Services, relational values and adaptation policy
+Progress: 8/9 | Stage: Core | Subtopic: Ecosystem services, beneficiaries and appraisal limits
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Queried — ecosystem functions, service classification, adaptation and valuation limits.
 CA search: "India April September 2026 ecosystem services mangroves MISHTI wetland restoration site:pib.gov.in"
-CA found: No verified last-six-month MISHTI achievement report.
+CA found: PIB, *India's Green Pathway*, 7 April 2026, p. 6 — MISHTI restored 4,536 hectares in 2025 and identified 22,560 hectares across 13 States/UTs for future plantation and restoration; restored and identified areas are different statuses.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 ```text
@@ -689,9 +689,7 @@ mangrove habitat → fish nursery → harvest for households
 
 The basic question was “What functions occur?” Here ask “Who benefits, and who bears the loss if a function fails?” Provisioning is material supply; regulating is modulation of hazards and processes; supporting refers to underlying ecological processes; cultural is non-material significance. Avoid adding all category values uncritically: supporting production may already underlie a provisioning benefit, so double-counting is possible. A policy that prices only harvested wood can ignore soil maintenance, pollination, cultural ties and storm buffering.
 
-The MEA's familiar four-group scheme is an analytical aid. **IPBES's Nature's Contributions to People** recognises material, regulating and non-material contributions and explicitly makes room for diverse knowledge systems and relational values; it is not simply the MEA labels with a new title. A local community's bond with a grove is not adequately captured by asking the market price of timber. Yet recognising relational value does not make every development trade-off vanish: specify beneficiaries, losses, alternatives and who decides.
-
-For India, **MISHTI** (Mangrove Initiative for Shoreline Habitats & Tangible Incomes) is a restoration initiative. The Economic Survey 2025–26 records a programme aspiration of roughly 540 sq km over 2023–28; this is a **target**, not a verified area restored or a measured coastal carbon gain. The **National Plan for Conservation of Aquatic Ecosystems (NPCA)** concerns aquatic-ecosystem conservation; a coastal mission addresses coastal vulnerability. Neither the programme's existence nor hectares planted proves functioning mangrove zonation or flood reduction. Test natural regeneration, tidal exchange, survival, community livelihoods and site-specific hazard exposure. Wetland recognition can draw attention to protection, but says nothing on its own about numerical service delivery.
+The four-group scheme is an analytical aid, not a claim that every contribution must be converted into one price. A local community's bond with a grove is not adequately captured by asking only for timber revenue. A service claim should identify the structural feature, ecological process, beneficiary, distributional effect and uncertainty; it should not infer delivery merely from canopy, designation or planted area.
 
 **Objection:** “If a benefit is not monetised, it cannot enter an appraisal.” **Reply:** Use physical indicators, distributional analysis and explicit qualitative cultural evidence alongside cautious valuation. **Residual:** Incommensurable losses and unequal voice still complicate a single net-value score. A strong GS-III answer identifies structure → process → beneficiary → impact if removed → governance response, without pretending every link has a known price.
 
@@ -703,13 +701,12 @@ For India, **MISHTI** (Mangrove Initiative for Shoreline Habitats & Tangible Inc
 4. Cultural services include recreation, identity, knowledge and spiritual significance.
 5. The four MEA classes are analytical categories, not automatically additive monetary accounts.
 6. Supporting processes may already be embodied in a provisioning output, creating a double-counting risk.
-7. IPBES's Nature's Contributions to People broadens attention to material, regulating, non-material and relational values.
-8. Relational value cannot always be represented by market price, but it still requires transparent evidence and affected voices.
-9. MISHTI's cited area is a programme target, not proof of survival, carbon gain or hazard reduction.
-10. Mangrove restoration must test tidal exchange, native establishment, livelihoods and site-specific exposure.
-11. A strong appraisal identifies structure, process, beneficiary, distributional effect and remaining uncertainty.
+7. Cultural and relational significance can be represented through transparent qualitative evidence and affected voices, not only market price.
+8. A service claim should identify structure, process, beneficiary, distributional effect and remaining uncertainty.
+9. Planted area, legal designation and canopy extent do not by themselves establish service delivery.
+10. Mangrove-service appraisal should test tidal exchange, native establishment, livelihoods and site-specific exposure.
 
-Next, judge whether a system can resist or recover from shock and whether policy indicators can tell the difference.
+One Core task remains: judge whether a system can resist or recover from shock and whether forest-cover or flagship indicators can tell the difference.
 
 ### Concept check
 
@@ -725,19 +722,21 @@ Next, judge whether a system can resist or recover from shock and whether policy
 
 **Original Mains practice — 15 marks, 250 words.** Assess the value and limits of the ecosystem-services approach for planning mangrove restoration in India.
 
-**Model (about 155 words):** The MEA scheme makes mangrove contributions visible: fish and other harvested resources are provisioning; shoreline buffering is regulating; nutrient processes support production; community relationships and recreation are cultural. This helps planners compare a short-run land conversion with foregone benefits. MISHTI offers a named Indian restoration instrument, but an area target is not evidence that planted sites now supply these functions. Hydrology, appropriate species composition, establishment, access and local livelihoods need monitoring. Valuation can also double-count a supporting process when its effect is already in fish yield, and a price for fish does not express cultural ties. IPBES's Nature's Contributions to People helps recognise relational and local-knowledge dimensions alongside instrumental benefits. The development case for coastal infrastructure is substantial; compare alternative siting, avoid destroying tidal connectivity and disclose who gains and loses rather than announcing that all development must stop. A credible restoration appraisal combines biophysical indicators, community participation and distributional judgement with any monetary estimates.
+**Model (about 139 words):** The MEA scheme makes mangrove contributions visible: fish and other harvested resources are provisioning; shoreline buffering is regulating; nutrient processes support production; community relationships and recreation are cultural. This helps planners compare a short-run land conversion with foregone benefits. Yet the categories do not prove that a planted or legally protected site delivers every service. Hydrology, appropriate species composition, establishment, access and local livelihoods need monitoring. Valuation can also double-count a supporting process when its effect is already embodied in fish yield, while a price for fish does not express cultural ties. The development case for coastal infrastructure is substantial; compare alternative siting, avoid destroying tidal connectivity and disclose who gains and loses rather than announcing that all development must stop. A credible restoration appraisal combines biophysical indicators, community participation and distributional judgement with cautious monetary estimates where defensible.
 
-**Why this earns marks (15):** All four categories 4; actual Indian policy 2; cause and target qualification 3; objection, IPBES and balanced decision 6.
+**Why this earns marks (15):** All four categories 4; causal mangrove application 3; delivery and double-counting limits 4; competing development case and balanced appraisal 4.
 
 ## Lesson 9 — Stability is not the same as recovery
 
-Progress: 9/9 | Stage: Advanced | Subtopic: Resilience, indicators, flagship species and governance
+Progress: 9/9 | Stage: Core | Subtopic: Resilience, evidence and flagship species; Advanced policy depth follows
 
 ━━━ PRE-TEACH CHECKLIST ━━━━━━━━━━━━━━━━━━
 Book context: Queried — food webs, resilience, forest-cover cautions and ecological indicators.
 CA search: "India April September 2026 ecosystem resilience carrying capacity environment site:pib.gov.in"
 CA found: No site-specific new resilience measurement established in the last six months.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+### Part A — Core: resistance, recovery, ISFR and flagship indicators
 
 ```text
 shock → measure immediate functional change (resistance)
@@ -758,9 +757,23 @@ A stand of uniform trees may appear unchanged in a quiet year yet be vulnerable 
 
 The **India State of Forest Report 2023 (ISFR 2023)** provides a dated forest/tree-cover baseline, not a complete forest-health index. It records forest plus tree cover of **8,27,357 sq km (25.17% of India's geographical area)**; do not treat that figure as a last-six-month update or claim it represents intact native forest. Canopy extent cannot alone describe composition, age, connectedness or species interactions. Likewise a rise in primary productivity need not mean greater biodiversity; a fast-growing monoculture may be productive but functionally narrow. Inspect ground species, native regeneration and response to disturbance rather than using extent as a health verdict.
 
-A **keystone species** can exert disproportionate ecological influence; an **umbrella species** is selected because protecting its habitat can also protect others. Neither label means “every tiger guarantees the entire forest's health.” WII's habitat studies and BSI/ZSI inventories can inform management; policymakers must still test corridors, water and community impacts. An EIA focused on a few measurable parameters may undervalue cultural and supporting services, but not every EIA has the same omission: examine the actual project's scope and baseline. Site-specific evidence is especially important before claiming a trophic cascade or carbon benefit.
+A **keystone species** can exert disproportionate ecological influence; a **flagship species** is used partly to mobilise public or political support; an **umbrella species** is selected because protecting its habitat can also protect others. These labels are not interchangeable, and none means “every tiger guarantees the entire forest's health.” WII's habitat studies and BSI/ZSI inventories can inform management; policymakers must still test corridors, water and community impacts. An EIA focused on a few measurable parameters may undervalue cultural and supporting services, but not every EIA has the same omission: examine the actual project's scope and baseline. Site-specific evidence is especially important before claiming a trophic cascade or carbon benefit.
 
 **Objection:** “Why not use just forest cover as a simple decision rule?” **Reply:** It is a useful extent indicator, but setting it equal to ecosystem quality encourages replacing complex habitat with uniform planting. **Residual:** Multimetric monitoring costs money and uncertainty remains; prioritise measures tied to the function at risk. In an answer, show a chain of disturbance → changed structural link → lost function → affected people → measure → qualified intervention.
+
+**Core sequence complete.** Ecosystem services, ISFR evidence, resilience and flagship analysis are now answer-ready. The remaining material adds Advanced policy, valuation and current-evidence depth; it is not a prerequisite for a competent core answer.
+
+### Part B — Advanced: relational values, adaptation finance and coastal policy
+
+**IPBES's Nature's Contributions to People (NCP)** broadens the MEA lens by recognising material, regulating and non-material contributions while making room for diverse knowledge systems and relational values. This does not make every development trade-off disappear: identify affected groups, alternatives, voice and evidence rather than treating either market price or cultural value as automatically decisive.
+
+The Economic Survey 2025–26 reports that India's **adaptation- and resilience-related domestic spending rose from 3.7% of GDP in FY16 to 5.6% in FY22**. This is a national spending estimate, not a measure of ecological success at a specific mangrove or wetland. The **National Coastal Mission** strengthens integrated coastal-zone management and climate-resilient infrastructure to reduce vulnerability to sea-level rise and extreme weather; it complements, rather than replaces, local hydrology, evacuation and safe-building measures. The **National Plan for Conservation of Aquatic Ecosystems (NPCA)** supports wetland hydrology and vegetation as flood-moderation and water-security infrastructure.
+
+For **MISHTI**, keep four evidential stages separate. The Economic Survey records an aspiration to restore or reforest about **540 sq km across nine coastal States and four Union Territories during 2023–28**, with **around 22.8 million person-days of employment expected** and an **estimated carbon sink of 4.5 million tonnes**. These are programme scope, expected employment and estimated sink—not audited ecological outcomes. PIB's *India's Green Pathway* of **7 April 2026**, p. 6, separately reports that MISHTI **restored 4,536 hectares in 2025** and **identified 22,560 hectares across 13 States/UTs for future plantation and restoration**. Restored area is an implementation achievement; identified area is a future-work inventory. Neither figure alone proves survival, carbon retention or cyclone-loss reduction.
+
+**Cross-topic PYQ linkage — 2026 Prelims GS-I Q23:** The verified neutral demand is “Mangrove ecosystem services for coastal climate resilience and livelihoods.” Detailed ownership remains with Topic 24, *Coastal and Marine Ecology, CRZ and Blue Economy*; this lesson supplies only the structure → service → beneficiary and resilience logic. The locally held Set-A key is provisional, so no answer letter, truth value or elimination verdict is supplied here.
+
+The Advanced diagnostic chain is: structural intervention → changed ecological function → distributed benefit or risk → matched indicator → responsible institution → residual uncertainty. It converts ecosystem vocabulary into a method for analysing downstream conservation, EIA and climate-adaptation questions.
 
 **Revision notes**
 
@@ -773,8 +786,12 @@ A **keystone species** can exert disproportionate ecological influence; an **umb
 7. Species richness alone does not reveal interaction strength or functional redundancy.
 8. A keystone species has disproportionate ecological influence; the claim requires site evidence.
 9. A flagship species mobilises support, while an umbrella species is selected because habitat protection may benefit others.
-10. Targets, legal designations, implemented activities and measured outcomes are different evidential stages.
-11. Monitoring should match the disturbance and function at risk: composition, recruitment, water, connectivity or recovery.
+10. Targets, legal designations, identified future areas, implemented activities and measured outcomes are different evidential stages.
+11. IPBES NCP adds material, regulating, non-material and relational-value depth to the core MEA service framework.
+12. The 5.6%-of-GDP FY22 figure concerns national adaptation- and resilience-related domestic spending, not site-level ecological performance.
+13. The National Coastal Mission links integrated coastal-zone management and climate-resilient infrastructure with reduced coastal vulnerability.
+14. MISHTI's 540 sq km, 22.8 million person-days and 4.5-million-tonne sink are programme/expected/estimated figures; PIB's 4,536 restored hectares and 22,560 identified hectares have different implementation statuses.
+15. Monitoring should match the disturbance and function at risk: composition, recruitment, water, connectivity or recovery.
 
 The next task is retrieval and independent answer writing.
 
@@ -792,13 +809,13 @@ The next task is retrieval and independent answer writing.
 
 **Original Mains practice — 20 marks, 250 words.** Critically examine whether increases in forest cover and protection of a flagship species are sufficient measures of ecosystem health in India.
 
-**Model (about 168 words):** Cover maps record extent, and protecting a flagship animal can mobilise habitat conservation. Neither is a sufficient test of ecosystem health. ISFR 2023's forest-and-tree-cover estimate is a dated mapped baseline, but cannot by itself reveal native composition, age structure, soils or connectivity. An Indian plantation may maintain a canopy while its simplified structure leaves it vulnerable to a host-specific pest. Flagship protection can have an umbrella effect where corridors, prey and water are also secured; an isolated animal count cannot establish these links. The objection that multiple indicators complicate governance is serious: managers need practicable, repeatable measures, not an unmeasurable ideal. Combine canopy extent with species composition, recruitment, water and soil condition, food-web evidence and recovery after a known shock. WII habitat studies and BSI/ZSI surveys can help, but site-specific impact assessment and affected communities' observations remain important. Resist claiming that every diverse site is resilient or that every plantation is barren. Define the risk, then select indicators of the functions and recovery paths exposed to that risk.
+**Model (about 169 words):** Cover maps record extent, and protecting a flagship animal can mobilise habitat conservation. Neither is a sufficient test of ecosystem health. ISFR 2023's forest-and-tree-cover estimate is a dated mapped baseline, but cannot by itself reveal native composition, age structure, soils or connectivity. An Indian plantation may maintain a canopy while its simplified structure leaves it vulnerable to a host-specific pest. Flagship protection can have an umbrella effect where corridors, prey and water are also secured; an isolated animal count cannot establish these links. The objection that multiple indicators complicate governance is serious: managers need practicable, repeatable measures, not an unmeasurable ideal. Combine canopy extent with species composition, recruitment, water and soil condition, food-web evidence and recovery after a known shock. WII habitat studies and BSI/ZSI surveys can help, but site-specific impact assessment and affected communities' observations remain important. Resist claiming that every diverse site is resilient or that every plantation is barren. Define the risk, then select indicators of the functions and recovery paths exposed to that risk.
 
 **Why this earns marks (20):** Both proposals fairly stated 3; distinct limitations 6; named Indian evidence and concrete case 4; strongest objection and feasible reply 4; qualified assessment 3.
 
 # VERIFIED PYQ LINKAGE AND ANSWER APPROACHES
 
-The opening attempt bank contains the complete answer-neutral stems, options and metadata. This index maps each question to the teaching needed for later review; it supplies no key or solved PYQ model.
+The opening attempt bank contains the complete answer-neutral stems, options and metadata for the directly owned questions. This index maps each question to the teaching needed for later review and adds one answer-neutral 2026 cross-topic linkage whose stem and options are not reproduced; it supplies no key or solved PYQ model.
 
 | Year / paper / Q | Lesson | What is tested | Review route |
 |---|---:|---|---|
@@ -813,6 +830,7 @@ The opening attempt bank contains the complete answer-neutral stems, options and
 | 2024 Prelims GS-I Q18 | 4 | Parasitoid taxa | Check whether *some* members of each named group qualify; pay attention to the question's quantifier. |
 | 2024 Prelims GS-I Q28 | 4 | Specialised pollination | Verify the named tree–insect association against the actual options. |
 | 2025 Prelims GS-I Q40 | Opening attempt bank; Lesson 6 | Oxygen production and oxygen concentration in different media | Separate biological production from physical concentration; compare air and water on a common basis. |
+| 2026 Prelims GS-I Q23 — cross-topic; provisional key not used | 8; 9 Part B | Mangrove ecosystem services for coastal climate resilience and livelihoods | Use the service, beneficiary and resilience framework taught here; detailed ownership remains Topic 24. No answer letter, truth value or elimination mapping is supplied. |
 
 # CUMULATIVE CONCEPT CHECKS
 
@@ -844,7 +862,7 @@ These are **new practice questions**, not past-paper quotations. Write first; on
 
 **Worked model (about 110 words):** Primary productivity is the rate at which producers build new organic material; biodiversity describes variation among organisms and their relationships. A rapidly growing single-species plantation in India can accumulate material quickly while offering fewer habitat and food options than a mixed native forest. Greater gross fixation may also be offset by greater producer respiration, so distinguish GPP from NPP before claiming more food reaches consumers. Yet low diversity cannot be deduced from productivity alone either: survey composition, regeneration, interactions and response to disturbance. The useful policy comparison is not “growth versus nature” in the abstract; it is whether the specific arrangement preserves the functions required by local communities and species.
 
-**Scoring note (10):** Definitions 3; causal counterexample 4; evidence/qualification 3.
+**Why this earns marks (10):** Definitions 3; causal counterexample 4; evidence/qualification 3.
 
 **15 marks / 250 words — Question:** Analyse the relationship between ecotones, habitat fragmentation and the interpretation of biodiversity indicators in India.
 
@@ -852,15 +870,15 @@ These are **new practice questions**, not past-paper quotations. Write first; on
 
 **Worked model (about 154 words):** An ecotone is a transition between ecological communities; some transitions contain species from both and show a local edge effect. This does not mean that every new forest edge is beneficial. A road across a Western Ghats forest can increase exposed border while reducing interior area, shade and organism movement. A roadside species count may consequently rise even if interior specialists decline and reproduction is disrupted. The opposing argument is that edge habitats can legitimately support useful species; they should not be dismissed as devoid of value. Compare interior and edge species, connectedness and the disturbance regime rather than treating either count as a whole-landscape verdict. Stratification within forest patches can maintain niche opportunities, but it cannot automatically repair severed corridors. Road design and cumulative impact assessment should test alignments and movement routes; manage the habitat mosaic according to observed function and seasonal use, not the single indicator “more species at the new edge”.
 
-**Scoring note (15):** Defined concepts 3; cause and Indian example 5; objection/reply 3; measurable planning 4.
+**Why this earns marks (15):** Defined concepts 3; cause and Indian example 5; objection/reply 3; measurable planning 4.
 
 **20 marks / 250 words — Question:** Evaluate ecosystem-based adaptation for a coastal district facing flood risk, livelihoods pressure and uncertain ecological data.
 
 **Attempt before reveal:** Link one structural element to several functions; address alternatives, monitoring and distributional costs.
 
-**Worked model (about 166 words):** Ecosystem-based adaptation protects processes that lower vulnerability while supporting livelihoods. In a Sundarbans-facing coastal district, connected mangroves and tidal creeks can provide fish nursery habitat, retain carbon and moderate some coastal impacts. Shoreline performance varies with site conditions and event strength; mangroves cannot replace evacuation or safe buildings. A fish-harvest measure reveals only provisioning benefit; flood buffering, nutrient processes and community ties also matter. MISHTI is a named restoration initiative, but its stated area ambition must not be presented as a verified protection outcome. A port or settlement may create substantial jobs; compare siting and alternatives, maintain tidal exchange and disclose who bears livelihood losses during restoration. Assess flood exposure, creek connectivity, native vegetation establishment, water quality and fish recruitment through repeated monitoring, using community knowledge alongside formal surveys. If data are scarce, report uncertainty and adopt reversible measures rather than inventing carbon or surge-reduction figures. Ecological function is one part of an adaptation portfolio, not a slogan or a substitute for engineering and social protection.
+**Worked model (about 205 words):** Ecosystem-based adaptation protects ecological processes that lower vulnerability while supporting livelihoods. In a Sundarbans-facing district, connected mangroves and tidal creeks can provide fish nursery habitat, store carbon and moderate some coastal impacts. Shoreline performance still varies with width, condition, geomorphology and event strength; mangroves cannot replace evacuation or safe buildings. India's adaptation- and resilience-related domestic spending rose to 5.6% of GDP in FY22, making allocation and outcome quality—not spending alone—the policy test. The National Coastal Mission links integrated coastal-zone management and climate-resilient infrastructure, while MISHTI supplies a restoration instrument. Its approximately 540 sq km scope, expected 22.8 million person-days and estimated 4.5-million-tonne carbon sink are programme projections. PIB separately reports 4,536 hectares restored in 2025 and 22,560 hectares identified for future work; neither area figure proves survival, retained carbon or cyclone-loss reduction. A port or settlement may create substantial jobs, so compare siting alternatives, maintain tidal exchange and disclose who bears livelihood costs. Monitor flood exposure, creek connectivity, native establishment, water quality and fish recruitment, combining community knowledge with formal surveys. Where evidence is weak, report uncertainty and use reversible measures. Ecosystem function is one part of an adaptation portfolio, not a substitute for engineering and social protection.
 
-**Scoring note (20):** Functional mechanism 5; competing development case 4; named policy with target caveat 3; monitoring and distribution 5; qualified judgement 3.
+**Why this earns marks (20):** Functional mechanism 5; competing development case 4; named policy with target caveat 3; monitoring and distribution 5; qualified judgement 3.
 
 # REMEDIATION
 
@@ -872,7 +890,7 @@ These are **new practice questions**, not past-paper quotations. Write first; on
 | “An organism has a trophic level based on its name.” | What does it actually eat in the printed question? |
 | “More canopy is proof of a healthy forest.” | What do composition, recruitment and disturbance recovery show? |
 | “A wetland removes any quantity of metals.” | Where do contaminants accumulate, and can conditions remobilise them? |
-| “A mangrove target has already buffered a cyclone.” | Is the figure an announced aim, implemented area or measured function? |
+| “A mangrove figure proves cyclone protection.” | Is it a target, expected co-benefit, restored area, identified future area or measured hazard outcome? |
 | “Carrying capacity is one permanent number.” | What pressure, place, period and regeneration assumptions changed? |
 
 # MASTER COMPARISON, CAUSAL AND ARGUMENT MAPS
@@ -929,19 +947,27 @@ conserve connections; qualify remaining uncertainty.
 
 ### Indian water, limits and adaptation
 
-- Oceans, freshwater and estuaries have different conditions but retain producer–consumer–decomposer and abiotic dependencies. Phytoplankton produce by photosynthesis; water contains dissolved oxygen, not biological production by water itself. Compare the oxygen *concentration* of water and air on the same volume basis; ordinary well-oxygenated water holds much less oxygen than air, with solubility varying by temperature, salinity and pressure.
-- Wetland vegetation, hydrology and microbes can retain sediments, process nutrients and support food webs; they do not make an unlimited heavy-metal sink. The June 2026 Ramsar designation records recognition, not a measured restoration.
+- Oceans, freshwater and estuaries have different conditions but retain producer–consumer–decomposer and abiotic dependencies. Oxygenic photosynthesis by phytoplankton, cyanobacteria and plants produces oxygen; water contains dissolved oxygen but does not itself photosynthesise. Compare the oxygen *concentration* of water and air on the same volume basis; ordinary well-oxygenated water holds much less oxygen than air, with solubility varying by temperature, salinity and pressure.
+- Wetland vegetation, hydrology and microbes can retain sediments, process nutrients and support food webs; they do not make an unlimited heavy-metal sink. The 5 June 2026 designation of Surha Tal as India's 100th Ramsar site **at that date** records recognition, not a measured restoration.
 - Sundarbans mangrove structure can support fish nurseries, carbon storage and limited coastal buffering; quantify only with site- and event-specific evidence.
 - Carrying capacity is conditional on regenerative supply, assimilation of wastes, consumption and management over time. The 2019 GS-III Q17 demand has **Define + Explain regional planning use**: map seasonal supplies and pollution loads, evaluate location and extraction choices, monitor indicators and revise limits; a concept definition alone misses its second directive.
 - MoEFCC policy, WII habitat ecology and BSI/ZSI surveys inform protected-area, forest and EIA decisions. Species inventory, designation and clearance are not proofs of function.
 
-### Valuation, stability and response
+### Core — services, resilience and indicator discipline
 
-- MEA services: provisioning, regulating, supporting, cultural. Avoid double-counting supporting processes already reflected in outputs; IPBES Nature's Contributions to People gives room to material, regulating, non-material and relational values.
-- MISHTI's cited restoration extent is a target, not an observed carbon or shoreline result; NPCA concerns aquatic conservation. Test hydrology, establishment and affected livelihoods.
+- MEA services: provisioning, regulating, supporting, cultural. Avoid double-counting supporting processes already reflected in outputs, and do not treat monetisation as the only valid appraisal method.
 - Resistance is limited change during a shock; resilience is recovery afterward. A diverse food web may buffer some losses but not a shared drought or disrupted foundational resource.
 - ISFR 2023 forest-and-tree-cover figure is dated extent, **8,27,357 sq km / 25.17%**, not native forest composition or measured health. A productive plantation is not automatically diverse or resilient.
 - Keystone influence, flagship appeal and umbrella-habitat benefits differ. Protect corridors and ecosystem processes rather than treating an isolated animal count as proof of recovery.
+
+### Advanced — policy instruments and current refinements
+
+- IPBES Nature's Contributions to People adds material, regulating, non-material and relational-value depth; it does not eliminate evidence, distribution or voice questions.
+- India's adaptation- and resilience-related domestic spending rose from **3.7% of GDP in FY16 to 5.6% in FY22**; this national spending estimate is not a site-level outcome.
+- The National Coastal Mission uses integrated coastal-zone management and climate-resilient infrastructure to reduce vulnerability to sea-level rise and extreme weather; NPCA supports wetland hydrology and vegetation for flood moderation and water security.
+- MISHTI's approximately **540 sq km** 2023–28 scope, expected **22.8 million person-days** and estimated **4.5-million-tonne carbon sink** are programme/projection figures, not audited ecological outcomes.
+- PIB, 7 April 2026, reports **4,536 hectares restored in 2025** and **22,560 hectares across 13 States/UTs identified for future work**. Restored and identified areas are not interchangeable, and neither alone proves survival, carbon retention or hazard reduction.
+- The neutral 2026 Prelims GS-I Q23 linkage concerns mangrove services for coastal climate resilience and livelihoods; Topic 24 retains detailed ownership, and the provisional key is not used here.
 - Examiner chain: disturbance → structural link lost → functional loss → affected people → appropriate indicator → governance option → uncertainty and residual risk.
 
 # COVERAGE MATRIX
@@ -953,19 +979,23 @@ conserve connections; qualify remaining uncertainty.
 | Basic §3 production, chains/webs, thermodynamics, decomposition, stratification | Lessons 2–6; cumulative checks |
 | Basic §4 institutions and protected-area/EIA bridge | Lesson 7; final 20-mark models |
 | Basic §§5–7 Sundarbans, Western Ghats, grassland, traps | Lessons 2, 4, 6–7; remediation |
-| Basic §§8–11 current baseline, Mains angles, carrying-capacity architecture | Lessons 6–7; final practice and register |
+| Basic §§8–11 ISFR evidence, ecosystem services, resilience, flagship analysis and Mains angles | Lessons 6–8 and Lesson 9 Part A; final practice and Core register blocks |
 | Basic §12 study links: cycles/pyramids, succession/biomes and biodiversity | Lesson 3 pyramid bridge; Lessons 1–2 organisation/biome distinctions; cross-topic limits stated in teaching |
-| Basic §13 demand decoder, evidence units and 10/15/20-mark spines | Lessons 1 and 7; lesson-local Mains practice; final 10/15/20-mark models |
-| Advanced §1 structure-loss → function-loss causal base | Lessons 1, 7 and 9; master causal map and final register notes |
-| Advanced §2 MEA/IPBES and §2A MISHTI, NPCA, coastal frame | Lesson 8; final 20-mark model |
-| Advanced §§3–6 stratification, productivity, resilience, data limits and tensions | Lessons 8–9; comparison map |
-| Advanced §§7–13 edge, niche, target-versus-result, governance, answer framework | Lessons 8–9; last register block |
-| Cross-topic Basic 02 §§1–3 and Advanced 02 §3: number, biomass and energy pyramids | Lesson 3 visual, comparison table, revision notes and first register block |
+| Basic §13 demand decoder, ecosystem-service architecture, ISFR/food-web evidence and 10/15/20-mark spines | Lessons 1, 7–8 and Lesson 9 Part A; lesson-local and final Mains models |
+| Advanced §1 structure-loss → function-loss policy diagnostic beyond the Basic thesis | Lesson 9 Part B; master causal map and Advanced register block |
+| Advanced §2 IPBES/NCP and valuation refinement | Lesson 9 Part B; Advanced register block |
+| Advanced §2A adaptation finance, National Coastal Mission, MISHTI, NPCA and coastal frame | Lesson 9 Part B; final 20-mark model and Advanced register block |
+| Advanced §§3–6 data limitations, implementation gaps and analytical tensions beyond the Basic-owned resilience/flagship core | Lesson 9 Part B; final model and comparison map |
+| Advanced §§7–13 current anchors, target-versus-result discipline, governance and answer framework | Lesson 9 Part B; final practice and Advanced register block |
+| `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md`, §§1–3, and `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md`, §3: number, biomass and energy pyramids | Lesson 3 visual, comparison table, revision notes and first register block |
 | Husain PDF pp. 145–147 ecosystem, spheres, ecotone, niche, feeding, dry biomass, life zone, aquatic/terrestrial | Lessons 1–6; terminology integrated with the core sequence |
+| Economic Survey 2025–26 PDF pp. 434–436 (printed pp. 383–385): adaptation spending, National Coastal Mission, MISHTI, NPCA and ecosystem-led adaptation | Lesson 9 Part B; final 20-mark model and Advanced register block |
+| PIB, *India's Green Pathway*, 7 April 2026, p. 6: 4,536 restored hectares and 22,560 identified hectares across 13 States/UTs | Lesson 9 Part B; remediation and Advanced register block |
 | 2019 GS-III Q17 and 2019 Prelims Q28 | Lessons 7 and 4; PYQ index |
 | 2021 Prelims Q22, Q26, Q28, Q30 | Lessons 3/6, 4/6, 5, 4; PYQ index |
 | 2022 Prelims Q43, Q90 | Lessons 6, 4; PYQ index |
 | 2024 Prelims Q18, Q28; 2025 Prelims Q40 | Lessons 4, 4, and the first-attempt checkpoint at the opening of Lesson 6; PYQ index |
+| 2026 Prelims GS-I Q23 cross-topic linkage; provisional key not used | Lessons 8 and 9 Part B; PYQ index and final 20-mark model; detailed ownership remains Topic 24 |
 
 # SOURCE LEDGER
 
@@ -973,13 +1003,13 @@ conserve connections; qualify remaining uncertainty.
 
 | Category | Status | Evidence or reason |
 |---|---|---|
-| Canonical Markdown | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\01_Ecosystem-Structure-and-Function.md`, legitimate §§1–13 read first; the unrelated material after the Topic 01 historical integration was excluded. Cross-topic pyramid detail came from `basic\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md`, §§1–3. |
+| Canonical Markdown | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\01_Ecosystem-Structure-and-Function.md`, legitimate §§1–13 read first; the unrelated material after the Topic 01 historical integration was excluded. Cross-topic pyramid detail came from `upsc-ai-kit\knowledge\Environment-and-Ecology\basic\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md`, §§1–3. |
 | Final learner package | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule |
-| Layered/complete session | not available | No Topic 01 permitted prior live session found; benchmark openings in Philosophy Optional 01, 06 and 07 consulted for teaching style only |
+| Layered/complete session | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\01_Ecosystem-Structure-and-Function_Complete-Topic-Package.md` was audited only as a bounded completeness check; it did not override the canonical Basic/Core or Advanced owners. Benchmark openings in Philosophy Optional 01, 06 and 07 were consulted for teaching style only. |
 | Solved workbook | not relevant | Permanently excluded from all live-session work by the governing source-exclusion rule |
-| Advanced dossier | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\01_Ecosystem-Structure-and-Function.md`, §§1–13 and historical PYQ integration; `advanced\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md`, §3 for pyramid qualifications |
-| OCR books | checked | `C:\Users\pulkitkundra\Downloads\pk-workspace\upsc-agent\books\Indian & World Geography - Husain, Majid_Compressed.pdf`, PDF pp. 145–147, selectable text extracted; p. 146 calls food-chain energy “non-directional,” contrary to physical energy flow: canonical unidirectional description controls |
-| PYQs through 2026 | checked | Audited PYQ records establish year, paper, question number and topic scope. Exact 2024 Q18/Q28 and 2025 Q40 wording/options were checked against local official Set-A PDFs; 2019 GS-III Q17 was checked against the local official paper. Exact 2019, 2021 and 2022 objective wording/options were cross-checked against question-numbered paper reproductions consistent with those records. No answer key, verdict or elimination mapping is reproduced. The audited 2026 PYQ record has no directly owned Topic 01 question. |
-| Official live sources | checked | Akashvani News (public broadcaster), 5 June 2026 designation report: https://newsonair.gov.in/pm-modi-welcomes-designation-of-surha-tal-as-indias-100th-ramsar-site/ ; no second current-affairs event was added |
+| Advanced dossier | checked | `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\01_Ecosystem-Structure-and-Function.md`, §§1–13 and historical PYQ integration; `upsc-ai-kit\knowledge\Environment-and-Ecology\advanced\02_Biogeochemical-Cycles-and-Ecological-Pyramids.md`, §3 for pyramid qualifications |
+| OCR books | checked | `books\Indian & World Geography - Husain, Majid_Compressed.pdf`, PDF pp. 145–147, and `books\economic-survey-2025-26.pdf`, PDF pp. 434–436 (printed pp. 383–385), were extracted directly. Husain p. 146 calls food-chain energy “non-directional,” contrary to physical energy flow, so the canonical unidirectional account controls; the Economic Survey supports the 5.6%-of-GDP adaptation-spending datum, National Coastal Mission role, MISHTI programme/projection figures and NPCA framing. |
+| PYQs through 2026 | checked | Routing was checked in `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2018-2023.md`, `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2024-2025.md`, `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2026.md`, `upsc-ai-kit\knowledge\_PYQ-ROUTING-MAINS-GS3-GS4-2018-2023.md` and `upsc-ai-kit\knowledge\PYQ-INTEGRATION-AUDIT-2026.md`. Exact wording/metadata were checked against local official `books\more_previous_papers\csp-p1.pdf` (2019 Prelims), `books\more_previous_papers\QP-CSP-21-GeneralStudiesPaper-I-121021.pdf` (2021 Prelims), `books\more_previous_papers\QP-CSM19-GeneralStudies-III.pdf` (2019 Mains), `books\prelima_question_paper_answers\2024-GS1-Set A.pdf` and `books\prelima_question_paper_answers\2025-GS1-Set A.pdf`. The 2022 Q43 and Q90 stems are from the official UPSC GS-I paper at https://www.upsc.gov.in/sites/default/files/GENERAL%20STUDIES%20PAPER%20I.pdf and are routed in `upsc-ai-kit\knowledge\_PYQ-ROUTING-PRELIMS-2018-2023.md`. The verified neutral 2026 Q23 demand overlaps this topic but is owned by Topic 24; the locally held Set-A key is provisional, and no answer letter, truth value or elimination mapping is reproduced. |
+| Official live sources | checked | Akashvani News, 5 June 2026, verifies Surha Tal/Jai Prakash Narayan Bird Sanctuary as India's 100th Ramsar site **at that date**: https://newsonair.gov.in/pm-modi-welcomes-designation-of-surha-tal-as-indias-100th-ramsar-site/ . PIB's ISFR 2023 release verifies 8,27,357 sq km and 25.17%: https://pib.gov.in/PressReleseDetailm.aspx?PRID=2086742 . PIB, *India's Green Pathway*, 7 April 2026, p. 6, verifies 4,536 hectares restored in 2025 and 22,560 hectares identified across 13 States/UTs for future work: https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/apr/doc202647841001.pdf . |
 
-**Evidence and uncertainty:** ✅ The cited knowledge files, extracted book pages, question papers and dated broadcaster report support the explicitly attributed definitions, PYQ wording, paper metadata and dated anchor. ⚠️ Food-web buffering, proposed disturbance chains, variable service delivery and policy recommendations are conceptual inferences that require local data to establish outcomes. The opening PYQ bank reproduces stems and choices without an answer key; the 2026 routing check does not prove that no other paper contains a related question. Older survey and Economic Survey references are background; no unverified recent ISFR edition, scheme achievement, taxonomic answer or global oxygen-production percentage has been supplied.
+**Evidence and uncertainty:** ✅ The cited knowledge files, extracted book pages, official question papers and dated government/public-broadcaster reports support the explicitly attributed definitions, PYQ wording, paper metadata, quantitative baselines and dated anchors. ⚠️ Food-web buffering, proposed disturbance chains, service delivery and policy recommendations remain site-dependent inferences. MISHTI's 4,536 hectares are reported restored area, whereas 22,560 hectares are identified for future work; the 540 sq km scope, 22.8 million person-days and 4.5-million-tonne sink remain programme/projection figures. The opening PYQ bank reproduces directly owned stems and choices without an answer key; the 2026 Q23 cross-topic row is neutral linkage metadata only, and its locally held key remains provisional. ISFR 2023 and the Economic Survey 2025–26 are dated sources, not proof of a newer site-level outcome; no taxonomic answer or unverified global oxygen-production percentage has been supplied.
