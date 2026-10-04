@@ -303,6 +303,7 @@
 | Geography | Topic 25 - Arctic or Polar Climate / India Cold Desert and Poles | 14 | 14,622 | `62882995b5ca` | [Geography/25-Arctic-Polar-Climate-India-Cold-Desert-and-Poles/Learning-Session-Live-Edition.md](Geography/25-Arctic-Polar-Climate-India-Cold-Desert-and-Poles/Learning-Session-Live-Edition.md) |
 | Geography | Topic 26 - World Population and Demographic Transition | 16 | 13,257 | `a634c5381962` | [Geography/26-World-Population-and-Demographic-Transition/Learning-Session-Live-Edition.md](Geography/26-World-Population-and-Demographic-Transition/Learning-Session-Live-Edition.md) |
 | Geography | Topic 27 - Migration Theories and Patterns (India) | 16 | 11,795 | `6f4d21380d77` | [Geography/27-Migration-Theories-and-Patterns-India/Learning-Session-Live-Edition.md](Geography/27-Migration-Theories-and-Patterns-India/Learning-Session-Live-Edition.md) |
+| Geography | Topic 28 - Human Settlements and Urbanisation | 15 | 14,442 | `47a0cb840eda` | [Geography/28-Human-Settlements-and-Urbanisation/Learning-Session-Live-Edition.md](Geography/28-Human-Settlements-and-Urbanisation/Learning-Session-Live-Edition.md) |
 
 ## Excluded
 
