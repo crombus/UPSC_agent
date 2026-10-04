@@ -1,0 +1,24 @@
+# Political Theory Mains-Focused Live Sessions
+
+These compact editions support GS-II, GS-IV and Essay preparation. Comprehensive master
+sessions remain indexed in `live_sessions\INDEX.md`.
+
+| Subject | Topic | Lessons | Words | SHA-256 | File |
+|---|---|---:|---:|---|---|
+| Political Theory Mains | Topic 01 - Nature and Significance of Political Theory | 10 | 28,705 | `fa65a76f5341` | [01-Nature-and-Significance-of-Political-Theory/Mains-Focused-Live-Edition.md](01-Nature-and-Significance-of-Political-Theory/Mains-Focused-Live-Edition.md) |
+| Political Theory Mains | Topic 02 - Ideology and End of Ideology | 11 | 38,953 | `e57b91d764fe` | [02-Ideology-and-End-of-Ideology/Mains-Focused-Live-Edition.md](02-Ideology-and-End-of-Ideology/Mains-Focused-Live-Edition.md) |
+| Political Theory Mains | Topic 03 - Liberalism and Neoliberalism | 10 | 27,458 | `94543027c181` | [03-Liberalism-and-Neoliberalism/Mains-Focused-Live-Edition.md](03-Liberalism-and-Neoliberalism/Mains-Focused-Live-Edition.md) |
+| Political Theory Mains | Topic 04 - Marxism and Neo-Marxism | 10 | 42,959 | `2c155eb4d043` | [04-Marxism-and-Neo-Marxism/Mains-Focused-Live-Edition.md](04-Marxism-and-Neo-Marxism/Mains-Focused-Live-Edition.md) |
+| Political Theory Mains | Topic 05 - Socialism, Fascism, Anarchism and Gandhism | 12 | 55,678 | `2e5e59c506cf` | [05-Socialism-Fascism-Anarchism-and-Gandhism/Mains-Focused-Live-Edition.md](05-Socialism-Fascism-Anarchism-and-Gandhism/Mains-Focused-Live-Edition.md) |
+| Political Theory Mains | Topic 06 - Feminism, Sex and Gender | 11 | 53,912 | `65a9dcc4496b` | [06-Feminism-Sex-and-Gender/Mains-Focused-Live-Edition.md](06-Feminism-Sex-and-Gender/Mains-Focused-Live-Edition.md) |
+| Political Theory Mains | Topic 07 - Nature of Politics and Communitarianism | 11 | 67,886 | `2df302150256` | [07-Nature-of-Politics-and-Communitarianism/Mains-Focused-Live-Edition.md](07-Nature-of-Politics-and-Communitarianism/Mains-Focused-Live-Edition.md) |
+| Political Theory Mains | Topic 14 - Political Obligation, Resistance and Law | 8 | 35,459 | `e3e57f5e0fec` | [14-Political-Obligation-Resistance-and-Law/Mains-Focused-Live-Edition.md](14-Political-Obligation-Resistance-and-Law/Mains-Focused-Live-Edition.md) |
+| Political Theory Mains | Topic 15 - Power, Authority and Legitimacy | 9 | 42,931 | `873b93be089c` | [15-Power-Authority-and-Legitimacy/Mains-Focused-Live-Edition.md](15-Power-Authority-and-Legitimacy/Mains-Focused-Live-Edition.md) |
+| Political Theory Mains | Topic 16 - Citizenship and Its Critiques | 12 | 41,359 | `b757d60af5d9` | [16-Citizenship-and-Its-Critiques/Mains-Focused-Live-Edition.md](16-Citizenship-and-Its-Critiques/Mains-Focused-Live-Edition.md) |
+| Political Theory Mains | Topic 17 - Human Rights, Civil Liberties and Democratic Rights | 12 | 61,361 | `bb19f80cbb05` | [17-Human-Rights-Civil-Liberties-and-Democratic-Rights/Mains-Focused-Live-Edition.md](17-Human-Rights-Civil-Liberties-and-Democratic-Rights/Mains-Focused-Live-Edition.md) |
+| Political Theory Mains | Topic 18 - Liberty, Equality and Property | 12 | 70,300 | `3152963c381f` | [18-Liberty-Equality-and-Property/Mains-Focused-Live-Edition.md](18-Liberty-Equality-and-Property/Mains-Focused-Live-Edition.md) |
+| Political Theory Mains | Topic 19 - Justice: Concepts and Dimensions | 10 | 48,479 | `5505667a6572` | [19-Justice-Concepts-and-Dimensions/Mains-Focused-Live-Edition.md](19-Justice-Concepts-and-Dimensions/Mains-Focused-Live-Edition.md) |
+| Political Theory Mains | Topic 20 - Diverse Perspectives on Justice | 11 | 54,540 | `800e5844075f` | [20-Diverse-Perspectives-on-Justice/Mains-Focused-Live-Edition.md](20-Diverse-Perspectives-on-Justice/Mains-Focused-Live-Edition.md) |
+| Political Theory Mains | Topic 21 - Common Good and Community | 10 | 52,941 | `ea6386f79b14` | [21-Common-Good-and-Community/Mains-Focused-Live-Edition.md](21-Common-Good-and-Community/Mains-Focused-Live-Edition.md) |
+| Political Theory Mains | Topic 22 - Democracy, Representation and Liberal Democracy | 10 | 59,296 | `05d37d26c7c6` | [22-Democracy-Representation-and-Liberal-Democracy/Mains-Focused-Live-Edition.md](22-Democracy-Representation-and-Liberal-Democracy/Mains-Focused-Live-Edition.md) |
+| Political Theory Mains | Topic 23 - Contemporary Democracy, Social Change and Development | 23 | 66,441 | `321a75237f1a` | [23-Contemporary-Democracy-Social-Change-and-Development/Mains-Focused-Live-Edition.md](23-Contemporary-Democracy-Social-Change-and-Development/Mains-Focused-Live-Edition.md) |

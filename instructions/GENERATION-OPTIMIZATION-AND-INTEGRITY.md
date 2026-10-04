@@ -153,7 +153,88 @@ The split is an execution optimization only. The final artifact must still satis
 all learner-first, no-skipping, no-compression, semantic-assessment, source, PYQ,
 Mains, hostile-audit and release requirements.
 
-For legacy Topic 35-and-earlier live sessions:
+## Consolidated-review optimization (approved 30 September 2026)
+
+Apply this optimization during every generation, review and repair pass. Its purpose is
+to reduce repeated review cycles by finding and fixing all discoverable defects together.
+It does not reduce semantic review, exact-hash control or release standards.
+
+1. **Front-load mechanical scans.** Before independent semantic review, run the
+   authoritative validator and targeted scans for:
+   - prohibited learner-facing process, source-routing and package language;
+   - PYQ quotation, marks, word-limit and answer-neutrality defects;
+   - missing coverage-matrix, register-note and source-ledger mappings;
+   - stale status dates, unsupported source paths and manifest defects;
+   - formatting, encoding, fence and whitespace failures.
+2. **Require one exhaustive first review.** The first independent exact-hash reviewer
+   must inspect the complete artifact across all review dimensions in one pass:
+   Core/Advanced/book coverage, doctrine, examples, objections and replies, PYQs,
+   current status, practice, register notes, coverage matrix, source ledger, process
+   leakage and formatting. The reviewer must report one consolidated numbered ledger
+   containing:
+   - every release blocker;
+   - every safe, source-supported advisory that can be repaired without changing the
+     frozen roadmap or approved scope;
+   - regression risks for each repair.
+   Reviewers must not intentionally defer a discoverable defect to a later cycle.
+3. **Repair blockers and safe advisories together.** Give the writer the complete
+   consolidated ledger once. The writer must fix every blocker and all compatible safe
+   advisories in the same bounded repair pass, then update all dependent lesson,
+   revision, practice, register, coverage and source locations so no stale formulation
+   remains.
+4. **Use direct micro-fixes for isolated defects.** When a reviewed hash has fewer than
+   five truly isolated textual defects and the correction is mechanically clear,
+   perform one direct surgical micro-fix instead of opening another long research or
+   generation cycle. The fixer must still reread the governing rules, preserve the
+   learner-first lock, recompute the hash, rerun the hostile self-audit and validator,
+   and obtain independent review of the new exact hash.
+5. **Keep rereview complete but focused.** The rereviewer must verify every supplied
+   correction and run a full regression sweep. A genuinely new critical defect still
+   blocks release; speed never permits ignoring it. However, the rereviewer must not
+   reopen settled stylistic preferences or promote a previously disclosed
+   non-source-supported preference into a blocker.
+6. **Maintain continuous capacity.** Keep two writer lanes occupied whenever eligible
+   generation or repair work exists, keep read-only roadmap audits several topics ahead,
+   and run independent read-only reviews in parallel where safe. Shared index, commit,
+   push and release operations remain strictly sequential.
+
+Every generation, repair and review prompt must explicitly invoke this consolidated-
+review optimization. A generic instruction to "optimize" is insufficient.
+
+## Strict bounded-repair execution lock (approved 2 October 2026)
+
+When independent review returns a finite blocker ledger, the repair pass is strictly
+limited to that ledger and its directly dependent locations. A repair writer must not
+turn a bounded correction into another generation, source audit or independent review.
+
+Apply all of the following:
+
+1. Reread the mandatory governing files and benchmark lessons once at the start of the
+   pass, as required. This reread is a compliance gate, not permission to reopen settled
+   research or repeat the completed semantic audit.
+2. Freeze the repair scope before editing: enumerate the supplied blockers, the exact
+   lesson or section locations affected, and the dependent revision, register, coverage
+   and source-ledger locations that must remain consistent.
+3. For fewer than five isolated defects, use one direct surgical micro-fix. Use the
+   evidence already identified by the reviewer and the minimum canonical or official
+   source needed to resolve a stated uncertainty.
+4. Do not perform broad repository searches, reread unrelated source units, pursue
+   optional enhancements, add decorative material, reopen settled findings or conduct
+   repeated hostile audits during the same repair pass.
+5. After the bounded edits, run one complete hostile regression sweep using deterministic
+   local checks where possible, run the authoritative validator once, compute the new
+   exact hash and report immediately. If a check fails because of the repair, correct
+   only that reported failure and rerun the failed check.
+6. Stop the repair pass after the required report. Fresh full semantic certification of
+   the new hash belongs to the separate independent reviewer, never to the repair writer.
+
+Elapsed time and tool calls must remain proportionate to the enumerated repair scope.
+Repeated scans or research without a newly identified release-blocking reason are a
+pipeline defect and must be stopped by the controller. This execution lock improves
+speed only; it does not weaken required rule rereads, no-skipping or no-compression,
+whole-file regression safety, exact-hash review or release gates.
+
+For existing released or explicitly preserved pre-rule legacy live sessions:
 
 - preserve exact `A -> B -> C -> D` key rotation;
 - show the complete question set before its answer and explanation block;
@@ -169,12 +250,13 @@ For legacy Topic 35-and-earlier live sessions:
 - inspect global rank distribution, extreme clustering and key/rank association;
 - rebalance semantically rather than padding option length.
 
-For Topic 36 onward live sessions, do not construct or audit a compiled MCQ corpus.
-Each lesson instead requires exactly one answer-free concept check, one concise model
-answer and one misconception-to-avoid note. Audit those three elements for conceptual
-correctness, lesson-local teachability, source fidelity and duplication. This
-forward-only trade-off removes option-balancing work from live sessions without
-reducing teaching, PYQ, Mains, remediation or separate-workbook requirements.
+For every newly generated live session, regardless of subject or topic number, do not
+construct or audit a compiled MCQ corpus. Each lesson instead requires exactly one
+answer-free concept check, one concise model answer and one misconception-to-avoid note.
+Audit those three elements for conceptual correctness, lesson-local teachability,
+source fidelity and duplication. Topic numbering alone never activates the legacy MCQ
+contract. This forward-only trade-off removes option-balancing work from live sessions
+without reducing teaching, PYQ, Mains, remediation or separate-workbook requirements.
 
 This live-session policy does not create, copy or relocate an MCQ corpus into a
 workbook during live-session generation. When a separate workbook is generated under

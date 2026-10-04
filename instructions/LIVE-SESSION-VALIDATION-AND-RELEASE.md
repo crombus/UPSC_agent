@@ -90,10 +90,10 @@ It checks:
 
 - continuous `## Lesson N` headings;
 - lesson-bounded progress lines, pre-teach checklists and visuals;
-- for Topic 36 onward, exactly one concept check, model answer and misconception note
-  in every lesson, with no compiled MCQ corpus;
-- for the frozen Topic 35-and-earlier legacy cycle, the existing local-MCQ count,
-  numbering, answer and explanation checks;
+- for every newly generated topic, exactly one concept check, model answer and
+  misconception note in every lesson, with no compiled MCQ corpus;
+- only for existing released or explicitly preserved pre-rule legacy artifacts, the
+  existing local-MCQ count, numbering, answer and explanation checks;
 - exact final H1 arc;
 - prohibited wording and package-language leakage;
 - balanced fences, trailing whitespace and final newline;
@@ -118,8 +118,8 @@ python tools\validate_live_session.py <topic-markdown> `
   --allow-legacy-keyed-mcq-headings
 ```
 
-This exception applies only to pre-rule artifacts. It must not be used for a session
-generated after 28 September 2026, and it must never be used for Topic 36 onward.
+This exception applies only to explicitly preserved pre-rule artifacts. It must not be
+used for any newly generated session, regardless of subject or topic number.
 
 ## Fail-fast release
 

@@ -695,11 +695,13 @@ Follow the original Indian Philosophy file-generation workflow:
 4. Every lesson inside the file must independently follow the Required Lesson
    Structure below and contain its own practice. Do not postpone all practice to the
    final lesson.
-5. For Modern Indian History Topic 36 and every later live-session topic, include one
-   concise answer-free concept check, model answer and misconception note in every
-   lesson. Do not include a compiled four-option MCQ corpus in the live-session file;
-   hard Prelims MCQs and option-elimination practice belong in the learner's separate
-   workbook. Topics 35 and earlier retain their already-frozen MCQ contract.
+5. For every newly generated live-session topic, regardless of subject or topic number,
+   include one concise answer-free concept check, model answer and misconception note in
+   every lesson. Do not include a compiled four-option MCQ corpus in the live-session
+   file; hard Prelims MCQs and option-elimination practice belong in the learner's
+   separate workbook. Existing released sessions and explicitly preserved pre-rule
+   repair artifacts retain their frozen MCQ contract; topic numbering alone never
+   activates the legacy contract.
 6. Include every directly owned verified PYQ through 2026 as a year/question linkage
    with directive, demand and concise answer approach, mapped to the lesson where its
    concepts are taught. Do not include its solved model answer in the live-session file
@@ -843,8 +845,10 @@ truthfully when no meaningful recent linkage exists.
     - mnemonics only where they genuinely aid recall.
 
 12. **Practice**
-    - Topic 36 onward: one concept check, concise model answer and misconception note;
-    - Topic 35 and earlier: the frozen lesson-local MCQ contract;
+    - every newly generated topic: one concept check, concise model answer and
+      misconception note;
+    - only existing released or explicitly preserved pre-rule repair artifacts: the
+      frozen legacy MCQ contract;
     - Mains questions and model answers;
     - relevant PYQ year/question linkage, demand and answer approach without a solved
       model answer.
@@ -878,7 +882,7 @@ truthfully when no meaningful recent linkage exists.
 
 ## Practice Rules
 
-### Topic 36 onward: concept-check mode
+### New generation: concept-check mode
 
 - Include exactly one learner-facing concept check in every lesson after the teaching,
   revision notes and UPSC application.
@@ -901,19 +905,20 @@ truthfully when no meaningful recent linkage exists.
 - The misconception note replaces lesson-local remedial distractor engineering.
 - Add cumulative concept checks after major blocks and in the final synthesis.
 - Do not include four-option MCQs, answer-key rotation, distractor balancing or
-  option-by-option explanations in Topic 36 onward live-session files.
+  option-by-option explanations in any newly generated live-session file.
 - Preserve full hard MCQ and option-elimination practice in the separate workbook
   workflow; removing it from the live session does not reduce workbook requirements.
 - Do not ask the learner to answer live unless test mode is explicitly requested.
 - Complete and validate the entire topic file before accepting `Next` to a new topic.
 
-### Legacy boundary: Topic 35 and earlier
+### Legacy boundary: existing pre-rule artifacts only
 
-- Existing released sessions and the already-frozen Topic 34-35 repair/release cycle
-  retain their MCQ structure and validation contract.
-- The legacy compatibility flag must not be used to introduce a new MCQ corpus into
-  Topic 36 or any later topic.
-- Do not retrofit Topics 35 and earlier solely to adopt concept-check mode.
+- Existing released sessions and an explicitly preserved pre-rule repair/release
+  artifact may retain their MCQ structure and validation contract.
+- Topic number does not create legacy status. A newly generated lower-numbered topic
+  must use concept-check mode.
+- The legacy compatibility flag must never introduce a new MCQ corpus.
+- Do not retrofit already released artifacts solely to adopt concept-check mode.
 - Mains practice in every mode must include 10-, 15- and 20-mark questions with
   complete model answers.
 
