@@ -42,13 +42,14 @@ hazardous waste streams) have struggled to replicate.
 |---|---|
 | ✅ Original Montreal Protocol, 1987 | Annex A controlled specified CFCs (Group I) and halons (Group II). |
 | ✅ London Amendment, adopted 29 June 1990; in force 10 August 1992 | Added Annex B: other fully halogenated CFCs, carbon tetrachloride and 1,1,1-trichloroethane (methyl chloroform); added the Article 10 financial mechanism including the Multilateral Fund. |
-| ✅ Later ODS architecture | Annex C contains transitional substances including HCFCs; Annex E controls methyl bromide. Later amendments and adjustments tightened or expanded ODS controls. |
-| ✅ Kigali Amendment, 2016 | Added Annex F HFCs, controlled in CO2-equivalent production and consumption through differentiated phase-down schedules. HFCs are generally not ODS. |
+| ✅ Later ODS architecture | Annex C Group I contains HCFCs, Group II hydrobromofluorocarbons (HBFCs), and Group III bromochloromethane; Annex E controls methyl bromide. Groups I-III are governed by distinct control articles and schedules, not one common Annex C timetable. |
+| ✅ Kigali Amendment, 2016 | Added Annex F Group I HFCs and Group II HFC-23, controlled in CO2-equivalent production and consumption through differentiated phase-down schedules. HFC-23 also has specific by-product-emissions controls under Article 2J. HFCs are generally not ODS. |
 
 The correct legal contrast is therefore **ODS phase-out under Montreal's ODS annexes** versus
 **HFC phase-down under Kigali's Annex F**. “Controlled substance” is an annex-defined legal
-category; it does not mean that every listed substance has the same chemical property or reaches
-zero on the same date.
+category; it does not mean that every listed substance has the same chemical property, control
+article or timetable. In particular, Annex C Groups I, II and III must not be collapsed into the
+HCFC schedule.
 
 ## 3. Basel Convention: the Ban Amendment and its incomplete ratification story
 
@@ -110,10 +111,11 @@ zero on the same date.
 ## 5. The Kigali Amendment as an institutional case study in adaptive treaty design
 
 - ✅ HFCs were adopted as ozone-safe substitutes during the ODS transition, but their high
-  Global Warming Potential created a growing climate concern. Kigali therefore added them to
-  Annex F and controls aggregate production and consumption in CO2 equivalents through
-  differentiated **phase-down** schedules; it does not classify HFCs as ozone-depleting or
-  require universal elimination.
+  Global Warming Potential created a growing climate concern. Kigali therefore added **Annex F
+  Group I HFCs and Group II HFC-23** and controls aggregate production and consumption in CO2
+  equivalents through differentiated **phase-down** schedules. Article 2J separately addresses
+  destruction, to the extent practicable, of specified HFC-23 by-product emissions; Kigali does
+  not classify HFCs as ozone-depleting or require universal elimination.
 - ⚠️ **Analytical significance:** the Kigali Amendment is frequently cited as a model for
   "using working institutions to solve related problems" — since the Montreal Protocol
   already had a proven compliance/finance architecture, extending its mandate to HFCs was
@@ -152,6 +154,10 @@ zero on the same date.
 - ✅ The London Amendment was adopted on **29 June 1990**, entered into force on **10 August
   1992**, added Annex B controlled substances and established the Article 10 financial
   mechanism that includes the Multilateral Fund.
+- ✅ Annex C is internally divided: Group I HCFCs, Group II HBFCs and Group III
+  bromochloromethane. Their control articles and schedules are distinct.
+- ✅ Annex F is also grouped: Group I contains the listed HFCs and Group II contains HFC-23;
+  Kigali's phase-down and Article 2J's HFC-23 emissions provisions must both be recognised.
 - ✅ The Basel Ban Amendment operates from accepting **Annex VII Parties to non-Annex VII
   States**. The final-disposal and recovery limbs have distinct waste wording.
 - ✅ Stockholm's POPRC applies Annex D/E/F review before a COP listing decision; Rotterdam's
@@ -272,6 +278,11 @@ conventions like the CBD.
   <https://ozone.unep.org/treaties/montreal-protocol/amendments/london-amendment-1990-amendment-montreal-protocol-agreed>,
   <https://ozone.unep.org/treaties/montreal-protocol/articles/article-10-financial-mechanism>
   and <https://ozone.unep.org/treaties/montreal-protocol/annex-f-hydrofluorocarbons>.
+- Controlled-substance annex text:
+  <https://ozone.unep.org/treaties/annex-c-group-ii-hbfcs>,
+  <https://ozone.unep.org/treaties/montreal-protocol/annex-c-group-iii-bromochloromethane>
+  and
+  <https://ozone.unep.org/treaties/montreal-protocol/articles/annex-f-controlled-substances>.
 - Current Montreal meeting records:
   <https://ozone.unep.org/sites/default/files/2026-01/Letter%20to%20parties_MOP37%20decisions.pdf>,
   <https://ozone.unep.org/system/files/documents/ExMOP-6-3E.pdf> and

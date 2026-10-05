@@ -43,7 +43,7 @@ precise, non-overlapping identification of each convention's specific scope.
 | ✅ **Stockholm Convention (2001)** | Controls POPs through a staged process: Annex D screening, Annex E risk profile and Annex F risk-management evaluation by the POPs Review Committee (POPRC), followed by a COP decision. **Annex A** requires elimination subject to listed specific exemptions; **Annex B** restricts production/use to acceptable purposes or exemptions (DDT is the standard example); **Annex C** requires reduction and, where feasible, ultimate elimination of unintentional releases such as dioxins and furans. |
 | ✅ **Vienna Convention (1985) and Montreal Protocol (1987)** | Vienna is the ozone-science/cooperation framework; Montreal is the operative protocol controlling treaty-defined production and consumption. The original **Annex A** covered specified CFCs and halons. Later amendments added further controlled groups and stronger institutions. |
 | ✅ **London Amendment (1990)** | Adopted on **29 June 1990** and in force from **10 August 1992**. It added **Annex B** controls for other fully halogenated CFCs, carbon tetrachloride and 1,1,1-trichloroethane (methyl chloroform), and established the Article 10 financial mechanism that includes the **Multilateral Fund** for agreed incremental compliance costs of eligible Article 5 Parties. |
-| ✅ **Kigali Amendment (2016, to the Montreal Protocol)** | Added **Annex F HFCs** and differentiated production/consumption **phase-down** schedules. HFCs are potent greenhouse gases but generally not ozone-depleting; Kigali does not convert them into ODS or require a universal zero phase-out. |
+| ✅ **Kigali Amendment (2016, to the Montreal Protocol)** | Added **Annex F Group I HFCs** and **Group II HFC-23** and differentiated production/consumption **phase-down** controls expressed in CO2 equivalents. HFCs are potent greenhouse gases but generally not ozone-depleting; Kigali does not convert them into ODS or require a universal zero phase-out. |
 
 ## 3. Topic mechanism
 
@@ -66,15 +66,18 @@ precise, non-overlapping identification of each convention's specific scope.
    whether specific exemptions or acceptable purposes apply. Scientific concern alone does not
    create an operative listing.
 5. Montreal set binding schedules for treaty-defined production and consumption of controlled
-   ODS. Its annex architecture developed from Annex A CFCs/halons through the London Amendment's
-   Annex B substances and later controls including Annex C HCFCs and Annex E methyl bromide.
-   The London Amendment also supplied the Article 10 financial mechanism and Multilateral Fund,
-   pairing differentiated schedules with finance and technology.
+   ODS. Its architecture developed from Annex A CFCs/halons through the London Amendment's
+   Annex B substances and later controls: **Annex C Group I HCFCs, Group II
+   hydrobromofluorocarbons (HBFCs), Group III bromochloromethane**, and Annex E methyl bromide.
+   These Annex C groups have separate control articles and timetables; their common annex location
+   does not create one shared schedule. The London Amendment also supplied the Article 10
+   financial mechanism and Multilateral Fund.
 6. The Montreal Protocol's Kigali Amendment (2016) extended its regulatory reach to
    hydrofluorocarbons (HFCs) — chemicals that were originally adopted as ozone-safe
-   replacements for ODS but are themselves potent greenhouse gases. Kigali added Annex F and a
-   **phase-down**, not the ODS phase-out architecture, illustrating how an existing institution
-   can address a related but legally distinct climate problem.
+   replacements for ODS but are themselves potent greenhouse gases. Kigali added **Annex F Group
+   I HFCs and Group II HFC-23** and a **phase-down**, not the ODS phase-out architecture. HFC-23
+   also has specific by-product-emissions controls under Article 2J; group placement must not be
+   read as identical use or emissions rules for every HFC.
 
 ## 4. Institutions and policy tools
 
@@ -146,8 +149,12 @@ precise, non-overlapping identification of each convention's specific scope.
   1992**, added Annex B controlled substances and the Article 10 financial mechanism including
   the Multilateral Fund.
 - ✅ Montreal's controlled-substance map is: Annex A CFCs/halons; Annex B other fully
-  halogenated CFCs, carbon tetrachloride and methyl chloroform; Annex C includes HCFCs; Annex E
-  covers methyl bromide; Kigali's Annex F covers HFCs.
+  halogenated CFCs, carbon tetrachloride and methyl chloroform; Annex C Group I HCFCs, Group II
+  HBFCs and Group III bromochloromethane; Annex E methyl bromide; Annex F Group I HFCs and Group
+  II HFC-23.
+- ✅ Annex C Groups I-III have distinct control articles and schedules. Kigali applies an
+  Annex F HFC phase-down, while Article 2J also contains specific HFC-23 by-product-emissions
+  provisions.
 - ✅ Under Kigali, developing countries phase HFCs **down** (not out) on differentiated
   schedules; India is in the later of the two developing-country groups. ⚠️ Verify India's
   exact baseline years, freeze year and step-down percentages against the Ozone Secretariat
@@ -287,6 +294,11 @@ different statuses.
   <https://ozone.unep.org/treaties/montreal-protocol/amendments/london-amendment-1990-amendment-montreal-protocol-agreed>,
   <https://ozone.unep.org/treaties/montreal-protocol/articles/article-10-financial-mechanism>
   and <https://ozone.unep.org/treaties/montreal-protocol/annex-f-hydrofluorocarbons>.
+- Ozone Secretariat controlled-substance annex text:
+  <https://ozone.unep.org/treaties/annex-c-group-ii-hbfcs>,
+  <https://ozone.unep.org/treaties/montreal-protocol/annex-c-group-iii-bromochloromethane>
+  and
+  <https://ozone.unep.org/treaties/montreal-protocol/articles/annex-f-controlled-substances>.
 
 ## 13. Core answer architecture (10/15/20-mark support)
 
